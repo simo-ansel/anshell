@@ -1,0 +1,152 @@
+[
+    {
+        "titolo": "American Psycho",
+        "immagine": "../images/americanpsycho.jpg",
+        "data": "2000",
+        "trama": "Patrick Bateman, un giovane e ricco uomo d'affari di New York negli anni '80, conduce una doppia vita come serial killer. Un'esplorazione inquietante e satirica della superficialità e del consumismo nella società moderna.",
+        "autore": "Mary Harron",
+        "genere": ["Thriller", "Horror", "Satira"],
+        "valutazione": 7.6,
+        "trailer": "https://www.youtube.com/embed/5N1tkg4eqkA"
+    },
+    {
+        "titolo": "Arancia Meccanica",
+        "immagine": "../images/arancia_meccanica.jpg",
+        "data": "1971",
+        "trama": "Alex DeLarge, un giovane amante della violenza e della musica classica, guida la sua banda in una serie di crimini efferati. Arrestato e sottoposto a un controverso trattamento di condizionamento psicologico, la sua storia solleva domande profonde sulla moralità, il libero arbitrio e la natura umana.",
+        "autore": "Anthony Burgess (romanzo), Stanley Kubrick (film)",
+        "genere": ["Drammatico", "Thriller", "Fantascienza"],
+        "valutazione": 8.3,
+        "opening": "https://www.youtube.com/watch?v=SPRzm8ibDQ8"
+    },
+    {
+        "titolo": "Django Unchained",
+        "immagine": "../images/django_unchained.jpg",
+        "data": "2012",
+        "trama": "Un ex schiavo di nome Django fa squadra con un cacciatore di taglie per liberare sua moglie da un crudele proprietario terriero. Un western moderno che mescola violenza, dramma e umorismo in stile Tarantino.",
+        "autore": "Quentin Tarantino",
+        "genere": ["Western", "Drammatico", "Azione"],
+        "valutazione": 8.4,
+        "trailer": "https://www.youtube.com/embed/7pBfWJkXtsI"
+    },
+    {
+        "titolo": "Full Metal Jacket",
+        "immagine": "../images/full_metal_jacket.jpg",
+        "data": "1987",
+        "trama": "Un crudo e realistico racconto della guerra del Vietnam, che segue il percorso di un gruppo di giovani reclute, dalla brutale formazione all'inferno del fronte. Un'opera cinematografica iconica e spietata.",
+        "autore": "Stanley Kubrick",
+        "genere": ["Guerra", "Drammatico"],
+        "valutazione": 8.3,
+        "trailer": "https://www.youtube.com/embed/n2i917l5RFc"
+    },
+    {
+        "titolo": "Ghost in the Shell",
+        "immagine": "../images/ghost_in_the_shell.jpg",
+        "data": "1995",
+        "trama": "In un futuro cyberpunk, il maggiore Motoko Kusanagi, un cyborg al servizio della sezione di sicurezza pubblica, indaga su un hacker noto come 'Il Burattinaio'. Un'esplorazione filosofica sull'identità e la tecnologia.",
+        "autore": "Mamoru Oshii",
+        "genere": ["Animazione", "Fantascienza", "Cyberpunk"],
+        "valutazione": 8.0,
+        "trailer": "https://www.youtube.com/embed/oP2Pt6m3yKU"
+    },
+    {
+        "titolo": "Giorno di ordinaria follia",
+        "immagine": "../images/giorno_ordinaria_follia.jpg",
+        "data": "1993",
+        "trama": "Un uomo, sopraffatto dalla frustrazione quotidiana, inizia una serie di eventi violenti mentre attraversa Los Angeles per vedere sua figlia. Un dramma intenso che esplora le pressioni della vita moderna.",
+        "autore": "Joel Schumacher",
+        "genere": ["Drammatico", "Thriller"],
+        "valutazione": 7.6,
+        "trailer": "https://www.youtube.com/embed/-eREiQhBDIk"
+    },
+    {
+        "titolo": "Il Derattizzatore",
+        "immagine": "../images/il_derattizzatore.jpg",
+        "data": "2023",
+        "trama": "Nel cortometraggio diretto da Wes Anderson, basato sul racconto di Roald Dahl, il protagonista è un uomo che svolge il lavoro di derattizzatore, ma scopre che la sua professione nasconde un segreto più oscuro e inquietante. Con uno stile visivo unico e una narrazione che mescola umorismo nero e tensione, il corto esplora la paranoia, la follia e l'inevitabilità del destino, mentre il derattizzatore si trova ad affrontare le conseguenze delle sue azioni.",
+        "autore": "Wes Anderson (regia), basato sul racconto di Roald Dahl",
+        "genere": ["Commedia", "Thriller", "Psicologico"],
+        "valutazione": 7.8,
+        "opening": "https://www.youtube.com/watch?v=examplelink"
+    },
+    {
+        "titolo": "La meravigliosa storia di Henry Sugar",
+        "immagine": "../images/henry_sugar.jpg",
+        "data": "2023",
+        "trama": "Nel cortometraggio diretto da Wes Anderson, basato sul racconto di Roald Dahl, Henry Sugar, un uomo ricco e disilluso, scopre il segreto di un yogi che ha la straordinaria abilità di vedere attraverso gli oggetti. Determinato a imparare questa abilità per trarne profitto, Henry intraprende un viaggio che lo porterà a una trasformazione inaspettata. Il corto, con uno stile visivo unico, esplora temi di avidità, spiritualità e redenzione.",
+        "autore": "Wes Anderson (regia), basato sul racconto di Roald Dahl",
+        "genere": ["Commedia", "Fantastico", "Drammatico"],
+        "valutazione": 8.0,
+        "opening": "https://www.youtube.com/watch?v=examplelink"
+    },
+    {
+        "titolo": "Le Iene",
+        "immagine": "../images/le_iene.jpg",
+        "data": "1992",
+        "trama": "Un gruppo di ladri, dopo un fallito colpo, si trova intrappolato in un gioco di tradimenti e violenza. Il film segna l'inizio dello stile inconfondibile di Quentin Tarantino, con dialoghi serrati e una narrazione non lineare.",
+        "autore": "Quentin Tarantino",
+        "genere": ["Crime", "Thriller", "Giallo"],
+        "valutazione": 8.6,
+        "trailer": "https://www.youtube.com/embed/q5VZGgH1yRI"
+    },
+    {
+        "titolo": "Mars Attacks!",
+        "immagine": "../images/mars_attacks.jpg",
+        "data": "1996",
+        "trama": "Una parodia sci-fi comica che racconta l'invasione della Terra da parte di alieni malintenzionati. Il film è un mix di umorismo surreale e satira, con una serie di personaggi eccentrici e un cast stellare.",
+        "autore": "Tim Burton",
+        "genere": ["Commedia", "Sci-Fi", "Parodia"],
+        "valutazione": 6.4,
+        "trailer": "https://www.youtube.com/embed/2Sc42kTpQqI"
+    },
+    {
+        "titolo": "Pulp Fiction",
+        "immagine": "../images/pulp_fiction.jpg",
+        "data": "1994",
+        "trama": "Una serie di storie intrecciate che ruotano attorno a personaggi coinvolti in criminalità, vendetta e riscatto. Con la sua struttura non lineare e i dialoghi brillanti, il film è diventato un cult del cinema contemporaneo.",
+        "autore": "Quentin Tarantino",
+        "genere": ["Crime", "Thriller", "Drammatico"],
+        "valutazione": 8.9,
+        "trailer": "https://www.youtube.com/embed/s7EdQ4FqbhY"
+    },
+    {
+        "titolo": "Redline",
+        "immagine": "../images/redline.jpg",
+        "data": "2009",
+        "trama": "Un futuristico e folle evento di corse intergalattiche vede il pilota JP affrontare pericolose competizioni su un pianeta ostile, tra rivalità, adrenalina e incredibili scene di animazione.",
+        "autore": "Takeshi Koike",
+        "genere": ["Animation", "Action", "Sci-Fi"],
+        "valutazione": 8.1,
+        "trailer": "https://www.youtube.com/embed/hS4ysciW8Us"
+    },
+    {
+        "titolo": "Taxi Driver",
+        "immagine": "../images/taxi_driver.jpg",
+        "data": "1976",
+        "trama": "Travis Bickle, un reduce del Vietnam solitario e alienato, lavora come tassista notturno a New York. La sua discesa nella follia culmina in un piano per salvare una giovane prostituta. Un capolavoro che esplora il disagio urbano e la psiche umana.",
+        "autore": "Martin Scorsese",
+        "genere": ["Drammatico", "Crime", "Psychological"],
+        "valutazione": 8.2,
+        "trailer": "https://www.youtube.com/embed/8Ti6j_yWkT4"
+    },
+    {
+        "titolo": "The Lincoln Lawyer",
+        "immagine": "../images/lincoln_lawyer.jpg",
+        "data": "2011",
+        "trama": "Un avvocataccio di Los Angeles, Mickey Haller, si trova a difendere un cliente accusato di tentato omicidio, ma presto si rende conto che le cose non sono come sembrano. Un thriller legale avvincente e ricco di colpi di scena.",
+        "autore": "Brad Furman",
+        "genere": ["Thriller", "Crime", "Drammatico"],
+        "valutazione": 7.3,
+        "trailer": "https://www.youtube.com/embed/mCXTsi75gFE"
+    },
+    {
+        "titolo": "Veleno",
+        "immagine": "../images/veleno.jpg",
+        "data": "2023",
+        "trama": "Nel cortometraggio diretto da Wes Anderson, basato sul racconto di Roald Dahl, un uomo si sveglia con un serpente velenoso che si è insinuato sotto le coperte, accanto al suo corpo. Mentre la paura e la tensione aumentano, la situazione sembra sfuggire di mano, rivelando più segreti e inquietudini di quanto il protagonista si fosse immaginato. Con uno stile visivo distintivo e una narrazione concisa, il corto esplora temi di paura, paranoia e la reazione umana alla minaccia di morte imminente.",
+        "autore": "Wes Anderson (regia), basato sul racconto di Roald Dahl",
+        "genere": ["Thriller", "Commedia nera", "Psicologico"],
+        "valutazione": 7.9,
+        "opening": "https://www.youtube.com/watch?v=examplelink"
+    }
+]

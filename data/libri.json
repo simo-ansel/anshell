@@ -1,0 +1,154 @@
+[
+    {
+        "titolo": "Come trattare gli altri e farseli amici",
+        "immagine": "../images/come_trattare_gli_altri_e_farseli_amici.jpg",
+        "data": "1936",
+        "trama": "Un manuale pratico di comunicazione e relazioni interpersonali che offre consigli su come influenzare gli altri in modo positivo, basato sull'esperienza dell'autore nel campo delle vendite e delle relazioni umane.",
+        "autore": "Dale Carnegie",
+        "genere": [
+            "Autosviluppo", "Psicologia", "Relazioni"
+        ],
+        "valutazione": 9.0
+    },
+    {
+        "titolo": "Così parlò Zarathustra",
+        "immagine": "../images/cosi_parlo_zarathustra.jpg",
+        "data": "1883",
+        "trama": "Un'opera filosofica di Friedrich Nietzsche che esplora temi come l'oltreuomo, la morte di Dio e la volontà di potenza, presentata attraverso i discorsi e gli insegnamenti di Zarathustra.",
+        "autore": "Friedrich Nietzsche",
+        "genere": [
+            "Filosofia", "Poesia", "Letteratura"
+        ],
+        "valutazione": 8.7
+    },
+    {
+        "titolo": "Devilman",
+        "immagine": "../images/devilman.jpg",
+        "data": "1972",
+        "trama": "La storia segue Akira Fudo, un giovane che si fonde con un potente demone per proteggere l'umanità da un'invasione demoniaca. Attraverso una narrazione intensa e drammatica, vengono esplorati temi di sacrificio, amore e l'eterna lotta tra bene e male.",
+        "autore": "Go Nagai",
+        "genere": [
+            "Horror", "Azione", "Fantascienza"
+        ],
+        "valutazione": 9.5
+    },    
+    {
+        "titolo": "Fahrenheit 451",
+        "immagine": "../images/fahrenheit_451.jpg",
+        "data": "1953",
+        "trama": "Un romanzo distopico che esplora una società futura in cui i libri sono vietati e bruciati dai vigili del fuoco. Il protagonista, Guy Montag, è un pompiere che inizia a mettere in discussione il suo ruolo in questa società opprimente.",
+        "autore": "Ray Bradbury",
+        "genere": [
+            "Distopia", "Fantascienza", "Romanzo"
+        ],
+        "valutazione": 9.1
+    },
+    {
+        "titolo": "Guida galattica per autostoppisti",
+        "immagine": "../images/guida_galattica_per_autostoppisti.jpg",
+        "data": "1979",
+        "trama": "Una commedia di fantascienza che segue Arthur Dent, un terrestre che, dopo la distruzione della Terra, intraprende un viaggio nello spazio grazie alla Guida galattica, un libro che fornisce consigli e risposte surreali a tutte le domande dell'universo.",
+        "autore": "Douglas Adams",
+        "genere": [
+            "Fantascienza", "Commedia", "Avventura"
+        ],
+        "valutazione": 9.3
+    },    
+    {
+        "titolo": "I fiori del male",
+        "immagine": "../images/i_fiori_del_male.jpg",
+        "data": "1857",
+        "trama": "Una raccolta di poesie di Charles Baudelaire che esplora il conflitto tra il desiderio e la decadenza, la bellezza e la corruzione, affrontando temi di passione, morte e trasgressione, ed è considerata una delle opere fondamentali della poesia moderna.",
+        "autore": "Charles Baudelaire",
+        "genere": [
+            "Poesia", "Classico", "Simbolismo"
+        ],
+        "valutazione": 9.2
+    },    
+    {
+        "titolo": "Mela Meccanica",
+        "immagine": "../images/mela_meccanica.jpg",
+        "data": "1970",
+        "trama": "In un mondo satirico e distopico, Osamu Tezuka esplora temi filosofici e sociali attraverso una serie di racconti interconnessi che ruotano attorno alla 'Mela Meccanica', simbolo dell'evoluzione e della contraddizione umana.",
+        "autore": "Osamu Tezuka",
+        "genere": ["Fantascienza", "Satira", "Drammatico"],
+        "valutazione": 8.1
+    },  
+    {
+        "titolo": "L'arte di essere felici",
+        "immagine": "../images/l_arte_di_essere_felici.jpg",
+        "data": "1822",
+        "trama": "Una raccolta di pensieri e riflessioni filosofiche di Arthur Schopenhauer sul raggiungimento della felicità e sulla gestione delle difficoltà della vita, attraverso una visione pragmatica e realista.",
+        "autore": "Arthur Schopenhauer",
+        "genere": [
+            "Filosofia", "Autosviluppo", "Classico"
+        ],
+        "valutazione": 8.8
+    },      
+    {
+        "titolo": "L'interpretazione dei sogni",
+        "immagine": "../images/l_interpretazione_dei_sogni.jpg",
+        "data": "1900",
+        "trama": "Un'opera fondamentale di Sigmund Freud che esplora la psicoanalisi e la teoria dei sogni, offrendo una nuova comprensione dei significati nascosti dei sogni e della psiche umana.",
+        "autore": "Sigmund Freud",
+        "genere": [
+            "Psicologia", "Filosofia", "Saggistica"
+        ],
+        "valutazione": 9.2
+    },
+    {
+        "titolo": "L'uomo più ricco di Babilonia",
+        "immagine": "../images/l_uomo_piu_ricco_di_babilonia.jpg",
+        "data": "1926",
+        "trama": "Un classico della letteratura finanziaria che offre lezioni di economia e gestione del denaro attraverso le storie di Babilonia, una delle città più ricche e potenti del mondo antico.",
+        "autore": "George S. Clason",
+        "genere": [
+            "Finanza", "Autosviluppo", "Motivazionale"
+        ],
+        "valutazione": 8.5
+    },
+    {
+        "titolo": "One Piece",
+        "immagine": "../images/one_piece.jpg",
+        "data": "1997",
+        "trama": "La serie segue le avventure di Monkey D. Luffy, un giovane pirata che sogna di diventare il Re dei Pirati. Con la sua ciurma, esplora mari pericolosi, affronta nemici formidabili e cerca il leggendario tesoro conosciuto come One Piece.",
+        "autore": "Eiichiro Oda",
+        "genere": [
+            "Avventura", "Azione", "Fantasy"
+        ],
+        "valutazione": 9.8
+    },    
+    {
+        "titolo": "Siddhartha",
+        "immagine": "../images/siddhartha.jpg",
+        "data": "1922",
+        "trama": "Un racconto spirituale che segue il viaggio di Siddhartha, un giovane principe indiano, alla ricerca dell'illuminazione e della pace interiore. Un'esplorazione delle filosofie orientali e della natura dell'esistenza.",
+        "autore": "Hermann Hesse",
+        "genere": [
+            "Romanzo", "Spiritualità", "Filosofia"
+        ],
+        "valutazione": 8.8
+    },
+    {
+        "titolo": "The Witcher: Il guardiano degli Innocenti",
+        "immagine": "../images/the_witcher_il_guardiano_degli_innocenti.jpg",
+        "data": "1993",
+        "trama": "Una raccolta di racconti che introduce Geralt di Rivia, un cacciatore di mostri noto come Witcher. Attraverso le sue avventure, vengono esplorati temi di moralità, destino e il costo dell'umanità in un mondo oscuro e fantastico.",
+        "autore": "Andrzej Sapkowski",
+        "genere": [
+            "Fantasy", "Avventura", "Letteratura"
+        ],
+        "valutazione": 9.2
+    },    
+    {
+        "titolo": "Verità/menzogna",
+        "immagine": "../images/verita_menzogna.jpg",
+        "data": "1972",
+        "trama": "Una raccolta di articoli giornalistici di George Orwell che esplorano temi come la verità, la menzogna, la propaganda e il potere dei media. Questi scritti riflettono il suo impegno a denunciare le ingiustizie sociali e politiche del suo tempo.",
+        "autore": "George Orwell",
+        "genere": [
+            "Giornalismo", "Politica", "Saggistica"
+        ],
+        "valutazione": 8.7
+    }
+]

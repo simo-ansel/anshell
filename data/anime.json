@@ -1,0 +1,132 @@
+[
+    {
+        "titolo": "Beastars",
+        "immagine": "../images/beastars.jpg",
+        "data": "2019",
+        "trama": "In un mondo popolato da animali antropomorfi, Legoshi, un lupo timido e introverso, affronta i conflitti interni legati alla sua natura predatoria e alle sue relazioni con gli altri animali, in particolare con Haru, una coniglietta, mentre cerca di navigare tra la lotta per l'accettazione e i pregiudizi sociali.",
+        "autore": "Paru Itagaki",
+        "genere": ["Dramma", "Commedia", "Psicologico"],
+        "valutazione": 8.2,
+        "opening": "https://www.youtube.com/watch?v=ux0pXz1ZyFk"
+    },    
+    {
+        "titolo": "Cowboy Bebop",
+        "immagine": "../images/cowboy_bebop.jpg",
+        "data": "1998",
+        "trama": "In un futuro distopico, un gruppo di cacciatori di taglie viaggia attraverso lo spazio a bordo dell'astronave Bebop, affrontando casi misteriosi, nemici pericolosi e i fantasmi del loro passato.",
+        "autore": "Shinichiro Watanabe",
+        "genere": ["Azione", "Fantascienza", "Noir"],
+        "valutazione": 8.9,
+        "opening": "https://www.youtube.com/watch?v=NRI_8PUXx2A"
+    },
+    {
+        "titolo": "Demon Slayer",
+        "immagine": "../images/demon_slayer.jpg",
+        "data": "2019",
+        "trama": "Tanjiro Kamado, un giovane gentile, diventa un cacciatore di demoni dopo che la sua famiglia viene massacrata e sua sorella Nezuko trasformata in un demone. Un viaggio epico pieno di battaglie mozzafiato, emozioni profonde e animazione spettacolare.",
+        "autore": "Haruo Sotozaki",
+        "genere": ["Anime", "Azione", "Fantasy", "Avventura"],
+        "valutazione": 8.7,
+        "trailer": "https://www.youtube.com/embed/VQGCKyvzIM4"
+    },    
+    {
+        "titolo": "Devilman Crybaby",
+        "immagine": "../images/devilman_crybaby.jpg",
+        "data": "2018",
+        "trama": "Ryo Asuka, un ragazzo misterioso, convince il suo amico di lunga data, Akira Fudo, a diventare un Devilman per combattere contro demoni malvagi. La serie esplora temi di violenza, identità e lotta tra il bene e il male.",
+        "autore": "Go Nagai",
+        "genere": ["Azione", "Horror", "Drama"],
+        "valutazione": 8.3,
+        "opening": "https://www.youtube.com/watch?v=mhKM2v3IbH0"
+    }, 
+    {
+        "titolo": "Great Teacher Onizuka",
+        "immagine": "../images/gto.jpg",
+        "data": "1999",
+        "trama": "Eikichi Onizuka, un ex-teppista e campione di arti marziali, diventa insegnante in una scuola superiore dove dovrà affrontare studenti problematici, usando metodi non convenzionali e spesso esagerati.",
+        "autore": "Tohru Fujisawa",
+        "genere": ["Commedia", "Drama", "School"],
+        "valutazione": 8.9,
+        "opening": "https://www.youtube.com/embed/xpAg0spgFJA"
+    },  
+    {
+        "titolo": "Junji Ito Maniac: Japanese Tales of the Macabre",
+        "immagine": "../images/junji_ito_maniac.jpg",
+        "data": "2023",
+        "trama": "La serie antologica esplora una raccolta di racconti horror tratti dalle opere di Junji Ito, con storie inquietanti che vanno dall'orrore psicologico al soprannaturale. Ogni episodio presenta un racconto distinto, tutti caratterizzati dallo stile visivo unico di Ito e dalla sua capacità di suscitare terrore.",
+        "autore": "Junji Ito",
+        "genere": ["Horror", "Psicologico", "Supernaturale"],
+        "valutazione": 7.3,
+        "opening": "https://www.youtube.com/watch?v=HdbxXM2CT1A"
+    },  
+    {
+        "titolo": "Made in Abyss",
+        "immagine": "../images/made_in_abyss.jpg",
+        "data": "2017",
+        "trama": "La serie segue la giovane Riko, che intraprende un pericoloso viaggio nell'Abisso, un misterioso e profondo abisso pieno di creature mortali e antichi segreti. Con l'aiuto di Reg, un ragazzo robotico, cerca di scoprire la verità su sua madre, scomparsa nell'Abisso.",
+        "autore": "Masayuki Kojima",
+        "genere": ["Avventura", "Fantasy", "Drammatico"],
+        "valutazione": 8.7,
+        "opening": "https://www.youtube.com/watch?v=9fM1w1rq8so"
+    },
+    {
+        "titolo": "Mob Psycho 100",
+        "immagine": "../images/mob_psycho_100.jpg",
+        "data": "2016",
+        "trama": "Shigeo 'Mob' Kageyama è un giovane ragazzo con enormi poteri psichici, ma preferisce vivere una vita tranquilla. Quando la sua emotività raggiunge un livello critico, i suoi poteri si scatenano, mettendo in pericolo la sua vita e quella degli altri. La serie esplora il suo percorso di crescita e la ricerca di un equilibrio tra potere e umanità.",
+        "autore": "ONE",
+        "genere": ["Azione", "Commedia", "Supernaturale"],
+        "valutazione": 8.6,
+        "opening": "https://www.youtube.com/watch?v=Hc4w6pz0m1M"
+    },         
+    {
+        "titolo": "Neon Genesis Evangelion",
+        "immagine": "../images/neon_genesis_evangelion.jpg",
+        "data": "1995",
+        "trama": "In un futuro post-apocalittico, Shinji Ikari è un ragazzo scelto per pilotare un gigantesco robot, l'Evangelion, per difendere Tokyo-3 dai mostruosi Angeli che minacciano l'umanità. La serie esplora temi psicologici, filosofici e religiosi in un contesto di intensa azione.",
+        "autore": "Hideaki Anno",
+        "genere": ["Azione", "Psicologico", "Mecha"],
+        "valutazione": 8.8,
+        "opening": "https://www.youtube.com/watch?v=mETI5pSOEYo"
+    },    
+    {
+        "titolo": "Pluto",
+        "immagine": "../images/pluto.jpg",
+        "data": "2022",
+        "trama": "Una rivisitazione dark e psicologica del classico *Astro Boy* di Osamu Tezuka, che segue un detective robot chiamato Gesicht, impegnato a risolvere una serie di omicidi che coinvolgono robot di alto profilo.",
+        "autore": "Naoki Urasawa",
+        "genere": ["Giallo", "Thriller", "Sci-Fi"],
+        "valutazione": 8.5,
+        "opening": "https://www.youtube.com/watch?v=kKxGw8KrEos"
+    },
+    {
+        "titolo": "Sword Art Online",
+        "immagine": "../images/sword_art_online.jpg",
+        "data": "2012",
+        "trama": "Nel futuro, un gruppo di giocatori rimane intrappolato in un gioco di realtà virtuale dove la morte nel gioco significa morte nella realtà. Kirito, uno dei giocatori, deve affrontare pericoli, nemici e alleati in un tentativo di scappare e salvare i suoi compagni.",
+        "autore": "Rei Kawahara",
+        "genere": ["Azione", "Fantasy", "Avventura"],
+        "valutazione": 7.8,
+        "opening": "https://www.youtube.com/watch?v=I7X0iqChFFo"
+    },    
+    {
+        "titolo": "Trigun",
+        "immagine": "../images/trigun.jpg",
+        "data": "1998",
+        "trama": "Vash the Stampede, un pistolero con una taglia astronomica sulla testa, attraversa un pianeta deserto affrontando cacciatori di taglie, mentre cerca di evitare violenza e distruzione grazie al suo codice morale.",
+        "autore": "Yasuhiro Nightow",
+        "genere": ["Azione", "Fantascienza", "Western"],
+        "valutazione": 8.4,
+        "opening": "https://www.youtube.com/watch?v=4OxFSy8G5wk"
+    },
+    {
+        "titolo": "Yu-Gi-Oh!",
+        "immagine": "../images/yugioh.jpg",
+        "data": "2000",
+        "trama": "Yugi Mutou è un ragazzo timido che risolve un antico puzzle, il 'Millennium Puzzle', scatenando la personalità di un pharaoh del passato. Insieme al suo alter ego, Yugi affronta sfide e duelli di carte magiche contro avversari di vario tipo, con il destino del mondo spesso in gioco.",
+        "autore": "Kazuki Takahashi",
+        "genere": ["Azione", "Avventura", "Gioco di carte"],
+        "valutazione": 7.9,
+        "opening": "https://www.youtube.com/watch?v=KGLw9_XXE0w"
+    }        
+]

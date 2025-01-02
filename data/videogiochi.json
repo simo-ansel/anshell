@@ -1,0 +1,644 @@
+[
+    {
+        "titolo": "Bloodborne",
+        "immagine": "../images/bloodborne.jpg",
+        "data": "2015",
+        "trama": "In una città gotica afflitta da un'antica maledizione, un cacciatore solitario affronta creature terrificanti e svela i segreti di un culto oscuro legato agli Dei Antichi.",
+        "autore": "FromSoftware",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Horror gotico"
+        ],
+        "valutazione": 9.5,
+        "trailer": "https://www.youtube.com/embed/G203e1HhixY"
+    },
+    {
+        "titolo": "Code Vein",
+        "immagine": "../images/codevein.jpg",
+        "data": "2019",
+        "trama": "In un mondo distrutto da una catastrofe, i sopravvissuti trasformati in vampiri lottano per la loro umanità, mentre scoprono la verità dietro un misterioso parassita che li ha trasformati.",
+        "autore": "Bandai Namco Studios",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Post-apocalittico"
+        ],
+        "valutazione": 7.8,
+        "trailer": "https://www.youtube.com/embed/tnvavfGL39c"
+    },
+    {
+        "titolo": "Crash Bandicoot 4: It's About Time",
+        "immagine": "../images/crashbandicoot4.jpg",
+        "data": "2020",
+        "trama": "Crash e Coco viaggiano attraverso il multiverso per impedire a Cortex e N. Tropy di conquistare ogni realtà, utilizzando maschere quantiche per superare sfide incredibili.",
+        "autore": "Toys for Bob",
+        "genere": [
+            "Platform",
+            "Azione",
+            "Avventura"
+        ],
+        "valutazione": 8.9,
+        "trailer": "https://www.youtube.com/embed/375dqL15O9E"
+    },
+    {
+        "titolo": "Crash Bash",
+        "immagine": "../images/crash_bash.jpg",
+        "data": "2000",
+        "trama": "Un party game ambientato nell'universo di Crash Bandicoot, dove i personaggi si sfidano in una serie di minigiochi frenetici e competitivi. Perfetto per divertirsi con gli amici, ricco di sfide multiplayer e modalità singola avvincente.",
+        "autore": "Eurocom",
+        "genere": ["Party Game", "Azione", "Multiplayer"],
+        "valutazione": 7.0,
+        "trailer": "https://www.youtube.com/embed/hYIo6gE9k7A"
+    },
+    {
+        "titolo": "Crash e il dominio sui mutanti",
+        "immagine": "../images/crash_dominio_mutanti.jpg",
+        "data": "2008",
+        "trama": "Crash Bandicoot deve affrontare Neo Cortex e i suoi nuovi mutanti in un'avventura ricca di azione. Con un gameplay innovativo che permette di controllare i nemici, il gioco espande il mondo e le possibilità della serie.",
+        "autore": "Radical Entertainment",
+        "genere": ["Azione", "Platform", "Avventura"],
+        "valutazione": 6.9,
+        "trailer": "https://www.youtube.com/embed/CYPvxt0yJYI"
+    },
+    {
+        "titolo": "Crash of the Titans",
+        "immagine": "../images/crash_of_the_titans.jpg",
+        "data": "2007",
+        "trama": "Crash Bandicoot si lancia in una nuova avventura per fermare Neo Cortex e Nina Cortex, sfruttando un'abilità unica che gli consente di controllare enormi creature chiamate Titani. Un mix di azione, platform e umorismo classico della serie.",
+        "autore": "Radical Entertainment",
+        "genere": ["Azione", "Platform", "Avventura"],
+        "valutazione": 7.1,
+        "trailer": "https://www.youtube.com/embed/X98gN2iMdSI"
+    },
+    {
+        "titolo": "Crash Team Racing",
+        "immagine": "../images/crash_team_racing.jpg",
+        "data": "1999",
+        "trama": "Crash Bandicoot e i suoi amici (e nemici) si sfidano in gare mozzafiato per salvare il pianeta dall'invasione di Nitros Oxide. Un gioco di corse kart iconico con piste creative, power-up e modalità multiplayer indimenticabili.",
+        "autore": "Naughty Dog",
+        "genere": ["Corse", "Azione", "Multiplayer"],
+        "valutazione": 9.0,
+        "trailer": "https://www.youtube.com/embed/FyO2DUvNtNw"
+    },
+    {
+        "titolo": "Cuphead",
+        "immagine": "../images/cuphead.jpg",
+        "data": "2017",
+        "trama": "Cuphead e Mugman devono ripagare un debito con il Diavolo, affrontando una serie di bizzarri e pericolosi boss in una battaglia per la loro anima.",
+        "autore": "Studio MDHR",
+        "genere": [
+            "Azione",
+            "Piattaforma",
+            "Indie"
+        ],
+        "valutazione": 9.2,
+        "trailer": "https://www.youtube.com/embed/NN-9SQXoi50"
+    },
+    {
+        "titolo": "Cult of the Lamb",
+        "immagine": "../images/cultofthelamb.jpg",
+        "data": "2022",
+        "trama": "Un agnello risorto da una divinità oscura costruisce un culto, affrontando profezie e divinità rivali per consolidare il suo dominio spirituale.",
+        "autore": "Massive Monster",
+        "genere": [
+            "Azione",
+            "Simulazione",
+            "Indie"
+        ],
+        "valutazione": 8.5,
+        "trailer": "https://www.youtube.com/embed/ctX3jVORkkk"
+    },
+    {
+        "titolo": "Dark Souls",
+        "immagine": "../images/darksouls.jpg",
+        "data": "2011",
+        "trama": "In un regno decaduto, un eroe maledetto intraprende un viaggio per spezzare il ciclo eterno di luce e oscurità, affrontando nemici letali e scelte morali.",
+        "autore": "FromSoftware",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Dark Fantasy"
+        ],
+        "valutazione": 9,
+        "trailer": "https://www.youtube.com/embed/Woe0PYZPxRw"
+    },
+    {
+        "titolo": "Dark Souls II: Scholar of the First Sin",
+        "immagine": "../images/darksouls2scholar.jpg",
+        "data": "2015",
+        "trama": "Un avventuriero senza nome esplora Drangleic, un regno in rovina, alla ricerca di risposte sulla maledizione degli Undead e sul destino che lo lega al trono.",
+        "autore": "FromSoftware",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Dark Fantasy"
+        ],
+        "valutazione": 8.7,
+        "trailer": "https://www.youtube.com/embed/bc67rVPC0a0"
+    },
+    {
+        "titolo": "Dark Souls III",
+        "immagine": "../images/darksouls3.jpg",
+        "data": "2016",
+        "trama": "Il fuoco che sostiene il mondo sta svanendo, e un non morto scelto deve confrontarsi con antichi signori e scegliere il destino dell'umanità.",
+        "autore": "FromSoftware",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Dark Fantasy"
+        ],
+        "valutazione": 9.5,
+        "trailer": "https://www.youtube.com/embed/cWBwFhUv1-8"
+    },
+    {
+        "titolo": "Death Stranding",
+        "immagine": "../images/deathstranding.jpg",
+        "data": "2019",
+        "trama": "Sam Porter Bridges, un corriere solitario, attraversa un'America devastata per ristabilire connessioni tra insediamenti umani, affrontando minacce ultraterrene e dilemmi esistenziali.",
+        "autore": "Kojima Productions",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Open-world"
+        ],
+        "valutazione": 8.8,
+        "trailer": "https://www.youtube.com/embed/Gu8X7vM3Avw"
+    },
+    {
+        "titolo": "Disco Elysium",
+        "immagine": "../images/discoelysium.jpg",
+        "data": "2019",
+        "trama": "Un detective alcolizzato e senza memoria deve risolvere un omicidio in una città al collasso, confrontandosi con i propri demoni e un sistema sociale in rovina.",
+        "autore": "ZA/UM",
+        "genere": [
+            "GDR",
+            "Noir",
+            "Avventura"
+        ],
+        "valutazione": 9.3,
+        "trailer": "https://www.youtube.com/embed/P-UY6IyI03Q"
+    },
+    {
+        "titolo": "Elden Ring",
+        "immagine": "../images/eldenring.jpg",
+        "data": "2022",
+        "trama": "In un regno distrutto, il protagonista intraprende un viaggio per scoprire la verità su un potere misterioso che minaccia l'intero mondo.",
+        "autore": "FromSoftware",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Open-world",
+            "Dark Fantasy"
+        ],
+        "valutazione": 9.7,
+        "trailer": "https://www.youtube.com/embed/E3Huy2cdih0"
+    },
+    {
+        "titolo": "Fallout 4",
+        "immagine": "../images/fallout4.jpg",
+        "data": "2015",
+        "trama": "Un sopravvissuto del Vault esplora una versione devastata di Boston per ritrovare suo figlio, affrontando bande di predoni, mutanti e robot.",
+        "autore": "Bethesda Game Studios",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Open-world",
+            "Post-apocalittico"
+        ],
+        "valutazione": 8.5,
+        "trailer": "https://www.youtube.com/embed/5iJUt6aBXAw"
+    },
+    {
+        "titolo": "Far Cry 3",
+        "immagine": "../images/farcry3.jpg",
+        "data": "2012",
+        "trama": "Un giovane turista si ritrova bloccato su un'isola tropicale dominata da pirati e mercenari. Per sopravvivere, dovrà affrontare il carismatico e folle Vaas e scoprire i limiti della sua sanità mentale.",
+        "autore": "Ubisoft",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Open world"
+        ],
+        "valutazione": 9.0,
+        "trailer": "https://www.youtube.com/embed/J6gnOVJsCsM"
+    },    
+    {
+        "titolo": "Ghost of Tsushima",
+        "immagine": "../images/ghostoftsushima.jpg",
+        "data": "2020",
+        "trama": "Un samurai deve difendere l'isola di Tsushima dall'invasione mongola, affrontando dilemmi morali e adattandosi a nuovi metodi di combattimento.",
+        "autore": "Sucker Punch Productions",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Open-world"
+        ],
+        "valutazione": 9,
+        "trailer": "https://www.youtube.com/embed/0HTfLqHoTmg"
+    },
+    {
+        "titolo": "God of War",
+        "immagine": "../images/godofwar2018.jpg",
+        "data": "2018",
+        "trama": "Kratos, il dio della guerra, esplora il mondo della mitologia nordica con suo figlio Atreus, affrontando divinità e creature mitologiche in una storia di redenzione.",
+        "autore": "Santa Monica Studio",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Hack and Slash"
+        ],
+        "valutazione": 9.3,
+        "trailer": "https://www.youtube.com/embed/K0u_kAWLJOA"
+    },
+    {
+        "titolo": "God of War III",
+        "immagine": "../images/godofwar3.jpg",
+        "data": "2010",
+        "trama": "Kratos intraprende un'epica missione finale per distruggere gli dei dell'Olimpo, culminando nella conclusione della sua tragica storia.",
+        "autore": "Santa Monica Studio",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Hack and Slash"
+        ],
+        "valutazione": 9.3,
+        "trailer": "https://www.youtube.com/embed/qKogMfIAAkY"
+    },
+    {
+        "titolo": "God of War: Ragnarok",
+        "immagine": "../images/godofwarragnarok.jpg",
+        "data": "2022",
+        "trama": "Kratos e Atreus affrontano il caos della fine del mondo, Ragnarok, combattendo contro divinità e mostri leggendari in nuovi regni.",
+        "autore": "Santa Monica Studio",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Hack and Slash"
+        ],
+        "valutazione": 9.5,
+        "trailer": "https://www.youtube.com/embed/1O9J6QzD7ds"
+    },
+    {
+        "titolo": "Grand Theft Auto V",
+        "immagine": "../images/gta5.jpg",
+        "data": "2013",
+        "trama": "Tre criminali si muovono attraverso un mondo di crimine e caos in una città fittizia, partecipando a missioni rischiose e attività illecite.",
+        "autore": "Rockstar North",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Open-world"
+        ],
+        "valutazione": 9.4,
+        "trailer": "https://www.youtube.com/embed/QkkoHAzjnUs"
+    },
+    {
+        "titolo": "Horizon Zero Dawn",
+        "immagine": "../images/horizonzerodawn.jpg",
+        "data": "2017",
+        "trama": "Aloy, una giovane cacciatrice, esplora un mondo post-apocalittico dominato da creature meccaniche, affrontando misteri e battaglie.",
+        "autore": "Guerrilla Games",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Open-world",
+            "RPG"
+        ],
+        "valutazione": 9,
+        "trailer": "https://www.youtube.com/embed/4pA3wsljwbE"
+    },
+    {
+        "titolo": "Inscryption",
+        "immagine": "../images/inscryption.jpg",
+        "data": "2021",
+        "trama": "Il giocatore affronta misteriosi avversari in un gioco di carte con enigmi e battaglie psicologiche, mescolando suspense e profondità narrativa.",
+        "autore": "Daniel Mullins Games",
+        "genere": [
+            "Roguelike",
+            "Puzzle",
+            "Horror"
+        ],
+        "valutazione": 8.9,
+        "trailer": "https://www.youtube.com/embed/YxJ6TpAYTz0"
+    },
+    {
+        "titolo": "Lies of P",
+        "immagine": "../images/lies_of_p.jpg",
+        "data": "2023",
+        "trama": "Un'avventura oscura in un mondo ispirato a Pinocchio, dove il giocatore guida una marionetta senziente alla ricerca della verità, affrontando minacce e svelando segreti in una città corrotta.",
+        "autore": "Neowiz Games",
+        "genere": [
+            "Action RPG",
+            "Soulslike",
+            "Adventure"
+        ],
+        "valutazione": 8.5,
+        "trailer": "https://www.youtube.com/embed/_E7jvvEioGg"
+    },    
+    {
+        "titolo": "Lords of the Fallen",
+        "immagine": "../images/lordsofthefallen.jpg",
+        "data": "2014",
+        "trama": "Un eroe combatte per fermare forze oscure in un mondo infestato da mostri e demoni.",
+        "autore": "Deck13 Interactive, CI Games",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Dark Fantasy"
+        ],
+        "valutazione": 7.5,
+        "trailer": "https://www.youtube.com/embed/O2W0N3uKXmo"
+    },
+    {
+        "titolo": "Rayman Legends",
+        "immagine": "../images/rayman_legends.jpg",
+        "data": "2013",
+        "trama": "Rayman, Globox e i Teensies si imbarcano in un'avventura magica attraverso mondi vivaci e colorati per salvare creature intrappolate. Tra livelli musicali, sfide cooperative e nemici stravaganti, il gruppo dovrà riportare l'armonia nel loro universo.",
+        "autore": "Ubisoft Montpellier",
+        "genere": [
+            "Platform",
+            "Avventura",
+            "Cooperativo"
+        ],
+        "valutazione": 9.3,
+        "trailer": "https://www.youtube.com/embed/7lx2Kz29Gl4"
+    },
+    {
+        "titolo": "Rise of the Tomb Raider",
+        "immagine": "../images/riseofthetombraider.jpg",
+        "data": "2015",
+        "trama": "Lara Croft affronta pericoli naturali e umani in una nuova avventura alla ricerca di un antico artefatto.",
+        "autore": "Crystal Dynamics",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "RPG"
+        ],
+        "valutazione": 8.8,
+        "trailer": "https://www.youtube.com/embed/FpNj89nLa-M"
+    },
+    {
+        "titolo": "Resident Evil 0",
+        "immagine": "../images/resident_evil_0.jpg",
+        "data": "2002",
+        "trama": "Ambientato prima degli eventi del primo Resident Evil, il gioco segue Rebecca Chambers e Billy Coen mentre scoprono la verità dietro l'incidente di Umbrella Corporation. Un survival horror avvincente con enigmi complessi e atmosfere inquietanti.",
+        "autore": "Capcom",
+        "genere": ["Survival Horror", "Azione", "Avventura"],
+        "valutazione": 7.9,
+        "trailer": "https://www.youtube.com/embed/-kcweD8Sj4c"
+    },    
+    {
+        "titolo": "Resident Evil",
+        "immagine": "../images/resident_evil.jpg",
+        "data": "1996",
+        "trama": "Un gruppo di agenti speciali, tra cui Chris Redfield e Jill Valentine, si trova intrappolato in una villa infestata da creature mutanti mentre indaga su misteriose sparizioni nella città di Raccoon City.",
+        "autore": "Capcom",
+        "genere": [
+            "Survival Horror",
+            "Action",
+            "Adventure"
+        ],
+        "valutazione": 9,
+        "trailer": "https://www.youtube.com/embed/IjxFtFwY6jk"
+    },    
+    {
+        "titolo": "Resident Evil 2 Remake",
+        "immagine": "../images/resident_evil_2_remake.jpg",
+        "data": "2019",
+        "trama": "Leon S. Kennedy e Claire Redfield cercano di sopravvivere a un'epidemia di zombie a Raccoon City, scoprendo i segreti di una corporazione malvagia.",
+        "autore": "Capcom",
+        "genere": [
+            "Survival Horror",
+            "Action",
+            "Adventure"
+        ],
+        "valutazione": 9,
+        "trailer": "https://www.youtube.com/embed/4tHhpt-l7Hk"
+    },
+    {
+        "titolo": "Resident Evil 4 Remake",
+        "immagine": "../images/resident_evil_4_remake.jpg",
+        "data": "2023",
+        "trama": "Leon S. Kennedy, un agente governativo, intraprende una missione per salvare la figlia del Presidente degli Stati Uniti da un villaggio isolato in Spagna, affrontando cultisti e creature mostruose infettate dal parassita Las Plagas.",
+        "autore": "Capcom",
+        "genere": [
+            "Azione",
+            "Horror",
+            "Survival"
+        ],
+        "valutazione": 9.2,
+        "trailer": "https://www.youtube.com/embed/WNSzH9O6KBE"
+    },    
+    {
+        "titolo": "Scarlet Nexus",
+        "immagine": "../images/scarletnexus.jpg",
+        "data": "2021",
+        "trama": "Giovani soldati con poteri psionici combattono mostri mutanti in un futuro distopico, esplorando conflitti psicologici e misteri.",
+        "autore": "Bandai Namco Studios",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Sci-fi"
+        ],
+        "valutazione": 8,
+        "trailer": "https://www.youtube.com/embed/RrlE18sdvF0"
+    },
+    {
+        "titolo": "Sekiro: Shadows Die Twice",
+        "immagine": "../images/sekiro.jpg",
+        "data": "2019",
+        "trama": "Un samurai combatte in un mondo giapponese medievale, affrontando nemici spietati e boss impegnativi in una storia di vendetta.",
+        "autore": "FromSoftware",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Stealth"
+        ],
+        "valutazione": 9.4,
+        "trailer": "https://www.youtube.com/embed/2zH5F4w7sd0"
+    },
+    {
+        "titolo": "South Park: Il Bastone della Verità",
+        "immagine": "../images/southparkbastonedellaverita.jpg",
+        "data": "2014",
+        "trama": "I bambini di South Park vivono un'avventura epica mentre combattono per il controllo di un potente artefatto magico.",
+        "autore": "Obsidian Entertainment",
+        "genere": [
+            "GDR",
+            "Avventura",
+            "Commedia"
+        ],
+        "valutazione": 8.5,
+        "trailer": "https://www.youtube.com/embed/nzXZsCHM6NA"
+    },
+    {
+        "titolo": "The Legend of Zelda: The Minish Cap",
+        "immagine": "../images/minishcap.jpg",
+        "data": "2004",
+        "trama": "Link si avventura per salvare il regno di Hyrule dall'oscurità, utilizzando un misterioso cappello magico che gli permette di rimpicciolirsi e interagire con il minuscolo popolo dei Minish.",
+        "autore": "Nintendo",
+        "genere": [
+            "Avventura",
+            "Fantasy",
+            "Puzzle"
+        ],
+        "valutazione": 9.0,
+        "trailer": "https://www.youtube.com/embed/HNaWwpZ9efY"
+    },
+    {
+        "titolo": "The Witcher 3: Wild Hunt",
+        "immagine": "../images/thewitcher3.jpg",
+        "data": "2015",
+        "trama": "Geralt di Rivia cerca sua figlia adottiva in un mondo pieno di mostri, magia e intrighi politici.",
+        "autore": "CD Projekt Red",
+        "genere": [
+            "Azione",
+            "RPG",
+            "Open-world"
+        ],
+        "valutazione": 9.5,
+        "trailer": "https://www.youtube.com/embed/AtmLxlSjrkA"
+    },
+    {
+        "titolo": "Tomb Raider",
+        "immagine": "../images/tombraiderdefinitiveedition.jpg",
+        "data": "2014",
+        "trama": "Lara Croft, una giovane archeologa, si ritrova naufraga su un'isola remota nel Triangolo del Drago. Per sopravvivere e trovare un modo per fuggire, Lara deve affrontare pericoli estremi e scoprire i misteri oscuri dell'isola, tra cui un culto millenario. La sua determinazione la porta a evolversi da una ragazza insicura a una delle più grandi avventuriere della storia.",
+        "autore": "Crystal Dynamics",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "RPG"
+        ],
+        "valutazione": 8.7,
+        "trailer": "https://www.youtube.com/embed/g9a_Uj0jx6Q"
+    },
+    {
+        "titolo": "Uncharted: Drake's Fortune",
+        "immagine": "../images/uncharted1.jpg",
+        "data": "2007",
+        "trama": "Nathan Drake, un cacciatore di tesori, parte alla ricerca dell'El Dorado, la leggendaria città d'oro. Durante la sua avventura in una giungla pericolosa, Drake scopre che la città è più di quanto immaginasse, e la sua caccia lo porta a confrontarsi con nemici mercenari e misteri antichi che potrebbero cambiare il corso della storia.",
+        "autore": "Naughty Dog",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Platform"
+        ],
+        "valutazione": 8.5,
+        "trailer": "https://www.youtube.com/embed/2WlN9N8Q1DQ"
+    },
+    {
+        "titolo": "Uncharted 2: Among Thieves",
+        "immagine": "../images/uncharted2.jpg",
+        "data": "2009",
+        "trama": "Nathan Drake è alla ricerca di un artefatto leggendario, la Cintamani, un potente manufatto che potrebbe cambiare il destino del mondo. In questa avventura che lo porta tra le montagne himalayane, Drake affronta nemici implacabili e scoperte sorprendenti, tra tradimenti e alleanze pericolose che mettono alla prova le sue capacità e il suo coraggio.",
+        "autore": "Naughty Dog",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Platform"
+        ],
+        "valutazione": 9.6,
+        "trailer": "https://www.youtube.com/embed/NA6gPOOV0k4"
+    },
+    {
+        "titolo": "Uncharted 3: Drake's Deception",
+        "immagine": "../images/uncharted3.jpg",
+        "data": "2011",
+        "trama": "Nathan Drake segue le tracce di un antico e misterioso ordine segreto, alla ricerca della leggendaria città perduta di Ubar, la città della sabbia. Durante il suo viaggio, Drake è costretto ad affrontare il suo passato, sfidare nemici mortali e confrontarsi con le ombre della sua stessa storia. La ricerca di Ubar si trasforma in una battaglia tra il destino e la redenzione.",
+        "autore": "Naughty Dog",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Platform"
+        ],
+        "valutazione": 9.4,
+        "trailer": "https://www.youtube.com/embed/6EXK9J9g7_E"
+    },
+    {
+        "titolo": "Uncharted 4: A Thief's End",
+        "immagine": "../images/uncharted4.jpg",
+        "data": "2016",
+        "trama": "Nathan Drake, ormai in pensione, è costretto a tornare in azione quando il suo fratello perduto, Sam, appare misteriosamente chiedendo il suo aiuto per trovare un leggendario tesoro pirata. Con una nuova avventura che li porta attraverso paesaggi esotici, Drake dovrà affrontare nemici del suo passato e riscoprire il senso di appartenenza che aveva lasciato alle spalle.",
+        "autore": "Naughty Dog",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Platform"
+        ],
+        "valutazione": 9.7,
+        "trailer": "https://www.youtube.com/embed/hh5HV4iic1Y"
+    },
+    {
+        "titolo": "Undertale",
+        "immagine": "../images/undertale.jpg",
+        "data": "2015",
+        "trama": "Un bambino umano cade in un mondo sotterraneo popolato da mostri. Durante il suo viaggio per tornare a casa, il protagonista si trova di fronte a una scelta: combattere i mostri per proseguire o trovare un altro modo per risolvere i conflitti senza violenza. Ogni scelta morale influirà sull'andamento della storia, portando a diversi finali che esplorano temi come il perdono, la violenza e la compassione.",
+        "autore": "Toby Fox",
+        "genere": [
+            "RPG",
+            "Indie",
+            "Avventura"
+        ],
+        "valutazione": 9.6,
+        "trailer": "https://www.youtube.com/embed/h5Zh2LEwFCo"
+    },
+    {
+        "titolo": "Until Dawn",
+        "immagine": "../images/untildawn.jpg",
+        "data": "2015",
+        "trama": "Un gruppo di amici si riunisce per un weekend su una montagna isolata, ma presto scoprono che una presenza oscura li perseguita. Durante la notte, devono affrontare una serie di pericoli mortali, e ogni loro decisione avrà un impatto sul destino dei protagonisti. Il gioco esplora il concetto di terrore psicologico, in cui le scelte determinano chi sopravvive e chi non ce la fa.",
+        "autore": "Supermassive Games",
+        "genere": [
+            "Horror",
+            "Avventura",
+            "Interattivo"
+        ],
+        "valutazione": 8.3,
+        "trailer": "https://www.youtube.com/embed/Q0J2ibDmTi8"
+    },
+    {
+        "titolo": "Watch Dogs",
+        "immagine": "../images/watch_dogs.jpg",
+        "data": "2014",
+        "trama": "Un hacker esperto sfrutta la rete di una città iper-connessa per controllare sistemi e telecamere, cercando vendetta contro coloro che gli hanno distrutto la vita.",
+        "autore": "Ubisoft",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Open world"
+        ],
+        "valutazione": 8.0,
+        "trailer": "https://www.youtube.com/embed/ulFeM8JGq7s"
+    },
+    {
+        "titolo": "Watch Dogs 2",
+        "immagine": "../images/watch_dogs_2.jpg",
+        "data": "2016",
+        "trama": "Un giovane hacker si unisce al gruppo DedSec per combattere il sistema di sorveglianza oppressivo e le multinazionali che minacciano la libertà delle persone a San Francisco.",
+        "autore": "Ubisoft",
+        "genere": [
+            "Azione",
+            "Avventura",
+            "Open world"
+        ],
+        "valutazione": 8.5,
+        "trailer": "https://www.youtube.com/embed/QDKYqjAqIKE"
+
+    },      
+    {
+        "titolo": "Wolfenstein: The New Order",
+        "immagine": "../images/wolfensteintheneworder.jpg",
+        "data": "2014",
+        "trama": "In un mondo alternativo dove i nazisti hanno vinto la Seconda Guerra Mondiale, BJ Blazkowicz, un soldato della resistenza, cerca di rovesciare il regime totalitario nazista. Dopo essere stato gravemente ferito, Blazkowicz si risveglia in un mondo futuristico dominato dalla tecnologia avanzata dei nazisti. La sua missione lo porta a combattere per la libertà, affrontando una serie di nemici, dalle forze naziste alle loro armi e robot letali.",
+        "autore": "MachineGames",
+        "genere": [
+            "Sparatutto",
+            "Azione",
+            "Storia Alternativa"
+        ],
+        "valutazione": 8.7,
+        "trailer": "https://www.youtube.com/embed/dwjKMjIE1rs"
+    }
+]

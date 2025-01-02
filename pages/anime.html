@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ANSHELL - Biblioteca Personale</title>
+        <link rel="icon" href="../icon.png" type="image/x-icon"> <!-- Aggiungi il link alla favicon -->
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    </head>
+<body class="bg-gray-900 text-white font-poppins">
+
+    <script src="../js/script_anime.js"></script>
+
+    <!-- Header -->
+    <header class="bg-gray-800 p-6 shadow-lg-custom">
+        <div class="flex justify-between items-center">
+            <a href="../index.html">
+                <h1 class="text-3xl font-bold text-purple-500 hover:text-purple-700 transition duration-300">
+                    ANSHELL
+                </h1>
+            </a>
+            <nav>
+                <ul class="flex space-x-6">
+                    <li><a href="libri.html" class="text-purple-500 hover:text-purple-700">Libri</a></li>
+                    <li><a href="film.html" class="text-purple-500 hover:text-purple-700">Film</a></li>
+                    <li><a href="serie.html" class="text-purple-500 hover:text-purple-700">Serie TV</a></li>
+                    <li><a href="anime.html" class="text-purple-500 hover:text-purple-700">Anime</a></li>
+                    <li><a href="videogiochi.html" class="text-purple-500 hover:text-purple-700">Videogiochi</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+
+
+    <!-- Main Content -->
+    <main class="p-6">
+        <!-- Descrizione del sito -->
+        <section class="mb-8 p-6 bg-gray-800 rounded-lg shadow-xl">
+            <h2 class="text-3xl font-semibold text-green-400 mb-4 border-b-4 border-green-500 pb-2">Anime</h2>
+        </section>
+
+        <div id="random-opere" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Le locandine saranno aggiunte dinamicamente con JavaScript -->
+        </div>
+<!-- Pulsante di ricarica -->
+<button id="reload-button" class="reload-btn">
+    <img src="../icon.png" alt="Ricarica" width="40" height="40">
+</button>
+
+    </main>
+
+    <!-- Modale per le informazione delle opere -->
+    <div id="modale">
+        <div class="modal-content"></div>
+    </div>    
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 p-4 text-center text-sm text-gray-400">
+        <p>&copy; 2024 ANSHELL. Tutti i diritti riservati.</p>
+    </footer>
+
+    <!-- Modal per visualizzare informazioni dettagliate -->
+    <div id="modale" class="hidden fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
+        <div class="bg-white text-black p-6 rounded-lg max-w-lg w-full">
+            <h3 id="modale-titolo" class="text-2xl font-semibold mb-4">Titolo Opera</h3>
+            <p id="modale-descrizione" class="mb-4">Descrizione dell'opera...</p>
+            <p><strong>Anno:</strong> <span id="modale-anno">2024</span></p>
+            <button id="chiudi-modale" class="mt-4 px-4 py-2 bg-purple-500 text-white rounded-lg hover:bg-purple-700 transition">Chiudi</button>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,252 @@
+[
+    {
+        "titolo": "Arrested Development",
+        "immagine": "../images/arrested_development.jpg",
+        "data": "2003",
+        "trama": "Un'irriverente commedia che segue le disavventure della famiglia Bluth, un gruppo di persone disfunzionali, mentre l'ormai ex-padrone di casa, Michael, cerca di rimettere insieme la sua vita e la famiglia dopo l'arresto di suo padre.",
+        "autore": "Mitchell Hurwitz",
+        "genere": ["Comedy", "Drama"],
+        "valutazione": 8.8,
+        "trailer": "https://www.youtube.com/embed/jFuY2RlEwz8"
+    },
+    {
+        "titolo": "Black Mirror",
+        "immagine": "../images/black_mirror.jpg",
+        "data": "2011",
+        "trama": "Ogni episodio di questa serie antologica esplora i lati oscuri e inquietanti della tecnologia e della società, presentando storie distopiche che riflettono su come il progresso tecnologico possa influire sulle vite umane.",
+        "autore": "Charlie Brooker",
+        "genere": ["Dramma", "Sci-Fi", "Thriller"],
+        "valutazione": 8.8,
+        "opening": "https://www.youtube.com/watch?v=7pK5px8vRi8"
+    },
+    {
+        "titolo": "BoJack Horseman",
+        "immagine": "../images/bojack_horseman.jpg",
+        "data": "2014",
+        "trama": "BoJack Horseman, una ex-stella del cinema televisivo degli anni '90, cerca di rientrare nella vita pubblica mentre affronta le sue dipendenze, relazioni tossiche e i demoni interiori, in una serie che mescola commedia e dramma esistenziale.",
+        "autore": "Raphael Bob-Waksberg",
+        "genere": ["Commedia", "Dramma", "Animazione"],
+        "valutazione": 8.7,
+        "opening": "https://www.youtube.com/watch?v=UlXddP8FD_w"
+    },
+    {
+        "titolo": "Breaking Bad",
+        "immagine": "../images/breaking_bad.jpg",
+        "data": "2008",
+        "trama": "Un insegnante di chimica diventato produttore di metanfetamine, Walter White, naviga nel pericoloso mondo del crimine per garantire un futuro economico alla sua famiglia dopo una diagnosi di cancro terminale.",
+        "autore": "Vince Gilligan",
+        "genere": ["Crime", "Drama", "Thriller"],
+        "valutazione": 9.5,
+        "trailer": "https://www.youtube.com/embed/HhesaQXLuRY"
+    },
+    {
+        "titolo": "Brooklyn Nine-Nine",
+        "immagine": "../images/brooklyn_nine_nine.jpg",
+        "data": "2013",
+        "trama": "La serie segue le avventure del detective Jake Peralta e dei suoi colleghi nel distretto di polizia di Brooklyn. Con un mix di umorismo, azione e dinamiche di squadra, affrontano casi complessi mentre gestiscono le loro vite personali e professionali.",
+        "autore": "Michael Schur, Dan Goor",
+        "genere": ["Commedia", "Crimine", "Poliziesco"],
+        "valutazione": 8.4,
+        "opening": "https://www.youtube.com/watch?v=4jHdhwLlx7Y"
+    },    
+    {
+        "titolo": "Dahmer – Monster: The Jeffrey Dahmer Story",
+        "immagine": "../images/dahmer.jpg",
+        "data": "2022",
+        "trama": "La serie racconta la storia del serial killer Jeffrey Dahmer, esplorando la sua vita, i crimini e le sue vittime, mettendo in luce anche la negligenza delle autorità e la psicologia dietro il suo comportamento criminale.",
+        "autore": "Ryan Murphy, Ian Brennan",
+        "genere": ["Dramma", "Crime", "Biografico"],
+        "valutazione": 8.0,
+        "opening": "https://www.youtube.com/watch?v=w43d9xY8bk0"
+    },    
+    {
+        "titolo": "Dexter",
+        "immagine": "../images/dexter.jpg",
+        "data": "2006",
+        "trama": "Dexter Morgan, un tecnico forense specializzato in tracce ematiche per il Dipartimento di Polizia di Miami, conduce una doppia vita come serial killer che uccide solo criminali sfuggiti alla giustizia.",
+        "autore": "James Manos Jr.",
+        "genere": ["Crime", "Thriller", "Drama"],
+        "valutazione": 8.7,
+        "opening": "https://www.youtube.com/watch?v=ej8-Rqo-VT4"
+    },
+    {
+        "titolo": "Detective Monk",
+        "immagine": "../images/detective_monk.jpg",
+        "data": "2002",
+        "trama": "Adrian Monk, un ex-detective della polizia di San Francisco affetto da disturbi ossessivo-compulsivi, utilizza la sua straordinaria attenzione ai dettagli per risolvere casi complessi come consulente privato.",
+        "autore": "Andy Breckman",
+        "genere": ["Giallo", "Commedia", "Drammatico"],
+        "valutazione": 8.0,
+        "opening": "https://www.youtube.com/watch?v=J9Wl7ynsPPE"
+    },     
+    {
+        "titolo": "Disincanto",
+        "immagine": "../images/disincanto.jpg",
+        "data": "2018",
+        "trama": "Ambientato nel regno medievale di Dreamland, la serie segue le avventure della principessa Bean, una giovane ribelle con un debole per l'alcol e l'avventura, accompagnata dal suo elfo Elfo e dal suo compagno lucertola, Luci.",
+        "autore": "Matt Groening",
+        "genere": ["Fantasy", "Commedia", "Avventura"],
+        "valutazione": 7.6,
+        "opening": "https://www.youtube.com/watch?v=fyCSaYquogw"
+    },    
+    {
+        "titolo": "iZombie",
+        "immagine": "../images/izombie.jpg",
+        "data": "2015",
+        "trama": "Liv Moore, una giovane donna trasformata in zombie, lavora come medico legale per risolvere i casi di omicidio, mangiando il cervello delle vittime per acquisirne i ricordi e aiutare a risolvere i crimini.",
+        "autore": "Rob Thomas",
+        "genere": ["Comedy", "Crime", "Drama"],
+        "valutazione": 7.9,
+        "trailer": "https://www.youtube.com/embed/Xy0QYmHeFQI"
+    },   
+    {
+        "titolo": "La regina degli scacchi",
+        "immagine": "../images/la_regina_degli_scacchi.jpg",
+        "data": "2020",
+        "trama": "La storia di una giovane orfana, Beth Harmon, che diventa una prodigiosa giocatrice di scacchi, lottando contro la solitudine, le dipendenze e i pregiudizi mentre cerca di affermarsi nel mondo degli scacchi professionistici.",
+        "autore": "Scott Frank",
+        "genere": ["Drama", "Sport", "Thriller"],
+        "valutazione": 8.6,
+        "trailer": "https://www.youtube.com/embed/CDrVZrVv1vE"
+    },
+    {
+        "titolo": "La Serie di Cuphead",
+        "immagine": "../images/cuphead_series.jpg",
+        "data": "2022",
+        "trama": "La serie segue le avventure di Cuphead e il suo fratello Mugman, mentre affrontano una serie di bizzarre sfide e personaggi stravaganti. Tra l'umorismo slapstick e i pericoli, i due fratelli cercano di evitare guai e continuano a vivere nel mondo fantastico ispirato ai cartoni animati degli anni '30.",
+        "autore": "Dave Wasson",
+        "genere": ["Animazione", "Avventura", "Commedia"],
+        "valutazione": 8.2,
+        "opening": "https://www.youtube.com/watch?v=Z6vQXm5r3_M"
+    }, 
+    {
+        "titolo": "Lost",
+        "immagine": "../images/lost.jpg",
+        "data": "2004",
+        "trama": "Un gruppo di sopravvissuti a un incidente aereo si ritrova su un'isola misteriosa piena di enigmi, segreti e pericoli soprannaturali, lottando per sopravvivere e scoprire la verità sull'isola.",
+        "autore": "J.J. Abrams, Damon Lindelof, Jeffrey Lieber",
+        "genere": ["Avventura", "Mistero", "Drammatico"],
+        "valutazione": 8.3,
+        "opening": "https://www.youtube.com/watch?v=kYD4g7v3RJc"
+    },       
+    {
+        "titolo": "Psych",
+        "immagine": "../images/psych.jpg",
+        "data": "2006",
+        "trama": "Shawn Spencer, un uomo con una memoria fotografica e una straordinaria abilità nell'osservazione, si finge un detective psicico per risolvere crimini, con l'aiuto del suo migliore amico Gus, in una serie di misteri e comicità.",
+        "autore": "Steve Franks",
+        "genere": ["Commedia", "Mistero", "Crimine"],
+        "valutazione": 8.4,
+        "opening": "https://www.youtube.com/watch?v=sqH2mNiOtuw"
+    },    
+    {
+        "titolo": "Rick and Morty",
+        "immagine": "../images/rick_and_morty.jpg",
+        "data": "2013-presente",
+        "trama": "Una serie animata che segue le avventure interdimensionali di un geniale ma instabile scienziato, Rick, e suo nipote Morty, mentre esplorano universi alternativi e affrontano situazioni surreali e comiche. La serie mescola satira, sci-fi e umorismo nero.",
+        "autore": "Justin Roiland, Dan Harmon",
+        "genere": ["Commedia", "Fantascienza", "Animazione"],
+        "valutazione": 9.2,
+        "trailer": "https://www.youtube.com/embed/d1JwXeE8aG0"
+    },
+    {
+        "titolo": "Space Force",
+        "immagine": "../images/space_force.jpg",
+        "data": "2020",
+        "trama": "La serie segue il generale Mark R. Naird, un militare che si ritrova a dirigere una nuova e ambiziosa branca dell'esercito, la Space Force, incaricata di garantire la superiorità americana nello spazio, tra risate, conflitti interni e imprevisti.",
+        "autore": "Greg Daniels, Steve Carell",
+        "genere": ["Commedia", "Satira", "Fantascienza"],
+        "valutazione": 6.8,
+        "opening": "https://www.youtube.com/watch?v=JkDTPHRIgpo"
+    },
+    {
+        "titolo": "The 100",
+        "immagine": "../images/the_100.jpg",
+        "data": "2014",
+        "trama": "In un futuro post-apocalittico, cento giovani delinquenti vengono inviati sulla Terra da una stazione spaziale per determinare se il pianeta sia ancora abitabile, affrontando sfide di sopravvivenza e svelando i segreti di una Terra devastata.",
+        "autore": "Jason Rothenberg",
+        "genere": ["Sci-Fi", "Dramma", "Avventura"],
+        "valutazione": 7.6,
+        "trailer": "https://www.youtube.com/embed/aDrsItJ_HU4"
+    },    
+    {
+        "titolo": "The Gentlemen",
+        "immagine": "../images/the_gentlemen.jpg",
+        "data": "2019",
+        "trama": "Mickey Pearson, un americano che ha costruito un impero della marijuana nel Regno Unito, cerca di vendere il suo business a un gruppo di miliardari, ma si trova coinvolto in una serie di intrighi e lotte di potere tra gang e truffatori.",
+        "autore": "Guy Ritchie",
+        "genere": ["Azione", "Commedia", "Crimine"],
+        "valutazione": 7.8,
+        "opening": "https://www.youtube.com/watch?v=2h7ppq1PpQ8"
+    },      
+    {
+        "titolo": "The Good Doctor",
+        "immagine": "../images/the_good_doctor.jpg",
+        "data": "2017",
+        "trama": "Shaun Murphy, un giovane chirurgo autistico con sindrome di Savant, affronta le sfide del suo lavoro in un ospedale prestigioso, cercando di dimostrare che, nonostante le sue difficoltà sociali, è un medico di talento.",
+        "autore": "David Shore, Daniel Dae Kim",
+        "genere": ["Dramma", "Medico", "Ispirazionale"],
+        "valutazione": 8.2,
+        "opening": "https://www.youtube.com/watch?v=lsjyIKy2W9o"
+    },    
+    {
+        "titolo": "The Good Place",
+        "immagine": "../images/the_good_place.jpg",
+        "data": "2016",
+        "trama": "Eleanor Shellstrop si ritrova nell'aldilà, nel 'Buon Posto', dopo la sua morte, ma presto scopre di essere finita lì per errore. Con l'aiuto di nuovi amici e del mentore Michael, cercherà di diventare una persona migliore.",
+        "autore": "Michael Schur",
+        "genere": ["Commedia", "Fantasy", "Drammatico"],
+        "valutazione": 8.5,
+        "opening": "https://www.youtube.com/watch?v=1J5XlzTwnBQ"
+    },    
+    {
+        "titolo": "The Midnight Gospel",
+        "immagine": "../images/the_midnight_gospel.jpg",
+        "data": "2020",
+        "trama": "Clancy, un giovane podcaster spaziale, esplora bizzarri universi simulati tramite un simulatore di mondi, affrontando temi profondi come la morte, la spiritualità e il senso della vita attraverso dialoghi filosofici e animazioni psichedeliche.",
+        "autore": "Duncan Trussell, Pendleton Ward",
+        "genere": ["Animation", "Fantasy", "Comedy"],
+        "valutazione": 8.2,
+        "trailer": "https://www.youtube.com/embed/qM5jD9Qzkhs"
+    },
+    {
+        "titolo": "The Office",
+        "immagine": "../images/the_office_usa.jpg",
+        "data": "2005-2013",
+        "trama": "Una sitcom che segue la vita quotidiana degli impiegati di un ufficio di vendita di carta, Dunder Mifflin, con un formato di documentario che cattura le dinamiche tra i colleghi, i loro drammi e le situazioni comiche. La serie è famosa per il suo umorismo secco e i personaggi indimenticabili.",
+        "autore": "Greg Daniels (adattamento USA)",
+        "genere": ["Commedia", "Sitcom"],
+        "valutazione": 8.9,
+        "trailer": "https://www.youtube.com/embed/x6KzAHnJrqM"
+    },
+    {
+        "titolo": "Una Serie di Sfortunati Eventi",
+        "immagine": "../images/una_serie_di_sfortunati_eventi.jpg",
+        "data": "2017",
+        "trama": "La serie racconta le disavventure dei tre orfani Baudelaire, che vengono perseguitati dal malvagio Conte Olaf, deciso a rubare la loro eredità. Ogni episodio è un nuovo capitolo della loro tragica e misteriosa storia.",
+        "autore": "Mark Hudis, Barry Sonnenfeld",
+        "genere": ["Avventura", "Commedia", "Dramma"],
+        "valutazione": 7.8,
+        "opening": "https://www.youtube.com/watch?v=Il9jJrjSPH0"
+    },    
+    {
+        "titolo": "Workin' Moms",
+        "immagine": "../images/working_moms.jpg",
+        "data": "2017",
+        "trama": "La serie segue le vicende di un gruppo di madri che cercano di bilanciare le sfide della maternità, della carriera e della vita sociale. Tra momenti comici e riflessivi, esplora le difficoltà e le gioie del diventare madre nella vita moderna.",
+        "autore": "Catherine Reitman",
+        "genere": ["Commedia", "Dramma", "Familiare"],
+        "valutazione": 7.4,
+        "opening": "https://www.youtube.com/watch?v=95UyHmjQ7ws"
+    },
+    {
+        "titolo": "Young Sheldon",
+        "immagine": "../images/young_sheldon.jpg",
+        "data": "2017",
+        "trama": "La serie segue la giovinezza di Sheldon Cooper, un brillante e socialmente inetto bambino prodigio, mentre cresce in Texas e affronta le sfide della scuola, della famiglia e della sua incredibile intelligenza.",
+        "autore": "Chuck Lorre, Bill Prady",
+        "genere": ["Commedia", "Drammatico", "Familiare"],
+        "valutazione": 7.6,
+        "opening": "https://www.youtube.com/watch?v=00cDdxG5XJE"
+    }    
+]

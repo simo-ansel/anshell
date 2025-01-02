@@ -1,0 +1,330 @@
+/* ==========================================
+   Stili Globali
+========================================== */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1f2937; /* Sfondo grigio scuro */
+    color: white;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Previene lo scrolling orizzontale */
+}
+
+a {
+    text-decoration: none;
+    color: #9b8bff;
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+    color: #7a61d9;
+}
+
+/* ==========================================
+   Header
+========================================== */
+
+header {
+    background-color: #2d3748; /* Sfondo più scuro per l'header */
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2.5rem; /* Font più grande per una visibilità maggiore */
+    font-weight: 700;
+    color: #9b8bff;
+    transition: color 0.3s ease-in-out;
+}
+
+header h1:hover {
+    color: #7a61d9;
+}
+
+nav ul {
+    display: flex;
+    gap: 1.5rem;
+}
+
+nav a {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #9b8bff;
+    transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+    color: #7a61d9;
+}
+
+/* ==========================================
+   Sezione Principale
+========================================== */
+
+main {
+    padding: 24px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    color: #68d391; /* Verde */
+    margin-bottom: 32px;
+}
+
+/* ==========================================
+   Locandine delle Opere
+========================================== */
+
+.opera {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    border-radius: 12px;
+    background-color: #2d374838; /* Sfondo semi-trasparente */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease-in-out;
+    overflow: hidden;
+    padding: 7%;
+}
+
+.opera img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    border-radius: 12px;
+    margin: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.opera .divider {
+    width: 80%;
+    height: 2px;
+    background-color: #7a61d9;
+    margin: 10px 0;
+}
+
+.opera h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #7a61d9;
+    margin: 0;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.opera h3:hover {
+    color: #9b8bff;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+.opera:hover {
+    transform: scale(1.05);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+}
+
+#random-opere {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 30px;
+    justify-items: center;
+}
+
+/* ==========================================
+   Modale
+========================================== */
+
+#modale {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+#modale.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+#modale.show .modal-content {
+    transform: translateY(0);
+}
+
+.modal-content {
+    background: #1e1e1e;
+    border-radius: 12px;
+    padding: 20px;
+    color: white;
+    max-width: 400px;
+    width: 90%;
+    max-height: 80vh; /* Imposta un'altezza massima per il modale */
+    overflow-y: auto; /* Aggiunge lo scroll verticale se necessario */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+    transform: translateY(-40px);
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Mantiene il pulsante "Chiudi" in fondo */
+}
+
+/* Titolo */
+.modal-content h3 {
+    margin: 0 0 10px; /* Margine più compatto */
+    font-size: 1.5rem; /* Dimensione ridotta del titolo */
+    color: #68d391;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+    border-bottom: 2px solid #68d391;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+/* Testo del contenuto */
+.modal-content p {
+    margin: 10px 0; /* Margini più ridotti */
+    font-size: 0.9rem; /* Testo leggermente più piccolo */
+    line-height: 1.4;
+}
+
+.modal-content strong {
+    color: #f39c12;
+}
+
+.modal-content iframe {
+    width: 100%; /* Adatta l'iframe alla larghezza del contenitore */
+    height: auto; /* Mantiene il rapporto di aspetto */
+    aspect-ratio: 16/9; /* Imposta il rapporto standard per video */
+    border: none; /* Rimuove il bordo predefinito dell'iframe */
+    margin: 20px 0; /* Distanza dagli altri contenuti */
+}
+
+/* Pulsante Chiudi */
+#chiudi-modale {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 8px 16px; /* Pulsante più piccolo */
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem; /* Testo più piccolo */
+    align-self: center bottom; /* Centro il pulsante orizzontalmente */
+    margin-top: 20px; /* Distanza dal contenuto */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#chiudi-modale:hover {
+    background-color: #c0392b;
+    transform: scale(1.05);
+}
+
+/* Effetto hover per il contenitore */
+.modal-content:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+}
+
+/* ==========================================
+   Pulsante di Ricarica
+========================================== */
+
+.reload-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: block;
+    margin: 20px auto;
+    padding: 15px;
+}
+
+.reload-btn img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.reload-btn:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+/* ==========================================
+   Layout Responsivo
+========================================== */
+
+@media (max-width: 640px) {
+    header {
+        padding: 16px;
+    }
+
+    h1 {
+        font-size: 1.75rem;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main {
+        padding: 16px;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    #random-opere {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    }
+
+    .opera {
+        width: 90%;
+        height: auto;
+    }
+
+    .opera img {
+        height: 200px;
+    }
+
+    .opera h3 {
+        font-size: 1.5rem;
+    }
+
+    .modal-content {
+        padding: 16px;
+        max-width: 90%;
+    }
+
+    .modal-content h3 {
+        font-size: 1.3rem;
+    }
+
+    .modal-content p {
+        font-size: 0.85rem;
+    }
+
+    #chiudi-modale {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+}
