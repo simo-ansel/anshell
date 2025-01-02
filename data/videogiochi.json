@@ -52,26 +52,6 @@
         "trailer": "https://www.youtube.com/embed/hYIo6gE9k7A"
     },
     {
-        "titolo": "Crash e il dominio sui mutanti",
-        "immagine": "../images/crash_dominio_mutanti.jpg",
-        "data": "2008",
-        "trama": "Crash Bandicoot deve affrontare Neo Cortex e i suoi nuovi mutanti in un'avventura ricca di azione. Con un gameplay innovativo che permette di controllare i nemici, il gioco espande il mondo e le possibilità della serie.",
-        "autore": "Radical Entertainment",
-        "genere": ["Azione", "Platform", "Avventura"],
-        "valutazione": 6.9,
-        "trailer": "https://www.youtube.com/embed/CYPvxt0yJYI"
-    },
-    {
-        "titolo": "Crash of the Titans",
-        "immagine": "../images/crash_of_the_titans.jpg",
-        "data": "2007",
-        "trama": "Crash Bandicoot si lancia in una nuova avventura per fermare Neo Cortex e Nina Cortex, sfruttando un'abilità unica che gli consente di controllare enormi creature chiamate Titani. Un mix di azione, platform e umorismo classico della serie.",
-        "autore": "Radical Entertainment",
-        "genere": ["Azione", "Platform", "Avventura"],
-        "valutazione": 7.1,
-        "trailer": "https://www.youtube.com/embed/X98gN2iMdSI"
-    },
-    {
         "titolo": "Crash Team Racing",
         "immagine": "../images/crash_team_racing.jpg",
         "data": "1999",
