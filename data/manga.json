@@ -1,0 +1,72 @@
+[
+  {
+    "titolo": "Dai Dark",
+    "immagine": "images/dai_dark.jpg",
+    "data": "2021",
+    "trama": "Zaha Sanko, un giovane in possesso di un oggetto misterioso capace di manipolare la materia, diventa un obiettivo per entità malvagie.",
+    "autore": "Q Hayashida",
+    "genere": [
+      "Fantascienza",
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.3,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Devilman",
+    "immagine": "images/devilman.jpg",
+    "data": "1972",
+    "trama": "Akira Fudo si unisce a Ryo Asuka per fermare una crescente minaccia demoniaca. Inaspettatamente, si trasforma in Devilman, un essere dotato di poteri sovrumani.",
+    "autore": "Go Nagai",
+    "genere": [
+      "Horror",
+      "Azione",
+      "Fantascienza"
+    ],
+    "valutazione": 9.5,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Mela Meccanica",
+    "immagine": "images/mela_meccanica.jpg",
+    "data": "1970",
+    "trama": "In un mondo distopico, Tezuka esplora la natura umana attraverso racconti che ruotano attorno alla 'Mela Meccanica', simbolo di un progresso incontrollato.",
+    "autore": "Osamu Tezuka",
+    "genere": [
+      "Fantascienza",
+      "Satira",
+      "Drammatico"
+    ],
+    "valutazione": 8.1,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "One Piece",
+    "immagine": "images/one_piece.jpg",
+    "data": "1997",
+    "trama": "Luffy, un giovane pirata, cerca il leggendario tesoro One Piece per diventare il Re dei Pirati. Durante il viaggio, forma una ciurma di compagni e affronta sfide e nemici in un'avventura verso la libertà.",
+    "autore": "Eiichiro Oda",
+    "genere": [
+      "Avventura",
+      "Azione",
+      "Fantasy"
+    ],
+    "valutazione": 9.8,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Rent-a-Girlfriend",
+    "immagine": "images/rent_a_girlfriend.jpg",
+    "data": "2017",
+    "trama": "Kazuya affitta una fidanzata tramite un'app dopo una delusione amorosa. La relazione finta con Chizuru si complica quando si trovano coinvolti in situazioni imbarazzanti, mentre altre ragazze entrano nella loro vita.",
+    "autore": "Rei Tōma",
+    "genere": [
+      "Romantico",
+      "Commedia",
+      "Slice of Life"
+    ],
+    "valutazione": 7.6,
+    "tipo": "manga"
+  }
+]

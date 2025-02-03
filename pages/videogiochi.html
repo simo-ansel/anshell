@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="it">
+  <!-- Intestazione della pagina -->
+  <head>
+    <!-- Creatore: Simone Anselmi aka Anshell -->
+    <!-- Descrizione: Pagina web per la biblioteca personale ANSHELL (sezione dedicata ai videogiochi) -->
+    <!-- Codifica dei caratteri: UTF-8 per supportare caratteri speciali -->
+    <meta charset="UTF-8">
+    <!-- Impostazioni per il responsive design: Assicura la corretta visualizzazione su dispositivi mobili -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Titolo della pagina che appare nella barra del browser -->
+    <title>ANSHELL - Biblioteca Personale</title>
+    <!-- Icona del sito che appare sulla tab del browser -->
+    <link rel="icon" href="../icon.png" type="image/x-icon">
+    <!-- Font Poppins da Google Fonts per una tipografia moderna e leggibile -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- Collegamento al foglio di stile principale della pagina (CSS) -->
+    <link rel="stylesheet" href="../css/styles.css">
+  </head>
+  <body class="body">
+    <!-- Inclusione del file JavaScript per la logica dinamica della sezione Videogiochi -->
+    <script type="module" src="../js/script_videogiochi.js"></script>
+    <!-- Sezione Header: contiene il logo e il menu di navigazione -->
+    <header class="header">
+      <!-- Logo del sito, link alla home -->
+      <a href="../index.html" class="logo">ANSHELL</a>
+      <!-- Pulsante hamburger per la versione mobile -->
+      <button class="menu-toggle">&#9776;</button>
+      <!-- Barra di navigazione con link alle diverse sezioni del sito -->
+      <nav>
+        <ul class="nav-list">
+          <!-- Link per la sezione anime -->
+          <li><a href="anime.html" class="nav-link">Anime</a></li>
+          <!-- Link per la sezione manga -->
+          <li><a href="manga.html" class="nav-link">Manga</a></li>
+          <!-- Link per la sezione libri -->
+          <li><a href="libri.html" class="nav-link">Libri</a></li>
+          <!-- Link per la sezione serie TV -->
+          <li><a href="serieTV.html" class="nav-link">Serie TV</a></li>
+          <!-- Link per la sezione videogiochi -->
+          <li><a href="videogiochi.html" class="nav-link">Videogiochi</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Overlay per il menu di navigazione -->
+    <div class="nav-list-overlay"></div>
+    <!-- Sezione Main Content: contenitore principale per il contenuto della pagina -->
+    <main class="main-content">
+      <!-- Descrizione della sezione Videogiochi, con titolo e testo introduttivo -->
+      <section class="description">
+        <h2 class="description-title">Videogiochi</h2>
+        <p class="description-text">Videogiochi appassionanti: open world, platform, avventure intime, azione e RPG, per sfide e storie indimenticabili.</p>
+      </section>
+      <!-- Griglia dinamica che conterrà le locandine dei videogiochi -->
+      <div id="grid-opere" class="grid-content">
+        <!-- Le locandine dei videogiochi verranno aggiunte dinamicamente tramite JavaScript -->
+      </div>
+    </main>
+    <!-- Modale che si apre per visualizzare i dettagli delle opere -->
+    <div id="modal" class="modal-content">
+      <!-- Il contenuto del modale sarà inserito dinamicamente tramite JavaScript -->
+    </div>
+    <!-- Footer con le informazioni legali e di copyright -->
+    <footer class="footer">
+      <p>&copy; 2024 ANSHELL. Tutti i diritti riservati.</p>
+    </footer>
+  </body>
+</html>
