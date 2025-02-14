@@ -1,0 +1,198 @@
+[
+  {
+    "titolo": "1984",
+    "immagine": "images/1984.jpg",
+    "data": "1949",
+    "trama": "In un futuro totalitario, Winston Smith vive sotto la costante sorveglianza del Partito e del Grande Fratello. Disilluso dal regime, tenta di ribellarsi, ma si ritrova intrappolato in un sistema che manipola la realtà e soffoca ogni libertà.",
+    "autore": "George Orwell",
+    "genere": [
+      "Distopia",
+      "Politica",
+      "Fiction"
+    ],
+    "valutazione": 9.5,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "Come trattare gli altri e farseli amici",
+    "immagine": "images/come_trattare_gli_altri_e_farseli_amici.jpg",
+    "data": "1936",
+    "trama": "Il libro, attraverso esempi pratici, offre principi per migliorare le relazioni interpersonali, insegnando come guadagnare amicizie, influenzare positivamente gli altri e gestire conflitti con empatia e comprensione.",
+    "autore": "Dale Carnegie",
+    "genere": [
+      "Autosviluppo",
+      "Psicologia",
+      "Relazioni"
+    ],
+    "valutazione": 9,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "Così parlò Zarathustra",
+    "immagine": "images/cosi_parlo_zarathustra.jpg",
+    "data": "1883",
+    "trama": "Zarathustra, un eremita che ha vissuto isolato per anni, scende dalla montagna per condividere con l'umanità le sue scoperte. Incontra vari personaggi, tra cui seguaci e scettici, mentre cerca di insegnare l'idea dell'Übermensch, sfidando le convenzioni morali e l'idea di Dio.",
+    "autore": "Friedrich Nietzsche",
+    "genere": [
+      "Filosofia",
+      "Poesia",
+      "Letteratura"
+    ],
+    "valutazione": 8.7,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "Fahrenheit 451",
+    "immagine": "images/fahrenheit_451.jpg",
+    "data": "1953",
+    "trama": "Guy Montag, un pompiere in una società dove i libri sono vietati e bruciati. Dopo un incontro con una giovane ragazza, inizia a mettere in discussione il suo ruolo e il sistema oppressivo che lo circonda.",
+    "autore": "Ray Bradbury",
+    "genere": [
+      "Distopia",
+      "Fantascienza",
+      "Romanzo"
+    ],
+    "valutazione": 9.1,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "Guida galattica per autostoppisti",
+    "immagine": "images/guida_galattica_per_autostoppisti.jpg",
+    "data": "1979",
+    "trama": "Arthur Dent, un terrestre che scopre che la Terra sta per essere distrutta per fare spazio a una superstrada galattica, viene salvato dal suo amico Ford Prefect, un alieno. Insieme, si imbarcano in un viaggio intergalattico pieno di strani incontri.",
+    "autore": "Douglas Adams",
+    "genere": [
+      "Fantascienza",
+      "Commedia",
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "I fiori del male",
+    "immagine": "images/i_fiori_del_male.jpg",
+    "data": "1857",
+    "trama": "Il giovane Baudelaire, turbato dalla società borghese, esplora i temi della bellezza, del peccato e della sofferenza attraverso i versi delle sue poesie.",
+    "autore": "Charles Baudelaire",
+    "genere": [
+      "Poesia",
+      "Letteratura francese"
+    ],
+    "valutazione": 8.7,
+    "trailer": "",
+    "tipo": "libro"
+  },
+  {
+    "titolo": "Memorie di Adriano",
+    "immagine": "images/memorie_di_adriano.jpg",
+    "data": "1951",
+    "trama": "L'imperatore Adriano, ormai anziano, riflette sulla propria vita e sul suo governo, attraversando le esperienze più significative, tra amore, politica e filosofia.",
+    "autore": "Marguerite Yourcenar",
+    "genere": [
+      "Storico",
+      "Narrativa",
+      "Biografico"
+    ],
+    "valutazione": 9.4,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "L'arte di essere felici",
+    "immagine": "images/l_arte_di_essere_felici.jpg",
+    "data": "1822",
+    "trama": "Schopenhauer esplora la natura della felicità e i modi per raggiungerla, focalizzandosi sulle difficoltà umane e sulla sofferenza inevitabile della vita.",
+    "autore": "Arthur Schopenhauer",
+    "genere": [
+      "Filosofia",
+      "Autosviluppo",
+      "Classico"
+    ],
+    "valutazione": 8.8,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "L'interpretazione dei sogni",
+    "immagine": "images/l_interpretazione_dei_sogni.jpg",
+    "data": "1900",
+    "trama": "Freud esplora come i sogni siano espressioni di desideri inconsci repressi. Attraverso l'analisi dei sogni di pazienti e di esempi tratti dalla vita quotidiana, sviluppa la teoria che i sogni siano un mezzo per il subconscio di comunicare i conflitti interiori.",
+    "autore": "Sigmund Freud",
+    "genere": [
+      "Psicologia",
+      "Filosofia",
+      "Saggistica"
+    ],
+    "valutazione": 9.2,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "L'uomo più ricco di Babilonia",
+    "immagine": "images/l_uomo_piu_ricco_di_babilonia.jpg",
+    "data": "1926",
+    "trama": "Un giovane babilonese, in cerca di successo finanziario, apprende le leggi della ricchezza attraverso saggi consigli di esperti e esperienze pratiche.",
+    "autore": "George S. Clason",
+    "genere": [
+      "Finanza",
+      "Autosviluppo",
+      "Motivazionale"
+    ],
+    "valutazione": 8.5,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "Siddhartha",
+    "immagine": "images/siddhartha.jpg",
+    "data": "1922",
+    "trama": "Siddhartha, un giovane Brahmino, lascia la sua casa per cercare un senso più profondo della vita, esplorando il lusso, il piacere e l'ascetismo. Alla fine, attraverso l'esperienza e il contatto con la natura, trova la pace interiore e una comprensione del mondo.",
+    "autore": "Hermann Hesse",
+    "genere": [
+      "Romanzo",
+      "Spiritualità",
+      "Filosofia"
+    ],
+    "valutazione": 8.8,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "The Witcher: Il guardiano degli Innocenti",
+    "immagine": "images/the_witcher_il_guardiano_degli_innocenti.jpg",
+    "data": "1993",
+    "trama": "L'antologia si apre con una cornice di 7 racconti principali. Geralt di Rivia, cacciatore di mostri, dopo essere stato ferito in uno scontro, si riposa nel Tempio di Melitele. Durante la sua convalescenza ricorda alcuni episodi recenti, ognuno dei quali forma una storia a sé stante.",
+    "autore": "Andrzej Sapkowski",
+    "genere": [
+      "Fantasy",
+      "Avventura",
+      "Letteratura"
+    ],
+    "valutazione": 9.2,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "The Witcher: La spada del destino",
+    "immagine": "images/the_witcher_la_spada_del_destino.jpg",
+    "data": "1992",
+    "trama": "Una raccolta di sei racconti che seguono le vicende di Geralt di Rivia. A differenza de Il Guardiano degli Innocenti si riscontra l'assenza di una cornice narrativa che leghi tra loro le varie storie dell'antologia.",
+    "autore": "Andrzej Sapkowski",
+    "genere": [
+      "Fantasy",
+      "Avventura",
+      "Drammatico"
+    ],
+    "valutazione": 9.4,
+    "tipo": "libro"
+  },
+  {
+    "titolo": "Verità/menzogna",
+    "immagine": "images/verita_menzogna.jpg",
+    "data": "1972",
+    "trama": "In questa raccolta di articoli, George Orwell esplora le contraddizioni dei sistemi politici e la manipolazione della realtà attraverso la propaganda.",
+    "autore": "George Orwell",
+    "genere": [
+      "Giornalismo",
+      "Politica",
+      "Saggistica"
+    ],
+    "valutazione": 8.7,
+    "tipo": "libro"
+  }
+]

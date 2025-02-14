@@ -1,0 +1,318 @@
+[
+  {
+    "titolo": "Beastars",
+    "immagine": "images/beastars.jpg",
+    "data": "2019",
+    "trama": "Nel contesto di una scuola frequentata da animali antropomorfi, Legoshi, un lupo, lotta con il suo istinto carnivoro mentre sviluppa una complessa relazione con Haru, una coniglietta.",
+    "autore": "Paru Itagaki",
+    "genere": [
+      "Drammatico",
+      "Psicologico",
+      "Romantico"
+    ],
+    "valutazione": 8.7,
+    "trailer": "https://www.youtube.com/embed/-5M4lbEpn6c",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Belladonna of Sadness",
+    "immagine": "images/belladonna_of_sadness.jpg",
+    "data": "1973",
+    "trama": "La storia di Jeanne, una giovane donna accusata di stregoneria in un contesto di oppressione e ingiustizia, si svolge tra visioni psichedeliche e tragedie personali.",
+    "autore": "Eiichi Yamamoto",
+    "genere": [
+      "Drammatico",
+      "Storico",
+      "Psichedelico"
+    ],
+    "valutazione": 8,
+    "trailer": "https://www.youtube.com/embed/c9LUA3NgQN0",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Cowboy Bebop",
+    "immagine": "images/cowboy_bebop.jpg",
+    "data": "1998",
+    "trama": "In un futuro segnato dalla disperazione e dalla solitudine, Spike Spiegel e il suo equipaggio, a bordo dell'astronave Bebop, affrontano una serie di casi e nemici mentre cercano di fuggire dai fantasmi del loro passato.",
+    "autore": "Shinichiro Watanabe",
+    "genere": [
+      "Azione",
+      "Fantascienza",
+      "Noir"
+    ],
+    "valutazione": 8.9,
+    "trailer": "https://www.youtube.com/embed/EL-D9LrFJd4",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Demon Slayer",
+    "immagine": "images/demon_slayer.jpg",
+    "data": "2019",
+    "trama": "Dopo la tragedia che ha distrutto la sua famiglia e trasformato sua sorella Nezuko in un demone, Tanjiro Kamado intraprende un viaggio per trovare una cura e vendicare i suoi cari.",
+    "autore": "Haruo Sotozaki",
+    "genere": [
+      "Anime",
+      "Azione",
+      "Fantasy",
+      "Avventura"
+    ],
+    "valutazione": 8.7,
+    "trailer": "https://www.youtube.com/embed/YkJvHe3KK2c",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Devilman Crybaby",
+    "immagine": "images/devilman_crybaby.jpg",
+    "data": "2018",
+    "trama": "Akira Fudo, un ragazzo che si unisce al suo amico Ryo Asuka per diventare un Devilman, si ritrova coinvolto in una guerra tra demoni e umani.",
+    "autore": "Go Nagai",
+    "genere": [
+      "Azione",
+      "Horror",
+      "Drama"
+    ],
+    "valutazione": 8.3,
+    "trailer": "https://www.youtube.com/embed/SM5mnH7JrJE",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Ghost in the Shell",
+    "immagine": "images/ghost_in_the_shell.jpg",
+    "data": "1995",
+    "trama": "Nel futuro, dove la tecnologia ha quasi completamente integrato l'umanità, l'agente cibernetico Motoko Kusanagi indaga su un misterioso hacker noto come Puppet Master.",
+    "autore": "Mamoru Oshii",
+    "genere": [
+      "Sci-Fi",
+      "Azione",
+      "Cyberpunk"
+    ],
+    "valutazione": 8.3,
+    "trailer": "https://www.youtube.com/embed/oP2Pt6m3yKU",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Great Teacher Onizuka",
+    "immagine": "images/gto.jpg",
+    "data": "1999",
+    "trama": "Eikichi Onizuka, un ex-teppista e campione di arti marziali, diventa insegnante in una scuola superiore e affronta le difficoltà di educare giovani studenti problematici.",
+    "autore": "Tohru Fujisawa",
+    "genere": [
+      "Commedia",
+      "Drama",
+      "School"
+    ],
+    "valutazione": 8.9,
+    "trailer": "https://www.youtube.com/embed/2JGl6UzfPkE",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Il Castello Errante di Howl",
+    "immagine": "images/il_castello_errante_di_howl.jpg",
+    "data": "2004",
+    "trama": "Sophie, una giovane donna trasformata in un'anziana da una maledizione, intraprende un'avventura che la porterà nel magico castello errante di Howl, un eccentrico mago con misteriosi segreti.",
+    "autore": "Hayao Miyazaki",
+    "genere": [
+      "Fantasy",
+      "Avventura",
+      "Romantico"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/iwROgK94zcM",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Junji Ito Maniac: Japanese Tales of the Macabre",
+    "immagine": "images/junji_ito_maniac.jpg",
+    "data": "2023",
+    "trama": "Una serie antologica che raccoglie storie horror di Junji Ito, esplorando il soprannaturale e la follia attraverso il suo distintivo stile visivo, con racconti che vanno da corpi deformati a inquietanti suspense psicologiche.",
+    "autore": "Junji Ito",
+    "genere": [
+      "Horror",
+      "Psicologico",
+      "Soprannaturale"
+    ],
+    "valutazione": 7.3,
+    "trailer": "https://www.youtube.com/embed/0N2Nn-42oGQ",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Kakegurui",
+    "immagine": "images/kakegurui.jpg",
+    "data": "2017",
+    "trama": "Yumeko Jabami, una nuova studentessa in una scuola d'élite, sfida un sistema di giochi d'azzardo che domina la vita degli studenti. Con la sua personalità imprevedibile e un talento straordinario per il gioco, Yumeko semina caos e tensione, mettendo in discussione le fondamenta della gerarchia sociale.",
+    "autore": "Homura Kawamoto",
+    "genere": [
+      "Psicologico",
+      "Drammatico",
+      "Gioco d'azzardo"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/7hBoJDcBt28",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Kiki Consegne a Domicilio",
+    "immagine": "images/kiki_consegne_a_domicilio.jpg",
+    "data": "1989",
+    "trama": "Kiki, una giovane strega, lascia casa per diventare indipendente e avviare un servizio di consegne con la sua scopa e il gatto Jiji.",
+    "autore": "Hayao Miyazaki",
+    "genere": [
+      "Fantasy",
+      "Avventura",
+      "Famiglia"
+    ],
+    "valutazione": 8,
+    "trailer": "https://www.youtube.com/embed/4bG17OYs-GA",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Made in Abyss",
+    "immagine": "images/made_in_abyss.jpg",
+    "data": "2017",
+    "trama": "Riko, una giovane ragazza curiosa e determinata, decide di intraprendere un viaggio nel misterioso e pericoloso Abisso, un luogo oscuro e inespugnabile che nasconde antichi segreti e creature mortali.",
+    "autore": "Masayuki Kojima",
+    "genere": [
+      "Avventura",
+      "Fantasy",
+      "Drammatico"
+    ],
+    "valutazione": 8.7,
+    "trailer": "https://www.youtube.com/embed/e91G8m9uM_0",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Mob Psycho 100",
+    "immagine": "images/mob_psycho_100.jpg",
+    "data": "2016",
+    "trama": "Shigeo 'Mob' Kageyama, un ragazzo con poteri psichici straordinari, sogna una vita tranquilla. Ma quando le sue emozioni esplodono, i suoi poteri minacciano di distruggere tutto intorno a lui.",
+    "autore": "ONE",
+    "genere": [
+      "Azione",
+      "Commedia",
+      "Supernaturale"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/Bw-5Lka7gPE",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Neon Genesis Evangelion",
+    "immagine": "images/neon_genesis_evangelion.jpg",
+    "data": "1995",
+    "trama": "Nel futuro post-apocalittico di Tokyo-3, Shinji Ikari è costretto a pilotare l'Evangelion, un gigantesco robot progettato per combattere gli Angeli, creature misteriose che minacciano l'esistenza umana.",
+    "autore": "Hideaki Anno",
+    "genere": [
+      "Azione",
+      "Psicologico",
+      "Mecha"
+    ],
+    "valutazione": 8.8,
+    "trailer": "https://www.youtube.com/embed/fShlVhCfHig",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Pluto",
+    "immagine": "images/pluto.jpg",
+    "data": "2022",
+    "trama": "In questa rivisitazione oscura e psicologica del classico *Astro Boy*, un detective robot di nome Gesicht è incaricato di indagare su una serie di omicidi misteriosi che coinvolgono robot di alto profilo.",
+    "autore": "Naoki Urasawa",
+    "genere": [
+      "Giallo",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "valutazione": 8.5,
+    "trailer": "https://www.youtube.com/embed/-o8T4c3oQ9s",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Pom Poko",
+    "immagine": "images/pom_poko.jpg",
+    "data": "1994",
+    "trama": "Un gruppo di tanuki, creature magiche capaci di trasformarsi in qualsiasi forma, si unisce per difendere la propria foresta, minacciata dall'espansione urbana.",
+    "autore": "Isao Takahata",
+    "genere": [
+      "Fantasy",
+      "Drammatico",
+      "Commedia"
+    ],
+    "valutazione": 7.4,
+    "trailer": "https://www.youtube.com/embed/_7cowIHjCD4",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Porco Rosso",
+    "immagine": "images/porco_rosso.jpg",
+    "data": "1992",
+    "trama": "Marco, un pilota che vive come un maiale antropomorfo dopo una misteriosa maledizione, solca i cieli del Mediterraneo come cacciatore di taglie.",
+    "autore": "Hayao Miyazaki",
+    "genere": [
+      "Avventura",
+      "Fantasy",
+      "Storico"
+    ],
+    "valutazione": 7.7,
+    "trailer": "https://www.youtube.com/embed/awEC-aLDzjs",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Redline",
+    "immagine": "images/redline.jpg",
+    "data": "2009",
+    "trama": "In un futuro galattico dove le corse automobilistiche sono diventate l'evento sportivo più estremo, JP, un pilota audace, partecipa alla leggendaria corsa Redline, la più pericolosa di tutte.",
+    "autore": "Takeshi Koike",
+    "genere": [
+      "Azione",
+      "Sci-Fi",
+      "Sportivo"
+    ],
+    "valutazione": 7.5,
+    "trailer": "https://www.youtube.com/embed/sonTXTZqE-Q",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Sword Art Online",
+    "immagine": "images/sword_art_online.jpg",
+    "data": "2012",
+    "trama": "Nel futuro, un gruppo di giocatori rimane intrappolato all'interno di un gioco di realtà virtuale dove la morte nel gioco porta alla morte reale. Kirito, uno dei protagonisti, diventa una figura centrale nella lotta per la sopravvivenza.",
+    "autore": "Rei Kawahara",
+    "genere": [
+      "Azione",
+      "Fantasy",
+      "Avventura"
+    ],
+    "valutazione": 7.8,
+    "trailer": "https://www.youtube.com/embed/1oOBjyOKu2o",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Trigun",
+    "immagine": "images/trigun.jpg",
+    "data": "1998",
+    "trama": "Vash the Stampede è un pistolero leggendario, la cui taglia è tra le più alte della galassia, ma il suo vero obiettivo non è la violenza, bensì la ricerca di redenzione e pace.",
+    "autore": "Yasuhiro Nightow",
+    "genere": [
+      "Azione",
+      "Fantascienza",
+      "Western"
+    ],
+    "valutazione": 8.4,
+    "trailer": "https://www.youtube.com/embed/4OxFSy8G5wk",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Yu-Gi-Oh!",
+    "immagine": "images/yugioh.jpg",
+    "data": "2000",
+    "trama": "Yugi Mutou risolve l'antico Millennium Puzzle, risvegliando lo spirito di un faraone. Con l'aiuto dei suoi amici, Yugi affronta duelli di carte magiche contro avversari pericolosi, mentre cerca di scoprire il mistero legato al suo alter ego e al destino del puzzle.",
+    "autore": "Kazuki Takahashi",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Gioco di carte"
+    ],
+    "valutazione": 7.9,
+    "trailer": "https://www.youtube.com/embed/WHUcHw7j2Mc",
+    "tipo": "anime"
+  }
+]

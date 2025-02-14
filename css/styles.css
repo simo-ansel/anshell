@@ -1,0 +1,764 @@
+/* 
+* Anshell - Biblioteca Personale 
+* 
+* Creatore: Simone Anselmi aka Anshell 
+*
+* Descrizione: Questo file CSS contiene gli stili per il layout e la formattazione del sito web. 
+* Include la gestione della struttura di navigazione, contenuti principali, elementi visivi 
+* e reattività per schermi di diverse dimensioni. 
+*/
+
+/****************************************************/
+/* Stile generale della pagina 						*/
+/****************************************************/
+
+/* Body della pagina: header e main content */
+body {
+	background-color: #0f172a;
+	/* Colore di sfondo (blu scuro)*/
+	color: white;
+	/* Colore del testo */
+	font-family: 'Poppins', sans-serif;
+	/* Font utilizzato per il testo */
+	margin: 0;
+	/* Rimuove i margini di default */
+	padding: 0;
+	/* Rimuove i padding di default */
+	font-display: swap;
+	/* Usa il fallback del font fino al caricamento di Poppins */
+}
+
+/* Header: barra superiore con logo e navigazione */
+.header {
+	background-color: #1a202c;
+	/* Colore di sfondo (grigio scuro) */
+	box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5);
+	/* Aggiunge un'ombra alla parte inferiore */
+	display: flex;
+	/* Usa il flexbox per allineare gli elementi */
+	justify-content: space-between;
+	/* Distanza tra il logo e i link di navigazione */
+	align-items: center;
+	/* Allinea verticalmente gli elementi */
+}
+
+/* Logo del sito */
+.logo {
+	font-size: xx-large;
+	/* Dimensione del font */
+	text-decoration: none;
+	/* Rimuove la sottolineatura data dal link */
+	font-weight: bold;
+	/* Grassetto */
+	color: #7a61d9;
+	/* Colore del logo (viola) */
+	transition: color 0.5s ease;
+	/* Aggiunge un'animazione per il cambio di colore */
+	margin: 16px;
+	/* Aggiunge un margine attorno */
+}
+
+/* Effetto hover per il logo */
+.logo:hover {
+	color: #9b8bff;
+	/* Colore quando si passa sopra con il mouse */
+}
+
+/* Lista di navigazione */
+.nav-list {
+	display: flex;
+	/* Flexbox per gli elementi della lista */
+	gap: 40px;
+	/* Distanza tra gli elementi */
+	list-style: none;
+	/* Rimuove i puntini dalla lista */
+	padding-right: 24px;
+	/* Aggiunge padding a destra */
+}
+
+/* Pulsante hamburger visibile solo sui dispositivi mobili */
+.menu-toggle {
+	display: none;
+	/* Nascosto di default */
+}
+
+/* Link della navigazione */
+.nav-link {
+	font-size: large;
+	/* Dimensione del testo */
+	color: #7a61d9;
+	/* Colore (viola) */
+	text-decoration: none;
+	/* Rimuove la sottolineatura data dai link */
+	transition: color 0.5s ease;
+	/* Aggiunge un'animazione per il cambio di colore */
+}
+
+/* Effetto hover per i link */
+.nav-link:hover {
+	color: #9b8bff;
+	/* Colore quando si passa sopra con il mouse */
+}
+
+/* Sezione principale */
+.main-content {
+	padding-left: 32px;
+	/* Padding a sinistra */
+	padding-right: 32px;
+	/* Padding a destra */
+	margin-bottom: 32px;
+	/* Margine in basso */
+}
+
+/* Layout a griglia per i contenuti */
+.grid-content {
+	display: grid;
+	/* Imposta una griglia */
+	grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+	/* Colonne a larghezza minima 360px */
+	gap: 24px;
+	/* Distanza tra gli elementi */
+	justify-items: center;
+	/* Allinea gli elementi al centro */
+}
+
+/****************************************************/
+/* Descrizione 										*/
+/****************************************************/
+
+/* Sezione descrizione */
+.description {
+	background-color: #1a202c;
+	/* Colore di sfondo (grigio scuro) */
+	border-radius: 12px;
+	/* Bordo arrotondato */
+	box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5);
+	/* Ombra per l'effetto di profondità */
+	text-align: left;
+	/* Allineamento del testo a sinistra */
+	padding-left: 16px;
+	/* Padding a sinistra */
+	padding-right: 16px;
+	/* Padding a destra */
+	margin-bottom: 32px;
+	/* Margine in basso */
+}
+
+/* Titolo della descrizione */
+.description-title {
+	font-size: 32px;
+	/* Dimensione del titolo */
+	font-weight: 400;
+	/* Peso del font (normale) */
+	color: #38a169;
+	/* Colore verde del titolo */
+	border-bottom: 2px solid #38a169;
+	/* Sottolineatura verde */
+	text-align: center;
+	/* Allineamento al centro */
+	padding-top: 8px;
+	/* Padding in alto */
+	padding-bottom: 8px;
+	/* Padding in basso */
+}
+
+/* Testo della descrizione */
+.description-text {
+	display: flex;
+	/* Usa il flexbox per il testo */
+	color: white;
+	/* Colore del testo (bianco) */
+	padding-bottom: 8px;
+	/* Padding in basso */
+}
+
+/****************************************************/
+/* Locandine 										*/
+/****************************************************/
+
+/* Contenuto delle opere */
+.opera {
+	display: flex;
+	/* Flexbox per la gestione degli elementi */
+	position: relative;
+	/* Posizione relativa per la gestione di altri elementi sopra */
+	background-size: cover;
+	/* Assicura che l'immagine di sfondo copra tutto lo spazio */
+	background-position: center;
+	/* Centra l'immagine di sfondo */
+	overflow: hidden;
+	/* Nasconde qualsiasi contenuto che esce dai bordi */
+	justify-content: center;
+	/* Allinea al centro */
+	align-items: center;
+	/* Allinea verticalmente al centro */
+	width: auto;
+	/* Larghezza del contenuto */
+	height: auto;
+	/* Altezza automatica per mantenere il rapporto */
+	border-radius: 12px;
+	/* Angoli arrotondati */
+	box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5);
+	/* Ombra leggera */
+	z-index: 1;
+	/* Posizione sopra gli altri elementi */
+	margin: 0;
+	/* Rimuove margini */
+	padding: 24px;
+	/* Padding attorno al contenuto */
+}
+
+/* Filtro di sfondo per l'effetto blur */
+.opera::before {
+	content: '';
+	/* Contenuto vuoto */
+	position: absolute;
+	/* Posizione assoluta per coprire l'intera area */
+	top: 0;
+	/* Allinea in alto */
+	left: 0;
+	/* Allinea a sinistra */
+	width: 100%;
+	/* Occupa tutta la larghezza */
+	height: 100%;
+	/* Occupa tutta l'altezza */
+	background-image: var(--background-url);
+	/* URL dell'immagine di sfondo */
+	background-size: cover;
+	/* Imposta l'immagine di sfondo per coprire l'intera area */
+	background-position: center;
+	/* Centra l'immagine di sfondo */
+	filter: blur(16px);
+	/* Applica un effetto blur */
+	z-index: -1;
+	/* Posizione dietro gli altri contenuti */
+	transition: transform 0.3s ease-in-out;
+	/* Animazione per il movimento */
+}
+
+/* Effetto hover per l'opera */
+.opera:hover {
+	transform: scale(1.05);
+	/* Aumenta la dimensione dell'opera */
+	box-shadow: 0 8px 10px rgba(0, 0, 0, 0.5);
+	/* Aggiunge un'ombra più forte */
+}
+
+/* Immagini delle opere */
+.opera img {
+	background-color: #f0f0f0;
+	/* Colore di sfondo per le immagini */
+	display: block;
+	/* Rende l'immagine un blocco */
+	object-fit: cover;
+	/* Assicura che l'immagine copra l'intera area */
+	border-radius: 12px;
+	/* Angoli arrotondati */
+	z-index: 1;
+	/* Posiziona l'immagine sopra gli altri elementi */
+	cursor: pointer;
+	/* Cambia il cursore quando si passa sopra */
+	transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+	/* Animazione per zoom e ombra */
+	width: 100%;
+	/* Imposta una larghezza fissa */
+	height: auto;
+	/* Mantiene il rapporto d'aspetto */
+}
+
+/* Effetto hover per l'immagine */
+.opera img:hover {
+	box-shadow: 0 0 14px 6px rgba(122, 97, 217, 1);
+	/* Ombra viola al passaggio del mouse */
+	transform: scale(1.02);
+	/* Zoom dell'immagine */
+}
+
+/****************************************************/
+/* Finestra Modale 									*/
+/****************************************************/
+
+/* Contenuto del modale */
+.modal-content {
+	background: rgba(0, 0, 0, 0.9);
+	/* Sfondo nero semi-trasparente */
+	color: white;
+	/* Colore del testo bianco */
+	max-width: 460px;
+	/* Larghezza massima del modal */
+	width: 90%;
+	/* Adattamento responsive per dispositivi più piccoli */
+	height: auto;
+	/* Altezza dinamica */
+	border-radius: 12px;
+	/* Angoli arrotondati */
+	overflow-y: auto;
+	/* Scroll verticale per contenuti lunghi */
+	overflow-x: hidden;
+	/* Evita l'overflow orizzontale */
+	padding: 16px;
+	/* Spaziatura interna uniforme */
+	position: fixed;
+	/* Posizionamento fisso rispetto alla finestra */
+	top: 50%;
+	/* Posiziona al centro verticalmente */
+	left: 50%;
+	/* Posiziona al centro orizzontalmente */
+	transform: translate(-50%, -50%);
+	/* Centra l'elemento rispetto a top e left */
+	z-index: 1;
+	/* Priorità sull'ordine di visualizzazione */
+	display: flex;
+	/* Layout flessibile */
+	flex-direction: column;
+	/* Dispone gli elementi in colonna */
+	align-items: stretch;
+	/* Allinea gli elementi in modo che si estendano */
+	visibility: hidden;
+	/* Inizialmente nascosto fino all'attivazione */
+}
+
+/* Visibilità del modal quando attivo */
+#modal.show {
+	visibility: visible;
+	/* Rende visibile il modal */
+}
+
+/* Contenitore principale per il titolo e l'icona */
+.header-modale {
+	font-size: 22px;
+	/* Dimensione del font */
+	color: #38a169;
+	/* Colore (verde) */
+	display: flex;
+	/* Layout flessibile */
+	align-items: center;
+	/* Centra verticalmente i contenuti */
+	width: 100%;
+	/* Layout flessibile */
+	border-bottom: solid 2px #38a169;
+	margin-bottom: 8px;
+}
+
+/* Icona dell'opera */
+.opera-icon {
+	transform: scale(0.5);
+	/* Riduce la dimensione dell'icona */
+	flex-shrink: 0;
+	/* Evita che si ridimensioni */
+	margin-left: auto;
+	/* Spinge l'icona completamente a destra */
+	display: block;
+	/* Assicura che si comporti correttamente */
+}
+
+/* Contenitore per il titolo */
+.title-modale {
+	flex-grow: 1;
+	/* Occupa lo spazio rimanente */
+	text-align: left;
+	/* Allinea il testo a sinistra */
+	max-width: calc(100% - 40px - 16px);
+	/* Evita sovrapposizioni */
+	white-space: normal;
+	/* Permette al testo di andare a capo */
+	word-break: break-word;
+	/* Spezza il testo su più righe se necessario */
+}
+
+/* Paragrafi del modal */
+.modal-content p {
+	margin: 4px 0;
+	/* Margine sopra e sotto */
+	font-size: 16px;
+	/* Dimensione del testo */
+	line-height: 1.2;
+	/* Altezza della linea per migliorare la leggibilità */
+	word-wrap: break-word;
+	/* Evita l'overflow del testo */
+}
+
+/* Parole in grassetto nel modal */
+.modal-content strong {
+	color: #e76f51;
+	/* Colore arancio */
+}
+
+/* Iframe per i video nel modal */
+.modal-content iframe {
+	width: 100%;
+	/* Occupa tutta la larghezza */
+	aspect-ratio: 16/9;
+	/* Rapporto d'aspetto 16:9 */
+	border: none;
+	/* Rimuove il bordo */
+	margin-top: 8px;
+	/* Margine superiore */
+	width: 100%;
+	aspect-ratio: 16/9;
+	/* Rapporto di aspetto per evitare alterazioni */
+}
+
+/* Contenitore della valutazione */
+.valutazione-container {
+	position: relative;
+	width: 100%;
+	/* Occupa tutta la larghezza disponibile */
+	height: 20px;
+	/* Altezza della barra */
+	background-color: #ddd;
+	/* Colore di sfondo della barra */
+	border-radius: 12px;
+	/* Arrotondamento */
+	margin: 5px auto;
+	/* Centra orizzontalmente con `margin: auto` */
+	border: 2px solid black;
+	/* Bordo nero */
+	box-sizing: border-box;
+	/* Include il bordo nel calcolo della larghezza */
+}
+
+/* Barra della valutazione */
+.valutazione-bar {
+	height: 100%;
+	/* Altezza completa del contenitore */
+	background-color: #38a169;
+	/* Colore verde */
+	border-radius: 12px;
+	/* Arrotondamento corrispondente al contenitore */
+	transition: width 0.3s ease;
+	/* Animazione fluida */
+	margin: 0;
+	/* Rimuove eventuali margini */
+}
+
+/* Tacca della valutazione */
+.valutazione-tacca {
+	position: absolute;
+	/* Posizionamento assoluto rispetto al contenitore */
+	top: -2px;
+	/* Posiziona la tacca sopra la barra */
+	width: 1px;
+	/* Larghezza della tacca */
+	height: 6px;
+	/* Altezza della tacca */
+	background-color: #000;
+	/* Colore nero */
+}
+
+/* Numero della valutazione */
+.valutazione-numero {
+	position: absolute;
+	/* Posizionamento assoluto */
+	top: 5px;
+	/* Posizione sopra la barra */
+	transform: translateX(-50%);
+	/* Corregge l'offset del 50% */
+	font-size: 12px;
+	/* Dimensione del testo */
+	color: #000;
+	/* Colore nero */
+	text-align: center;
+	/* Allinea il testo al centro */
+}
+
+/* Pulsante per chiudere il modal */
+#chiudi-modale {
+	background-color: rgba(231, 76, 60, 0.9);
+	/* Colore rosso */
+	color: white;
+	/* Colore del testo bianco */
+	border: none;
+	/* Rimuove il bordo */
+	padding: 8px 16px;
+	/* Padding attorno al testo */
+	border-radius: 12px;
+	/* Bordo arrotondato */
+	cursor: pointer;
+	/* Cambia il cursore */
+	font-size: 16px;
+	/* Dimensione del font */
+	align-self: center;
+	/* Allinea al centro */
+	margin-top: 16px;
+	/* Margine superiore */
+}
+
+/* Effetto hover per il pulsante di chiusura */
+#chiudi-modale:hover {
+	background-color: rgba(192, 57, 43, 0.8);
+	/* Colore rosso scuro */
+	transform: scale(1.05);
+	/* Leggero ingrandimento */
+}
+
+/****************************************************/
+/* Pulsante di ricarica 							*/
+/****************************************************/
+
+/* Testo per il bottone di ricarica */
+.reload-btn-text {
+	font-size: 16px;
+	/* Dimensione del testo */
+	font-weight: 400;
+	/* Peso del font (normale) */
+	color: #38a169;
+	/* Colore verde */
+	border-bottom: 2px solid #38a169;
+	/* Sottolineatura verde */
+	text-align: center;
+	/* Allineamento al centro */
+	margin-top: 32px;
+	/* Margine superiore */
+	margin-bottom: 16px;
+	/* Margine inferiore */
+	padding-bottom: 8px;
+	/* Padding inferiore */
+}
+
+/* Bottone per ricaricare la pagina */
+.reload-btn {
+	background-color: transparent;
+	/* Colore di sfondo trasparente */
+	border: none;
+	/* Rimuove il bordo */
+	cursor: pointer;
+	/* Cambia il cursore */
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	/* Aggiunge animazioni */
+	display: block;
+	/* Disposizione a blocco */
+	margin: auto;
+	/* Allinea al centro */
+	margin-top: 16px;
+	/* Margine superiore */
+	margin-bottom: -16px;
+	/* Margine inferiore */
+}
+
+/* Immagine del bottone di ricarica */
+.reload-btn img {
+	width: 70px;
+	/* Larghezza dell'immagine */
+	height: 70px;
+	/* Altezza dell'immagine */
+	border-radius: 50%;
+	/* Immagine circolare */
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	/* Aggiunge animazioni */
+	box-shadow: 0 6px 8px rgba(0, 0, 0, 0.5);
+	/* Ombra intorno all'immagine */
+}
+
+/* Effetto hover per l'immagine del bottone di ricarica */
+.reload-btn:hover img {
+	transform: scale(1.1);
+	/* Ingrandisce l'immagine */
+	box-shadow: 0 8px 10px rgba(0, 0, 0, 0.5);
+	/* Ombra intorno all'immagine */
+}
+
+/****************************************************/
+/* Footer 											*/
+/****************************************************/
+
+/* Footer: sezione inferiore */
+footer {
+	background-color: #1a202c;
+	/* Colore di sfondo scuro */
+	color: white;
+	/* Colore del testo bianco */
+	text-align: center;
+	/* Allineamento del testo al centro */
+	padding: 24px;
+	/* Padding attorno al footer */
+	position: relative;
+	/* Posizione relativa per altri elementi */
+}
+
+/* Testo del footer */
+footer p {
+	margin: 0;
+	/* Rimuove il margine */
+	font-size: 16px;
+	/* Dimensione del testo */
+}
+
+/****************************************************/
+/* Responsive CSS 									*/
+/****************************************************/
+
+/* Media query per schermi con larghezza massima di 740px (Smartphone) */
+@media screen and (max-width: 740px) {
+
+	/* Modifica l'header */
+	.header {
+		padding: 0;
+		/* Rimuove il padding nell'header per migliorare lo spazio */
+		position: relative;
+		/* Imposta la posizione relativa per il posizionamento di elementi interni */
+	}
+
+	/* Modifica del logo per schermi piccoli */
+	.logo {
+		font-size: 30px;
+		/* Riduce la dimensione del logo per schermi più piccoli */
+	}
+
+	/* Pulsante hamburger (menu) */
+	.menu-toggle {
+		background: none;
+		/* Rimuove il background del pulsante */
+		border: none;
+		/* Rimuove il bordo */
+		font-size: 30px;
+		/* Aumenta la dimensione del font per una visibilità maggiore */
+		cursor: pointer;
+		/* Imposta il cursore come puntatore per indicare che è cliccabile */
+		color: #7a61d9;
+		/* Colore del pulsante hamburger */
+		padding: 0;
+		/* Rimuove il padding per evitare spazi extra */
+		display: inline-block;
+		/* Rende il pulsante un blocco in linea per il layout */
+		margin-right: 16px;
+		/* Distanza a destra del pulsante */
+		position: absolute;
+		/* Posizionamento assoluto del pulsante */
+		right: 0;
+		/* Posiziona il pulsante sul bordo destro */
+		top: 50%;
+		/* Posiziona verticalmente al centro del contesto */
+		transform: translateY(-50%);
+		/* Correzione del posizionamento verticale per centrarlo perfettamente */
+	}
+
+	/* Effetto hover sul pulsante hamburger */
+	.menu-toggle:hover {
+		color: #9b8bff;
+		/* Cambia il colore del pulsante al passaggio del mouse */
+	}
+
+	/* Overlay che appare quando il menu è attivo */
+	.nav-list-overlay {
+		display: none;
+		/* Nasconde l'overlay di default */
+		position: fixed;
+		/* Posizionamento fisso rispetto alla finestra del browser */
+		top: 0;
+		left: 0;
+		/* Posiziona l'overlay in alto a sinistra */
+		width: 100%;
+		/* Occupa tutta la larghezza dello schermo */
+		height: 100%;
+		/* Occupa tutta l'altezza dello schermo */
+		z-index: 999;
+		/* Sovrascrive altri contenuti per garantire che l'overlay sia visibile sopra */
+		pointer-events: none;
+		/* Disabilita le interazioni con l'overlay */
+	}
+
+	/* Quando il menu è aperto, l'overlay prende il controllo */
+	.nav-list.open~.nav-list-overlay {
+		pointer-events: auto;
+		/* Abilita le interazioni con l'overlay quando il menu è aperto */
+	}
+
+	/* Menu di navigazione che appare a scomparsa */
+	.nav-list {
+		display: none;
+		/* Menu nascosto di default */
+		position: fixed;
+		/* Posizionamento fisso in alto a destra */
+		top: 40px;
+		/* Imposta un margine dal bordo superiore */
+		right: 16px;
+		/* Imposta un margine dal bordo destro */
+		border: solid 1px #7a61d9;
+		/* Aggiunge un bordo colorato */
+		background: rgba(0, 0, 0, 1);
+		/* Sfondo scuro e opaco per il menu */
+		width: auto;
+		/* Larghezza del menu in base al contenuto */
+		height: auto;
+		/* Altezza del menu in base al contenuto */
+		z-index: 1000;
+		/* Posiziona il menu sopra altri contenuti */
+		transition: opacity 0.3s ease, transform 0.3s ease;
+		/* Aggiunge una transizione per l'animazione */
+		border-radius: 12px;
+		/* Arrotonda gli angoli del menu */
+	}
+
+	/* Quando la classe 'open' è aggiunta, il menu si mostra */
+	.nav-list.open {
+		display: block;
+		/* Imposta il display a block per farlo apparire */
+		opacity: 1;
+		/* Rende il menu visibile */
+		pointer-events: all;
+		/* Abilita l'interazione con il menu */
+		transform: translateX(0);
+		/* Rimuove qualsiasi trasformazione, mostrando il menu */
+	}
+
+	/* Spaziatura tra gli elementi del menu */
+	.nav-list li {
+		margin-bottom: 8px;
+		/* Distanza tra gli elementi della lista */
+	}
+
+	/* Rimuove il padding e il margine del contenuto principale */
+	.main-content {
+		padding: 0px;
+		/* Rimuove il padding */
+		margin: 0px;
+		/* Rimuove il margine */
+	}
+
+	/* Aggiunge margine alla descrizione */
+	.description {
+		margin: 16px;
+		/* Aggiunge un margine di 16px */
+	}
+
+	/* Stili per le opere visualizzate */
+	.opera {
+		width: 90%;
+		/* Imposta la larghezza delle opere al 90% dello schermo */
+		padding: 0;
+		/* Rimuove il padding per evitare spazi extra */
+	}
+
+	/* Stili per il contenuto del modale */
+	.modal-content {
+		max-height: 540px;
+		/* Imposta un'altezza massima per il modale */
+		padding: 16px;
+		/* Riduce il padding del modale */
+		max-width: 80%;
+		/* Imposta una larghezza massima del modale */
+	}
+
+	/* Modifica la dimensione del titolo nel modale */
+	.modal-content h3 {
+		font-size: 20px;
+		/* Riduce la dimensione del font del titolo */
+	}
+
+	/* Testo del bottone di ricarica */
+	.reload-btn-text {
+		display: inline-block;
+		/* Imposta il bottone come elemento in linea con il blocco */
+		width: calc(100% - 32px);
+		/* Riduce la larghezza del 10% (5% per lato) */
+		margin-left: 16px;
+		/* Aggiunge un margine a sinistra */
+	}
+
+	/* Margine superiore per il footer */
+	footer {
+		margin-top: 32px;
+		/* Aggiunge margine sopra il footer */
+	}
+}
