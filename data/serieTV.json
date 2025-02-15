@@ -1,362 +1,377 @@
 [
-    {
-      "titolo": "Black Mirror",
-      "immagine": "images/black_mirror.jpg",
-      "data": "2011 - in corso",
-      "trama": "Ogni episodio di questa serie antologica esplora le oscure e inquietanti conseguenze della tecnologia moderna sulla società, con storie che riflettono sulle paure, i desideri e i pericoli legati all'evoluzione digitale e ai progressi tecnologici.",
-      "autore": "Charlie Brooker",
-      "genere": [
-        "Psicologico",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "valutazione": 8.8,
-      "trailer": "https://www.youtube.com/embed/jXq23Tq9FeU",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "BoJack Horseman",
-      "immagine": "images/bojack_horseman.jpg",
-      "data": "2014 - 2020",
-      "trama": "BoJack Horseman, un cavallo antropomorfo ex star di una sitcom degli anni '90, cerca di affrontare la sua vita da adulto in un mondo satirico e spesso tragico.",
-      "autore": "Raphael Bob-Waksberg",
-      "genere": [
-        "Drammatico",
-        "Commedia",
-        "Satira"
-      ],
-      "valutazione": 8.6,
-      "trailer": "https://www.youtube.com/embed/rQvIR1oL1vE",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Breaking Bad",
-      "immagine": "images/breaking_bad.jpg",
-      "data": "2008 - 2013",
-      "trama": "Walter White, un insegnante di chimica che scopre di avere un cancro terminale, decide di entrare nel mondo della produzione di metanfetamine per garantire il futuro economico della sua famiglia, intraprendendo una discesa nella criminalità e nella violenza.",
-      "autore": "Vince Gilligan",
-      "genere": [
-        "Drammatico",
-        "Crimine",
-        "Thriller"
-      ],
-      "valutazione": 9.5,
-      "trailer": "https://www.youtube.com/embed/F1HNuAE9WdU",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Brooklyn Nine-Nine",
-      "immagine": "images/brooklyn_nine_nine.jpg",
-      "data": "2013 - 2021",
-      "trama": "Le avventure del detective Jake Peralta e del suo team di polizia nella 99ª stazione di Brooklyn, che affrontano casi polizieschi con un mix di umorismo, ingegno e situazioni comiche.",
-      "autore": "Michael Schur, Dan Goor",
-      "genere": [
-        "Commedia",
-        "Crimine",
-        "Poliziesco"
-      ],
-      "valutazione": 8.4,
-      "trailer": "https://www.youtube.com/embed/ourfSzoC7pA",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Dahmer - Mostro: La storia di Jeffrey Dahmer",
-      "immagine": "images/dahmer.jpg",
-      "data": "2022",
-      "trama": "La serie racconta la storia di Jeffrey Dahmer, uno dei più noti serial killer americani, esplorando i suoi crimini, il suo passato e l'impatto devastante sulle vittime e le loro famiglie.",
-      "autore": "Ryan Murphy, Ian Brennan",
-      "genere": [
-        "Drammatico",
-        "Crime",
-        "Biografico"
-      ],
-      "valutazione": 8,
-      "trailer": "https://www.youtube.com/embed/1PgKjIosF50",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Detective Monk",
-      "immagine": "images/detective_monk.jpg",
-      "data": "2002 - 2009",
-      "trama": "Adrian Monk è un brillante detective privato affetto da gravi disturbi ossessivo-compulsivi. Dopo la tragica morte di sua moglie, cerca di risolvere casi intricati mentre affronta le sue paure e nevrosi.",
-      "autore": "Andy Breckman",
-      "genere": [
-        "Commedia",
-        "Giallo",
-        "Poliziesco"
-      ],
-      "valutazione": 8,
-      "trailer": "https://www.youtube.com/embed/L_IOsLYVKkY",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Dexter",
-      "immagine": "images/dexter.jpg",
-      "data": "2006 - 2013",
-      "trama": "Dexter Morgan è un esperto analista forense che lavora per la polizia di Miami. Tuttavia, di notte è un serial killer che uccide altri criminali che sono riusciti a sfuggire alla giustizia.",
-      "autore": "James Manos Jr.",
-      "genere": [
-        "Crimine",
-        "Drammatico",
-        "Thriller"
-      ],
-      "valutazione": 8.6,
-      "trailer": "https://www.youtube.com/embed/ej8-Rqo-VT4",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Disincanto",
-      "immagine": "images/disincanto.jpg",
-      "data": "2018 - 2021",
-      "trama": "Disincanto segue le avventure di Bean, una principessa giovane e disincantata che vive nel regno medievale di Dreamland.",
-      "autore": "Matt Groening",
-      "genere": [
-        "Commedia",
-        "Fantasy",
-        "Avventura"
-      ],
-      "valutazione": 7.6,
-      "trailer": "https://www.youtube.com/embed/vTbHCyrqDgE",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "F is for Family",
-      "immagine": "images/f_is_for_family.jpg",
-      "data": "2015 - 2021",
-      "trama": "Ambientata negli anni '70, la serie segue le vicende della famiglia Murphy. Frank, il padre, lotta con il lavoro e il carattere esplosivo, mentre sua moglie e i loro tre figli affrontano le difficoltà della vita familiare.",
-      "autore": "Bill Burr, Michael Price",
-      "genere": [
-        "Commedia",
-        "Slice of Life",
-        "Satira"
-      ],
-      "valutazione": 8.0,
-      "trailer": "https://www.youtube.com/embed/f2AmK5QVtbg",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Game of Thrones",
-      "immagine": "images/game_of_thrones.jpg",
-      "data": "2011 - 2019",
-      "trama": "In un mondo fantasy medievale, diverse famiglie nobili si contendono il Trono di Spade per governare i Sette Regni. Intrighi politici, alleanze e tradimenti segnano le vicende, mentre una minaccia misteriosa proveniente dal Nord minaccia l'intero continente.",
-      "autore": "David Benioff, D.B. Weiss",
-      "genere": [
-        "Drammatico",
-        "Fantasy",
-        "Avventura"
-      ],
-      "valutazione": 9.3,
-      "trailer": "https://www.youtube.com/embed/s7L2PVdrb_8",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "How I Met Your Mother",
-      "immagine": "images/how_i_met_your_mother.jpg",
-      "data": "2005 - 2014",
-      "trama": "Ted Mosby racconta la storia di come ha incontrato la madre dei suoi figli, facendo rivivere le sue avventure e i momenti significativi con i suoi amici Marshall, Lily, Barney e Robin.",
-      "autore": "Carter Bays, Craig Thomas",
-      "genere": [
-        "Commedia",
-        "Romantico",
-        "Drammatico"
-      ],
-      "valutazione": 8.3,
-      "trailer": "https://www.youtube.com/embed/ZPLOsabhQSM",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "iZombie",
-      "immagine": "images/izombie.jpg",
-      "data": "2015 - 2019",
-      "trama": "Liv Moore, una giovane medico, diventa zombie dopo una festa, ma decide di usare le sue nuove abilità per aiutare la polizia. Mangia il cervello delle vittime e, attraverso visioni, risolve i crimini, mantenendo la sua umanità in un mondo che la considera un mostro.",
-      "autore": "Rob Thomas",
-      "genere": [
-        "Drammatico",
-        "Commedia",
-        "Crimine"
-      ],
-      "valutazione": 7.9,
-      "trailer": "https://www.youtube.com/embed/Lu5nXAuBMfk",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "La Regina degli Scacchi",
-      "immagine": "images/la_regina_degli_scacchi.jpg",
-      "data": "2020",
-      "trama": "Beth Harmon, un'orfana con un talento straordinario per gli scacchi, combatte con le sue dipendenze e i suoi demoni interiori mentre lotta per diventare la campionessa mondiale di scacchi, sfidando pregiudizi e difficoltà lungo il cammino.",
-      "autore": "Scott Frank",
-      "genere": [
-        "Drammatico",
-        "Sportivo",
-        "Psicologico"
-      ],
-      "valutazione": 8.6,
-      "trailer": "https://www.youtube.com/embed/oZn3qSgmLqI",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Lost",
-      "immagine": "images/lost.jpg",
-      "data": "2004 - 2010",
-      "trama": "Dopo un disastro aereo, i sopravvissuti si ritrovano su un'isola deserta, dove devono affrontare misteri, pericoli e rivelazioni sulle loro vite passate.",
-      "autore": "J.J. Abrams, Damon Lindelof, Jeffrey Lieber",
-      "genere": [
-        "Drammatico",
-        "Mistero",
-        "Avventura"
-      ],
-      "valutazione": 8.3,
-      "trailer": "https://www.youtube.com/embed/KTu8iDynwNc",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Mr. Robot",
-      "immagine": "images/mr_robot.jpg",
-      "data": "2015 - 2019",
-      "trama": "Un giovane programmatore, Elliot Alderson, lavora come ingegnere della sicurezza informatica di giorno e come hacker vigilante di notte. La sua vita cambia quando un enigmatico anarchico, conosciuto come Mr. Robot, lo recluta per distruggere una potente corporazione globale.",
-      "autore": "Sam Esmail",
-      "genere": [
-        "Drammatico",
-        "Thriller",
-        "Psicologico"
-      ],
-      "valutazione": 8.6,
-      "trailer": "https://www.youtube.com/embed/VtPxf1tSECY",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Psych",
-      "immagine": "images/psych.jpg",
-      "data": "2006 - 2014",
-      "trama": "Shawn Spencer, un uomo con un'abilità straordinaria nel notare dettagli, finge di essere un medium e apre un'agenzia investigativa insieme al suo migliore amico, Gus.",
-      "autore": "Steve Franks",
-      "genere": [
-        "Commedia",
-        "Giallo",
-        "Poliziesco"
-      ],
-      "valutazione": 8.4,
-      "trailer": "https://www.youtube.com/embed/bOGXyzXbYNo",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Rick and Morty",
-      "immagine": "images/rick_and_morty.jpg",
-      "data": "2013 - in corso",
-      "trama": "Le avventure di Rick Sanchez, uno scienziato geniale ma alcolizzato, e di suo nipote Morty, un ragazzo insicuro. Insieme viaggiano attraverso universi alternativi e affrontano situazioni surreali e pericolose.",
-      "autore": "Dan Harmon, Justin Roiland",
-      "genere": [
-        "Commedia",
-        "Fantascienza",
-        "Surreale"
-      ],
-      "valutazione": 9.1,
-      "trailer": "https://www.youtube.com/embed/DLaqu2QJYPY",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Scrubs",
-      "immagine": "images/scrubs.jpg",
-      "data": "2001 - 2010",
-      "trama": "Scrubs racconta la vita quotidiana di un gruppo di medici e infermieri, seguendo le esperienze e i dilemmi di John 'J.D.' Dorian e dei suoi amici in un ospedale.",
-      "autore": "Bill Lawrence",
-      "genere": [
-        "Commedia",
-        "Drammatico",
-        "Medico"
-      ],
-      "valutazione": 8.3,
-      "trailer": "https://www.youtube.com/embed/kBz1vvlkzSw",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "The 100",
-      "immagine": "images/the_100.jpg",
-      "data": "2014 - 2020",
-      "trama": "Dopo una catastrofe nucleare che ha devastato la Terra, i discendenti degli ultimi sopravvissuti vivono su una stazione spaziale. Quando le risorse cominciano a scarseggiare, 100 giovani criminali vengono inviati sulla Terra per determinare se il pianeta è di nuovo abitabile.",
-      "autore": "Jason Rothenberg",
-      "genere": [
-        "Drammatico",
-        "Fantascienza",
-        "Azione"
-      ],
-      "valutazione": 7.6,
-      "trailer": "https://www.youtube.com/embed/DgZSr_F8lfU",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "The Cuphead Show",
-      "immagine": "images/the_cuphead_show.jpg",
-      "data": "2022",
-      "trama": "Cuphead e Mugman, due fratelli avventurosi, si trovano coinvolti in una serie di situazioni pericolose e bizzarre dopo aver perso una scommessa con il diavolo. Per salvare le loro anime, devono affrontare una serie di pericolosi avversari e raccogliere le loro anime.",
-      "autore": "Dave Wasson",
-      "genere": [
-        "Avventura",
-        "Commedia",
-        "Azione"
-      ],
-      "valutazione": 7.7,
-      "trailer": "https://www.youtube.com/embed/2d2fq0Z3xNk",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "The Good Doctor",
-      "immagine": "images/the_good_doctor.jpg",
-      "data": "2017 - in corso",
-      "trama": "Shaun Murphy, un giovane chirurgo con autismo e sindrome di Savant, si trasferisce in un ospedale prestigioso. Nonostante la sua straordinaria capacità medica, affronta difficoltà nel relazionarsi con i colleghi, ma le sue abilità brillano nelle situazioni più critiche.",
-      "autore": "David Shore",
-      "genere": [
-        "Drammatico",
-        "Medico",
-        "Ispirazionale"
-      ],
-      "valutazione": 8.1,
-      "trailer": "https://www.youtube.com/embed/JGsfu43y-8Q",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "The Midnight Gospel",
-      "immagine": "images/the_midnight_gospel.jpg",
-      "data": "2020",
-      "trama": "Clancy, un giovane uomo che vive in un universo multidimensionale, esplora mondi alternativi usando un dispositivo per viaggiare tra le dimensioni. Ogni episodio esplora argomenti filosofici, spirituali e esistenziali attraverso conversazioni surreali e visivamente sorprendenti.",
-      "autore": "Pendleton Ward, Duncan Trussell",
-      "genere": [
-        "Commedia",
-        "Fantascienza",
-        "Filosofico"
-      ],
-      "valutazione": 8.2,
-      "trailer": "https://www.youtube.com/embed/0kQWAqjFJS0",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "The Office (USA)",
-      "immagine": "images/the_office_usa.jpg",
-      "data": "2005 - 2013",
-      "trama": "The Office segue le vicende quotidiane degli impiegati di Dunder Mifflin, una compagnia di forniture per ufficio, e in particolare le disavventure di Michael Scott, il loro capo incapace di gestire il suo ruolo senza creare imbarazzo.",
-      "autore": "Greg Daniels",
-      "genere": [
-        "Commedia",
-        "Drammatico",
-        "Mockumentary"
-      ],
-      "valutazione": 8.9,
-      "trailer": "https://www.youtube.com/embed/sqyde2jcLdQ",
-      "tipo": "serieTV"
-    },
-    {
-      "titolo": "Una Serie di Sfortunati Eventi",
-      "immagine": "images/una_serie_di_sfortunati_eventi.jpg",
-      "data": "2017 - 2019",
-      "trama": "I tre orfani Baudelaire, Violet, Klaus e Sunny, si trovano a dover affrontare una serie di sfortunati eventi dopo la morte dei loro genitori. Cercando di svelare il mistero dietro la loro morte, si trovano a fronteggiare il malvagio Conte Olaf, che cerca in ogni modo di impadronirsi della loro eredità.",
-      "autore": "Mark Hudis, Barry Sonnenfeld",
-      "genere": [
-        "Gothic",
-        "Drammatico",
-        "Mistero"
-      ],
-      "valutazione": 7.8,
-      "trailer": "https://www.youtube.com/embed/BqJx6hCYKGE",
-      "tipo": "serieTV"
-    }
-  ]
+  {
+    "titolo": "Archer",
+    "immagine": "images/archer.jpg",
+    "data": "2009 - 2023",
+    "trama": "Archer è una serie animata che segue le disavventure di un gruppo di spie di una agenzia di intelligence, l'International Secret Intelligence Service (ISIS).",
+    "autore": "Adam Reed",
+    "genere": [
+      "Commedia",
+      "Azione",
+      "Spionaggio"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/WIfnM9ntFc8",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Black Mirror",
+    "immagine": "images/black_mirror.jpg",
+    "data": "2011 - in corso",
+    "trama": "Ogni episodio di questa serie antologica esplora le oscure e inquietanti conseguenze della tecnologia moderna sulla società, con storie che riflettono sulle paure, i desideri e i pericoli legati all'evoluzione digitale e ai progressi tecnologici.",
+    "autore": "Charlie Brooker",
+    "genere": [
+      "Psicologico",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "valutazione": 8.8,
+    "trailer": "https://www.youtube.com/embed/jXq23Tq9FeU",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "BoJack Horseman",
+    "immagine": "images/bojack_horseman.jpg",
+    "data": "2014 - 2020",
+    "trama": "BoJack Horseman, un cavallo antropomorfo ex star di una sitcom degli anni '90, cerca di affrontare la sua vita da adulto in un mondo satirico e spesso tragico.",
+    "autore": "Raphael Bob-Waksberg",
+    "genere": [
+      "Drammatico",
+      "Commedia",
+      "Satira"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/rQvIR1oL1vE",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Breaking Bad",
+    "immagine": "images/breaking_bad.jpg",
+    "data": "2008 - 2013",
+    "trama": "Walter White, un insegnante di chimica che scopre di avere un cancro terminale, decide di entrare nel mondo della produzione di metanfetamine per garantire il futuro economico della sua famiglia, intraprendendo una discesa nella criminalità e nella violenza.",
+    "autore": "Vince Gilligan",
+    "genere": [
+      "Drammatico",
+      "Crimine",
+      "Thriller"
+    ],
+    "valutazione": 9.5,
+    "trailer": "https://www.youtube.com/embed/F1HNuAE9WdU",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Brooklyn Nine-Nine",
+    "immagine": "images/brooklyn_nine_nine.jpg",
+    "data": "2013 - 2021",
+    "trama": "Le avventure del detective Jake Peralta e del suo team di polizia nella 99ª stazione di Brooklyn, che affrontano casi polizieschi con un mix di umorismo, ingegno e situazioni comiche.",
+    "autore": "Michael Schur, Dan Goor",
+    "genere": [
+      "Commedia",
+      "Crimine",
+      "Poliziesco"
+    ],
+    "valutazione": 8.4,
+    "trailer": "https://www.youtube.com/embed/ourfSzoC7pA",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Dahmer - Mostro: La storia di Jeffrey Dahmer",
+    "immagine": "images/dahmer.jpg",
+    "data": "2022",
+    "trama": "La serie racconta la storia di Jeffrey Dahmer, uno dei più noti serial killer americani, esplorando i suoi crimini, il suo passato e l'impatto devastante sulle vittime e le loro famiglie.",
+    "autore": "Ryan Murphy, Ian Brennan",
+    "genere": [
+      "Drammatico",
+      "Crime",
+      "Biografico"
+    ],
+    "valutazione": 8,
+    "trailer": "https://www.youtube.com/embed/1PgKjIosF50",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Detective Monk",
+    "immagine": "images/detective_monk.jpg",
+    "data": "2002 - 2009",
+    "trama": "Adrian Monk è un brillante detective privato affetto da gravi disturbi ossessivo-compulsivi. Dopo la tragica morte di sua moglie, cerca di risolvere casi intricati mentre affronta le sue paure e nevrosi.",
+    "autore": "Andy Breckman",
+    "genere": [
+      "Commedia",
+      "Giallo",
+      "Poliziesco"
+    ],
+    "valutazione": 8,
+    "trailer": "https://www.youtube.com/embed/L_IOsLYVKkY",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Dexter",
+    "immagine": "images/dexter.jpg",
+    "data": "2006 - 2013",
+    "trama": "Dexter Morgan è un esperto analista forense che lavora per la polizia di Miami. Tuttavia, di notte è un serial killer che uccide altri criminali che sono riusciti a sfuggire alla giustizia.",
+    "autore": "James Manos Jr.",
+    "genere": [
+      "Crimine",
+      "Drammatico",
+      "Thriller"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/ej8-Rqo-VT4",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Disincanto",
+    "immagine": "images/disincanto.jpg",
+    "data": "2018 - 2021",
+    "trama": "Disincanto segue le avventure di Bean, una principessa giovane e disincantata che vive nel regno medievale di Dreamland.",
+    "autore": "Matt Groening",
+    "genere": [
+      "Commedia",
+      "Fantasy",
+      "Avventura"
+    ],
+    "valutazione": 7.6,
+    "trailer": "https://www.youtube.com/embed/vTbHCyrqDgE",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "F is for Family",
+    "immagine": "images/f_is_for_family.jpg",
+    "data": "2015 - 2021",
+    "trama": "Ambientata negli anni '70, la serie segue le vicende della famiglia Murphy. Frank, il padre, lotta con il lavoro e il carattere esplosivo, mentre sua moglie e i loro tre figli affrontano le difficoltà della vita familiare.",
+    "autore": "Bill Burr, Michael Price",
+    "genere": [
+      "Commedia",
+      "Slice of Life",
+      "Satira"
+    ],
+    "valutazione": 8,
+    "trailer": "https://www.youtube.com/embed/f2AmK5QVtbg",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Game of Thrones",
+    "immagine": "images/game_of_thrones.jpg",
+    "data": "2011 - 2019",
+    "trama": "In un mondo fantasy medievale, diverse famiglie nobili si contendono il Trono di Spade per governare i Sette Regni. Intrighi politici, alleanze e tradimenti segnano le vicende, mentre una minaccia misteriosa proveniente dal Nord minaccia l'intero continente.",
+    "autore": "David Benioff, D.B. Weiss",
+    "genere": [
+      "Drammatico",
+      "Fantasy",
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "trailer": "https://www.youtube.com/embed/s7L2PVdrb_8",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "How I Met Your Mother",
+    "immagine": "images/how_i_met_your_mother.jpg",
+    "data": "2005 - 2014",
+    "trama": "Ted Mosby racconta la storia di come ha incontrato la madre dei suoi figli, facendo rivivere le sue avventure e i momenti significativi con i suoi amici Marshall, Lily, Barney e Robin.",
+    "autore": "Carter Bays, Craig Thomas",
+    "genere": [
+      "Commedia",
+      "Romantico",
+      "Drammatico"
+    ],
+    "valutazione": 8.3,
+    "trailer": "https://www.youtube.com/embed/ZPLOsabhQSM",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "iZombie",
+    "immagine": "images/izombie.jpg",
+    "data": "2015 - 2019",
+    "trama": "Liv Moore, una giovane medico, diventa zombie dopo una festa, ma decide di usare le sue nuove abilità per aiutare la polizia. Mangia il cervello delle vittime e, attraverso visioni, risolve i crimini, mantenendo la sua umanità in un mondo che la considera un mostro.",
+    "autore": "Rob Thomas",
+    "genere": [
+      "Drammatico",
+      "Commedia",
+      "Crimine"
+    ],
+    "valutazione": 7.9,
+    "trailer": "https://www.youtube.com/embed/Lu5nXAuBMfk",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "La Regina degli Scacchi",
+    "immagine": "images/la_regina_degli_scacchi.jpg",
+    "data": "2020",
+    "trama": "Beth Harmon, un'orfana con un talento straordinario per gli scacchi, combatte con le sue dipendenze e i suoi demoni interiori mentre lotta per diventare la campionessa mondiale di scacchi, sfidando pregiudizi e difficoltà lungo il cammino.",
+    "autore": "Scott Frank",
+    "genere": [
+      "Drammatico",
+      "Sportivo",
+      "Psicologico"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/oZn3qSgmLqI",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Lost",
+    "immagine": "images/lost.jpg",
+    "data": "2004 - 2010",
+    "trama": "Dopo un disastro aereo, i sopravvissuti si ritrovano su un'isola deserta, dove devono affrontare misteri, pericoli e rivelazioni sulle loro vite passate.",
+    "autore": "J.J. Abrams, Damon Lindelof, Jeffrey Lieber",
+    "genere": [
+      "Drammatico",
+      "Mistero",
+      "Avventura"
+    ],
+    "valutazione": 8.3,
+    "trailer": "https://www.youtube.com/embed/KTu8iDynwNc",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Mr. Robot",
+    "immagine": "images/mr_robot.jpg",
+    "data": "2015 - 2019",
+    "trama": "Un giovane programmatore, Elliot Alderson, lavora come ingegnere della sicurezza informatica di giorno e come hacker vigilante di notte. La sua vita cambia quando un enigmatico anarchico, conosciuto come Mr. Robot, lo recluta per distruggere una potente corporazione globale.",
+    "autore": "Sam Esmail",
+    "genere": [
+      "Drammatico",
+      "Thriller",
+      "Psicologico"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/VtPxf1tSECY",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Psych",
+    "immagine": "images/psych.jpg",
+    "data": "2006 - 2014",
+    "trama": "Shawn Spencer, un uomo con un'abilità straordinaria nel notare dettagli, finge di essere un medium e apre un'agenzia investigativa insieme al suo migliore amico, Gus.",
+    "autore": "Steve Franks",
+    "genere": [
+      "Commedia",
+      "Giallo",
+      "Poliziesco"
+    ],
+    "valutazione": 8.4,
+    "trailer": "https://www.youtube.com/embed/bOGXyzXbYNo",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Rick and Morty",
+    "immagine": "images/rick_and_morty.jpg",
+    "data": "2013 - in corso",
+    "trama": "Le avventure di Rick Sanchez, uno scienziato geniale ma alcolizzato, e di suo nipote Morty, un ragazzo insicuro. Insieme viaggiano attraverso universi alternativi e affrontano situazioni surreali e pericolose.",
+    "autore": "Dan Harmon, Justin Roiland",
+    "genere": [
+      "Commedia",
+      "Fantascienza",
+      "Surreale"
+    ],
+    "valutazione": 9.1,
+    "trailer": "https://www.youtube.com/embed/DLaqu2QJYPY",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Scrubs",
+    "immagine": "images/scrubs.jpg",
+    "data": "2001 - 2010",
+    "trama": "Scrubs racconta la vita quotidiana di un gruppo di medici e infermieri, seguendo le esperienze e i dilemmi di John 'J.D.' Dorian e dei suoi amici in un ospedale.",
+    "autore": "Bill Lawrence",
+    "genere": [
+      "Commedia",
+      "Drammatico",
+      "Medico"
+    ],
+    "valutazione": 8.3,
+    "trailer": "https://www.youtube.com/embed/kBz1vvlkzSw",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "The 100",
+    "immagine": "images/the_100.jpg",
+    "data": "2014 - 2020",
+    "trama": "Dopo una catastrofe nucleare che ha devastato la Terra, i discendenti degli ultimi sopravvissuti vivono su una stazione spaziale. Quando le risorse cominciano a scarseggiare, 100 giovani criminali vengono inviati sulla Terra per determinare se il pianeta è di nuovo abitabile.",
+    "autore": "Jason Rothenberg",
+    "genere": [
+      "Drammatico",
+      "Fantascienza",
+      "Azione"
+    ],
+    "valutazione": 7.6,
+    "trailer": "https://www.youtube.com/embed/DgZSr_F8lfU",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "The Cuphead Show",
+    "immagine": "images/the_cuphead_show.jpg",
+    "data": "2022",
+    "trama": "Cuphead e Mugman, due fratelli avventurosi, si trovano coinvolti in una serie di situazioni pericolose e bizzarre dopo aver perso una scommessa con il diavolo. Per salvare le loro anime, devono affrontare una serie di pericolosi avversari e raccogliere le loro anime.",
+    "autore": "Dave Wasson",
+    "genere": [
+      "Avventura",
+      "Commedia",
+      "Azione"
+    ],
+    "valutazione": 7.7,
+    "trailer": "https://www.youtube.com/embed/2d2fq0Z3xNk",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "The Good Doctor",
+    "immagine": "images/the_good_doctor.jpg",
+    "data": "2017 - in corso",
+    "trama": "Shaun Murphy, un giovane chirurgo con autismo e sindrome di Savant, si trasferisce in un ospedale prestigioso. Nonostante la sua straordinaria capacità medica, affronta difficoltà nel relazionarsi con i colleghi, ma le sue abilità brillano nelle situazioni più critiche.",
+    "autore": "David Shore",
+    "genere": [
+      "Drammatico",
+      "Medico",
+      "Ispirazionale"
+    ],
+    "valutazione": 8.1,
+    "trailer": "https://www.youtube.com/embed/JGsfu43y-8Q",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "The Midnight Gospel",
+    "immagine": "images/the_midnight_gospel.jpg",
+    "data": "2020",
+    "trama": "Clancy, un giovane uomo che vive in un universo multidimensionale, esplora mondi alternativi usando un dispositivo per viaggiare tra le dimensioni. Ogni episodio esplora argomenti filosofici, spirituali e esistenziali attraverso conversazioni surreali e visivamente sorprendenti.",
+    "autore": "Pendleton Ward, Duncan Trussell",
+    "genere": [
+      "Commedia",
+      "Fantascienza",
+      "Filosofico"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/0kQWAqjFJS0",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "The Office (USA)",
+    "immagine": "images/the_office_usa.jpg",
+    "data": "2005 - 2013",
+    "trama": "The Office segue le vicende quotidiane degli impiegati di Dunder Mifflin, una compagnia di forniture per ufficio, e in particolare le disavventure di Michael Scott, il loro capo incapace di gestire il suo ruolo senza creare imbarazzo.",
+    "autore": "Greg Daniels",
+    "genere": [
+      "Commedia",
+      "Drammatico",
+      "Mockumentary"
+    ],
+    "valutazione": 8.9,
+    "trailer": "https://www.youtube.com/embed/sqyde2jcLdQ",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Una Serie di Sfortunati Eventi",
+    "immagine": "images/una_serie_di_sfortunati_eventi.jpg",
+    "data": "2017 - 2019",
+    "trama": "I tre orfani Baudelaire, Violet, Klaus e Sunny, si trovano a dover affrontare una serie di sfortunati eventi dopo la morte dei loro genitori. Cercando di svelare il mistero dietro la loro morte, si trovano a fronteggiare il malvagio Conte Olaf, che cerca in ogni modo di impadronirsi della loro eredità.",
+    "autore": "Mark Hudis, Barry Sonnenfeld",
+    "genere": [
+      "Gothic",
+      "Drammatico",
+      "Mistero"
+    ],
+    "valutazione": 7.8,
+    "trailer": "https://www.youtube.com/embed/BqJx6hCYKGE",
+    "tipo": "serieTV"
+  }
+]
