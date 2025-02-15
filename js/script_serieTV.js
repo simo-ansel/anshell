@@ -6,6 +6,7 @@ import {
 // Import delle funzioni per la gestione delle opere
 import {
     fetchOpere, // Funzione per recuperare i dati da un file JSON
+    setLoadingBar, // Funzione per la barra di caricamento
     createOperaCard, // Funzione per creare la carta HTML per ogni opera
     adjustHorizontalImages, // Funzione per uniformare l'altezza delle immagini orizzontali
     showModal, // Funzione per mostrare il modale con i dettagli di ogni opera
@@ -43,8 +44,35 @@ document.addEventListener("DOMContentLoaded", async () => {
         // Allinea le immagini orizzontali nella griglia dopo che il contenuto è stato caricato
         setTimeout(adjustHorizontalImages(gridOpere), 100); // Attende un breve intervallo per completare il rendering
 
-        // Aggiungi un evento di click per aprire il modale quando si clicca su un'immagine
         const images = gridOpere.querySelectorAll("img"); // Seleziona tutte le immagini delle opere
+        let loadedImages = 0;
+
+        setLoadingBar(); // Avvia la barra di caricamento
+        // Funzione per aggiornare la barra di caricamento
+        function updateLoadingBar() {
+            let progress = (loadedImages / images.length) * 100;
+            document.getElementById("loading-bar").style.width = progress + "%";
+            if (loadedImages === images.length) {
+                setTimeout(() => {
+                    document.getElementById("loading-bar-container").style.display = "none"; // Nascondi la barra
+                }, 500);
+            }
+        }
+
+        // Funzione per monitorare ogni immagine
+        images.forEach(img => {
+            if (img.complete) {
+                loadedImages++;
+                updateLoadingBar(); // Se l'immagine è già caricata
+            } else {
+                img.onload = img.onerror = () => {
+                    loadedImages++;
+                    updateLoadingBar(); // Aggiorna la barra ogni volta che un'immagine viene caricata
+                };
+            }
+        });
+
+        // Aggiungi un evento di click per aprire il modale quando si clicca su un'immagine
         images.forEach(img => {
             img.addEventListener("click", event => {
                 // Estrai i dati dell'opera associata all'immagine cliccata

@@ -111,6 +111,47 @@ export async function fetchOpere(options = {}) {
 }
 
 // ***********************************************************************
+// FUNZIONE: Gestisce la barra di caricamento durante il processo di caricamento della pagina
+// ***********************************************************************
+
+/**
+ * Questa funzione gestisce la barra di caricamento visualizzando un progresso dinamico 
+ * mentre la pagina sta caricando. La barra si riempie gradualmente tramite un incremento 
+ * casuale del progresso, simulando il caricamento di risorse. Una volta che il progresso 
+ * raggiunge il 100%, la barra scompare.
+ * 
+ * La funzione utilizza un `setInterval` per aggiornare la barra di caricamento a intervalli regolari
+ * e un `clearInterval` per fermare l'animazione al raggiungimento del 100% di completamento.
+ * 
+ * @returns {void} Non restituisce valori. Nasconde la barra di caricamento una volta completato il caricamento.
+ */
+export async function setLoadingBar() {
+    let loadingBar = document.getElementById("loading-bar");
+    let progress = 0;
+
+    // Definisco l'interval prima di usarlo
+    let interval;
+
+    // Funzione che aggiorna il progresso
+    function updateProgress() {
+        progress += Math.random() * 10; // Incremento casuale per simulare il caricamento
+        loadingBar.style.width = progress + "%";
+
+        if (progress >= 100) {
+            clearInterval(interval);  // Ora 'interval' è definito correttamente
+            setTimeout(() => {
+                document.getElementById("loading-bar-container").style.display = "none"; // Nascondi la barra
+            }, 500);
+        }
+    }
+
+    // Attendi che la pagina sia completamente caricata
+    window.onload = function () {
+        interval = setInterval(updateProgress, 100); // Assegno interval qui
+    };
+}
+
+// ***********************************************************************
 // FUNZIONE: Seleziona opere casuali da mostrare
 // ***********************************************************************
 

@@ -7,6 +7,7 @@ import {
 // Import delle funzioni principali
 import {
     fetchOpere, // Funzione per recuperare i dati delle opere da un file JSON
+    setLoadingBar, // Funzione per la barra di caricamento
     getRandomOpere, // Funzione per selezionare casualmente un numero definito di opere
     createOperaCard, // Funzione per creare la carta HTML di ogni opera
     adjustHorizontalImages, // Funzione per uniformare l'altezza delle immagini orizzontali
@@ -24,58 +25,72 @@ import {
 
 // Il codice viene eseguito quando il DOM è completamente caricato
 document.addEventListener("DOMContentLoaded", async () => {
-
-    // Recupera i dati dalle risorse JSON. La funzione fetchOpere restituisce i dati delle opere.
-    fetchOpere();
+    // Recupera i dati dalle risorse JSON
     const opere = await fetchOpere(); // Attende che i dati siano caricati
     console.log("Opere caricate:", opere); // Stampa i dati delle opere nel console log per il debug
 
-    // *****************************************************************************************
-    // PROCESSO PRINCIPALE: Carica le opere, visualizza la galleria e aggiungi l'interattività
-    // *****************************************************************************************
-
-    if (opere.length > 0) { // Se sono state caricate opere
-        // Seleziona un numero casuale di opere da mostrare nella griglia
-        const randomOpere = getRandomOpere(opere);
-
-        // Crea le carte HTML per ciascuna delle opere selezionate
+    if (opere.length > 0) { // Se ci sono opere disponibili
+        const randomOpere = getRandomOpere(opere); // Seleziona un numero casuale di opere da mostrare
         const operaCards = await Promise.all(randomOpere.map(createOperaCard));
 
-        // Inserisce le carte delle opere all'interno della griglia
-        gridOpere.innerHTML = operaCards.join("");
+        gridOpere.innerHTML = operaCards.join(""); // Inserisce le carte delle opere nella griglia
 
-        // Uniforma l'altezza delle immagini orizzontali nella griglia
+        // Uniforma l'altezza delle immagini orizzontali
         setTimeout(adjustHorizontalImages(gridOpere), 100);
 
+        // Seleziona tutte le immagini nella griglia
+        const images = gridOpere.querySelectorAll("img");
+        let loadedImages = 0;
+
+        setLoadingBar(); // Avvia la barra di caricamento
+        // Funzione per aggiornare la barra di caricamento
+        function updateLoadingBar() {
+            let progress = (loadedImages / images.length) * 100;
+            document.getElementById("loading-bar").style.width = progress + "%";
+            if (loadedImages === images.length) {
+                setTimeout(() => {
+                    document.getElementById("loading-bar-container").style.display = "none"; // Nascondi la barra
+                }, 500);
+            }
+        }
+
+        // Funzione per monitorare ogni immagine
+        images.forEach(img => {
+            if (img.complete) {
+                loadedImages++;
+                updateLoadingBar(); // Se l'immagine è già caricata
+            } else {
+                img.onload = img.onerror = () => {
+                    loadedImages++;
+                    updateLoadingBar(); // Aggiorna la barra ogni volta che un'immagine viene caricata
+                };
+            }
+        });
+
         // Aggiungi l'interattività per il click sulle immagini delle opere
-        const images = gridOpere.querySelectorAll("img"); // Seleziona tutte le immagini nella griglia
         images.forEach(img => {
             img.addEventListener("click", (event) => {
-                // Estrae i dati dell'opera associata all'immagine cliccata
                 const operaData = event.target.getAttribute("data-opera");
                 if (operaData) {
                     try {
-                        // Parsing dei dati JSON dell'opera e visualizza il modale con i dettagli
                         const opera = JSON.parse(operaData.replace(/&apos;/g, "'"));
                         showModal(opera); // Mostra il modale con i dettagli dell'opera
                     } catch (error) {
-                        console.error("Errore nel parsing dei dati:", error); // Gestione errori di parsing
+                        console.error("Errore nel parsing dei dati:", error);
                     }
                 }
             });
         });
     } else {
-        // Se non ci sono opere disponibili, mostra un messaggio di avviso
-        gridOpere.innerHTML = `<p>Nessuna opera disponibile.</p>`;
+        gridOpere.innerHTML = `<p>Nessuna opera disponibile.</p>`; // Messaggio se non ci sono opere
     }
 
-    // Gestione del pulsante per ricaricare la pagina e mostrare un nuovo set di opere
+    // Gestione del pulsante per ricaricare la pagina
     reloadButton.addEventListener("click", () => {
-        window.scrollTo(0, 0); // Torna all'inizio della pagina
+        window.scrollTo(0, 0); // Torna all'inizio
         location.reload(); // Ricarica la pagina
     });
 
     // Inizializza il menu hamburger
     initHamburgerMenu();
-
 });
