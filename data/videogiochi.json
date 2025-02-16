@@ -285,6 +285,21 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Fear & Hunger",
+    "immagine": "images/fear_and_hunger.jpg",
+    "data": "2020",
+    "trama": "In un mondo oscuro e corrotto, un gruppo di persone si ritrova intrappolato in una prigione sotterranea dove le loro vite sono minacciate da entità oscure e terribili.",
+    "autore": "Mihailo 'Mihailo' Dimić",
+    "genere": [
+      "RPG",
+      "Survival Horror",
+      "Indie"
+    ],
+    "valutazione": 8.5,
+    "trailer": "https://www.youtube.com/embed/6lLtw3ejnGs",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Ghost of Tsushima",
     "immagine": "images/ghostoftsushima.jpg",
     "data": "2020",
