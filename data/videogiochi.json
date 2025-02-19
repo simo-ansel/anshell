@@ -405,6 +405,21 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Left 4 Dead 2",
+    "immagine": "images/left_4_dead_2.jpg",
+    "data": "2009",
+    "trama": "Quattro sopravvissuti devono farsi strada attraverso orde di zombie in un'America post-apocalittica, collaborando per sopravvivere a ondate di infetti e boss mutanti.",
+    "autore": "Valve",
+    "genere": [
+      "Sparatutto",
+      "Cooperativo",
+      "Horror"
+    ],
+    "valutazione": 9.0,
+    "trailer": "https://www.youtube.com/embed/9XIle_kLHKU",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Lies of P",
     "immagine": "images/lies_of_p.jpg",
     "data": "2023",
