@@ -555,6 +555,20 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Resident Evil 3 Remake",
+    "immagine": "images/resident_evil_3_remake.jpg",
+    "data": "2020",
+    "trama": "Jill Valentine, un'ex agente della S.T.A.R.S., cerca di fuggire da Raccoon City mentre un'arma biologica chiamata Nemesis la insegue implacabilmente. Nel frattempo, la città cade nel caos a causa del virus T sviluppato dalla Umbrella Corporation.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Survival Horror"
+    ],
+    "valutazione": 8,
+    "trailer": "https://www.youtube.com/embed/xNjGFUaorYc",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Resident Evil 4 Remake",
     "immagine": "images/resident_evil_4_remake.jpg",
     "data": "2023",
@@ -672,6 +686,21 @@
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/MbBFC5jKF5I",
+    "tipo": "videogioco"
+  },
+  {
+    "titolo": "The Last of Us",
+    "immagine": "images/the_last_of_us.jpg",
+    "data": "2013",
+    "trama": "In un mondo devastato da un'infezione fungina che ha trasformato gran parte della popolazione in creature aggressive, Joel, un uomo segnato dal dolore, deve scortare Ellie, una ragazza che potrebbe essere la chiave per la sopravvivenza dell'umanità.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Survival Horror"
+    ],
+    "valutazione": 10.0,
+    "trailer": "https://www.youtube.com/embed/AaOWRvmtEFQ",
     "tipo": "videogioco"
   },
   {
