@@ -270,6 +270,21 @@
     "tipo": "serieTV"
   },
   {
+  "titolo": "Scott Pilgrim - La serie",
+  "immagine": "images/scott_pilgrim.jpg",
+  "data": "2023",
+  "trama": "Scott Pilgrim, un musicista squattrinato di Toronto, si innamora della misteriosa Ramona Flowers, ma per conquistarla deve affrontare i suoi sette malvagi ex in battaglie surreali ispirate ai videogiochi.",
+  "autore": "Bryan Lee O'Malley, BenDavid Grabinski",
+  "genere": [
+    "Azione",
+    "Commedia",
+    "Romance"
+  ],
+  "valutazione": 8.2,
+  "trailer": "https://www.youtube.com/embed/Sm1K3QTl0Y0",
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "Scrubs",
     "immagine": "images/scrubs.jpg",
     "data": "2001 - 2010",

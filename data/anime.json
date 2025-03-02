@@ -51,7 +51,6 @@
     "trama": "Dopo la tragedia che ha distrutto la sua famiglia e trasformato sua sorella Nezuko in un demone, Tanjiro Kamado intraprende un viaggio per trovare una cura e vendicare i suoi cari.",
     "autore": "Haruo Sotozaki",
     "genere": [
-      "Anime",
       "Azione",
       "Fantasy",
       "Avventura"
@@ -59,6 +58,21 @@
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/YkJvHe3KK2c",
     "tipo": "anime"
+  },
+  {
+  "titolo": "Death Parade",
+  "immagine": "images/death_parade.jpg",
+  "data": "2015",
+  "trama": "Quando le persone muoiono, vengono portate in un bar misterioso dove due anime devono affrontare un gioco per determinare se andranno in Paradiso o all'Inferno. In questo processo, i loro veri caratteri vengono messi alla prova.",
+  "autore": "Yuzuru Tachikawa",
+  "genere": [
+    "Psicologico",
+    "Thriller",
+    "Mistero"
+  ],
+  "valutazione": 8.3,
+  "trailer": "https://www.youtube.com/embed/Ca5Tf5BDSYI",
+  "tipo": "anime"
   },
   {
     "titolo": "Devilman Crybaby",
@@ -194,6 +208,21 @@
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/Bw-5Lka7gPE",
     "tipo": "anime"
+  },
+  {
+  "titolo": "Mononoke the Movie: Phantom in the Rain",
+  "immagine": "images/mononoke_phantom_in_the_rain.jpg",
+  "data": "2024",
+  "trama": "Un enigmatico venditore di medicine viaggia attraverso il Giappone feudale, affrontando spiriti malevoli noti come Mononoke. Giunto in un palazzo imperiale, scopre una presenza maligna nascosta nelle camere interne.",
+  "autore": "Kenji Nakamura",
+  "genere": [
+    "Animazione",
+    "Horror psicologico",
+    "Soprannaturale"
+  ],
+  "valutazione": 8.0,
+  "trailer": "https://www.youtube.com/embed/VAUz4AV3PGo",
+  "tipo": "anime"
   },
   {
     "titolo": "Neon Genesis Evangelion",
