@@ -66,12 +66,27 @@
   "trama": "Quando le persone muoiono, vengono portate in un bar misterioso dove due anime devono affrontare un gioco per determinare se andranno in Paradiso o all'Inferno. In questo processo, i loro veri caratteri vengono messi alla prova.",
   "autore": "Yuzuru Tachikawa",
   "genere": [
+    "Drammatico",
     "Psicologico",
-    "Thriller",
-    "Mistero"
+    "Sci-Fi"
   ],
   "valutazione": 8.3,
   "trailer": "https://www.youtube.com/embed/Ca5Tf5BDSYI",
+  "tipo": "anime"
+  },
+  {
+  "titolo": "The End of Evangelion",
+  "immagine": "images/the_end_of_evangelion.jpg",
+  "data": "1997",
+  "trama": "L'umanità si avvicina al Progetto per il Perfezionamento dell'Uomo. Shinji Ikari deve affrontare la propria esistenza mentre NERV viene attaccata e il destino del mondo viene deciso in un'esperienza visiva e psicologica senza precedenti.",
+  "autore": "Hideaki Anno",
+  "genere": [
+    "Drammatico",
+    "Psicologico",
+    "Sci-Fi"
+  ],
+  "valutazione": 8.7,
+  "trailer": "https://www.youtube.com/embed/Y9cXQfLdGfQ",
   "tipo": "anime"
   },
   {
