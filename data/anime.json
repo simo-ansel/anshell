@@ -300,6 +300,21 @@
     "tipo": "anime"
   },
   {
+  "titolo": "I Racconti di Terramare",
+  "immagine": "images/racconti_di_terramare.jpg",
+  "data": "2006",
+  "trama": "In un mondo magico minacciato da un misterioso squilibrio, il giovane principe Arren intraprende un viaggio con il potente mago Sparviere. Mentre affrontano forze oscure, Arren scoprirà il vero significato del coraggio e dell'equilibrio.",
+  "autore": "Gorō Miyazaki",
+  "genere": [
+    "Fantasy",
+    "Avventura",
+    "Drammatico"
+  ],
+  "valutazione": 7.0,
+  "trailer": "https://www.youtube.com/embed/8hxYx3Jq3kI",
+  "tipo": "anime"
+  },
+  {
     "titolo": "Redline",
     "immagine": "images/redline.jpg",
     "data": "2009",
