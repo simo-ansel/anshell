@@ -210,6 +210,21 @@
     "tipo": "videogioco"
   },
   {
+  "titolo": "Dino Crisis",
+  "immagine": "images/dino_crisis.jpg",
+  "data": "1999",
+  "trama": "Un team delle forze speciali viene inviato su un'isola remota per investigare su un progetto scientifico segreto. Tuttavia, si trovano intrappolati in una struttura infestata da dinosauri riportati in vita, dove dovranno sopravvivere e scoprire la verità dietro l'incidente.",
+  "autore": "Shinji Mikami",
+  "genere": [
+    "Horror",
+    "Survival",
+    "Azione"
+  ],
+  "valutazione": 8.0,
+  "trailer": "https://www.youtube.com/embed/nh09pKHVjBk",
+  "tipo": "videogioco"
+  },
+  {
     "titolo": "Disco Elysium",
     "immagine": "images/discoelysium.jpg",
     "data": "2019",

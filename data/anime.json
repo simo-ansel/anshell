@@ -300,6 +300,21 @@
     "tipo": "anime"
   },
   {
+  "titolo": "La Principessa Mononoke",
+  "immagine": "images/principessa_mononoke.jpg",
+  "data": "1997",
+  "trama": "Ashitaka, un giovane guerriero colpito da una maledizione, intraprende un viaggio per trovare una cura. Nella sua ricerca, si ritrova coinvolto nel conflitto tra gli spiriti della foresta e gli esseri umani guidati da Lady Eboshi. Al centro della battaglia c'è San, una ragazza cresciuta dai lupi, conosciuta come la Principessa Mononoke.",
+  "autore": "Hayao Miyazaki",
+  "genere": [
+    "Fantasy",
+    "Avventura",
+    "Drammatico"
+  ],
+  "valutazione": 8.4,
+  "trailer": "https://www.youtube.com/embed/4OiMOHRDs14",
+  "tipo": "anime"
+  },
+  {
   "titolo": "I Racconti di Terramare",
   "immagine": "images/racconti_di_terramare.jpg",
   "data": "2006",
