@@ -74,34 +74,34 @@
     "tipo": "anime"
   },
   {
-  "titolo": "Death Parade",
-  "immagine": "images/death_parade.jpg",
-  "data": "2015",
-  "trama": "Quando le persone muoiono, vengono portate in un bar misterioso dove due anime devono affrontare un gioco per determinare se andranno in Paradiso o all'Inferno. In questo processo, i loro veri caratteri vengono messi alla prova.",
-  "autore": "Yuzuru Tachikawa",
-  "genere": [
-    "Drammatico",
-    "Psicologico",
-    "Sci-Fi"
-  ],
-  "valutazione": 8.3,
-  "trailer": "https://www.youtube.com/embed/Ca5Tf5BDSYI",
-  "tipo": "anime"
+    "titolo": "Death Parade",
+    "immagine": "images/death_parade.jpg",
+    "data": "2015",
+    "trama": "Quando le persone muoiono, vengono portate in un bar misterioso dove due anime devono affrontare un gioco per determinare se andranno in Paradiso o all'Inferno. In questo processo, i loro veri caratteri vengono messi alla prova.",
+    "autore": "Yuzuru Tachikawa",
+    "genere": [
+      "Drammatico",
+      "Psicologico",
+      "Sci-Fi"
+    ],
+    "valutazione": 8.3,
+    "trailer": "https://www.youtube.com/embed/Ca5Tf5BDSYI",
+    "tipo": "anime"
   },
   {
-  "titolo": "The End of Evangelion",
-  "immagine": "images/the_end_of_evangelion.jpg",
-  "data": "1997",
-  "trama": "L'umanità si avvicina al Progetto per il Perfezionamento dell'Uomo. Shinji Ikari deve affrontare la propria esistenza mentre NERV viene attaccata e il destino del mondo viene deciso in un'esperienza visiva e psicologica senza precedenti.",
-  "autore": "Hideaki Anno",
-  "genere": [
-    "Drammatico",
-    "Psicologico",
-    "Sci-Fi"
-  ],
-  "valutazione": 8.7,
-  "trailer": "https://www.youtube.com/embed/Y9cXQfLdGfQ",
-  "tipo": "anime"
+    "titolo": "The End of Evangelion",
+    "immagine": "images/the_end_of_evangelion.jpg",
+    "data": "1997",
+    "trama": "L'umanità si avvicina al Progetto per il Perfezionamento dell'Uomo. Shinji Ikari deve affrontare la propria esistenza mentre NERV viene attaccata e il destino del mondo viene deciso in un'esperienza visiva e psicologica senza precedenti.",
+    "autore": "Hideaki Anno",
+    "genere": [
+      "Drammatico",
+      "Psicologico",
+      "Sci-Fi"
+    ],
+    "valutazione": 8.7,
+    "trailer": "https://www.youtube.com/embed/Y9cXQfLdGfQ",
+    "tipo": "anime"
   },
   {
     "titolo": "Devilman Crybaby",
@@ -142,7 +142,7 @@
     "genere": [
       "Azione",
       "Avventura",
-      "Fantasy",
+      "Fantasy"
     ],
     "valutazione": 9.2,
     "trailer": "https://www.youtube.com/embed/elyXcwunIYA",
@@ -269,19 +269,19 @@
     "tipo": "anime"
   },
   {
-  "titolo": "Mononoke the Movie: Phantom in the Rain",
-  "immagine": "images/mononoke_phantom_in_the_rain.jpg",
-  "data": "2024",
-  "trama": "Un enigmatico venditore di medicine viaggia attraverso il Giappone feudale, affrontando spiriti malevoli noti come Mononoke. Giunto in un palazzo imperiale, scopre una presenza maligna nascosta nelle camere interne.",
-  "autore": "Kenji Nakamura",
-  "genere": [
-    "Animazione",
-    "Horror psicologico",
-    "Soprannaturale"
-  ],
-  "valutazione": 8.0,
-  "trailer": "https://www.youtube.com/embed/VAUz4AV3PGo",
-  "tipo": "anime"
+    "titolo": "Mononoke the Movie: Phantom in the Rain",
+    "immagine": "images/mononoke_phantom_in_the_rain.jpg",
+    "data": "2024",
+    "trama": "Un enigmatico venditore di medicine viaggia attraverso il Giappone feudale, affrontando spiriti malevoli noti come Mononoke. Giunto in un palazzo imperiale, scopre una presenza maligna nascosta nelle camere interne.",
+    "autore": "Kenji Nakamura",
+    "genere": [
+      "Animazione",
+      "Horror psicologico",
+      "Soprannaturale"
+    ],
+    "valutazione": 8,
+    "trailer": "https://www.youtube.com/embed/VAUz4AV3PGo",
+    "tipo": "anime"
   },
   {
     "titolo": "Neon Genesis Evangelion",
@@ -344,34 +344,34 @@
     "tipo": "anime"
   },
   {
-  "titolo": "La Principessa Mononoke",
-  "immagine": "images/principessa_mononoke.jpg",
-  "data": "1997",
-  "trama": "Ashitaka, un giovane guerriero colpito da una maledizione, intraprende un viaggio per trovare una cura. Nella sua ricerca, si ritrova coinvolto nel conflitto tra gli spiriti della foresta e gli esseri umani guidati da Lady Eboshi. Al centro della battaglia c'è San, una ragazza cresciuta dai lupi, conosciuta come la Principessa Mononoke.",
-  "autore": "Hayao Miyazaki",
-  "genere": [
-    "Fantasy",
-    "Avventura",
-    "Drammatico"
-  ],
-  "valutazione": 8.4,
-  "trailer": "https://www.youtube.com/embed/4OiMOHRDs14",
-  "tipo": "anime"
+    "titolo": "La Principessa Mononoke",
+    "immagine": "images/principessa_mononoke.jpg",
+    "data": "1997",
+    "trama": "Ashitaka, un giovane guerriero colpito da una maledizione, intraprende un viaggio per trovare una cura. Nella sua ricerca, si ritrova coinvolto nel conflitto tra gli spiriti della foresta e gli esseri umani guidati da Lady Eboshi. Al centro della battaglia c'è San, una ragazza cresciuta dai lupi, conosciuta come la Principessa Mononoke.",
+    "autore": "Hayao Miyazaki",
+    "genere": [
+      "Fantasy",
+      "Avventura",
+      "Drammatico"
+    ],
+    "valutazione": 8.4,
+    "trailer": "https://www.youtube.com/embed/4OiMOHRDs14",
+    "tipo": "anime"
   },
   {
-  "titolo": "I Racconti di Terramare",
-  "immagine": "images/racconti_di_terramare.jpg",
-  "data": "2006",
-  "trama": "In un mondo magico minacciato da un misterioso squilibrio, il giovane principe Arren intraprende un viaggio con il potente mago Sparviere. Mentre affrontano forze oscure, Arren scoprirà il vero significato del coraggio e dell'equilibrio.",
-  "autore": "Gorō Miyazaki",
-  "genere": [
-    "Fantasy",
-    "Avventura",
-    "Drammatico"
-  ],
-  "valutazione": 7.0,
-  "trailer": "https://www.youtube.com/embed/8hxYx3Jq3kI",
-  "tipo": "anime"
+    "titolo": "I Racconti di Terramare",
+    "immagine": "images/racconti_di_terramare.jpg",
+    "data": "2006",
+    "trama": "In un mondo magico minacciato da un misterioso squilibrio, il giovane principe Arren intraprende un viaggio con il potente mago Sparviere. Mentre affrontano forze oscure, Arren scoprirà il vero significato del coraggio e dell'equilibrio.",
+    "autore": "Gorō Miyazaki",
+    "genere": [
+      "Fantasy",
+      "Avventura",
+      "Drammatico"
+    ],
+    "valutazione": 7,
+    "trailer": "https://www.youtube.com/embed/8hxYx3Jq3kI",
+    "tipo": "anime"
   },
   {
     "titolo": "Redline",
