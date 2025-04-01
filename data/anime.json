@@ -30,18 +30,18 @@
     "tipo": "anime"
   },
   {
-  "titolo": "Blue Period",
-  "immagine": "images/blue_period.jpg",
-  "data": "2021",
-  "trama": "Yatora Yaguchi, uno studente modello privo di passioni, scopre il mondo dell'arte e decide di intraprendere un difficile percorso per entrare in una prestigiosa scuola d'arte.",
-  "autore": "Tsubasa Yamaguchi",
-  "genere": [
-    "Drammatico",
-    "Slice of Life"
-  ],
-  "valutazione": 7.8,
-  "trailer": "https://www.youtube.com/embed/q0ypHogc6wg",
-  "tipo": "anime"
+    "titolo": "Blue Period",
+    "immagine": "images/blue_period.jpg",
+    "data": "2021",
+    "trama": "Yatora Yaguchi, uno studente modello privo di passioni, scopre il mondo dell'arte e decide di intraprendere un difficile percorso per entrare in una prestigiosa scuola d'arte.",
+    "autore": "Tsubasa Yamaguchi",
+    "genere": [
+      "Drammatico",
+      "Slice of Life"
+    ],
+    "valutazione": 7.8,
+    "trailer": "https://www.youtube.com/embed/q0ypHogc6wg",
+    "tipo": "anime"
   },
   {
     "titolo": "Cowboy Bebop",
@@ -119,19 +119,34 @@
     "tipo": "anime"
   },
   {
-  "titolo": "Frieren - Oltre la fine del viaggio",
-  "immagine": "images/frieren.jpg",
-  "data": "2023",
-  "trama": "Dopo aver sconfitto il Re Demone, l'elfa maga Frieren inizia un viaggio per comprendere il valore del tempo e dei legami umani, esplorando il mondo con nuovi compagni.",
-  "autore": "Kanehito Yamada",
-  "genere": [
-    "Fantasy",
-    "Avventura",
-    "Drammatico"
-  ],
-  "valutazione": 8.9,
-  "trailer": " https://www.youtube.com/embed/QoGM9hCxr4k",
-  "tipo": "anime"
+    "titolo": "Frieren - Oltre la fine del viaggio",
+    "immagine": "images/frieren.jpg",
+    "data": "2023",
+    "trama": "Dopo aver sconfitto il Re Demone, l'elfa maga Frieren inizia un viaggio per comprendere il valore del tempo e dei legami umani, esplorando il mondo con nuovi compagni.",
+    "autore": "Kanehito Yamada",
+    "genere": [
+      "Fantasy",
+      "Avventura",
+      "Drammatico"
+    ],
+    "valutazione": 8.9,
+    "trailer": " https://www.youtube.com/embed/QoGM9hCxr4k",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Full Metal Alchemist: Brotherhood",
+    "immagine": "images/full_metal_alchemist_brotherhood.jpg",
+    "data": "2009",
+    "trama": "I fratelli Edward e Alphonse Elric, dopo un tentativo fallito di trasmutazione umana per riportare in vita la loro madre, intraprendono un viaggio alla ricerca della Pietra Filosofale per recuperare ciò che hanno perso.",
+    "autore": "Hiromu Arakawa",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Fantasy",
+    ],
+    "valutazione": 9.2,
+    "trailer": "https://www.youtube.com/embed/elyXcwunIYA",
+    "tipo": "anime"
   },
   {
     "titolo": "Ghost in the Shell",
