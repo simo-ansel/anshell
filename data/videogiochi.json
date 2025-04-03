@@ -495,6 +495,21 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Metal Gear Solid",
+    "immagine": "images/metal_gear_solid.jpg",
+    "data": "1998",
+    "trama": "Un ex soldato, Solid Snake, viene inviato in una base segreta in Alaska per fermare una crisi nucleare causata da un gruppo di terroristi che hanno preso il controllo di un'arma di distruzione di massa, Metal Gear.",
+    "autore": "Konami",
+    "genere": [
+      "Azione",
+      "Stealth",
+      "Avventura"
+    ],
+    "valutazione": 10,
+    "trailer": "https://www.youtube.com/embed/z7fhvnjo-Hs",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Nier Replicant ver.1.22474487139...",
     "immagine": "images/nier_replicant.jpg",
     "data": "2021",
