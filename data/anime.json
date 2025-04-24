@@ -389,6 +389,21 @@
     "tipo": "anime"
   },
   {
+    "titolo": "Serial Experiments Lain",
+    "immagine": "images/serial_experiment_lain.jpg",
+    "data": "1998",
+    "trama": "Lain Iwakura è una studentessa introversa che inizia a esplorare la rete Wired dopo aver ricevuto un misterioso messaggio da una compagna di classe morta. Man mano che si addentra, il confine tra realtà e virtuale si dissolve, portandola a scoprire verità inquietanti su sé stessa e sull'esistenza.",
+    "autore": "Yasuyuki Ueda",
+    "genere": [
+      "Psicologico",
+      "Cyberpunk",
+      "Mistero"
+    ],
+    "valutazione": 8.1,
+    "trailer": "https://www.youtube.com/embed/5PXiXtEuYis",
+    "tipo": "anime"
+  },
+  {
     "titolo": "Sword Art Online",
     "immagine": "images/sword_art_online.jpg",
     "data": "2012",

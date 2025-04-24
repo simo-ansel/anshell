@@ -240,6 +240,21 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Doom",
+    "immagine": "images/doom.jpg",
+    "data": "1993",
+    "trama": "Un marine spaziale senza nome si ritrova da solo su Marte a combattere contro orde di demoni scatenati da un esperimento militare fallito. Armato solo di coraggio e armi potenti, dovrà affrontare l’inferno stesso per sopravvivere.",
+    "autore": "id Software",
+    "genere": [
+      "Azione",
+      "Sparatutto",
+      "Horror"
+    ],
+    "valutazione": 9.3,
+    "trailer": "https://www.youtube.com/embed/BkaC1-QoraY",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Elden Ring",
     "immagine": "images/eldenring.jpg",
     "data": "2022",
