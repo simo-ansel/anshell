@@ -179,6 +179,21 @@
     "tipo": "anime"
   },
   {
+    "titolo": "Heavenly Delusion",
+    "immagine": "images/heavenly_delusion.jpg",
+    "data": "2023",
+    "trama": "In un Giappone post-apocalittico, due adolescenti, Maru e Kiruko, viaggiano attraverso terre desolate in cerca di un misterioso luogo chiamato 'Il Paradiso', mentre combattono creature mutanti e scoprono verità inquietanti.",
+    "autore": "Masakazu Ishiguro",
+    "genere": [
+      "Fantascienza",
+      "Avventura",
+      "Mistero"
+    ],
+    "valutazione": 8.1,
+    "trailer": "https://www.youtube.com/embed/GuAcdIqcanA",
+    "tipo": "anime"
+  },
+  {
     "titolo": "Il Castello Errante di Howl",
     "immagine": "images/il_castello_errante_di_howl.jpg",
     "data": "2004",

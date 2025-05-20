@@ -28,6 +28,21 @@
     "tipo": "manga"
   },
   {
+    "titolo": "Homunculus",
+    "immagine": "images/homunculus.jpg",
+    "data": "2003",
+    "trama": "Susumu Nakoshi, un uomo senzatetto, si sottopone a una misteriosa operazione chiamata trepanazione che gli consente di vedere i 'mostri interiori' delle persone, portandolo a confrontarsi con la follia e il dolore umano.",
+    "autore": "Hideo Yamamoto",
+    "genere": [
+      "Psicologico",
+      "Horror",
+      "Seinen"
+    ],
+    "valutazione": 8.3,
+    "trailer": "https://www.youtube.com/embed/npz17VrYktU",
+    "tipo": "manga"
+  },
+  {
     "titolo": "Mela Meccanica",
     "immagine": "images/mela_meccanica.jpg",
     "data": "1970",

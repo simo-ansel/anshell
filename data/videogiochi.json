@@ -525,6 +525,21 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Metal Gear Solid 2: Sons of Liberty",
+    "immagine": "images/metal_gear_solid_2.jpg",
+    "data": "2001",
+    "trama": "Solid Snake e Raiden affrontano una nuova minaccia legata alle armi nucleari e alla manipolazione delle informazioni globali in un intrigo politico che mette in discussione la realtà e la libertà dell’individuo.",
+    "autore": "Hideo Kojima",
+    "genere": [
+      "Azione",
+      "Infiltrazione",
+      "Thriller"
+    ],
+    "valutazione": 9.2,
+    "trailer": "https://www.youtube.com/embed/OBXpTMGyYXg",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Nier Replicant ver.1.22474487139...",
     "immagine": "images/nier_replicant.jpg",
     "data": "2021",
