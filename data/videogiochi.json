@@ -255,6 +255,21 @@
     "tipo": "videogioco"
   },
   {
+  "titolo": "Doom II",
+  "immagine": "images/doom2.jpg",
+  "data": "1994",
+  "trama": "Il marine spaziale torna per affrontare un'invasione di demoni su Marte e sulla Terra. Con armi potenti e un gameplay frenetico, dovrai sopravvivere a ondate di mostri infernali e chiudere il portale tra i mondi.",
+  "autore": "id Software",
+  "genere": [
+    "Azione",
+    "Sparatutto",
+    "Horror"
+  ],
+  "valutazione": 9.0,
+  "trailer": "https://www.youtube.com/embed/f8oRwBkKkXE",
+  "tipo": "videogioco"
+  },
+  {
     "titolo": "Elden Ring",
     "immagine": "images/eldenring.jpg",
     "data": "2022",
