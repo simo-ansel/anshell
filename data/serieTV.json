@@ -1,5 +1,20 @@
 [
   {
+  "titolo": "Arrested Development",
+  "immagine": "images/arrested_development.jpg",
+  "data": "2003-2019",
+  "trama": "Dopo l'arresto del padre, Michael Bluth cerca di tenere insieme la sua disfunzionale famiglia mentre gestisce l'azienda di famiglia. Tuttavia, l'egoismo e l'immaturità dei suoi parenti rendono ogni tentativo quasi impossibile.",
+  "autore": "Mitchell Hurwitz",
+  "genere": [
+    "Commedia",
+    "Satira",
+    "Famiglia"
+  ],
+  "valutazione": 8.7,
+  "trailer": "https://www.youtube.com/embed/4oIk04OQ1Ec",
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "Archer",
     "immagine": "images/archer.jpg",
     "data": "2009 - 2023",
@@ -133,6 +148,21 @@
     "valutazione": 7.6,
     "trailer": "https://www.youtube.com/embed/vTbHCyrqDgE",
     "tipo": "serieTV"
+  },
+  {
+  "titolo": "Dr. House - Medical Division",
+  "immagine": "images/dr_house.jpg",
+  "data": "2004-2012",
+  "trama": "Il dottor Gregory House è un brillante ma anticonvenzionale medico diagnostico, noto per il suo atteggiamento cinico e l'uso frequente di metodi poco ortodossi. Insieme al suo team, affronta casi medici complessi e misteriosi, spesso mettendo in discussione l'etica e i limiti della medicina.",
+  "autore": "David Shore",
+  "genere": [
+    "Dramma",
+    "Medico",
+    "Mistero"
+  ],
+  "valutazione": 8.7,
+  "trailer": "https://www.youtube.com/embed/IUBO3bA6JEY",
+  "tipo": "serieTV"
   },
   {
     "titolo": "F is for Family",
@@ -388,5 +418,20 @@
     "valutazione": 7.8,
     "trailer": "https://www.youtube.com/embed/BqJx6hCYKGE",
     "tipo": "serieTV"
+  },
+  {
+  "titolo": "Workin' Moms",
+  "immagine": "images/workin_moms.jpg",
+  "data": "2017-2023",
+  "trama": "Un gruppo di madri moderne cerca di conciliare la maternità con la carriera, le relazioni e la propria identità in una società che non rende facile essere tutto insieme.",
+  "autore": "Catherine Reitman",
+  "genere": [
+    "Commedia",
+    "Dramma",
+    "Femminile"
+  ],
+  "valutazione": 7.6,
+  "trailer": "https://www.youtube.com/embed/gk1vKFcUxyU",
+  "tipo": "serieTV"
   }
 ]

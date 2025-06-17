@@ -419,6 +419,21 @@
     "tipo": "anime"
   },
   {
+    "titolo": "Si sente il mare",
+    "immagine": "images/si_sente_il_mare.jpg",
+    "data": "1993",
+    "trama": "Un giovane riflette su un viaggio a Kochi, dove lui e il suo migliore amico hanno incontrato una ragazza trasferita da Tokyo. Tra amicizie, gelosie e sentimenti non detti, i tre affrontano le complessità dell'adolescenza in una piccola città costiera.",
+    "autore": "Tomomi Mochizuki",
+    "genere": [
+      "Romantico",
+      "Drammatico",
+      "Slice of Life"
+    ],
+    "valutazione": 7.4,
+    "trailer": "https://www.youtube.com/embed/tfkHiHjrqa8",
+    "tipo": "anime"
+  },
+  {
     "titolo": "Sword Art Online",
     "immagine": "images/sword_art_online.jpg",
     "data": "2012",
