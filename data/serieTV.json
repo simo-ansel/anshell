@@ -1,18 +1,33 @@
 [
   {
-  "titolo": "Arrested Development",
-  "immagine": "images/arrested_development.jpg",
-  "data": "2003-2019",
-  "trama": "Dopo l'arresto del padre, Michael Bluth cerca di tenere insieme la sua disfunzionale famiglia mentre gestisce l'azienda di famiglia. Tuttavia, l'egoismo e l'immaturità dei suoi parenti rendono ogni tentativo quasi impossibile.",
-  "autore": "Mitchell Hurwitz",
-  "genere": [
-    "Commedia",
-    "Satira",
-    "Famiglia"
-  ],
-  "valutazione": 8.7,
-  "trailer": "https://www.youtube.com/embed/4oIk04OQ1Ec",
-  "tipo": "serieTV"
+    "titolo": "The 100",
+    "immagine": "images/the_100.jpg",
+    "data": "2014 - 2020",
+    "trama": "Dopo una catastrofe nucleare che ha devastato la Terra, i discendenti degli ultimi sopravvissuti vivono su una stazione spaziale. Quando le risorse cominciano a scarseggiare, 100 giovani criminali vengono inviati sulla Terra per determinare se il pianeta è di nuovo abitabile.",
+    "autore": "Jason Rothenberg",
+    "genere": [
+      "Drammatico",
+      "Fantascienza",
+      "Azione"
+    ],
+    "valutazione": 7.6,
+    "trailer": "https://www.youtube.com/embed/DgZSr_F8lfU",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Arrested Development",
+    "immagine": "images/arrested_development.jpg",
+    "data": "2003-2019",
+    "trama": "Dopo l'arresto del padre, Michael Bluth cerca di tenere insieme la sua disfunzionale famiglia mentre gestisce l'azienda di famiglia. Tuttavia, l'egoismo e l'immaturità dei suoi parenti rendono ogni tentativo quasi impossibile.",
+    "autore": "Mitchell Hurwitz",
+    "genere": [
+      "Commedia",
+      "Satira",
+      "Famiglia"
+    ],
+    "valutazione": 8.7,
+    "trailer": "https://www.youtube.com/embed/4oIk04OQ1Ec",
+    "tipo": "serieTV"
   },
   {
     "titolo": "Archer",
@@ -27,6 +42,20 @@
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/WIfnM9ntFc8",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Atypical",
+    "immagine": "images/atypical.jpg",
+    "data": "2017",
+    "trama": "Sam, un ragazzo nello spettro autistico, cerca indipendenza e amore mentre affronta i problemi adolescenziali e familiari.",
+    "autore": "Robia Rashid",
+    "genere": [
+      "Dramma",
+      "Commedia"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/aa0s3Q8_-wM",
     "tipo": "serieTV"
   },
   {
@@ -87,6 +116,36 @@
     ],
     "valutazione": 8.4,
     "trailer": "https://www.youtube.com/embed/ourfSzoC7pA",
+    "tipo": "serieTV"
+  },
+  {
+  "titolo": "Come vendere droga online (in fretta)",
+  "immagine": "images/come_vendere_droga_online.jpg",
+  "data": "2019",
+  "trama": "Uno studente nerd lancia per caso un sito di vendita di ecstasy nel dark web per riconquistare la sua ex, diventando uno dei maggiori spacciatori d’Europa.",
+  "autore": "Philipp Käßbohrer, Matthias Murmann",
+  "genere": [
+    "Dramma",
+    "Commedia",
+    "Crime"
+  ],
+  "valutazione": 7.9,
+  "trailer": "https://www.youtube.com/embed/opWu34vWTsQ",
+  "tipo": "serieTV"
+  },
+  {
+    "titolo": "The Cuphead Show",
+    "immagine": "images/the_cuphead_show.jpg",
+    "data": "2022",
+    "trama": "Cuphead e Mugman, due fratelli avventurosi, si trovano coinvolti in una serie di situazioni pericolose e bizzarre dopo aver perso una scommessa con il diavolo. Per salvare le loro anime, devono affrontare una serie di pericolosi avversari e raccogliere le loro anime.",
+    "autore": "Dave Wasson",
+    "genere": [
+      "Avventura",
+      "Commedia",
+      "Azione"
+    ],
+    "valutazione": 7.7,
+    "trailer": "https://www.youtube.com/embed/2d2fq0Z3xNk",
     "tipo": "serieTV"
   },
   {
@@ -165,6 +224,20 @@
   "tipo": "serieTV"
   },
   {
+  "titolo": "The End of the F***ing World",
+  "immagine": "images/the_end_of_the_fucking_world.jpg",
+  "data": "2017",
+  "trama": "James, un ragazzo che si crede uno psicopatico, e Alyssa, una ribelle impulsiva, fuggono insieme in un road trip assurdo e oscuro.",
+  "autore": "Jonathan Entwistle, Charlie Covell",
+  "genere": [
+    "Dramma",
+    "Commedia nera"
+  ],
+  "valutazione": 8.0,
+  "trailer": "https://www.youtube.com/embed/L50fd2KED8A",
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "F is for Family",
     "immagine": "images/f_is_for_family.jpg",
     "data": "2015 - 2021",
@@ -193,6 +266,35 @@
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/s7L2PVdrb_8",
     "tipo": "serieTV"
+  },
+  {
+    "titolo": "The Good Doctor",
+    "immagine": "images/the_good_doctor.jpg",
+    "data": "2017 - in corso",
+    "trama": "Shaun Murphy, un giovane chirurgo con autismo e sindrome di Savant, si trasferisce in un ospedale prestigioso. Nonostante la sua straordinaria capacità medica, affronta difficoltà nel relazionarsi con i colleghi, ma le sue abilità brillano nelle situazioni più critiche.",
+    "autore": "David Shore",
+    "genere": [
+      "Drammatico",
+      "Medico",
+      "Ispirazionale"
+    ],
+    "valutazione": 8.1,
+    "trailer": "https://www.youtube.com/embed/JGsfu43y-8Q",
+    "tipo": "serieTV"
+  },
+  {
+  "titolo": "Guillermo del Toro's Cabinet of Curiosities",
+  "immagine": "images/cabinet_of_curiosities.jpg",
+  "data": "2022",
+  "trama": "Una collezione antologica di otto racconti horror curati da Guillermo del Toro, ciascuno diretto da un regista diverso e con uno stile unico.",
+  "autore": "Guillermo del Toro",
+  "genere": [
+    "Horror",
+    "Antologia"
+  ],
+  "valutazione": 7.1,
+  "trailer": "https://www.youtube.com/embed/arZ771SlMlM",
+  "tipo": "serieTV"
   },
   {
     "titolo": "How I Met Your Mother",
@@ -255,6 +357,21 @@
     "tipo": "serieTV"
   },
   {
+    "titolo": "The Midnight Gospel",
+    "immagine": "images/the_midnight_gospel.jpg",
+    "data": "2020",
+    "trama": "Clancy, un giovane uomo che vive in un universo multidimensionale, esplora mondi alternativi usando un dispositivo per viaggiare tra le dimensioni. Ogni episodio esplora argomenti filosofici, spirituali e esistenziali attraverso conversazioni surreali e visivamente sorprendenti.",
+    "autore": "Pendleton Ward, Duncan Trussell",
+    "genere": [
+      "Commedia",
+      "Fantascienza",
+      "Filosofico"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/0kQWAqjFJS0",
+    "tipo": "serieTV"
+  },
+  {
     "titolo": "Mr. Robot",
     "immagine": "images/mr_robot.jpg",
     "data": "2015 - 2019",
@@ -267,6 +384,35 @@
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/VtPxf1tSECY",
+    "tipo": "serieTV"
+  },
+  {
+  "titolo": "Non ho mai...",
+  "immagine": "images/non_ho_mai.jpg",
+  "data": "2020",
+  "trama": "Devi, un'adolescente indiana-americana, cerca di affrontare il liceo, l’amore e il lutto per la morte del padre, con l’ironia e il caos della vita quotidiana.",
+  "autore": "Mindy Kaling, Lang Fisher",
+  "genere": [
+    "Commedia",
+    "Teen drama"
+  ],
+  "valutazione": 7.9,
+  "trailer": "https://www.youtube.com/embed/fCQCtdCZtIc",
+  "tipo": "serieTV"
+  },
+  {
+    "titolo": "The Office (USA)",
+    "immagine": "images/the_office_usa.jpg",
+    "data": "2005 - 2013",
+    "trama": "The Office segue le vicende quotidiane degli impiegati di Dunder Mifflin, una compagnia di forniture per ufficio, e in particolare le disavventure di Michael Scott, il loro capo incapace di gestire il suo ruolo senza creare imbarazzo.",
+    "autore": "Greg Daniels",
+    "genere": [
+      "Commedia",
+      "Drammatico",
+      "Mockumentary"
+    ],
+    "valutazione": 8.9,
+    "trailer": "https://www.youtube.com/embed/sqyde2jcLdQ",
     "tipo": "serieTV"
   },
   {
@@ -330,81 +476,6 @@
     "tipo": "serieTV"
   },
   {
-    "titolo": "The 100",
-    "immagine": "images/the_100.jpg",
-    "data": "2014 - 2020",
-    "trama": "Dopo una catastrofe nucleare che ha devastato la Terra, i discendenti degli ultimi sopravvissuti vivono su una stazione spaziale. Quando le risorse cominciano a scarseggiare, 100 giovani criminali vengono inviati sulla Terra per determinare se il pianeta è di nuovo abitabile.",
-    "autore": "Jason Rothenberg",
-    "genere": [
-      "Drammatico",
-      "Fantascienza",
-      "Azione"
-    ],
-    "valutazione": 7.6,
-    "trailer": "https://www.youtube.com/embed/DgZSr_F8lfU",
-    "tipo": "serieTV"
-  },
-  {
-    "titolo": "The Cuphead Show",
-    "immagine": "images/the_cuphead_show.jpg",
-    "data": "2022",
-    "trama": "Cuphead e Mugman, due fratelli avventurosi, si trovano coinvolti in una serie di situazioni pericolose e bizzarre dopo aver perso una scommessa con il diavolo. Per salvare le loro anime, devono affrontare una serie di pericolosi avversari e raccogliere le loro anime.",
-    "autore": "Dave Wasson",
-    "genere": [
-      "Avventura",
-      "Commedia",
-      "Azione"
-    ],
-    "valutazione": 7.7,
-    "trailer": "https://www.youtube.com/embed/2d2fq0Z3xNk",
-    "tipo": "serieTV"
-  },
-  {
-    "titolo": "The Good Doctor",
-    "immagine": "images/the_good_doctor.jpg",
-    "data": "2017 - in corso",
-    "trama": "Shaun Murphy, un giovane chirurgo con autismo e sindrome di Savant, si trasferisce in un ospedale prestigioso. Nonostante la sua straordinaria capacità medica, affronta difficoltà nel relazionarsi con i colleghi, ma le sue abilità brillano nelle situazioni più critiche.",
-    "autore": "David Shore",
-    "genere": [
-      "Drammatico",
-      "Medico",
-      "Ispirazionale"
-    ],
-    "valutazione": 8.1,
-    "trailer": "https://www.youtube.com/embed/JGsfu43y-8Q",
-    "tipo": "serieTV"
-  },
-  {
-    "titolo": "The Midnight Gospel",
-    "immagine": "images/the_midnight_gospel.jpg",
-    "data": "2020",
-    "trama": "Clancy, un giovane uomo che vive in un universo multidimensionale, esplora mondi alternativi usando un dispositivo per viaggiare tra le dimensioni. Ogni episodio esplora argomenti filosofici, spirituali e esistenziali attraverso conversazioni surreali e visivamente sorprendenti.",
-    "autore": "Pendleton Ward, Duncan Trussell",
-    "genere": [
-      "Commedia",
-      "Fantascienza",
-      "Filosofico"
-    ],
-    "valutazione": 8.2,
-    "trailer": "https://www.youtube.com/embed/0kQWAqjFJS0",
-    "tipo": "serieTV"
-  },
-  {
-    "titolo": "The Office (USA)",
-    "immagine": "images/the_office_usa.jpg",
-    "data": "2005 - 2013",
-    "trama": "The Office segue le vicende quotidiane degli impiegati di Dunder Mifflin, una compagnia di forniture per ufficio, e in particolare le disavventure di Michael Scott, il loro capo incapace di gestire il suo ruolo senza creare imbarazzo.",
-    "autore": "Greg Daniels",
-    "genere": [
-      "Commedia",
-      "Drammatico",
-      "Mockumentary"
-    ],
-    "valutazione": 8.9,
-    "trailer": "https://www.youtube.com/embed/sqyde2jcLdQ",
-    "tipo": "serieTV"
-  },
-  {
     "titolo": "Una Serie di Sfortunati Eventi",
     "immagine": "images/una_serie_di_sfortunati_eventi.jpg",
     "data": "2017 - 2019",
@@ -418,6 +489,20 @@
     "valutazione": 7.8,
     "trailer": "https://www.youtube.com/embed/BqJx6hCYKGE",
     "tipo": "serieTV"
+  },
+  {
+  "titolo": "The Watcher",
+  "immagine": "images/the_watcher.jpg",
+  "data": "2022",
+  "trama": "Una famiglia si trasferisce nella casa dei sogni, ma inizia a ricevere lettere inquietanti da un misterioso osservatore.",
+  "autore": "Ryan Murphy, Ian Brennan",
+  "genere": [
+    "Thriller",
+    "Mistero"
+  ],
+  "valutazione": 6.5,
+  "trailer": "https://www.youtube.com/embed/DNPW4raP9sY",
+  "tipo": "serieTV"
   },
   {
   "titolo": "Workin' Moms",
