@@ -266,6 +266,21 @@
     "tipo": "anime"
   },
   {
+  "titolo": "Lupin III - Bye Bye Liberty: Scoppia la crisi!",
+  "immagine": "images/lupin_bye_bye_liberty.jpg",
+  "data": "1989",
+  "trama": "Lupin III scopre che tutte le polizie del mondo hanno ormai dati su di lui nei loro computer. Decide quindi di ritirarsi, ma viene coinvolto da Michael, un ragazzino hacker, nella missione di rubare il “Super Egg” — un gigantesco diamante nella Statua della Libertà — prima che la misteriosa Lega dei 3 Massoni crei un super‑virus informatico chiamato “Virus Beta”.",
+  "autore": "Monkey Punch",
+  "genere": [
+    "Azione",
+    "Avventura",
+    "Commedia"
+  ],
+  "valutazione": 6.7,
+  "trailer": "https://www.youtube.com/embed/tQ44bDsKpFw",
+  "tipo": "anime"
+  },
+  {
     "titolo": "Made in Abyss",
     "immagine": "images/made_in_abyss.jpg",
     "data": "2017",
