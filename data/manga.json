@@ -1,17 +1,17 @@
 [
   {
-  "titolo": "25-ji no Ghost Writer",
-  "immagine": "images/25_ji_no_ghost_writer.jpg",
-  "data": "2019–2020",
-  "trama": "Tsugumi Higurashi, un giovane scrittore di 15 anni, torna nella sua vecchia casa per superare il blocco creativo. Qui scopre che la sua defunta governante è tornata come fantasma per aiutarlo a ritrovare l'ispirazione.",
-  "autore": "Akari Kajimoto",
-  "genere": [
-    "Commedia",
-    "Romantico",
-    "Soprannaturale"
-  ],
-  "valutazione": 8.0,
-  "tipo": "manga"
+    "titolo": "25-ji no Ghost Writer",
+    "immagine": "images/25_ji_no_ghost_writer.jpg",
+    "data": "2019–2020",
+    "trama": "Tsugumi Higurashi, un giovane scrittore di 15 anni, torna nella sua vecchia casa per superare il blocco creativo. Qui scopre che la sua defunta governante è tornata come fantasma per aiutarlo a ritrovare l'ispirazione.",
+    "autore": "Akari Kajimoto",
+    "genere": [
+      "Commedia",
+      "Romantico",
+      "Soprannaturale"
+    ],
+    "valutazione": 8.0,
+    "tipo": "manga"
   },
   {
     "titolo": "Dai Dark",
@@ -92,8 +92,7 @@
     "autore": "Rei Tōma",
     "genere": [
       "Romantico",
-      "Commedia",
-      "Slice of Life"
+      "Commedia"
     ],
     "valutazione": 7.6,
     "tipo": "manga"

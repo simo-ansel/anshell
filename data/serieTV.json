@@ -15,21 +15,6 @@
     "tipo": "serieTV"
   },
   {
-    "titolo": "Arrested Development",
-    "immagine": "images/arrested_development.jpg",
-    "data": "2003-2019",
-    "trama": "Dopo l'arresto del padre, Michael Bluth cerca di tenere insieme la sua disfunzionale famiglia mentre gestisce l'azienda di famiglia. Tuttavia, l'egoismo e l'immaturità dei suoi parenti rendono ogni tentativo quasi impossibile.",
-    "autore": "Mitchell Hurwitz",
-    "genere": [
-      "Commedia",
-      "Satira",
-      "Famiglia"
-    ],
-    "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/4oIk04OQ1Ec",
-    "tipo": "serieTV"
-  },
-  {
     "titolo": "Archer",
     "immagine": "images/archer.jpg",
     "data": "2009 - 2023",
@@ -45,13 +30,28 @@
     "tipo": "serieTV"
   },
   {
+    "titolo": "Arrested Development",
+    "immagine": "images/arrested_development.jpg",
+    "data": "2003-2019",
+    "trama": "Dopo l'arresto del padre, Michael Bluth cerca di tenere insieme la sua disfunzionale famiglia mentre gestisce l'azienda di famiglia. Tuttavia, l'egoismo e l'immaturità dei suoi parenti rendono ogni tentativo quasi impossibile.",
+    "autore": "Mitchell Hurwitz",
+    "genere": [
+      "Commedia",
+      "Satira",
+      "Famiglia"
+    ],
+    "valutazione": 8.7,
+    "trailer": "https://www.youtube.com/embed/4oIk04OQ1Ec",
+    "tipo": "serieTV"
+  },
+  {
     "titolo": "Atypical",
     "immagine": "images/atypical.jpg",
     "data": "2017",
     "trama": "Sam, un ragazzo nello spettro autistico, cerca indipendenza e amore mentre affronta i problemi adolescenziali e familiari.",
     "autore": "Robia Rashid",
     "genere": [
-      "Dramma",
+      "Drammatico",
       "Commedia"
     ],
     "valutazione": 8.2,
@@ -66,7 +66,7 @@
     "autore": "Charlie Brooker",
     "genere": [
       "Psicologico",
-      "Sci-Fi",
+      "Fantascienza",
       "Thriller"
     ],
     "valutazione": 8.8,
@@ -119,19 +119,19 @@
     "tipo": "serieTV"
   },
   {
-  "titolo": "Come vendere droga online (in fretta)",
-  "immagine": "images/come_vendere_droga_online.jpg",
-  "data": "2019",
-  "trama": "Uno studente nerd lancia per caso un sito di vendita di ecstasy nel dark web per riconquistare la sua ex, diventando uno dei maggiori spacciatori d’Europa.",
-  "autore": "Philipp Käßbohrer, Matthias Murmann",
-  "genere": [
-    "Dramma",
-    "Commedia",
-    "Crime"
-  ],
-  "valutazione": 7.9,
-  "trailer": "https://www.youtube.com/embed/opWu34vWTsQ",
-  "tipo": "serieTV"
+    "titolo": "Come vendere droga online (in fretta)",
+    "immagine": "images/come_vendere_droga_online.jpg",
+    "data": "2019",
+    "trama": "Uno studente nerd lancia per caso un sito di vendita di ecstasy nel dark web per riconquistare la sua ex, diventando uno dei maggiori spacciatori d’Europa.",
+    "autore": "Philipp Käßbohrer, Matthias Murmann",
+    "genere": [
+      "Drammatico",
+      "Commedia",
+      "Crimine"
+    ],
+    "valutazione": 7.9,
+    "trailer": "https://www.youtube.com/embed/opWu34vWTsQ",
+    "tipo": "serieTV"
   },
   {
     "titolo": "The Cuphead Show",
@@ -156,7 +156,7 @@
     "autore": "Ryan Murphy, Ian Brennan",
     "genere": [
       "Drammatico",
-      "Crime",
+      "Crimine",
       "Biografico"
     ],
     "valutazione": 8,
@@ -201,7 +201,6 @@
     "autore": "Matt Groening",
     "genere": [
       "Commedia",
-      "Fantasy",
       "Avventura"
     ],
     "valutazione": 7.6,
@@ -209,33 +208,31 @@
     "tipo": "serieTV"
   },
   {
-  "titolo": "Dr. House - Medical Division",
-  "immagine": "images/dr_house.jpg",
-  "data": "2004-2012",
-  "trama": "Il dottor Gregory House è un brillante ma anticonvenzionale medico diagnostico, noto per il suo atteggiamento cinico e l'uso frequente di metodi poco ortodossi. Insieme al suo team, affronta casi medici complessi e misteriosi, spesso mettendo in discussione l'etica e i limiti della medicina.",
-  "autore": "David Shore",
-  "genere": [
-    "Dramma",
-    "Medico",
-    "Mistero"
-  ],
-  "valutazione": 8.7,
-  "trailer": "https://www.youtube.com/embed/IUBO3bA6JEY",
-  "tipo": "serieTV"
+    "titolo": "Dr. House - Medical Division",
+    "immagine": "images/dr_house.jpg",
+    "data": "2004-2012",
+    "trama": "Il dottor Gregory House è un brillante ma anticonvenzionale medico diagnostico, noto per il suo atteggiamento cinico e l'uso frequente di metodi poco ortodossi. Insieme al suo team, affronta casi medici complessi e misteriosi, spesso mettendo in discussione l'etica e i limiti della medicina.",
+    "autore": "David Shore",
+    "genere": [
+      "Drammatico",
+      "Mistero"
+    ],
+    "valutazione": 8.7,
+    "trailer": "https://www.youtube.com/embed/IUBO3bA6JEY",
+    "tipo": "serieTV"
   },
   {
-  "titolo": "The End of the F***ing World",
-  "immagine": "images/the_end_of_the_fucking_world.jpg",
-  "data": "2017",
-  "trama": "James, un ragazzo che si crede uno psicopatico, e Alyssa, una ribelle impulsiva, fuggono insieme in un road trip assurdo e oscuro.",
-  "autore": "Jonathan Entwistle, Charlie Covell",
-  "genere": [
-    "Dramma",
-    "Commedia nera"
-  ],
-  "valutazione": 8.0,
-  "trailer": "https://www.youtube.com/embed/L50fd2KED8A",
-  "tipo": "serieTV"
+    "titolo": "The End of the F***ing World",
+    "immagine": "images/the_end_of_the_fucking_world.jpg",
+    "data": "2017",
+    "trama": "James, un ragazzo che si crede uno psicopatico, e Alyssa, una ribelle impulsiva, fuggono insieme in un road trip assurdo e oscuro.",
+    "autore": "Jonathan Entwistle, Charlie Covell",
+    "genere": [
+      "Drammatico"
+    ],
+    "valutazione": 8.0,
+    "trailer": "https://www.youtube.com/embed/L50fd2KED8A",
+    "tipo": "serieTV"
   },
   {
     "titolo": "F is for Family",
@@ -245,7 +242,6 @@
     "autore": "Bill Burr, Michael Price",
     "genere": [
       "Commedia",
-      "Slice of Life",
       "Satira"
     ],
     "valutazione": 8,
@@ -260,7 +256,6 @@
     "autore": "David Benioff, D.B. Weiss",
     "genere": [
       "Drammatico",
-      "Fantasy",
       "Avventura"
     ],
     "valutazione": 9.3,
@@ -274,27 +269,25 @@
     "trama": "Shaun Murphy, un giovane chirurgo con autismo e sindrome di Savant, si trasferisce in un ospedale prestigioso. Nonostante la sua straordinaria capacità medica, affronta difficoltà nel relazionarsi con i colleghi, ma le sue abilità brillano nelle situazioni più critiche.",
     "autore": "David Shore",
     "genere": [
-      "Drammatico",
-      "Medico",
-      "Ispirazionale"
+      "Drammatico"
     ],
     "valutazione": 8.1,
     "trailer": "https://www.youtube.com/embed/JGsfu43y-8Q",
     "tipo": "serieTV"
   },
   {
-  "titolo": "Guillermo del Toro's Cabinet of Curiosities",
-  "immagine": "images/cabinet_of_curiosities.jpg",
-  "data": "2022",
-  "trama": "Una collezione antologica di otto racconti horror curati da Guillermo del Toro, ciascuno diretto da un regista diverso e con uno stile unico.",
-  "autore": "Guillermo del Toro",
-  "genere": [
-    "Horror",
-    "Antologia"
-  ],
-  "valutazione": 7.1,
-  "trailer": "https://www.youtube.com/embed/arZ771SlMlM",
-  "tipo": "serieTV"
+    "titolo": "Guillermo del Toro's Cabinet of Curiosities",
+    "immagine": "images/cabinet_of_curiosities.jpg",
+    "data": "2022",
+    "trama": "Una collezione antologica di otto racconti horror curati da Guillermo del Toro, ciascuno diretto da un regista diverso e con uno stile unico.",
+    "autore": "Guillermo del Toro",
+    "genere": [
+      "Horror",
+      "Antologia"
+    ],
+    "valutazione": 7.1,
+    "trailer": "https://www.youtube.com/embed/arZ771SlMlM",
+    "tipo": "serieTV"
   },
   {
     "titolo": "How I Met Your Mother",
@@ -324,21 +317,6 @@
     ],
     "valutazione": 7.9,
     "trailer": "https://www.youtube.com/embed/Lu5nXAuBMfk",
-    "tipo": "serieTV"
-  },
-  {
-    "titolo": "La Regina degli Scacchi",
-    "immagine": "images/la_regina_degli_scacchi.jpg",
-    "data": "2020",
-    "trama": "Beth Harmon, un'orfana con un talento straordinario per gli scacchi, combatte con le sue dipendenze e i suoi demoni interiori mentre lotta per diventare la campionessa mondiale di scacchi, sfidando pregiudizi e difficoltà lungo il cammino.",
-    "autore": "Scott Frank",
-    "genere": [
-      "Drammatico",
-      "Sportivo",
-      "Psicologico"
-    ],
-    "valutazione": 8.6,
-    "trailer": "https://www.youtube.com/embed/oZn3qSgmLqI",
     "tipo": "serieTV"
   },
   {
@@ -387,18 +365,17 @@
     "tipo": "serieTV"
   },
   {
-  "titolo": "Non ho mai...",
-  "immagine": "images/non_ho_mai.jpg",
-  "data": "2020",
-  "trama": "Devi, un'adolescente indiana-americana, cerca di affrontare il liceo, l’amore e il lutto per la morte del padre, con l’ironia e il caos della vita quotidiana.",
-  "autore": "Mindy Kaling, Lang Fisher",
-  "genere": [
-    "Commedia",
-    "Teen drama"
-  ],
-  "valutazione": 7.9,
-  "trailer": "https://www.youtube.com/embed/fCQCtdCZtIc",
-  "tipo": "serieTV"
+    "titolo": "Non ho mai...",
+    "immagine": "images/non_ho_mai.jpg",
+    "data": "2020",
+    "trama": "Devi, un'adolescente indiana-americana, cerca di affrontare il liceo, l’amore e il lutto per la morte del padre, con l’ironia e il caos della vita quotidiana.",
+    "autore": "Mindy Kaling, Lang Fisher",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 7.9,
+    "trailer": "https://www.youtube.com/embed/fCQCtdCZtIc",
+    "tipo": "serieTV"
   },
   {
     "titolo": "The Office (USA)",
@@ -431,6 +408,21 @@
     "tipo": "serieTV"
   },
   {
+    "titolo": "La Regina degli Scacchi",
+    "immagine": "images/la_regina_degli_scacchi.jpg",
+    "data": "2020",
+    "trama": "Beth Harmon, un'orfana con un talento straordinario per gli scacchi, combatte con le sue dipendenze e i suoi demoni interiori mentre lotta per diventare la campionessa mondiale di scacchi, sfidando pregiudizi e difficoltà lungo il cammino.",
+    "autore": "Scott Frank",
+    "genere": [
+      "Drammatico",
+      "Sportivo",
+      "Psicologico"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/oZn3qSgmLqI",
+    "tipo": "serieTV"
+  },
+  {
     "titolo": "Rick and Morty",
     "immagine": "images/rick_and_morty.jpg",
     "data": "2013 - in corso",
@@ -446,19 +438,33 @@
     "tipo": "serieTV"
   },
   {
-  "titolo": "Scott Pilgrim - La serie",
-  "immagine": "images/scott_pilgrim.jpg",
-  "data": "2023",
-  "trama": "Scott Pilgrim, un musicista squattrinato di Toronto, si innamora della misteriosa Ramona Flowers, ma per conquistarla deve affrontare i suoi sette malvagi ex in battaglie surreali ispirate ai videogiochi.",
-  "autore": "Bryan Lee O'Malley, BenDavid Grabinski",
-  "genere": [
-    "Azione",
-    "Commedia",
-    "Romance"
-  ],
-  "valutazione": 8.2,
-  "trailer": "https://www.youtube.com/embed/Sm1K3QTl0Y0",
-  "tipo": "serieTV"
+    "titolo": "The Rookie",
+    "immagine": "images/the_rookie.jpg",
+    "data": "2018 - in corso",
+    "trama": "John Nolan, un uomo di 45 anni che, dopo un evento che gli cambia la vita, decide di realizzare il suo sogno: diventare un agente di polizia a Los Angeles.",
+    "autore": "Alexi Hawley",
+    "genere": [
+      "Drammatico",
+      "Poliziesco"
+    ],
+    "valutazione": 8,
+    "trailer": "https://www.youtube.com/embed/8Q4UALvlcVQ",
+    "tipo": "serieTV"
+  },
+  {
+    "titolo": "Scott Pilgrim - La serie",
+    "immagine": "images/scott_pilgrim.jpg",
+    "data": "2023",
+    "trama": "Scott Pilgrim, un musicista squattrinato di Toronto, si innamora della misteriosa Ramona Flowers, ma per conquistarla deve affrontare i suoi sette malvagi ex in battaglie surreali ispirate ai videogiochi.",
+    "autore": "Bryan Lee O'Malley, BenDavid Grabinski",
+    "genere": [
+      "Azione",
+      "Commedia",
+      "Romantico"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/Sm1K3QTl0Y0",
+    "tipo": "serieTV"
   },
   {
     "titolo": "Scrubs",
@@ -468,8 +474,7 @@
     "autore": "Bill Lawrence",
     "genere": [
       "Commedia",
-      "Drammatico",
-      "Medico"
+      "Drammatico"
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/kBz1vvlkzSw",
@@ -482,7 +487,6 @@
     "trama": "I tre orfani Baudelaire, Violet, Klaus e Sunny, si trovano a dover affrontare una serie di sfortunati eventi dopo la morte dei loro genitori. Cercando di svelare il mistero dietro la loro morte, si trovano a fronteggiare il malvagio Conte Olaf, che cerca in ogni modo di impadronirsi della loro eredità.",
     "autore": "Mark Hudis, Barry Sonnenfeld",
     "genere": [
-      "Gothic",
       "Drammatico",
       "Mistero"
     ],
@@ -491,32 +495,31 @@
     "tipo": "serieTV"
   },
   {
-  "titolo": "The Watcher",
-  "immagine": "images/the_watcher.jpg",
-  "data": "2022",
-  "trama": "Una famiglia si trasferisce nella casa dei sogni, ma inizia a ricevere lettere inquietanti da un misterioso osservatore.",
-  "autore": "Ryan Murphy, Ian Brennan",
-  "genere": [
-    "Thriller",
-    "Mistero"
-  ],
-  "valutazione": 6.5,
-  "trailer": "https://www.youtube.com/embed/DNPW4raP9sY",
-  "tipo": "serieTV"
+    "titolo": "The Watcher",
+    "immagine": "images/the_watcher.jpg",
+    "data": "2022",
+    "trama": "Una famiglia si trasferisce nella casa dei sogni, ma inizia a ricevere lettere inquietanti da un misterioso osservatore.",
+    "autore": "Ryan Murphy, Ian Brennan",
+    "genere": [
+      "Thriller",
+      "Mistero"
+    ],
+    "valutazione": 6.5,
+    "trailer": "https://www.youtube.com/embed/DNPW4raP9sY",
+    "tipo": "serieTV"
   },
   {
-  "titolo": "Workin' Moms",
-  "immagine": "images/workin_moms.jpg",
-  "data": "2017-2023",
-  "trama": "Un gruppo di madri moderne cerca di conciliare la maternità con la carriera, le relazioni e la propria identità in una società che non rende facile essere tutto insieme.",
-  "autore": "Catherine Reitman",
-  "genere": [
-    "Commedia",
-    "Dramma",
-    "Femminile"
-  ],
-  "valutazione": 7.6,
-  "trailer": "https://www.youtube.com/embed/gk1vKFcUxyU",
-  "tipo": "serieTV"
+    "titolo": "Workin' Moms",
+    "immagine": "images/workin_moms.jpg",
+    "data": "2017-2023",
+    "trama": "Un gruppo di madri moderne cerca di conciliare la maternità con la carriera, le relazioni e la propria identità in una società che non rende facile essere tutto insieme.",
+    "autore": "Catherine Reitman",
+    "genere": [
+      "Commedia",
+      "Drammatico"
+    ],
+    "valutazione": 7.6,
+    "trailer": "https://www.youtube.com/embed/gk1vKFcUxyU",
+    "tipo": "serieTV"
   }
 ]

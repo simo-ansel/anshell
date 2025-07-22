@@ -15,6 +15,21 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "The Binding of Isaac",
+    "immagine": "images/the_binding_of_isaac.jpg",
+    "data": "2011",
+    "trama": "Isaac, un bambino che cerca di fuggire dalla madre fanatica religiosa intenzionata a sacrificarlo, si rifugia in un oscuro labirinto sotto la sua casa.",
+    "autore": "Edmund McMillen",
+    "genere": [
+      "Roguelike",
+      "Azione",
+      "Psicologico"
+    ],
+    "valutazione": 9,
+    "trailer": "https://www.youtube.com/embed/A_C90i1jVzY",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Bloodborne",
     "immagine": "images/bloodborne.jpg",
     "data": "2015",
@@ -22,7 +37,6 @@
     "autore": "FromSoftware",
     "genere": [
       "Azione",
-      "RPG",
       "Horror"
     ],
     "valutazione": 9.5,
@@ -51,9 +65,7 @@
     "trama": "In un mondo post-apocalittico, il protagonista, un Revenant privo di memoria, si unisce a un gruppo di sopravvissuti per combattere contro mostri corrotti e scoprire il mistero del parassita che ha trasformato l'umanità in creature assetate di sangue.",
     "autore": "Bandai Namco Studios",
     "genere": [
-      "Azione",
-      "RPG",
-      "Post apocalittico"
+      "Azione"
     ],
     "valutazione": 7.8,
     "trailer": "https://www.youtube.com/embed/tnvavfGL39c",
@@ -81,7 +93,6 @@
     "trama": "I personaggi dell'universo di Crash Bandicoot si sfidano in una serie di minigiochi competitivi in un'avventura frenetica.",
     "autore": "Eurocom",
     "genere": [
-      "Party Game",
       "Azione",
       "Multiplayer"
     ],
@@ -141,9 +152,7 @@
     "trama": "Nel regno di Lordran, un eroe segnato dalla maledizione della non-morte, intraprende un viaggio solitario per fermare l'incessante ciclo di fuoco e oscurità.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione",
-      "RPG",
-      "Dark Fantasy"
+      "Azione"
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/Woe0PYZPxRw",
@@ -156,9 +165,7 @@
     "trama": "Un avventuriero senza nome si addentra nel regno in rovina di Drangleic, alla ricerca di risposte sulla maledizione degli Undead e per scoprire il destino che lo lega al trono e al futuro dell'umanità.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione",
-      "RPG",
-      "Dark Fantasy"
+      "Azione"
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/v6OvKFwIza8",
@@ -171,9 +178,7 @@
     "trama": "Il fuoco che sostiene il mondo sta svanendo, e un non morto scelto, l'Unkidled, confrontandosi con antichi signori, determinerà il futuro del regno di Lothric e la fine o la continuazione del ciclo eterno.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione",
-      "RPG",
-      "Dark Fantasy"
+      "Azione"
     ],
     "valutazione": 9.5,
     "trailer": "https://www.youtube.com/embed/cWBwFhUv1-8",
@@ -187,8 +192,7 @@
     "autore": "Kojima Productions",
     "genere": [
       "Azione",
-      "Avventura",
-      "Open world"
+      "Avventura"
     ],
     "valutazione": 8.8,
     "trailer": "https://www.youtube.com/embed/piIgkJWDuQg",
@@ -202,27 +206,26 @@
     "autore": "Quantic Dream",
     "genere": [
       "Avventura",
-      "Narrativo",
-      "Interattivo"
+      "Narrativo"
     ],
     "valutazione": 8.8,
     "trailer": "https://www.youtube.com/embed/8a-EObAhYrg",
     "tipo": "videogioco"
   },
   {
-  "titolo": "Dino Crisis",
-  "immagine": "images/dino_crisis.jpg",
-  "data": "1999",
-  "trama": "Un team delle forze speciali viene inviato su un'isola remota per investigare su un progetto scientifico segreto. Tuttavia, si trovano intrappolati in una struttura infestata da dinosauri riportati in vita, dove dovranno sopravvivere e scoprire la verità dietro l'incidente.",
-  "autore": "Shinji Mikami",
-  "genere": [
-    "Horror",
-    "Survival",
-    "Azione"
-  ],
-  "valutazione": 8.0,
-  "trailer": "https://www.youtube.com/embed/nh09pKHVjBk",
-  "tipo": "videogioco"
+    "titolo": "Dino Crisis",
+    "immagine": "images/dino_crisis.jpg",
+    "data": "1999",
+    "trama": "Un team delle forze speciali viene inviato su un'isola remota per investigare su un progetto scientifico segreto. Tuttavia, si trovano intrappolati in una struttura infestata da dinosauri riportati in vita, dove dovranno sopravvivere e scoprire la verità dietro l'incidente.",
+    "autore": "Shinji Mikami",
+    "genere": [
+      "Horror",
+      "Survival",
+      "Azione"
+    ],
+    "valutazione": 8.0,
+    "trailer": "https://www.youtube.com/embed/nh09pKHVjBk",
+    "tipo": "videogioco"
   },
   {
     "titolo": "Disco Elysium",
@@ -231,7 +234,6 @@
     "trama": "Un detective alcolizzato e senza memoria indaga su un omicidio in una città in rovina, affrontando i suoi demoni interiori e scelte morali che determineranno il futuro di una città al collasso.",
     "autore": "ZA/UM",
     "genere": [
-      "GDR",
       "Noir",
       "Avventura"
     ],
@@ -255,19 +257,19 @@
     "tipo": "videogioco"
   },
   {
-  "titolo": "Doom II",
-  "immagine": "images/doom2.jpg",
-  "data": "1994",
-  "trama": "Il marine spaziale torna per affrontare un'invasione di demoni su Marte e sulla Terra. Con armi potenti e un gameplay frenetico, dovrai sopravvivere a ondate di mostri infernali e chiudere il portale tra i mondi.",
-  "autore": "id Software",
-  "genere": [
-    "Azione",
-    "Sparatutto",
-    "Horror"
-  ],
-  "valutazione": 9.0,
-  "trailer": "https://www.youtube.com/embed/f8oRwBkKkXE",
-  "tipo": "videogioco"
+    "titolo": "Doom II",
+    "immagine": "images/doom2.jpg",
+    "data": "1994",
+    "trama": "Il marine spaziale torna per affrontare un'invasione di demoni su Marte e sulla Terra. Con armi potenti e un gameplay frenetico, dovrai sopravvivere a ondate di mostri infernali e chiudere il portale tra i mondi.",
+    "autore": "id Software",
+    "genere": [
+      "Azione",
+      "Sparatutto",
+      "Horror"
+    ],
+    "valutazione": 9.0,
+    "trailer": "https://www.youtube.com/embed/f8oRwBkKkXE",
+    "tipo": "videogioco"
   },
   {
     "titolo": "Elden Ring",
@@ -276,9 +278,7 @@
     "trama": "Un esiliato, il Tarnished, viaggia nell'Interregno per recuperare i frammenti dell'Anello Ancestrale così da diventare il nuovo Lord Ancestrale e porre fine al dominio corrotto dei semidei, in passato guidati dalla Regina Marika.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione",
-      "RPG",
-      "Open-world"
+      "Azione"
     ],
     "valutazione": 9.7,
     "trailer": "https://www.youtube.com/embed/E3Huy2cdih0",
@@ -291,9 +291,7 @@
     "trama": "Anno 2287: nel mondo devastato da una guerra nucleare accaduta 210 anni prima, un sopravvissuto ibernato nel Vault 111 esplora una Boston distrutta alla ricerca del figlio rapito.",
     "autore": "Bethesda Game Studios",
     "genere": [
-      "Azione",
-      "RPG",
-      "Open-world"
+      "Azione"
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/5iJUt6aBXAw",
@@ -306,7 +304,6 @@
     "trama": "Il protagonista, dopo 25 anni, esce dal Vault 76 in una Virginia devastata dalla guerra nucleare. Si ritrova ad affrontare minacce mutanti, creature pericolose e altre fazioni in cerca di risorse e potere.",
     "autore": "Bethesda Game Studios",
     "genere": [
-      "Gioco di ruolo",
       "Azione",
       "Multiplayer"
     ],
@@ -322,8 +319,7 @@
     "autore": "Ubisoft",
     "genere": [
       "Azione",
-      "Avventura",
-      "Open world"
+      "Avventura"
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/BW_dG6guqBg",
@@ -336,8 +332,6 @@
     "trama": "In un mondo oscuro e corrotto, un gruppo di persone si ritrova intrappolato in una prigione sotterranea dove le loro vite sono minacciate da entità oscure e terribili.",
     "autore": "Mihailo 'Mihailo' Dimić",
     "genere": [
-      "RPG",
-      "Survival Horror",
       "Indie"
     ],
     "valutazione": 8.5,
@@ -352,8 +346,7 @@
     "autore": "Sucker Punch Productions",
     "genere": [
       "Azione",
-      "Avventura",
-      "Open-world"
+      "Avventura"
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/0HTfLqHoTmg",
@@ -367,8 +360,7 @@
     "autore": "Santa Monica Studio",
     "genere": [
       "Azione",
-      "Avventura",
-      "Hack and Slash"
+      "Avventura"
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/HqQMh_tij0c",
@@ -382,8 +374,7 @@
     "autore": "Santa Monica Studio",
     "genere": [
       "Azione",
-      "Avventura",
-      "Hack and Slash"
+      "Avventura"
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/qKogMfIAAkY",
@@ -397,8 +388,7 @@
     "autore": "Santa Monica Studio",
     "genere": [
       "Azione",
-      "Avventura",
-      "Hack and Slash"
+      "Avventura"
     ],
     "valutazione": 9.5,
     "trailer": "https://www.youtube.com/embed/1O9J6QzD7ds",
@@ -412,8 +402,7 @@
     "autore": "Rockstar North",
     "genere": [
       "Azione",
-      "Avventura",
-      "Open-world"
+      "Avventura"
     ],
     "valutazione": 9.4,
     "trailer": "https://www.youtube.com/embed/QkkoHAzjnUs",
@@ -427,8 +416,7 @@
     "autore": "Guerrilla Games",
     "genere": [
       "Azione",
-      "Avventura",
-      "Open-world"
+      "Avventura"
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/u4-FCsiF5x4",
@@ -450,6 +438,20 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "The Last of Us",
+    "immagine": "images/the_last_of_us.jpg",
+    "data": "2013",
+    "trama": "In un mondo devastato da un'infezione fungina che ha trasformato gran parte della popolazione in creature aggressive, Joel, un uomo segnato dal dolore, deve scortare Ellie, una ragazza che potrebbe essere la chiave per la sopravvivenza dell'umanità.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 10.0,
+    "trailer": "https://www.youtube.com/embed/AaOWRvmtEFQ",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Left 4 Dead 2",
     "immagine": "images/left_4_dead_2.jpg",
     "data": "2009",
@@ -465,15 +467,29 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "The Legend of Zelda: The Minish Cap",
+    "immagine": "images/minishcap.jpg",
+    "data": "2004",
+    "trama": "Link scopre un misterioso cappello parlante che lo collega al popolo Minish, una razza minuscola. Per salvare Hyrule dalla maledizione di Vaati, affronta dungeon, risolve enigmi e usa la sua capacità di rimpicciolirsi per esplorare un mondo nascosto.",
+    "autore": "Nintendo",
+    "genere": [
+      "Avventura",
+      "Fantasy",
+      "Puzzle"
+    ],
+    "valutazione": 9,
+    "trailer": "https://www.youtube.com/embed/cSIDghMWVMA",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Lies of P",
     "immagine": "images/lies_of_p.jpg",
     "data": "2023",
     "trama": "In un oscuro mondo ispirato alla fiaba di Pinocchio, un burattino di nome P dovrà imparare a mentire per sopravvivere in una città che cede sotto il peso delle sue malefatte.",
     "autore": "Neowiz Games",
     "genere": [
-      "Action RPG",
       "Soulslike",
-      "Adventure"
+      "Avventura"
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/kXZoKdr-xeo",
@@ -486,9 +502,7 @@
     "trama": "Harkyn, un ex condannato intraprende un viaggio per trovare Antanas, un guerriero leggendario che un tempo sconfisse i Rhogar, demoni che minacciano di distruggere il mondo umano.",
     "autore": "Deck13 Interactive, CI Games",
     "genere": [
-      "Azione",
-      "RPG",
-      "Dark Fantasy"
+      "Azione"
     ],
     "valutazione": 7.5,
     "trailer": "https://www.youtube.com/embed/O4bXk9GZpns",
@@ -555,13 +569,26 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Metal Gear Solid 3: Snake Eater",
+    "immagine": "images/metal_gear_solid_3.jpg",
+    "data": "2004",
+    "trama": "Ambientato durante la Guerra Fredda, il leggendario soldato Naked Snake deve infiltrarsi nella giungla sovietica per sventare una minaccia nucleare, affrontando il suo mentore e i fantasmi del passato.",
+    "autore": "Hideo Kojima",
+    "genere": [
+      "Azione",
+      "Spionaggio"
+    ],
+    "valutazione": 9.3,
+    "trailer": "https://www.youtube.com/embed/cGJ-vqsG4Js",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Nier Replicant ver.1.22474487139...",
     "immagine": "images/nier_replicant.jpg",
     "data": "2021",
     "trama": "Il protagonista, un giovane ragazzo, cerca di salvare sua sorella Yonah, affetta da una misteriosa malattia chiamata Black Scrawl.",
     "autore": "Square Enix",
     "genere": [
-      "GDR",
       "Azione",
       "Avventura"
     ],
@@ -585,33 +612,33 @@
     "tipo": "videogioco"
   },
   {
-    "titolo": "Resident Evil 0",
-    "immagine": "images/resident_evil_0.jpg",
-    "data": "2002",
-    "trama": "Rebecca Chambers, membro della S.T.A.R.S., e Billy Coen, un ex soldato condannato, indagano su strani eventi legati al coinvolgimento della Umbrella Corporation nella creazione del virus-T e nelle sue mortali esperimentazioni.",
-    "autore": "Capcom",
-    "genere": [
-      "Survival Horror",
-      "Azione",
-      "Avventura"
-    ],
-    "valutazione": 8.6,
-    "trailer": "https://www.youtube.com/embed/QbjC_WZy_jo",
-    "tipo": "videogioco"
-  },
-  {
     "titolo": "Resident Evil",
     "immagine": "images/resident_evil.jpg",
     "data": "1996",
     "trama": "Chris Redfield e Jill Valentine, agenti delle S.T.A.R.S., si trovano intrappolati in una villa infestata da terribili creature mutate, durante un'indagine su misteriose sparizioni nella città di Raccoon City.",
     "autore": "Capcom",
     "genere": [
-      "Survival Horror",
       "Azione",
-      "Avventura"
+      "Horror",
+      "Survival"
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/j_6Tr67e0Bo",
+    "tipo": "videogioco"
+  },
+  {
+    "titolo": "Resident Evil 0",
+    "immagine": "images/resident_evil_0.jpg",
+    "data": "2002",
+    "trama": "Rebecca Chambers, membro della S.T.A.R.S., e Billy Coen, un ex soldato condannato, indagano su strani eventi legati al coinvolgimento della Umbrella Corporation nella creazione del virus-T e nelle sue mortali esperimentazioni.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Horror",
+      "Survival"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/QbjC_WZy_jo",
     "tipo": "videogioco"
   },
   {
@@ -621,7 +648,6 @@
     "trama": "Leon S. Kennedy, un giovane agente della polizia di Raccoon City, e Claire Redfield, alla ricerca del fratello scomparso Chris, devono affrontare un'epidemia di zombie che ha decimato la città.",
     "autore": "Capcom",
     "genere": [
-      "Survival Horror",
       "Azione",
       "Avventura"
     ],
@@ -637,7 +663,8 @@
     "autore": "Capcom",
     "genere": [
       "Azione",
-      "Survival Horror"
+      "Horror",
+      "Survival"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/xNjGFUaorYc",
@@ -665,9 +692,9 @@
     "trama": "Jill Valentine e Parker Luciani indagano sulla scomparsa di Chris Redfield, ritrovandosi su una nave infestata da mostri creati da un'arma biologica, mentre scoprono una cospirazione che coinvolge il bioterrorismo globale.",
     "autore": "Capcom",
     "genere": [
-      "Survival Horror",
       "Azione",
-      "Avventura"
+      "Horror",
+      "Survival"
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/Zn-dhvYybYg",
@@ -681,8 +708,7 @@
     "autore": "Crystal Dynamics",
     "genere": [
       "Azione",
-      "Avventura",
-      "RPG"
+      "Avventura"
     ],
     "valutazione": 8.8,
     "trailer": "https://www.youtube.com/embed/1_FIyNcQSgA",
@@ -695,9 +721,7 @@
     "trama": "In un futuro in cui l'umanità è minacciata da mutanti noti come Estranei, Yuito e Kasane, membri dell'OSF, combattono per proteggere la città e scoprono oscuri segreti sul loro mondo e sul proprio passato.",
     "autore": "Bandai Namco Studios",
     "genere": [
-      "Azione",
-      "RPG",
-      "Sci-fi"
+      "Azione"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/k1kI09X8L9Y",
@@ -727,7 +751,7 @@
     "genere": [
       "Azione",
       "Avventura",
-      "Piattaforma"
+      "Platform"
     ],
     "valutazione": 8.9,
     "trailer": "https://www.youtube.com/embed/D1kTu2hacaI",
@@ -740,72 +764,11 @@
     "trama": "I bambini di South Park si immergono in un gioco di ruolo epico per conquistare il Bastone della Verità, affrontando avventure assurde, alieni e forze oscure, mentre un nuovo arrivato scopre il suo ruolo nel caos.",
     "autore": "Obsidian Entertainment",
     "genere": [
-      "GDR",
       "Avventura",
       "Commedia"
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/Y0Ufja-ljUc",
-    "tipo": "videogioco"
-  },
-  {
-    "titolo": "The Binding of Isaac",
-    "immagine": "images/the_binding_of_isaac.jpg",
-    "data": "2011",
-    "trama": "Isaac, un bambino che cerca di fuggire dalla madre fanatica religiosa intenzionata a sacrificarlo, si rifugia in un oscuro labirinto sotto la sua casa.",
-    "autore": "Edmund McMillen",
-    "genere": [
-      "Roguelike",
-      "Azione",
-      "Horror Psicologico"
-    ],
-    "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/MbBFC5jKF5I",
-    "tipo": "videogioco"
-  },
-  {
-    "titolo": "The Last of Us",
-    "immagine": "images/the_last_of_us.jpg",
-    "data": "2013",
-    "trama": "In un mondo devastato da un'infezione fungina che ha trasformato gran parte della popolazione in creature aggressive, Joel, un uomo segnato dal dolore, deve scortare Ellie, una ragazza che potrebbe essere la chiave per la sopravvivenza dell'umanità.",
-    "autore": "Naughty Dog",
-    "genere": [
-      "Azione",
-      "Avventura",
-      "Survival Horror"
-    ],
-    "valutazione": 10.0,
-    "trailer": "https://www.youtube.com/embed/AaOWRvmtEFQ",
-    "tipo": "videogioco"
-  },
-  {
-    "titolo": "The Legend of Zelda: The Minish Cap",
-    "immagine": "images/minishcap.jpg",
-    "data": "2004",
-    "trama": "Link scopre un misterioso cappello parlante che lo collega al popolo Minish, una razza minuscola. Per salvare Hyrule dalla maledizione di Vaati, affronta dungeon, risolve enigmi e usa la sua capacità di rimpicciolirsi per esplorare un mondo nascosto.",
-    "autore": "Nintendo",
-    "genere": [
-      "Avventura",
-      "Fantasy",
-      "Puzzle"
-    ],
-    "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/cSIDghMWVMA",
-    "tipo": "videogioco"
-  },
-  {
-    "titolo": "The Witcher 3: Wild Hunt",
-    "immagine": "images/the_witcher_3.jpg",
-    "data": "2015",
-    "trama": "Geralt di Rivia intraprende un viaggio per trovare Ciri, la sua giovane protetta, braccata dalla pericolosa Caccia Selvaggia. Attraversa un vasto mondo in guerra, affronta creature terrificanti e prende decisioni che influenzano il destino di molti.",
-    "autore": "CD Projekt Red",
-    "genere": [
-      "Azione",
-      "RPG",
-      "Open-world"
-    ],
-    "valutazione": 9.5,
-    "trailer": "https://www.youtube.com/embed/XHrskkHf958",
     "tipo": "videogioco"
   },
   {
@@ -816,26 +779,10 @@
     "autore": "Crystal Dynamics",
     "genere": [
       "Azione",
-      "Avventura",
-      "RPG"
+      "Avventura"
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/zF9m91y8Na0",
-    "tipo": "videogioco"
-  },
-  {
-    "titolo": "Uncharted: Drake's Fortune",
-    "immagine": "images/uncharted1.jpg",
-    "data": "2007",
-    "trama": "Nathan Drake, un cacciatore di tesori, segue la traccia di una leggendaria reliquia chiamata El Dorado. Durante la sua avventura, affronta pericoli e lotte contro mercenari, cercando di scoprire il mistero dietro l'oro perduto.",
-    "autore": "Naughty Dog",
-    "genere": [
-      "Azione",
-      "Avventura",
-      "Platform"
-    ],
-    "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/H9c5ehcfvqI",
     "tipo": "videogioco"
   },
   {
@@ -884,13 +831,27 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Uncharted: Drake's Fortune",
+    "immagine": "images/uncharted1.jpg",
+    "data": "2007",
+    "trama": "Nathan Drake, un cacciatore di tesori, segue la traccia di una leggendaria reliquia chiamata El Dorado. Durante la sua avventura, affronta pericoli e lotte contro mercenari, cercando di scoprire il mistero dietro l'oro perduto.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Platform"
+    ],
+    "valutazione": 8.5,
+    "trailer": "https://www.youtube.com/embed/H9c5ehcfvqI",
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Undertale",
     "immagine": "images/undertale.jpg",
     "data": "2015",
     "trama": "Un bambino umano cade in un mondo sotterraneo popolato da mostri. Durante il suo viaggio per tornare a casa, il protagonista si trova di fronte a una scelta: combattere i mostri per proseguire o trovare un altro modo per risolvere i conflitti senza violenza.",
     "autore": "Toby Fox",
     "genere": [
-      "RPG",
       "Indie",
       "Avventura"
     ],
@@ -906,8 +867,7 @@
     "autore": "Supermassive Games",
     "genere": [
       "Horror",
-      "Avventura",
-      "Interattivo"
+      "Avventura"
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/3NcF7EOnjow",
@@ -921,26 +881,23 @@
     "autore": "Ubisoft",
     "genere": [
       "Azione",
-      "Avventura",
-      "Open-World"
+      "Avventura"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/DqoQG_XYF-8",
     "tipo": "videogioco"
   },
   {
-    "titolo": "Watch Dogs 2",
-    "immagine": "images/watch_dogs_2.jpg",
-    "data": "2016",
-    "trama": "Marcus Holloway, un giovane hacker di San Francisco, si unisce al gruppo di hacker DedSec per fermare il sistema di sorveglianza Blume.",
-    "autore": "Ubisoft",
+    "titolo": "The Witcher 3: Wild Hunt",
+    "immagine": "images/the_witcher_3.jpg",
+    "data": "2015",
+    "trama": "Geralt di Rivia intraprende un viaggio per trovare Ciri, la sua giovane protetta, braccata dalla pericolosa Caccia Selvaggia. Attraversa un vasto mondo in guerra, affronta creature terrificanti e prende decisioni che influenzano il destino di molti.",
+    "autore": "CD Projekt Red",
     "genere": [
-      "Azione",
-      "Avventura",
-      "Open-World"
+      "Azione"
     ],
-    "valutazione": 8.3,
-    "trailer": "https://www.youtube.com/embed/hh9x4NqW0Dw",
+    "valutazione": 9.5,
+    "trailer": "https://www.youtube.com/embed/XHrskkHf958",
     "tipo": "videogioco"
   },
   {
@@ -951,8 +908,7 @@
     "autore": "MachineGames",
     "genere": [
       "Sparatutto",
-      "Azione",
-      "Storia Alternativa"
+      "Azione"
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/dwjKMjIE1rs",

@@ -56,6 +56,19 @@
     "tipo": "libro"
   },
   {
+    "titolo": "I fiori del male",
+    "immagine": "images/i_fiori_del_male.jpg",
+    "data": "1857",
+    "trama": "Il giovane Baudelaire, turbato dalla società borghese, esplora i temi della bellezza, del peccato e della sofferenza attraverso i versi delle sue poesie.",
+    "autore": "Charles Baudelaire",
+    "genere": [
+      "Poesia"
+    ],
+    "valutazione": 8.7,
+    "trailer": "",
+    "tipo": "libro"
+  },
+  {
     "titolo": "Guida galattica per autostoppisti",
     "immagine": "images/guida_galattica_per_autostoppisti.jpg",
     "data": "1979",
@@ -63,38 +76,9 @@
     "autore": "Douglas Adams",
     "genere": [
       "Fantascienza",
-      "Commedia",
-      "Avventura"
+      "Commedia"
     ],
     "valutazione": 9.3,
-    "tipo": "libro"
-  },
-  {
-    "titolo": "I fiori del male",
-    "immagine": "images/i_fiori_del_male.jpg",
-    "data": "1857",
-    "trama": "Il giovane Baudelaire, turbato dalla società borghese, esplora i temi della bellezza, del peccato e della sofferenza attraverso i versi delle sue poesie.",
-    "autore": "Charles Baudelaire",
-    "genere": [
-      "Poesia",
-      "Letteratura francese"
-    ],
-    "valutazione": 8.7,
-    "trailer": "",
-    "tipo": "libro"
-  },
-  {
-    "titolo": "Memorie di Adriano",
-    "immagine": "images/memorie_di_adriano.jpg",
-    "data": "1951",
-    "trama": "L'imperatore Adriano, ormai anziano, riflette sulla propria vita e sul suo governo, attraversando le esperienze più significative, tra amore, politica e filosofia.",
-    "autore": "Marguerite Yourcenar",
-    "genere": [
-      "Storico",
-      "Narrativa",
-      "Biografico"
-    ],
-    "valutazione": 9.4,
     "tipo": "libro"
   },
   {
@@ -140,6 +124,20 @@
     "tipo": "libro"
   },
   {
+    "titolo": "Memorie di Adriano",
+    "immagine": "images/memorie_di_adriano.jpg",
+    "data": "1951",
+    "trama": "L'imperatore Adriano, ormai anziano, riflette sulla propria vita e sul suo governo, attraversando le esperienze più significative, tra amore, politica e filosofia.",
+    "autore": "Marguerite Yourcenar",
+    "genere": [
+      "Storico",
+      "Narrativa",
+      "Biografico"
+    ],
+    "valutazione": 9.4,
+    "tipo": "libro"
+  },
+  {
     "titolo": "Siddhartha",
     "immagine": "images/siddhartha.jpg",
     "data": "1922",
@@ -154,6 +152,20 @@
     "tipo": "libro"
   },
   {
+    "titolo": "Verità/menzogna",
+    "immagine": "images/verita_menzogna.jpg",
+    "data": "1972",
+    "trama": "In questa raccolta di articoli, George Orwell esplora le contraddizioni dei sistemi politici e la manipolazione della realtà attraverso la propaganda.",
+    "autore": "George Orwell",
+    "genere": [
+      "Giornalismo",
+      "Politica",
+      "Saggistica"
+    ],
+    "valutazione": 8.7,
+    "tipo": "libro"
+  },
+  {
     "titolo": "The Witcher: Il guardiano degli Innocenti",
     "immagine": "images/the_witcher_il_guardiano_degli_innocenti.jpg",
     "data": "1993",
@@ -161,7 +173,6 @@
     "autore": "Andrzej Sapkowski",
     "genere": [
       "Fantasy",
-      "Avventura",
       "Letteratura"
     ],
     "valutazione": 9.2,
@@ -175,24 +186,9 @@
     "autore": "Andrzej Sapkowski",
     "genere": [
       "Fantasy",
-      "Avventura",
       "Drammatico"
     ],
     "valutazione": 9.4,
-    "tipo": "libro"
-  },
-  {
-    "titolo": "Verità/menzogna",
-    "immagine": "images/verita_menzogna.jpg",
-    "data": "1972",
-    "trama": "In questa raccolta di articoli, George Orwell esplora le contraddizioni dei sistemi politici e la manipolazione della realtà attraverso la propaganda.",
-    "autore": "George Orwell",
-    "genere": [
-      "Giornalismo",
-      "Politica",
-      "Saggistica"
-    ],
-    "valutazione": 8.7,
     "tipo": "libro"
   }
 ]

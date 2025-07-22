@@ -23,7 +23,7 @@
     "genere": [
       "Drammatico",
       "Storico",
-      "Psichedelico"
+      "Psicologico"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/c9LUA3NgQN0",
@@ -36,11 +36,25 @@
     "trama": "Yatora Yaguchi, uno studente modello privo di passioni, scopre il mondo dell'arte e decide di intraprendere un difficile percorso per entrare in una prestigiosa scuola d'arte.",
     "autore": "Tsubasa Yamaguchi",
     "genere": [
-      "Drammatico",
-      "Slice of Life"
+      "Drammatico"
     ],
     "valutazione": 7.8,
     "trailer": "https://www.youtube.com/embed/q0ypHogc6wg",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Il Castello Errante di Howl",
+    "immagine": "images/il_castello_errante_di_howl.jpg",
+    "data": "2004",
+    "trama": "Sophie, una giovane donna trasformata in un'anziana da una maledizione, intraprende un'avventura che la porterà nel magico castello errante di Howl, un eccentrico mago con misteriosi segreti.",
+    "autore": "Hayao Miyazaki",
+    "genere": [
+      "Fantasy",
+      "Avventura",
+      "Romantico"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/iwROgK94zcM",
     "tipo": "anime"
   },
   {
@@ -59,6 +73,36 @@
     "tipo": "anime"
   },
   {
+    "titolo": "Cyberpunk: Edgerunners",
+    "immagine": "images/cyberpunk_edgerunners.jpg",
+    "data": "2022",
+    "trama": "In una distopica Night City dominata da megacorporazioni e criminalità, David Martinez, uno studente emarginato, si unisce a un gruppo di mercenari noti come Edgerunners per sopravvivere e trovare il proprio scopo.",
+    "autore": "CD Projekt RED / Studio Trigger",
+    "genere": [
+      "Azione",
+      "Fantascienza",
+      "Drammatico"
+    ],
+    "valutazione": 8.5,
+    "trailer": "https://www.youtube.com/embed/OifiVCnFKzM",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Death Parade",
+    "immagine": "images/death_parade.jpg",
+    "data": "2015",
+    "trama": "Quando le persone muoiono, vengono portate in un bar misterioso dove due anime devono affrontare un gioco per determinare se andranno in Paradiso o all'Inferno. In questo processo, i loro veri caratteri vengono messi alla prova.",
+    "autore": "Yuzuru Tachikawa",
+    "genere": [
+      "Drammatico",
+      "Psicologico",
+      "Fantascienza"
+    ],
+    "valutazione": 8.3,
+    "trailer": "https://www.youtube.com/embed/Ca5Tf5BDSYI",
+    "tipo": "anime"
+  },
+  {
     "titolo": "Demon Slayer",
     "immagine": "images/demon_slayer.jpg",
     "data": "2019",
@@ -74,18 +118,18 @@
     "tipo": "anime"
   },
   {
-    "titolo": "Death Parade",
-    "immagine": "images/death_parade.jpg",
-    "data": "2015",
-    "trama": "Quando le persone muoiono, vengono portate in un bar misterioso dove due anime devono affrontare un gioco per determinare se andranno in Paradiso o all'Inferno. In questo processo, i loro veri caratteri vengono messi alla prova.",
-    "autore": "Yuzuru Tachikawa",
+    "titolo": "Devilman Crybaby",
+    "immagine": "images/devilman_crybaby.jpg",
+    "data": "2018",
+    "trama": "Akira Fudo, un ragazzo che si unisce al suo amico Ryo Asuka per diventare un Devilman, si ritrova coinvolto in una guerra tra demoni e umani.",
+    "autore": "Go Nagai",
     "genere": [
-      "Drammatico",
-      "Psicologico",
-      "Sci-Fi"
+      "Azione",
+      "Horror",
+      "Drammatico"
     ],
     "valutazione": 8.3,
-    "trailer": "https://www.youtube.com/embed/Ca5Tf5BDSYI",
+    "trailer": "https://www.youtube.com/embed/SM5mnH7JrJE",
     "tipo": "anime"
   },
   {
@@ -97,25 +141,10 @@
     "genere": [
       "Drammatico",
       "Psicologico",
-      "Sci-Fi"
+      "Fantascienza"
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/Y9cXQfLdGfQ",
-    "tipo": "anime"
-  },
-  {
-    "titolo": "Devilman Crybaby",
-    "immagine": "images/devilman_crybaby.jpg",
-    "data": "2018",
-    "trama": "Akira Fudo, un ragazzo che si unisce al suo amico Ryo Asuka per diventare un Devilman, si ritrova coinvolto in una guerra tra demoni e umani.",
-    "autore": "Go Nagai",
-    "genere": [
-      "Azione",
-      "Horror",
-      "Drama"
-    ],
-    "valutazione": 8.3,
-    "trailer": "https://www.youtube.com/embed/SM5mnH7JrJE",
     "tipo": "anime"
   },
   {
@@ -155,7 +184,7 @@
     "trama": "Nel futuro, dove la tecnologia ha quasi completamente integrato l'umanità, l'agente cibernetico Motoko Kusanagi indaga su un misterioso hacker noto come Puppet Master.",
     "autore": "Mamoru Oshii",
     "genere": [
-      "Sci-Fi",
+      "Fantascienza",
       "Azione",
       "Cyberpunk"
     ],
@@ -171,7 +200,7 @@
     "autore": "Tohru Fujisawa",
     "genere": [
       "Commedia",
-      "Drama",
+      "Drammatico",
       "School"
     ],
     "valutazione": 8.9,
@@ -191,21 +220,6 @@
     ],
     "valutazione": 8.1,
     "trailer": "https://www.youtube.com/embed/GuAcdIqcanA",
-    "tipo": "anime"
-  },
-  {
-    "titolo": "Il Castello Errante di Howl",
-    "immagine": "images/il_castello_errante_di_howl.jpg",
-    "data": "2004",
-    "trama": "Sophie, una giovane donna trasformata in un'anziana da una maledizione, intraprende un'avventura che la porterà nel magico castello errante di Howl, un eccentrico mago con misteriosi segreti.",
-    "autore": "Hayao Miyazaki",
-    "genere": [
-      "Fantasy",
-      "Avventura",
-      "Romantico"
-    ],
-    "valutazione": 8.2,
-    "trailer": "https://www.youtube.com/embed/iwROgK94zcM",
     "tipo": "anime"
   },
   {
@@ -231,8 +245,7 @@
     "autore": "Homura Kawamoto",
     "genere": [
       "Psicologico",
-      "Drammatico",
-      "Gioco d'azzardo"
+      "Drammatico"
     ],
     "valutazione": 8.2,
     "trailer": "https://www.youtube.com/embed/7hBoJDcBt28",
@@ -246,8 +259,7 @@
     "autore": "Hayao Miyazaki",
     "genere": [
       "Fantasy",
-      "Avventura",
-      "Famiglia"
+      "Avventura"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/4bG17OYs-GA",
@@ -277,7 +289,7 @@
     "genere": [
       "Azione",
       "Commedia",
-      "Supernaturale"
+      "Soprannaturale"
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/Bw-5Lka7gPE",
@@ -290,8 +302,7 @@
     "trama": "Un enigmatico venditore di medicine viaggia attraverso il Giappone feudale, affrontando spiriti malevoli noti come Mononoke. Giunto in un palazzo imperiale, scopre una presenza maligna nascosta nelle camere interne.",
     "autore": "Kenji Nakamura",
     "genere": [
-      "Animazione",
-      "Horror psicologico",
+      "Psicologico",
       "Soprannaturale"
     ],
     "valutazione": 8,
@@ -322,7 +333,7 @@
     "genere": [
       "Giallo",
       "Thriller",
-      "Sci-Fi"
+      "Fantascienza"
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/-o8T4c3oQ9s",
@@ -396,7 +407,7 @@
     "autore": "Takeshi Koike",
     "genere": [
       "Azione",
-      "Sci-Fi",
+      "Fantascienza",
       "Sportivo"
     ],
     "valutazione": 7.5,
@@ -426,11 +437,24 @@
     "autore": "Tomomi Mochizuki",
     "genere": [
       "Romantico",
-      "Drammatico",
-      "Slice of Life"
+      "Drammatico"
     ],
     "valutazione": 7.4,
     "trailer": "https://www.youtube.com/embed/tfkHiHjrqa8",
+    "tipo": "anime"
+  },
+  {
+    "titolo": "SPY×FAMILY",
+    "immagine": "images/spyfamily.jpg",
+    "data": "2022",
+    "trama": "Per mantenere la pace tra due nazioni rivali, la spia Twilight deve formare una famiglia fittizia. Ma ignora che la moglie è un’assassina e la figlia adottiva ha poteri telepatici.",
+    "autore": "Tatsuya Endo",
+    "genere": [
+      "Commedia",
+      "Azione"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/U_rWZK_8vUY",
     "tipo": "anime"
   },
   {
@@ -456,8 +480,7 @@
     "autore": "Yasuhiro Nightow",
     "genere": [
       "Azione",
-      "Fantascienza",
-      "Western"
+      "Fantascienza"
     ],
     "valutazione": 8.4,
     "trailer": "https://www.youtube.com/embed/4OxFSy8G5wk",
@@ -471,8 +494,7 @@
     "autore": "Kazuki Takahashi",
     "genere": [
       "Azione",
-      "Avventura",
-      "Gioco di carte"
+      "Avventura"
     ],
     "valutazione": 7.9,
     "trailer": "https://www.youtube.com/embed/WHUcHw7j2Mc",
