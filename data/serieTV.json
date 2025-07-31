@@ -164,6 +164,21 @@
     "tipo": "serieTV"
   },
   {
+  "titolo": "The Decameron",
+  "immagine": "images/the_decameron.jpg",
+  "data": "2024",
+  "trama": "Ambientata nell'Italia del XIV secolo durante la peste nera, un gruppo di nobili si rifugia in una villa fuori Firenze per sfuggire alla morte e alla decadenza sociale. La serie rilegge in chiave satirica e moderna il classico di Boccaccio, esplorando i piaceri, le contraddizioni e le ipocrisie dell'élite medievale.",
+  "autore": "Kathleen Jordan",
+  "genere": [
+    "Storico",
+    "Drammatico",
+    "Commedia nera"
+  ],
+  "valutazione": 6.8,
+  "trailer": "https://www.youtube.com/embed/RLimO9ydEgo",
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "Detective Monk",
     "immagine": "images/detective_monk.jpg",
     "data": "2002 - 2009",

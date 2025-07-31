@@ -597,6 +597,21 @@
     "tipo": "videogioco"
   },
   {
+  "titolo": "Prince of Persia: The Lost Crown",
+  "immagine": "images/prince_of_persia_lost_crown.jpg",
+  "data": "2024",
+  "trama": "Sargon, un giovane guerriero membro del clan degli Immortali, viaggia fino al maledetto Monte Qaf per salvare il principe Ghassan rapito. Lungo il cammino affronta creature mitologiche e scopre poteri magici legati al tempo.",
+  "autore": "Ubisoft Montpellier",
+  "genere": [
+    "Azione",
+    "Platform",
+    "Metroidvania"
+  ],
+  "valutazione": 8.6,
+  "trailer": "https://www.youtube.com/embed/MmX7a_e65uU",
+  "tipo": "videogioco"
+  },
+  {
     "titolo": "Rayman Legends",
     "immagine": "images/rayman_legends.jpg",
     "data": "2013",
