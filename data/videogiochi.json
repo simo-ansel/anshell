@@ -716,6 +716,21 @@
     "tipo": "videogioco"
   },
   {
+  "titolo": "Resident Evil: Revelations 2",
+  "immagine": "images/resident_evil_revelations_2.jpg",
+  "data": "2015",
+  "trama": "Il gioco segue due linee narrative parallele: Claire Redfield e Moira Burton, rapite e intrappolate su un'isola misteriosa, cercano di sopravvivere affrontando orrori biotecnologici; mentre Barry Burton parte alla ricerca della figlia Moira, accompagnato da Natalia, una bambina dotata di misteriosi poteri.",
+  "autore": "Capcom",
+  "genere": [
+    "Azione",
+    "Survival Horror",
+    "Avventura"
+  ],
+  "valutazione": 8.2,
+  "trailer": "https://www.youtube.com/embed/AwcU7E1TprM",
+  "tipo": "videogioco"
+  },
+  {
     "titolo": "Rise of the Tomb Raider",
     "immagine": "images/riseofthetombraider.jpg",
     "data": "2015",

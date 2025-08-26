@@ -223,6 +223,19 @@
     "tipo": "serieTV"
   },
   {
+  "titolo": "Disjointed",
+  "immagine": "images/disjointed.jpg",
+  "data": "2017 - 2018",
+  "trama": "Ruth, un’attivista per la legalizzazione della cannabis, realizza finalmente il suo sogno aprendo un dispensario a Los Angeles, gestito con l’aiuto del figlio e di un gruppo di collaboratori eccentrici.",
+  "autore": "David Javerbaum, Chuck Lorre",
+  "genere": [
+    "Commedia"
+  ],
+  "valutazione": 6.7,
+  "trailer": "https:// www.youtube.com/embed/ZybYIJtbcu0",
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "Dr. House - Medical Division",
     "immagine": "images/dr_house.jpg",
     "data": "2004-2012",
@@ -335,6 +348,21 @@
     "tipo": "serieTV"
   },
   {
+  "titolo": "Long Story Short",
+  "immagine": "images/long_story_short.jpg",
+  "data": "2025",
+  "trama": "Una saga animata che segue la famiglia Schwooper attraverso diverse epoche — dagli anni ’50 ai giorni nostri — attraverso salti temporali che esplorano traumi personali, umorismo e legami familiari.",
+  "autore": "Raphael Bob-Waksberg",
+  "genere": [
+    "Animazione",
+    "Commedia",
+    "Drammatico"
+  ],
+  "valutazione": 8.7,
+  "trailer": "https://www.youtube.com/embed/OxiEiaVnhXg",
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "Lost",
     "immagine": "images/lost.jpg",
     "data": "2004 - 2010",
@@ -406,6 +434,20 @@
     "valutazione": 8.9,
     "trailer": "https://www.youtube.com/embed/sqyde2jcLdQ",
     "tipo": "serieTV"
+  },
+  {
+  "titolo": "Orange is the New Black",
+  "immagine": "images/orange_is_the_new_black.jpg",
+  "data": "2013",
+  "trama": "La serie segue la storia di Piper Chapman, una donna condannata a scontare quindici mesi in un carcere femminile federale per un crimine commesso dieci anni prima. All’interno del penitenziario, Piper entra in contatto con donne di ogni estrazione sociale, scoprendo dinamiche complesse fatte di amicizie, conflitti e sopravvivenza quotidiana.",
+  "autore": "Jenji Kohan",
+  "genere": [
+    "Dramma",
+    "Commedia"
+  ],
+  "valutazione": 9.0,
+  "trailer": "https://www.youtube.com/embed/fBITGyJynfA",
+  "tipo": "serieTV"
   },
   {
     "titolo": "Psych",
@@ -510,6 +552,21 @@
     "tipo": "serieTV"
   },
   {
+  "titolo": "Tuca & Bertie",
+  "immagine": "images/tuca_bertie.jpg",
+  "data": "2019 - 2022",
+  "trama": "Due amiche trentenni, un tucano spensierato e un'uccellina ansiosa, affrontano insieme la vita in una città surreale piena di umorismo, ansie quotidiane e assurdità.",
+  "autore": "Lisa Hanawalt",
+  "genere": [
+    "Animazione",
+    "Commedia",
+    "Drammatico"
+  ],
+  "valutazione": 7.4,
+  "trailer": "https://www.youtube.com/embed/ZybYIJtbcu0",
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "The Watcher",
     "immagine": "images/the_watcher.jpg",
     "data": "2022",
@@ -522,6 +579,21 @@
     "valutazione": 6.5,
     "trailer": "https://www.youtube.com/embed/DNPW4raP9sY",
     "tipo": "serieTV"
+  },
+  {
+  "titolo": "Weeds",
+  "immagine": "images/weeds.jpg",
+  "data": "2005 - 2012",
+  "trama": "Dopo la morte improvvisa del marito, Nancy Botwin, una madre di periferia apparentemente normale, inizia a spacciare marijuana per mantenere la famiglia, entrando sempre più in profondità in un mondo criminale imprevedibile.",
+  "autore": "Jenji Kohan",
+  "genere": [
+    "Commedia",
+    "Drammatico",
+    "Crime"
+  ],
+  "valutazione": 7.9,
+  "trailer": "https://www.youtube.com/embed/6fwwR9VmqRc",
+  "tipo": "serieTV"
   },
   {
     "titolo": "Workin' Moms",
