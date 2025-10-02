@@ -5,13 +5,10 @@
     "data": "1949",
     "trama": "In un futuro totalitario, Winston Smith vive sotto la costante sorveglianza del Partito e del Grande Fratello. Disilluso dal regime, tenta di ribellarsi, ma si ritrova intrappolato in un sistema che manipola la realtà e soffoca ogni libertà.",
     "autore": "George Orwell",
-    "genere": [
-      "Distopia",
-      "Politica",
-      "Fiction"
-    ],
+    "genere": [],
     "valutazione": 9.5,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "Come trattare gli altri e farseli amici",
@@ -19,13 +16,10 @@
     "data": "1936",
     "trama": "Il libro, attraverso esempi pratici, offre principi per migliorare le relazioni interpersonali, insegnando come guadagnare amicizie, influenzare positivamente gli altri e gestire conflitti con empatia e comprensione.",
     "autore": "Dale Carnegie",
-    "genere": [
-      "Autosviluppo",
-      "Psicologia",
-      "Relazioni"
-    ],
+    "genere": [],
     "valutazione": 9,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "Così parlò Zarathustra",
@@ -33,13 +27,10 @@
     "data": "1883",
     "trama": "Zarathustra, un eremita che ha vissuto isolato per anni, scende dalla montagna per condividere con l'umanità le sue scoperte. Incontra vari personaggi, tra cui seguaci e scettici, mentre cerca di insegnare l'idea dell'Übermensch, sfidando le convenzioni morali e l'idea di Dio.",
     "autore": "Friedrich Nietzsche",
-    "genere": [
-      "Filosofia",
-      "Poesia",
-      "Letteratura"
-    ],
+    "genere": [],
     "valutazione": 8.7,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "Fahrenheit 451",
@@ -48,12 +39,11 @@
     "trama": "Guy Montag, un pompiere in una società dove i libri sono vietati e bruciati. Dopo un incontro con una giovane ragazza, inizia a mettere in discussione il suo ruolo e il sistema oppressivo che lo circonda.",
     "autore": "Ray Bradbury",
     "genere": [
-      "Distopia",
-      "Fantascienza",
-      "Romanzo"
+      "Fantascienza"
     ],
     "valutazione": 9.1,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "I fiori del male",
@@ -61,12 +51,11 @@
     "data": "1857",
     "trama": "Il giovane Baudelaire, turbato dalla società borghese, esplora i temi della bellezza, del peccato e della sofferenza attraverso i versi delle sue poesie.",
     "autore": "Charles Baudelaire",
-    "genere": [
-      "Poesia"
-    ],
+    "genere": [],
     "valutazione": 8.7,
     "trailer": "",
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "Guida galattica per autostoppisti",
@@ -79,7 +68,8 @@
       "Commedia"
     ],
     "valutazione": 9.3,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "L'arte di essere felici",
@@ -87,13 +77,10 @@
     "data": "1822",
     "trama": "Schopenhauer esplora la natura della felicità e i modi per raggiungerla, focalizzandosi sulle difficoltà umane e sulla sofferenza inevitabile della vita.",
     "autore": "Arthur Schopenhauer",
-    "genere": [
-      "Filosofia",
-      "Autosviluppo",
-      "Classico"
-    ],
+    "genere": [],
     "valutazione": 8.8,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "L'interpretazione dei sogni",
@@ -101,13 +88,10 @@
     "data": "1900",
     "trama": "Freud esplora come i sogni siano espressioni di desideri inconsci repressi. Attraverso l'analisi dei sogni di pazienti e di esempi tratti dalla vita quotidiana, sviluppa la teoria che i sogni siano un mezzo per il subconscio di comunicare i conflitti interiori.",
     "autore": "Sigmund Freud",
-    "genere": [
-      "Psicologia",
-      "Filosofia",
-      "Saggistica"
-    ],
+    "genere": [],
     "valutazione": 9.2,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "L'uomo più ricco di Babilonia",
@@ -115,13 +99,10 @@
     "data": "1926",
     "trama": "Un giovane babilonese, in cerca di successo finanziario, apprende le leggi della ricchezza attraverso saggi consigli di esperti e esperienze pratiche.",
     "autore": "George S. Clason",
-    "genere": [
-      "Finanza",
-      "Autosviluppo",
-      "Motivazionale"
-    ],
+    "genere": [],
     "valutazione": 8.5,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "Memorie di Adriano",
@@ -130,12 +111,11 @@
     "trama": "L'imperatore Adriano, ormai anziano, riflette sulla propria vita e sul suo governo, attraversando le esperienze più significative, tra amore, politica e filosofia.",
     "autore": "Marguerite Yourcenar",
     "genere": [
-      "Storico",
-      "Narrativa",
-      "Biografico"
+      "Storico"
     ],
     "valutazione": 9.4,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "Siddhartha",
@@ -143,13 +123,10 @@
     "data": "1922",
     "trama": "Siddhartha, un giovane Brahmino, lascia la sua casa per cercare un senso più profondo della vita, esplorando il lusso, il piacere e l'ascetismo. Alla fine, attraverso l'esperienza e il contatto con la natura, trova la pace interiore e una comprensione del mondo.",
     "autore": "Hermann Hesse",
-    "genere": [
-      "Romanzo",
-      "Spiritualità",
-      "Filosofia"
-    ],
+    "genere": [],
     "valutazione": 8.8,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "Verità/menzogna",
@@ -157,13 +134,10 @@
     "data": "1972",
     "trama": "In questa raccolta di articoli, George Orwell esplora le contraddizioni dei sistemi politici e la manipolazione della realtà attraverso la propaganda.",
     "autore": "George Orwell",
-    "genere": [
-      "Giornalismo",
-      "Politica",
-      "Saggistica"
-    ],
+    "genere": [],
     "valutazione": 8.7,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "The Witcher: Il guardiano degli Innocenti",
@@ -172,11 +146,11 @@
     "trama": "L'antologia si apre con una cornice di 7 racconti principali. Geralt di Rivia, cacciatore di mostri, dopo essere stato ferito in uno scontro, si riposa nel Tempio di Melitele. Durante la sua convalescenza ricorda alcuni episodi recenti, ognuno dei quali forma una storia a sé stante.",
     "autore": "Andrzej Sapkowski",
     "genere": [
-      "Fantasy",
-      "Letteratura"
+      "Fantasy"
     ],
     "valutazione": 9.2,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   },
   {
     "titolo": "The Witcher: La spada del destino",
@@ -189,6 +163,7 @@
       "Drammatico"
     ],
     "valutazione": 9.4,
-    "tipo": "libro"
+    "tipo": "libro",
+    "citazione": ""
   }
 ]

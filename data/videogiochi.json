@@ -7,12 +7,12 @@
     "autore": "DICE",
     "genere": [
       "Sparatutto",
-      "Storico",
       "Azione"
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/DJ1LfQGl0IU",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "The Binding of Isaac",
@@ -22,12 +22,12 @@
     "autore": "Edmund McMillen",
     "genere": [
       "Roguelike",
-      "Azione",
-      "Psicologico"
+      "Azione"
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/A_C90i1jVzY",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Bloodborne",
@@ -41,7 +41,8 @@
     ],
     "valutazione": 9.5,
     "trailer": "https://www.youtube.com/embed/2Crk_GpxGQE",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Call of Duty 4: Modern Warfare",
@@ -51,12 +52,12 @@
     "autore": "Infinity Ward",
     "genere": [
       "Sparatutto",
-      "Azione",
-      "Guerra"
+      "Azione"
     ],
     "valutazione": 9.4,
     "trailer": "https://www.youtube.com/embed/l-eMi1xJ2dM&t=20s",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Code Vein",
@@ -69,7 +70,8 @@
     ],
     "valutazione": 7.8,
     "trailer": "https://www.youtube.com/embed/tnvavfGL39c",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Crash Bandicoot 4: It's About Time",
@@ -84,7 +86,8 @@
     ],
     "valutazione": 8.9,
     "trailer": "https://www.youtube.com/embed/375dqL15O9E",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Crash Bash",
@@ -93,12 +96,12 @@
     "trama": "I personaggi dell'universo di Crash Bandicoot si sfidano in una serie di minigiochi competitivi in un'avventura frenetica.",
     "autore": "Eurocom",
     "genere": [
-      "Azione",
-      "Multiplayer"
+      "Azione"
     ],
     "valutazione": 7,
     "trailer": "https://www.youtube.com/embed/YqaQHeP0TEY",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Crash Team Racing",
@@ -108,12 +111,12 @@
     "autore": "Naughty Dog",
     "genere": [
       "Corse",
-      "Azione",
-      "Multiplayer"
+      "Azione"
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/LPAnYGGWaBw",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Cult of the Lamb",
@@ -128,7 +131,8 @@
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/ctX3jVORkkk",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Cuphead",
@@ -138,12 +142,12 @@
     "autore": "Studio MDHR",
     "genere": [
       "Vintage",
-      "Platform",
-      "Indie"
+      "Platform"
     ],
     "valutazione": 9.2,
     "trailer": "https://www.youtube.com/embed/NN-9SQXoi50",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Dark Souls",
@@ -156,7 +160,8 @@
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/Woe0PYZPxRw",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Dark Souls II: Scholar of the First Sin",
@@ -169,7 +174,8 @@
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/v6OvKFwIza8",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Dark Souls III",
@@ -182,7 +188,8 @@
     ],
     "valutazione": 9.5,
     "trailer": "https://www.youtube.com/embed/cWBwFhUv1-8",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Death Stranding",
@@ -196,7 +203,8 @@
     ],
     "valutazione": 8.8,
     "trailer": "https://www.youtube.com/embed/piIgkJWDuQg",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Detroit: Become Human",
@@ -205,12 +213,12 @@
     "trama": "In un futuro prossimo, la Detroit di domani è una città dominata dagli androidi. Si esplorano le storie di tre protagonisti: Kara, una serva fuggitiva che cerca libertà; Connor, un androide investigatore programmato per fermare i devianti; e Markus, un leader che lotta per la causa degli androidi.",
     "autore": "Quantic Dream",
     "genere": [
-      "Avventura",
-      "Narrativo"
+      "Avventura"
     ],
     "valutazione": 8.8,
     "trailer": "https://www.youtube.com/embed/8a-EObAhYrg",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Dino Crisis",
@@ -225,7 +233,8 @@
     ],
     "valutazione": 8.0,
     "trailer": "https://www.youtube.com/embed/nh09pKHVjBk",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Disco Elysium",
@@ -234,12 +243,12 @@
     "trama": "Un detective alcolizzato e senza memoria indaga su un omicidio in una città in rovina, affrontando i suoi demoni interiori e scelte morali che determineranno il futuro di una città al collasso.",
     "autore": "ZA/UM",
     "genere": [
-      "Noir",
       "Avventura"
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/P-UY6IyI03Q",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Doom",
@@ -254,7 +263,8 @@
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/BkaC1-QoraY",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Doom II",
@@ -269,7 +279,8 @@
     ],
     "valutazione": 9.0,
     "trailer": "https://www.youtube.com/embed/f8oRwBkKkXE",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Elden Ring",
@@ -282,7 +293,8 @@
     ],
     "valutazione": 9.7,
     "trailer": "https://www.youtube.com/embed/E3Huy2cdih0",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Fallout 4",
@@ -295,7 +307,8 @@
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/5iJUt6aBXAw",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Fallout 76",
@@ -304,12 +317,12 @@
     "trama": "Il protagonista, dopo 25 anni, esce dal Vault 76 in una Virginia devastata dalla guerra nucleare. Si ritrova ad affrontare minacce mutanti, creature pericolose e altre fazioni in cerca di risorse e potere.",
     "autore": "Bethesda Game Studios",
     "genere": [
-      "Azione",
-      "Multiplayer"
+      "Azione"
     ],
     "valutazione": 6.5,
     "trailer": "https://www.youtube.com/embed/4V4BiTs6fG0",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Far Cry 3",
@@ -323,7 +336,8 @@
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/BW_dG6guqBg",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Fear & Hunger",
@@ -331,12 +345,11 @@
     "data": "2020",
     "trama": "In un mondo oscuro e corrotto, un gruppo di persone si ritrova intrappolato in una prigione sotterranea dove le loro vite sono minacciate da entità oscure e terribili.",
     "autore": "Mihailo 'Mihailo' Dimić",
-    "genere": [
-      "Indie"
-    ],
+    "genere": [],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/6lLtw3ejnGs",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Ghost of Tsushima",
@@ -350,7 +363,8 @@
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/0HTfLqHoTmg",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "God of War",
@@ -364,7 +378,8 @@
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/HqQMh_tij0c",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "God of War III",
@@ -378,7 +393,8 @@
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/qKogMfIAAkY",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "God of War: Ragnarok",
@@ -392,7 +408,8 @@
     ],
     "valutazione": 9.5,
     "trailer": "https://www.youtube.com/embed/1O9J6QzD7ds",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Grand Theft Auto V",
@@ -406,7 +423,8 @@
     ],
     "valutazione": 9.4,
     "trailer": "https://www.youtube.com/embed/QkkoHAzjnUs",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Horizon Zero Dawn",
@@ -420,7 +438,8 @@
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/u4-FCsiF5x4",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Inscryption",
@@ -435,7 +454,8 @@
     ],
     "valutazione": 8.9,
     "trailer": "https://www.youtube.com/embed/uAn7OxLub9Y",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "The Last of Us",
@@ -449,7 +469,23 @@
     ],
     "valutazione": 10.0,
     "trailer": "https://www.youtube.com/embed/AaOWRvmtEFQ",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
+  },
+  {
+    "titolo": "The Last of Us Part II",
+    "immagine": "images/the_last_of_us_2.jpg",
+    "data": "2020",
+    "trama": "Ambientato cinque anni dopo gli eventi del primo capitolo, The Last of Us Part II segue Ellie nella sua missione di vendetta e sopravvivenza in un mondo post-apocalittico devastato da una pandemia fungina che trasforma gli esseri umani in creature ostili.",
+    "autore": "Neil Druckmann",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "trailer": "https://www.youtube.com/embed/vhII1qlcZ4E",
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Left 4 Dead 2",
@@ -464,7 +500,8 @@
     ],
     "valutazione": 9.0,
     "trailer": "https://www.youtube.com/embed/9XIle_kLHKU",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "The Legend of Zelda: The Minish Cap",
@@ -474,12 +511,12 @@
     "autore": "Nintendo",
     "genere": [
       "Avventura",
-      "Fantasy",
       "Puzzle"
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/cSIDghMWVMA",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Lies of P",
@@ -493,7 +530,8 @@
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/kXZoKdr-xeo",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Lords of the Fallen",
@@ -506,7 +544,8 @@
     ],
     "valutazione": 7.5,
     "trailer": "https://www.youtube.com/embed/O4bXk9GZpns",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Metal Gear",
@@ -516,12 +555,12 @@
     "autore": "Konami",
     "genere": [
       "Stealth",
-      "Azione",
-      "Spionaggio"
+      "Azione"
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/oJXt0VT2hqg",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Metal Gear 2: Solid Snake",
@@ -531,12 +570,12 @@
     "autore": "Konami",
     "genere": [
       "Stealth",
-      "Azione",
-      "Spionaggio"
+      "Azione"
     ],
     "valutazione": 9.0,
     "trailer": "https://www.youtube.com/embed/2sGxUkubKjg",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Metal Gear Solid",
@@ -551,7 +590,8 @@
     ],
     "valutazione": 10,
     "trailer": "https://www.youtube.com/embed/z7fhvnjo-Hs",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Metal Gear Solid 2: Sons of Liberty",
@@ -560,13 +600,12 @@
     "trama": "Solid Snake e Raiden affrontano una nuova minaccia legata alle armi nucleari e alla manipolazione delle informazioni globali in un intrigo politico che mette in discussione la realtà e la libertà dell’individuo.",
     "autore": "Hideo Kojima",
     "genere": [
-      "Azione",
-      "Infiltrazione",
-      "Thriller"
+      "Azione"
     ],
     "valutazione": 9.2,
     "trailer": "https://www.youtube.com/embed/OBXpTMGyYXg",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Metal Gear Solid 3: Snake Eater",
@@ -575,12 +614,12 @@
     "trama": "Ambientato durante la Guerra Fredda, il leggendario soldato Naked Snake deve infiltrarsi nella giungla sovietica per sventare una minaccia nucleare, affrontando il suo mentore e i fantasmi del passato.",
     "autore": "Hideo Kojima",
     "genere": [
-      "Azione",
-      "Spionaggio"
+      "Azione"
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/cGJ-vqsG4Js",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Nier Replicant ver.1.22474487139...",
@@ -594,22 +633,24 @@
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/sPcf4pfTqfY",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
-  "titolo": "Prince of Persia: The Lost Crown",
-  "immagine": "images/prince_of_persia_lost_crown.jpg",
-  "data": "2024",
-  "trama": "Sargon, un giovane guerriero membro del clan degli Immortali, viaggia fino al maledetto Monte Qaf per salvare il principe Ghassan rapito. Lungo il cammino affronta creature mitologiche e scopre poteri magici legati al tempo.",
-  "autore": "Ubisoft Montpellier",
-  "genere": [
-    "Azione",
-    "Platform",
-    "Metroidvania"
-  ],
-  "valutazione": 8.6,
-  "trailer": "https://www.youtube.com/embed/MmX7a_e65uU",
-  "tipo": "videogioco"
+    "titolo": "Prince of Persia: The Lost Crown",
+    "immagine": "images/prince_of_persia_lost_crown.jpg",
+    "data": "2024",
+    "trama": "Sargon, un giovane guerriero membro del clan degli Immortali, viaggia fino al maledetto Monte Qaf per salvare il principe Ghassan rapito. Lungo il cammino affronta creature mitologiche e scopre poteri magici legati al tempo.",
+    "autore": "Ubisoft Montpellier",
+    "genere": [
+      "Azione",
+      "Platform",
+      "Metroidvania"
+    ],
+    "valutazione": 8.6,
+    "trailer": "https://www.youtube.com/embed/MmX7a_e65uU",
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Rayman Legends",
@@ -624,7 +665,8 @@
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/yMIKs1PKrEM",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Resident Evil",
@@ -639,7 +681,8 @@
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/j_6Tr67e0Bo",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Resident Evil 0",
@@ -654,7 +697,8 @@
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/QbjC_WZy_jo",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Resident Evil 2 Remake",
@@ -668,7 +712,8 @@
     ],
     "valutazione": 9,
     "trailer": "https://www.youtube.com/embed/u3wS-Q2KBpk&t=124s",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Resident Evil 3 Remake",
@@ -683,7 +728,8 @@
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/xNjGFUaorYc",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Resident Evil 4 Remake",
@@ -698,7 +744,8 @@
     ],
     "valutazione": 9.2,
     "trailer": "https://www.youtube.com/embed/Id2EaldBaWw",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Resident Evil Revelations",
@@ -713,22 +760,24 @@
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/Zn-dhvYybYg",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
-  "titolo": "Resident Evil: Revelations 2",
-  "immagine": "images/resident_evil_revelations_2.jpg",
-  "data": "2015",
-  "trama": "Il gioco segue due linee narrative parallele: Claire Redfield e Moira Burton, rapite e intrappolate su un'isola misteriosa, cercano di sopravvivere affrontando orrori biotecnologici; mentre Barry Burton parte alla ricerca della figlia Moira, accompagnato da Natalia, una bambina dotata di misteriosi poteri.",
-  "autore": "Capcom",
-  "genere": [
-    "Azione",
-    "Survival Horror",
-    "Avventura"
-  ],
-  "valutazione": 8.2,
-  "trailer": "https://www.youtube.com/embed/AwcU7E1TprM",
-  "tipo": "videogioco"
+    "titolo": "Resident Evil: Revelations 2",
+    "immagine": "images/resident_evil_revelations_2.jpg",
+    "data": "2015",
+    "trama": "Il gioco segue due linee narrative parallele: Claire Redfield e Moira Burton, rapite e intrappolate su un'isola misteriosa, cercano di sopravvivere affrontando orrori biotecnologici; mentre Barry Burton parte alla ricerca della figlia Moira, accompagnato da Natalia, una bambina dotata di misteriosi poteri.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Survival Horror",
+      "Avventura"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/AwcU7E1TprM",
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Rise of the Tomb Raider",
@@ -742,7 +791,8 @@
     ],
     "valutazione": 8.8,
     "trailer": "https://www.youtube.com/embed/1_FIyNcQSgA",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Scarlet Nexus",
@@ -755,7 +805,8 @@
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/k1kI09X8L9Y",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Sekiro: Shadows Die Twice",
@@ -770,7 +821,8 @@
     ],
     "valutazione": 9.4,
     "trailer": "https://www.youtube.com/embed/rXMX4YJ7Lks",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Shadow of the Tomb Raider",
@@ -785,7 +837,8 @@
     ],
     "valutazione": 8.9,
     "trailer": "https://www.youtube.com/embed/D1kTu2hacaI",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "South Park: Il Bastone della Verità",
@@ -794,12 +847,12 @@
     "trama": "I bambini di South Park si immergono in un gioco di ruolo epico per conquistare il Bastone della Verità, affrontando avventure assurde, alieni e forze oscure, mentre un nuovo arrivato scopre il suo ruolo nel caos.",
     "autore": "Obsidian Entertainment",
     "genere": [
-      "Avventura",
-      "Commedia"
+      "Avventura"
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/Y0Ufja-ljUc",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Tomb Raider",
@@ -813,7 +866,8 @@
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/zF9m91y8Na0",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Uncharted 2: Among Thieves",
@@ -828,7 +882,8 @@
     ],
     "valutazione": 9.6,
     "trailer": "https://www.youtube.com/embed/tlkkceDkT88",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Uncharted 3: Drake's Deception",
@@ -843,7 +898,8 @@
     ],
     "valutazione": 9.4,
     "trailer": "https://www.youtube.com/embed/zN3rj6YemkI",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Uncharted 4: A Thief's End",
@@ -858,7 +914,8 @@
     ],
     "valutazione": 9.7,
     "trailer": "https://www.youtube.com/embed/hh5HV4iic1Y&t=5s",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Uncharted: Drake's Fortune",
@@ -873,7 +930,8 @@
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/H9c5ehcfvqI",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Undertale",
@@ -882,12 +940,12 @@
     "trama": "Un bambino umano cade in un mondo sotterraneo popolato da mostri. Durante il suo viaggio per tornare a casa, il protagonista si trova di fronte a una scelta: combattere i mostri per proseguire o trovare un altro modo per risolvere i conflitti senza violenza.",
     "autore": "Toby Fox",
     "genere": [
-      "Indie",
       "Avventura"
     ],
     "valutazione": 9.6,
     "trailer": "https://www.youtube.com/embed/SqjY_-beWi0",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Until Dawn",
@@ -901,7 +959,8 @@
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/3NcF7EOnjow",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Watch Dogs",
@@ -915,7 +974,8 @@
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/DqoQG_XYF-8",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "The Witcher 3: Wild Hunt",
@@ -928,7 +988,8 @@
     ],
     "valutazione": 9.5,
     "trailer": "https://www.youtube.com/embed/XHrskkHf958",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   },
   {
     "titolo": "Wolfenstein: The New Order",
@@ -942,6 +1003,7 @@
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/dwjKMjIE1rs",
-    "tipo": "videogioco"
+    "tipo": "videogioco",
+    "citazione": ""
   }
 ]

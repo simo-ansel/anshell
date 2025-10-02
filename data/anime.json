@@ -7,12 +7,12 @@
     "autore": "Paru Itagaki",
     "genere": [
       "Drammatico",
-      "Psicologico",
       "Romantico"
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/-5M4lbEpn6c",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Belladonna of Sadness",
@@ -22,12 +22,12 @@
     "autore": "Eiichi Yamamoto",
     "genere": [
       "Drammatico",
-      "Storico",
-      "Psicologico"
+      "Storico"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/c9LUA3NgQN0",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Blue Period",
@@ -40,7 +40,8 @@
     ],
     "valutazione": 7.8,
     "trailer": "https://www.youtube.com/embed/q0ypHogc6wg",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Il Castello Errante di Howl",
@@ -55,7 +56,8 @@
     ],
     "valutazione": 8.2,
     "trailer": "https://www.youtube.com/embed/iwROgK94zcM",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Cowboy Bebop",
@@ -66,11 +68,12 @@
     "genere": [
       "Azione",
       "Fantascienza",
-      "Noir"
+      "Crime"
     ],
     "valutazione": 8.9,
     "trailer": "https://www.youtube.com/embed/EL-D9LrFJd4",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Cyberpunk: Edgerunners",
@@ -85,7 +88,8 @@
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/OifiVCnFKzM",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Death Parade",
@@ -95,12 +99,12 @@
     "autore": "Yuzuru Tachikawa",
     "genere": [
       "Drammatico",
-      "Psicologico",
       "Fantascienza"
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/Ca5Tf5BDSYI",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Demon Slayer",
@@ -115,7 +119,8 @@
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/YkJvHe3KK2c",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Devilman Crybaby",
@@ -130,7 +135,8 @@
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/SM5mnH7JrJE",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "The End of Evangelion",
@@ -140,12 +146,12 @@
     "autore": "Hideaki Anno",
     "genere": [
       "Drammatico",
-      "Psicologico",
       "Fantascienza"
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/Y9cXQfLdGfQ",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Frieren - Oltre la fine del viaggio",
@@ -160,7 +166,8 @@
     ],
     "valutazione": 8.9,
     "trailer": " https://www.youtube.com/embed/QoGM9hCxr4k",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Full Metal Alchemist: Brotherhood",
@@ -175,7 +182,8 @@
     ],
     "valutazione": 9.2,
     "trailer": "https://www.youtube.com/embed/elyXcwunIYA",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Ghost in the Shell",
@@ -185,12 +193,12 @@
     "autore": "Mamoru Oshii",
     "genere": [
       "Fantascienza",
-      "Azione",
-      "Cyberpunk"
+      "Azione"
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/oP2Pt6m3yKU",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Great Teacher Onizuka",
@@ -200,12 +208,12 @@
     "autore": "Tohru Fujisawa",
     "genere": [
       "Commedia",
-      "Drammatico",
-      "School"
+      "Drammatico"
     ],
     "valutazione": 8.9,
     "trailer": "https://www.youtube.com/embed/2JGl6UzfPkE",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Heavenly Delusion",
@@ -220,7 +228,8 @@
     ],
     "valutazione": 8.1,
     "trailer": "https://www.youtube.com/embed/GuAcdIqcanA",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Junji Ito Maniac: Japanese Tales of the Macabre",
@@ -229,13 +238,12 @@
     "trama": "Una serie antologica che raccoglie storie horror di Junji Ito, esplorando il soprannaturale e la follia attraverso il suo distintivo stile visivo, con racconti che vanno da corpi deformati a inquietanti suspense psicologiche.",
     "autore": "Junji Ito",
     "genere": [
-      "Horror",
-      "Psicologico",
-      "Soprannaturale"
+      "Horror"
     ],
     "valutazione": 7.3,
     "trailer": "https://www.youtube.com/embed/0N2Nn-42oGQ",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Kakegurui",
@@ -244,12 +252,12 @@
     "trama": "Yumeko Jabami, una nuova studentessa in una scuola d'élite, sfida un sistema di giochi d'azzardo che domina la vita degli studenti. Con la sua personalità imprevedibile e un talento straordinario per il gioco, Yumeko semina caos e tensione, mettendo in discussione le fondamenta della gerarchia sociale.",
     "autore": "Homura Kawamoto",
     "genere": [
-      "Psicologico",
       "Drammatico"
     ],
     "valutazione": 8.2,
     "trailer": "https://www.youtube.com/embed/7hBoJDcBt28",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Kiki Consegne a Domicilio",
@@ -263,22 +271,24 @@
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/4bG17OYs-GA",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
-  "titolo": "Lupin III - Bye Bye Liberty: Scoppia la crisi!",
-  "immagine": "images/lupin_bye_bye_liberty.jpg",
-  "data": "1989",
-  "trama": "Lupin III scopre che tutte le polizie del mondo hanno ormai dati su di lui nei loro computer. Decide quindi di ritirarsi, ma viene coinvolto da Michael, un ragazzino hacker, nella missione di rubare il “Super Egg” — un gigantesco diamante nella Statua della Libertà — prima che la misteriosa Lega dei 3 Massoni crei un super‑virus informatico chiamato “Virus Beta”.",
-  "autore": "Monkey Punch",
-  "genere": [
-    "Azione",
-    "Avventura",
-    "Commedia"
-  ],
-  "valutazione": 6.7,
-  "trailer": "https://www.youtube.com/embed/tQ44bDsKpFw",
-  "tipo": "anime"
+    "titolo": "Lupin III - Bye Bye Liberty: Scoppia la crisi!",
+    "immagine": "images/lupin_bye_bye_liberty.jpg",
+    "data": "1989",
+    "trama": "Lupin III scopre che tutte le polizie del mondo hanno ormai dati su di lui nei loro computer. Decide quindi di ritirarsi, ma viene coinvolto da Michael, un ragazzino hacker, nella missione di rubare il “Super Egg” — un gigantesco diamante nella Statua della Libertà — prima che la misteriosa Lega dei 3 Massoni crei un super‑virus informatico chiamato “Virus Beta”.",
+    "autore": "Monkey Punch",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Commedia"
+    ],
+    "valutazione": 6.7,
+    "trailer": "https://www.youtube.com/embed/tQ44bDsKpFw",
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Made in Abyss",
@@ -293,7 +303,8 @@
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/e91G8m9uM_0",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Mob Psycho 100",
@@ -303,12 +314,12 @@
     "autore": "ONE",
     "genere": [
       "Azione",
-      "Commedia",
-      "Soprannaturale"
+      "Commedia"
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/Bw-5Lka7gPE",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Mononoke the Movie: Phantom in the Rain",
@@ -316,13 +327,11 @@
     "data": "2024",
     "trama": "Un enigmatico venditore di medicine viaggia attraverso il Giappone feudale, affrontando spiriti malevoli noti come Mononoke. Giunto in un palazzo imperiale, scopre una presenza maligna nascosta nelle camere interne.",
     "autore": "Kenji Nakamura",
-    "genere": [
-      "Psicologico",
-      "Soprannaturale"
-    ],
+    "genere": [],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/VAUz4AV3PGo",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Neon Genesis Evangelion",
@@ -331,13 +340,12 @@
     "trama": "Nel futuro post-apocalittico di Tokyo-3, Shinji Ikari è costretto a pilotare l'Evangelion, un gigantesco robot progettato per combattere gli Angeli, creature misteriose che minacciano l'esistenza umana.",
     "autore": "Hideaki Anno",
     "genere": [
-      "Azione",
-      "Psicologico",
-      "Mecha"
+      "Azione"
     ],
     "valutazione": 8.8,
     "trailer": "https://www.youtube.com/embed/fShlVhCfHig",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Pluto",
@@ -346,13 +354,14 @@
     "trama": "In questa rivisitazione oscura e psicologica del classico *Astro Boy*, un detective robot di nome Gesicht è incaricato di indagare su una serie di omicidi misteriosi che coinvolgono robot di alto profilo.",
     "autore": "Naoki Urasawa",
     "genere": [
-      "Giallo",
+      "Crime",
       "Thriller",
       "Fantascienza"
     ],
     "valutazione": 8.5,
     "trailer": "https://www.youtube.com/embed/-o8T4c3oQ9s",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Pom Poko",
@@ -367,7 +376,8 @@
     ],
     "valutazione": 7.4,
     "trailer": "https://www.youtube.com/embed/_7cowIHjCD4",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Porco Rosso",
@@ -382,7 +392,8 @@
     ],
     "valutazione": 7.7,
     "trailer": "https://www.youtube.com/embed/awEC-aLDzjs",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "La Principessa Mononoke",
@@ -397,7 +408,8 @@
     ],
     "valutazione": 8.4,
     "trailer": "https://www.youtube.com/embed/4OiMOHRDs14",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "I Racconti di Terramare",
@@ -412,7 +424,8 @@
     ],
     "valutazione": 7,
     "trailer": "https://www.youtube.com/embed/8hxYx3Jq3kI",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Redline",
@@ -427,7 +440,8 @@
     ],
     "valutazione": 7.5,
     "trailer": "https://www.youtube.com/embed/sonTXTZqE-Q",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Serial Experiments Lain",
@@ -436,13 +450,12 @@
     "trama": "Lain Iwakura è una studentessa introversa che inizia a esplorare la rete Wired dopo aver ricevuto un misterioso messaggio da una compagna di classe morta. Man mano che si addentra, il confine tra realtà e virtuale si dissolve, portandola a scoprire verità inquietanti su sé stessa e sull'esistenza.",
     "autore": "Yasuyuki Ueda",
     "genere": [
-      "Psicologico",
-      "Cyberpunk",
       "Mistero"
     ],
     "valutazione": 8.1,
     "trailer": "https://www.youtube.com/embed/5PXiXtEuYis",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Si sente il mare",
@@ -456,7 +469,8 @@
     ],
     "valutazione": 7.4,
     "trailer": "https://www.youtube.com/embed/tfkHiHjrqa8",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "SPY×FAMILY",
@@ -470,7 +484,8 @@
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/U_rWZK_8vUY",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Sword Art Online",
@@ -485,7 +500,8 @@
     ],
     "valutazione": 7.8,
     "trailer": "https://www.youtube.com/embed/1oOBjyOKu2o",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Trigun",
@@ -499,7 +515,8 @@
     ],
     "valutazione": 8.4,
     "trailer": "https://www.youtube.com/embed/4OxFSy8G5wk",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   },
   {
     "titolo": "Yu-Gi-Oh!",
@@ -513,6 +530,7 @@
     ],
     "valutazione": 7.9,
     "trailer": "https://www.youtube.com/embed/WHUcHw7j2Mc",
-    "tipo": "anime"
+    "tipo": "anime",
+    "citazione": ""
   }
 ]

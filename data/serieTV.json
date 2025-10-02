@@ -12,7 +12,8 @@
     ],
     "valutazione": 7.6,
     "trailer": "https://www.youtube.com/embed/DgZSr_F8lfU",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Archer",
@@ -22,12 +23,12 @@
     "autore": "Adam Reed",
     "genere": [
       "Commedia",
-      "Azione",
-      "Spionaggio"
+      "Azione"
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/WIfnM9ntFc8",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Arrested Development",
@@ -36,13 +37,12 @@
     "trama": "Dopo l'arresto del padre, Michael Bluth cerca di tenere insieme la sua disfunzionale famiglia mentre gestisce l'azienda di famiglia. Tuttavia, l'egoismo e l'immaturità dei suoi parenti rendono ogni tentativo quasi impossibile.",
     "autore": "Mitchell Hurwitz",
     "genere": [
-      "Commedia",
-      "Satira",
-      "Famiglia"
+      "Commedia"
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/4oIk04OQ1Ec",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Atypical",
@@ -56,7 +56,8 @@
     ],
     "valutazione": 8.2,
     "trailer": "https://www.youtube.com/embed/aa0s3Q8_-wM",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Black Mirror",
@@ -65,13 +66,13 @@
     "trama": "Ogni episodio di questa serie antologica esplora le oscure e inquietanti conseguenze della tecnologia moderna sulla società, con storie che riflettono sulle paure, i desideri e i pericoli legati all'evoluzione digitale e ai progressi tecnologici.",
     "autore": "Charlie Brooker",
     "genere": [
-      "Psicologico",
       "Fantascienza",
       "Thriller"
     ],
     "valutazione": 8.8,
     "trailer": "https://www.youtube.com/embed/jXq23Tq9FeU",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "BoJack Horseman",
@@ -81,12 +82,12 @@
     "autore": "Raphael Bob-Waksberg",
     "genere": [
       "Drammatico",
-      "Commedia",
-      "Satira"
+      "Commedia"
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/rQvIR1oL1vE",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Breaking Bad",
@@ -96,12 +97,12 @@
     "autore": "Vince Gilligan",
     "genere": [
       "Drammatico",
-      "Crimine",
       "Thriller"
     ],
     "valutazione": 9.5,
     "trailer": "https://www.youtube.com/embed/F1HNuAE9WdU",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Brooklyn Nine-Nine",
@@ -111,12 +112,12 @@
     "autore": "Michael Schur, Dan Goor",
     "genere": [
       "Commedia",
-      "Crimine",
-      "Poliziesco"
+      "Crime"
     ],
     "valutazione": 8.4,
     "trailer": "https://www.youtube.com/embed/ourfSzoC7pA",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Come vendere droga online (in fretta)",
@@ -126,12 +127,12 @@
     "autore": "Philipp Käßbohrer, Matthias Murmann",
     "genere": [
       "Drammatico",
-      "Commedia",
-      "Crimine"
+      "Commedia"
     ],
     "valutazione": 7.9,
     "trailer": "https://www.youtube.com/embed/opWu34vWTsQ",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "The Cuphead Show",
@@ -146,7 +147,8 @@
     ],
     "valutazione": 7.7,
     "trailer": "https://www.youtube.com/embed/2d2fq0Z3xNk",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Dahmer - Mostro: La storia di Jeffrey Dahmer",
@@ -155,28 +157,43 @@
     "trama": "La serie racconta la storia di Jeffrey Dahmer, uno dei più noti serial killer americani, esplorando i suoi crimini, il suo passato e l'impatto devastante sulle vittime e le loro famiglie.",
     "autore": "Ryan Murphy, Ian Brennan",
     "genere": [
-      "Drammatico",
-      "Crimine",
-      "Biografico"
+      "Drammatico"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/1PgKjIosF50",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
-  "titolo": "The Decameron",
-  "immagine": "images/the_decameron.jpg",
-  "data": "2024",
-  "trama": "Ambientata nell'Italia del XIV secolo durante la peste nera, un gruppo di nobili si rifugia in una villa fuori Firenze per sfuggire alla morte e alla decadenza sociale. La serie rilegge in chiave satirica e moderna il classico di Boccaccio, esplorando i piaceri, le contraddizioni e le ipocrisie dell'élite medievale.",
-  "autore": "Kathleen Jordan",
-  "genere": [
-    "Storico",
-    "Drammatico",
-    "Commedia nera"
-  ],
-  "valutazione": 6.8,
-  "trailer": "https://www.youtube.com/embed/RLimO9ydEgo",
-  "tipo": "serieTV"
+    "titolo": "The Decameron",
+    "immagine": "images/the_decameron.jpg",
+    "data": "2024",
+    "trama": "Ambientata nell'Italia del XIV secolo durante la peste nera, un gruppo di nobili si rifugia in una villa fuori Firenze per sfuggire alla morte e alla decadenza sociale. La serie rilegge in chiave satirica e moderna il classico di Boccaccio, esplorando i piaceri, le contraddizioni e le ipocrisie dell'élite medievale.",
+    "autore": "Kathleen Jordan",
+    "genere": [
+      "Storico",
+      "Drammatico"
+    ],
+    "valutazione": 6.8,
+    "trailer": "https://www.youtube.com/embed/RLimO9ydEgo",
+    "tipo": "serieTV",
+    "citazione": ""
+  },
+  {
+    "titolo": "Dept. Q – Sezione casi irrisolti",
+    "immagine": "images/dept_q.jpg",
+    "data": "2025",
+    "trama": "Dopo un’aggressione che ha ucciso un collega e lasciato un altro paralizzato, il detective Carl Morck viene relegato in un ufficio nei sotterranei della polizia di Edimburgo: il Dipartimento Q, dedicato ai casi irrisolti. Insieme a un gruppo di outsider, riapre indagini apparentemente dimenticate, svelando misteri e colpe sepolte.",
+    "autore": "Scott Frank, Chandni Lakhani",
+    "genere": [
+      "Crime",
+      "Drammatico",
+      "Mistero"
+    ],
+    "valutazione": 8.8,
+    "trailer": "https://www.youtube.com/watch?v=72hK6FUmm8o",
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Detective Monk",
@@ -186,12 +203,12 @@
     "autore": "Andy Breckman",
     "genere": [
       "Commedia",
-      "Giallo",
-      "Poliziesco"
+      "Crime"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/L_IOsLYVKkY",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Dexter",
@@ -200,13 +217,29 @@
     "trama": "Dexter Morgan è un esperto analista forense che lavora per la polizia di Miami. Tuttavia, di notte è un serial killer che uccide altri criminali che sono riusciti a sfuggire alla giustizia.",
     "autore": "James Manos Jr.",
     "genere": [
-      "Crimine",
       "Drammatico",
       "Thriller"
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/ej8-Rqo-VT4",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
+  },
+  {
+    "titolo": "Dirk Gently’s Holistic Detective Agency",
+    "immagine": "images/dirk_gently.jpg",
+    "data": "2016 - 2017",
+    "trama": "Basata sui romanzi di Douglas Adams, la serie segue il detective olistico Dirk Gently e il riluttante assistente Todd Brotzman mentre investigano casi bizzarri in cui tutto è connesso in modi imprevedibili.",
+    "autore": "Max Landis",
+    "genere": [
+      "Commedia",
+      "Fantascienza",
+      "Mistero"
+    ],
+    "valutazione": 8.2,
+    "trailer": "https://www.youtube.com/embed/5TNXiEuxXcY",
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Disincanto",
@@ -220,20 +253,22 @@
     ],
     "valutazione": 7.6,
     "trailer": "https://www.youtube.com/embed/vTbHCyrqDgE",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
-  "titolo": "Disjointed",
-  "immagine": "images/disjointed.jpg",
-  "data": "2017 - 2018",
-  "trama": "Ruth, un’attivista per la legalizzazione della cannabis, realizza finalmente il suo sogno aprendo un dispensario a Los Angeles, gestito con l’aiuto del figlio e di un gruppo di collaboratori eccentrici.",
-  "autore": "David Javerbaum, Chuck Lorre",
-  "genere": [
-    "Commedia"
-  ],
-  "valutazione": 6.7,
-  "trailer": "https:// www.youtube.com/embed/ZybYIJtbcu0",
-  "tipo": "serieTV"
+    "titolo": "Disjointed",
+    "immagine": "images/disjointed.jpg",
+    "data": "2017 - 2018",
+    "trama": "Ruth, un’attivista per la legalizzazione della cannabis, realizza finalmente il suo sogno aprendo un dispensario a Los Angeles, gestito con l’aiuto del figlio e di un gruppo di collaboratori eccentrici.",
+    "autore": "David Javerbaum, Chuck Lorre",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 6.7,
+    "trailer": "https:// www.youtube.com/embed/ZybYIJtbcu0",
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Dr. House - Medical Division",
@@ -247,7 +282,8 @@
     ],
     "valutazione": 8.7,
     "trailer": "https://www.youtube.com/embed/IUBO3bA6JEY",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "The End of the F***ing World",
@@ -260,7 +296,8 @@
     ],
     "valutazione": 8.0,
     "trailer": "https://www.youtube.com/embed/L50fd2KED8A",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "F is for Family",
@@ -269,12 +306,12 @@
     "trama": "Ambientata negli anni '70, la serie segue le vicende della famiglia Murphy. Frank, il padre, lotta con il lavoro e il carattere esplosivo, mentre sua moglie e i loro tre figli affrontano le difficoltà della vita familiare.",
     "autore": "Bill Burr, Michael Price",
     "genere": [
-      "Commedia",
-      "Satira"
+      "Commedia"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/f2AmK5QVtbg",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Game of Thrones",
@@ -288,7 +325,8 @@
     ],
     "valutazione": 9.3,
     "trailer": "https://www.youtube.com/embed/s7L2PVdrb_8",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "The Good Doctor",
@@ -301,7 +339,8 @@
     ],
     "valutazione": 8.1,
     "trailer": "https://www.youtube.com/embed/JGsfu43y-8Q",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Guillermo del Toro's Cabinet of Curiosities",
@@ -310,12 +349,12 @@
     "trama": "Una collezione antologica di otto racconti horror curati da Guillermo del Toro, ciascuno diretto da un regista diverso e con uno stile unico.",
     "autore": "Guillermo del Toro",
     "genere": [
-      "Horror",
-      "Antologia"
+      "Horror"
     ],
     "valutazione": 7.1,
     "trailer": "https://www.youtube.com/embed/arZ771SlMlM",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "How I Met Your Mother",
@@ -330,7 +369,8 @@
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/ZPLOsabhQSM",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "iZombie",
@@ -340,27 +380,27 @@
     "autore": "Rob Thomas",
     "genere": [
       "Drammatico",
-      "Commedia",
-      "Crimine"
+      "Commedia"
     ],
     "valutazione": 7.9,
     "trailer": "https://www.youtube.com/embed/Lu5nXAuBMfk",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
-  "titolo": "Long Story Short",
-  "immagine": "images/long_story_short.jpg",
-  "data": "2025",
-  "trama": "Una saga animata che segue la famiglia Schwooper attraverso diverse epoche — dagli anni ’50 ai giorni nostri — attraverso salti temporali che esplorano traumi personali, umorismo e legami familiari.",
-  "autore": "Raphael Bob-Waksberg",
-  "genere": [
-    "Animazione",
-    "Commedia",
-    "Drammatico"
-  ],
-  "valutazione": 8.7,
-  "trailer": "https://www.youtube.com/embed/OxiEiaVnhXg",
-  "tipo": "serieTV"
+    "titolo": "Long Story Short",
+    "immagine": "images/long_story_short.jpg",
+    "data": "2025",
+    "trama": "Una saga animata che segue la famiglia Schwooper attraverso diverse epoche — dagli anni ’50 ai giorni nostri — attraverso salti temporali che esplorano traumi personali, umorismo e legami familiari.",
+    "autore": "Raphael Bob-Waksberg",
+    "genere": [
+      "Commedia",
+      "Drammatico"
+    ],
+    "valutazione": 8.7,
+    "trailer": "https://www.youtube.com/embed/OxiEiaVnhXg",
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Lost",
@@ -375,7 +415,8 @@
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/KTu8iDynwNc",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "The Midnight Gospel",
@@ -385,12 +426,12 @@
     "autore": "Pendleton Ward, Duncan Trussell",
     "genere": [
       "Commedia",
-      "Fantascienza",
-      "Filosofico"
+      "Fantascienza"
     ],
     "valutazione": 8.2,
     "trailer": "https://www.youtube.com/embed/0kQWAqjFJS0",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Mr. Robot",
@@ -400,12 +441,12 @@
     "autore": "Sam Esmail",
     "genere": [
       "Drammatico",
-      "Thriller",
-      "Psicologico"
+      "Thriller"
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/VtPxf1tSECY",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Non ho mai...",
@@ -418,7 +459,8 @@
     ],
     "valutazione": 7.9,
     "trailer": "https://www.youtube.com/embed/fCQCtdCZtIc",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "The Office (USA)",
@@ -428,26 +470,26 @@
     "autore": "Greg Daniels",
     "genere": [
       "Commedia",
-      "Drammatico",
-      "Mockumentary"
+      "Drammatico"
     ],
     "valutazione": 8.9,
     "trailer": "https://www.youtube.com/embed/sqyde2jcLdQ",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
-  "titolo": "Orange is the New Black",
-  "immagine": "images/orange_is_the_new_black.jpg",
-  "data": "2013",
-  "trama": "La serie segue la storia di Piper Chapman, una donna condannata a scontare quindici mesi in un carcere femminile federale per un crimine commesso dieci anni prima. All’interno del penitenziario, Piper entra in contatto con donne di ogni estrazione sociale, scoprendo dinamiche complesse fatte di amicizie, conflitti e sopravvivenza quotidiana.",
-  "autore": "Jenji Kohan",
-  "genere": [
-    "Dramma",
-    "Commedia"
-  ],
-  "valutazione": 9.0,
-  "trailer": "https://www.youtube.com/embed/fBITGyJynfA",
-  "tipo": "serieTV"
+    "titolo": "Orange is the New Black",
+    "immagine": "images/orange_is_the_new_black.jpg",
+    "data": "2013",
+    "trama": "La serie segue la storia di Piper Chapman, una donna condannata a scontare quindici mesi in un carcere femminile federale per un crimine commesso dieci anni prima. All’interno del penitenziario, Piper entra in contatto con donne di ogni estrazione sociale, scoprendo dinamiche complesse fatte di amicizie, conflitti e sopravvivenza quotidiana.",
+    "autore": "Jenji Kohan",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 9.0,
+    "trailer": "https://www.youtube.com/embed/fBITGyJynfA",
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Psych",
@@ -457,12 +499,12 @@
     "autore": "Steve Franks",
     "genere": [
       "Commedia",
-      "Giallo",
-      "Poliziesco"
+      "Crime"
     ],
     "valutazione": 8.4,
     "trailer": "https://www.youtube.com/embed/bOGXyzXbYNo",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "La Regina degli Scacchi",
@@ -471,13 +513,12 @@
     "trama": "Beth Harmon, un'orfana con un talento straordinario per gli scacchi, combatte con le sue dipendenze e i suoi demoni interiori mentre lotta per diventare la campionessa mondiale di scacchi, sfidando pregiudizi e difficoltà lungo il cammino.",
     "autore": "Scott Frank",
     "genere": [
-      "Drammatico",
-      "Sportivo",
-      "Psicologico"
+      "Drammatico"
     ],
     "valutazione": 8.6,
     "trailer": "https://www.youtube.com/embed/oZn3qSgmLqI",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Rick and Morty",
@@ -487,12 +528,12 @@
     "autore": "Dan Harmon, Justin Roiland",
     "genere": [
       "Commedia",
-      "Fantascienza",
-      "Surreale"
+      "Fantascienza"
     ],
     "valutazione": 9.1,
     "trailer": "https://www.youtube.com/embed/DLaqu2QJYPY",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "The Rookie",
@@ -502,11 +543,12 @@
     "autore": "Alexi Hawley",
     "genere": [
       "Drammatico",
-      "Poliziesco"
+      "Crime"
     ],
     "valutazione": 8,
     "trailer": "https://www.youtube.com/embed/8Q4UALvlcVQ",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Scott Pilgrim - La serie",
@@ -521,7 +563,8 @@
     ],
     "valutazione": 8.2,
     "trailer": "https://www.youtube.com/embed/Sm1K3QTl0Y0",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Scrubs",
@@ -535,7 +578,8 @@
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/kBz1vvlkzSw",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Una Serie di Sfortunati Eventi",
@@ -549,22 +593,23 @@
     ],
     "valutazione": 7.8,
     "trailer": "https://www.youtube.com/embed/BqJx6hCYKGE",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
-  "titolo": "Tuca & Bertie",
-  "immagine": "images/tuca_bertie.jpg",
-  "data": "2019 - 2022",
-  "trama": "Due amiche trentenni, un tucano spensierato e un'uccellina ansiosa, affrontano insieme la vita in una città surreale piena di umorismo, ansie quotidiane e assurdità.",
-  "autore": "Lisa Hanawalt",
-  "genere": [
-    "Animazione",
-    "Commedia",
-    "Drammatico"
-  ],
-  "valutazione": 7.4,
-  "trailer": "https://www.youtube.com/embed/ZybYIJtbcu0",
-  "tipo": "serieTV"
+    "titolo": "Tuca & Bertie",
+    "immagine": "images/tuca_bertie.jpg",
+    "data": "2019 - 2022",
+    "trama": "Due amiche trentenni, un tucano spensierato e un'uccellina ansiosa, affrontano insieme la vita in una città surreale piena di umorismo, ansie quotidiane e assurdità.",
+    "autore": "Lisa Hanawalt",
+    "genere": [
+      "Commedia",
+      "Drammatico"
+    ],
+    "valutazione": 7.4,
+    "trailer": "https://www.youtube.com/embed/ZybYIJtbcu0",
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "The Watcher",
@@ -578,22 +623,24 @@
     ],
     "valutazione": 6.5,
     "trailer": "https://www.youtube.com/embed/DNPW4raP9sY",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
-  "titolo": "Weeds",
-  "immagine": "images/weeds.jpg",
-  "data": "2005 - 2012",
-  "trama": "Dopo la morte improvvisa del marito, Nancy Botwin, una madre di periferia apparentemente normale, inizia a spacciare marijuana per mantenere la famiglia, entrando sempre più in profondità in un mondo criminale imprevedibile.",
-  "autore": "Jenji Kohan",
-  "genere": [
-    "Commedia",
-    "Drammatico",
-    "Crime"
-  ],
-  "valutazione": 7.9,
-  "trailer": "https://www.youtube.com/embed/6fwwR9VmqRc",
-  "tipo": "serieTV"
+    "titolo": "Weeds",
+    "immagine": "images/weeds.jpg",
+    "data": "2005 - 2012",
+    "trama": "Dopo la morte improvvisa del marito, Nancy Botwin, una madre di periferia apparentemente normale, inizia a spacciare marijuana per mantenere la famiglia, entrando sempre più in profondità in un mondo criminale imprevedibile.",
+    "autore": "Jenji Kohan",
+    "genere": [
+      "Commedia",
+      "Drammatico",
+      "Crime"
+    ],
+    "valutazione": 7.9,
+    "trailer": "https://www.youtube.com/embed/6fwwR9VmqRc",
+    "tipo": "serieTV",
+    "citazione": ""
   },
   {
     "titolo": "Workin' Moms",
@@ -607,6 +654,7 @@
     ],
     "valutazione": 7.6,
     "trailer": "https://www.youtube.com/embed/gk1vKFcUxyU",
-    "tipo": "serieTV"
+    "tipo": "serieTV",
+    "citazione": ""
   }
 ]

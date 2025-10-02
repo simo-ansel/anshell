@@ -7,8 +7,7 @@
     "autore": "Akari Kajimoto",
     "genere": [
       "Commedia",
-      "Romantico",
-      "Soprannaturale"
+      "Romantico"
     ],
     "valutazione": 8.0,
     "tipo": "manga"
@@ -42,15 +41,27 @@
     "tipo": "manga"
   },
   {
+  "titolo": "Dragon Ball",
+  "immagine": "images/dragonball.jpg",
+  "data": "1984 - 1995",
+  "trama": "La storia segue Son Goku, un ragazzo con una forza straordinaria e una coda da scimmia, che intraprende un viaggio per trovare le Sette Sfere del Drago. Durante le sue avventure affronta nemici potenti, stringe amicizie e cresce fino a diventare uno dei più grandi guerrieri dell’universo.",
+  "autore": "Akira Toriyama",
+  "genere": [
+    "Azione",
+    "Avventura",
+    "Seinen"
+  ],
+  "valutazione": 9.2,
+  "tipo": "manga"
+  },
+  {
     "titolo": "Homunculus",
     "immagine": "images/homunculus.jpg",
     "data": "2003",
     "trama": "Susumu Nakoshi, un uomo senzatetto, si sottopone a una misteriosa operazione chiamata trepanazione che gli consente di vedere i 'mostri interiori' delle persone, portandolo a confrontarsi con la follia e il dolore umano.",
     "autore": "Hideo Yamamoto",
     "genere": [
-      "Psicologico",
-      "Horror",
-      "Seinen"
+      "Horror"
     ],
     "valutazione": 8.3,
     "trailer": "https://www.youtube.com/embed/npz17VrYktU",
@@ -64,7 +75,6 @@
     "autore": "Osamu Tezuka",
     "genere": [
       "Fantascienza",
-      "Satira",
       "Drammatico"
     ],
     "valutazione": 8.1,

@@ -126,6 +126,27 @@ body {
 /* Descrizione 										*/
 /****************************************************/
 
+.page-title {
+	font-size: 32px;
+	/* Dimensione del titolo */
+	font-weight: 400;
+	/* Peso del font (normale) */
+	color: #38a169;
+	/* Colore verde del titolo */
+	border-bottom: 2px solid #38a169;
+	/* Sottolineatura verde */
+	text-align: center;
+	/* Allineamento al centro */
+	margin-top: 16px;
+	/* Padding in alto */
+	margin-bottom: 40px;
+	/* Padding in alto */
+}
+
+/****************************************************/
+/* Descrizione 										*/
+/****************************************************/
+
 /* Sezione descrizione */
 .description {
 	background-color: #1a202c;
