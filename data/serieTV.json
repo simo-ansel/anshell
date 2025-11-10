@@ -582,6 +582,20 @@
     "citazione": ""
   },
   {
+  "titolo": "Superstore",
+  "immagine": "images/superstore.jpg",
+  "data": "2015-2021",
+  "trama": "Una commedia ambientata nel megastore Cloud 9, dove un gruppo di dipendenti affronta ogni giorno situazioni assurde, clienti bizzarri e le sfide della vita lavorativa con ironia e spirito di squadra.",
+  "autore": "Justin Spitzer",
+  "genere": [
+    "Commedia"
+  ],
+  "valutazione": 7.8,
+  "trailer": "https://www.youtube.com/embed/GY8eA5b6XDY",
+  "tipo": "serieTV",
+  "citazione": ""
+  },
+  {
     "titolo": "Una Serie di Sfortunati Eventi",
     "immagine": "images/una_serie_di_sfortunati_eventi.jpg",
     "data": "2017 - 2019",
