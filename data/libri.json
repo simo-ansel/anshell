@@ -7,8 +7,7 @@
     "autore": "George Orwell",
     "genere": [],
     "valutazione": 9.5,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "Come trattare gli altri e farseli amici",
@@ -18,8 +17,7 @@
     "autore": "Dale Carnegie",
     "genere": [],
     "valutazione": 9,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "Così parlò Zarathustra",
@@ -29,8 +27,7 @@
     "autore": "Friedrich Nietzsche",
     "genere": [],
     "valutazione": 8.7,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "Fahrenheit 451",
@@ -42,8 +39,7 @@
       "Fantascienza"
     ],
     "valutazione": 9.1,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "I fiori del male",
@@ -53,9 +49,7 @@
     "autore": "Charles Baudelaire",
     "genere": [],
     "valutazione": 8.7,
-    "trailer": "",
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "Guida galattica per autostoppisti",
@@ -68,8 +62,7 @@
       "Commedia"
     ],
     "valutazione": 9.3,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "L'arte di essere felici",
@@ -79,8 +72,7 @@
     "autore": "Arthur Schopenhauer",
     "genere": [],
     "valutazione": 8.8,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "L'interpretazione dei sogni",
@@ -90,8 +82,7 @@
     "autore": "Sigmund Freud",
     "genere": [],
     "valutazione": 9.2,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "L'uomo più ricco di Babilonia",
@@ -101,8 +92,7 @@
     "autore": "George S. Clason",
     "genere": [],
     "valutazione": 8.5,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "Memorie di Adriano",
@@ -114,8 +104,7 @@
       "Storico"
     ],
     "valutazione": 9.4,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "Siddhartha",
@@ -125,8 +114,7 @@
     "autore": "Hermann Hesse",
     "genere": [],
     "valutazione": 8.8,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "Verità/menzogna",
@@ -136,8 +124,7 @@
     "autore": "George Orwell",
     "genere": [],
     "valutazione": 8.7,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "The Witcher: Il guardiano degli Innocenti",
@@ -149,8 +136,7 @@
       "Fantasy"
     ],
     "valutazione": 9.2,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   },
   {
     "titolo": "The Witcher: La spada del destino",
@@ -163,7 +149,6 @@
       "Drammatico"
     ],
     "valutazione": 9.4,
-    "tipo": "libro",
-    "citazione": ""
+    "tipo": "libro"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "titolo": "Armored Core",
+    "immagine": "images/armored_core.jpg",
+    "data": "1997",
+    "trama": "Armored Core è un videogioco d'azione in cui il giocatore pilota un mecha personalizzabile, completando missioni per varie corporazioni in un mondo post-apocalittico dominato dalla tecnologia.",
+    "autore": "FromSoftware",
+    "genere": [
+      "Azione",
+      "Mecha",
+      "TPS"
+    ],
+    "valutazione": 7.7,
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Battlefield V",
     "immagine": "images/battlefield_v.jpg",
     "data": "2018",
@@ -10,9 +24,7 @@
       "Azione"
     ],
     "valutazione": 8.3,
-    "trailer": "https://www.youtube.com/embed/DJ1LfQGl0IU",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "The Binding of Isaac",
@@ -25,9 +37,7 @@
       "Azione"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/A_C90i1jVzY",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Bloodborne",
@@ -40,9 +50,7 @@
       "Horror"
     ],
     "valutazione": 9.5,
-    "trailer": "https://www.youtube.com/embed/2Crk_GpxGQE",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Call of Duty 4: Modern Warfare",
@@ -55,9 +63,7 @@
       "Azione"
     ],
     "valutazione": 9.4,
-    "trailer": "https://www.youtube.com/embed/l-eMi1xJ2dM&t=20s",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Code Vein",
@@ -69,9 +75,7 @@
       "Azione"
     ],
     "valutazione": 7.8,
-    "trailer": "https://www.youtube.com/embed/tnvavfGL39c",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Crash Bandicoot 4: It's About Time",
@@ -85,9 +89,7 @@
       "Avventura"
     ],
     "valutazione": 8.9,
-    "trailer": "https://www.youtube.com/embed/375dqL15O9E",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Crash Bash",
@@ -99,9 +101,7 @@
       "Azione"
     ],
     "valutazione": 7,
-    "trailer": "https://www.youtube.com/embed/YqaQHeP0TEY",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Crash Team Racing",
@@ -114,9 +114,7 @@
       "Azione"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/LPAnYGGWaBw",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Cult of the Lamb",
@@ -130,9 +128,7 @@
       "Gestionale"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/ctX3jVORkkk",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Cuphead",
@@ -145,9 +141,7 @@
       "Platform"
     ],
     "valutazione": 9.2,
-    "trailer": "https://www.youtube.com/embed/NN-9SQXoi50",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Dark Souls",
@@ -159,9 +153,7 @@
       "Azione"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/Woe0PYZPxRw",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Dark Souls II: Scholar of the First Sin",
@@ -173,9 +165,7 @@
       "Azione"
     ],
     "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/v6OvKFwIza8",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Dark Souls III",
@@ -187,9 +177,7 @@
       "Azione"
     ],
     "valutazione": 9.5,
-    "trailer": "https://www.youtube.com/embed/cWBwFhUv1-8",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Death Stranding",
@@ -202,9 +190,7 @@
       "Avventura"
     ],
     "valutazione": 8.8,
-    "trailer": "https://www.youtube.com/embed/piIgkJWDuQg",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Detroit: Become Human",
@@ -216,9 +202,7 @@
       "Avventura"
     ],
     "valutazione": 8.8,
-    "trailer": "https://www.youtube.com/embed/8a-EObAhYrg",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Dino Crisis",
@@ -232,9 +216,7 @@
       "Azione"
     ],
     "valutazione": 8.0,
-    "trailer": "https://www.youtube.com/embed/nh09pKHVjBk",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Disco Elysium",
@@ -246,9 +228,7 @@
       "Avventura"
     ],
     "valutazione": 9.3,
-    "trailer": "https://www.youtube.com/embed/P-UY6IyI03Q",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Doom",
@@ -262,9 +242,7 @@
       "Horror"
     ],
     "valutazione": 9.3,
-    "trailer": "https://www.youtube.com/embed/BkaC1-QoraY",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Doom II",
@@ -278,9 +256,7 @@
       "Horror"
     ],
     "valutazione": 9.0,
-    "trailer": "https://www.youtube.com/embed/f8oRwBkKkXE",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Elden Ring",
@@ -292,9 +268,7 @@
       "Azione"
     ],
     "valutazione": 9.7,
-    "trailer": "https://www.youtube.com/embed/E3Huy2cdih0",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Fallout 4",
@@ -306,9 +280,7 @@
       "Azione"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/5iJUt6aBXAw",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Fallout 76",
@@ -320,9 +292,7 @@
       "Azione"
     ],
     "valutazione": 6.5,
-    "trailer": "https://www.youtube.com/embed/4V4BiTs6fG0",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Far Cry 3",
@@ -335,9 +305,7 @@
       "Avventura"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/BW_dG6guqBg",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Fear & Hunger",
@@ -347,9 +315,7 @@
     "autore": "Mihailo 'Mihailo' Dimić",
     "genere": [],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/6lLtw3ejnGs",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Ghost of Tsushima",
@@ -362,9 +328,7 @@
       "Avventura"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/0HTfLqHoTmg",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "God of War",
@@ -377,9 +341,7 @@
       "Avventura"
     ],
     "valutazione": 9.3,
-    "trailer": "https://www.youtube.com/embed/HqQMh_tij0c",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "God of War III",
@@ -392,9 +354,7 @@
       "Avventura"
     ],
     "valutazione": 9.3,
-    "trailer": "https://www.youtube.com/embed/qKogMfIAAkY",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "God of War: Ragnarok",
@@ -407,9 +367,7 @@
       "Avventura"
     ],
     "valutazione": 9.5,
-    "trailer": "https://www.youtube.com/embed/1O9J6QzD7ds",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Grand Theft Auto V",
@@ -422,9 +380,21 @@
       "Avventura"
     ],
     "valutazione": 9.4,
-    "trailer": "https://www.youtube.com/embed/QkkoHAzjnUs",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
+  },
+  {
+    "titolo": "High on Life",
+    "immagine": "images/high_on_life.jpg",
+    "data": "2022",
+    "trama": "High on Life è uno sparatutto in prima persona dal tono comico, in cui un adolescente deve affrontare un cartello alieno che vuole drogarsi con gli esseri umani. Armato di pistole parlanti, il protagonista esplora pianeti strani e surreali.",
+    "autore": "Squanch Games / Justin Roiland",
+    "genere": [
+      "Azione",
+      "Commedia",
+      "Sci-fi"
+    ],
+    "valutazione": 8.0,
+    "tipo": "videogioco"
   },
   {
     "titolo": "Horizon Zero Dawn",
@@ -437,9 +407,7 @@
       "Avventura"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/u4-FCsiF5x4",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Inscryption",
@@ -453,9 +421,7 @@
       "Horror"
     ],
     "valutazione": 8.9,
-    "trailer": "https://www.youtube.com/embed/uAn7OxLub9Y",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "The Last of Us",
@@ -468,9 +434,7 @@
       "Avventura"
     ],
     "valutazione": 10.0,
-    "trailer": "https://www.youtube.com/embed/AaOWRvmtEFQ",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "The Last of Us Part II",
@@ -483,9 +447,7 @@
       "Avventura"
     ],
     "valutazione": 9.3,
-    "trailer": "https://www.youtube.com/embed/vhII1qlcZ4E",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Left 4 Dead 2",
@@ -499,9 +461,7 @@
       "Horror"
     ],
     "valutazione": 9.0,
-    "trailer": "https://www.youtube.com/embed/9XIle_kLHKU",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "The Legend of Zelda: The Minish Cap",
@@ -514,9 +474,7 @@
       "Puzzle"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/cSIDghMWVMA",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Lies of P",
@@ -529,9 +487,7 @@
       "Avventura"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/kXZoKdr-xeo",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Lords of the Fallen",
@@ -543,9 +499,7 @@
       "Azione"
     ],
     "valutazione": 7.5,
-    "trailer": "https://www.youtube.com/embed/O4bXk9GZpns",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Metal Gear",
@@ -558,9 +512,7 @@
       "Azione"
     ],
     "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/oJXt0VT2hqg",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Metal Gear 2: Solid Snake",
@@ -573,9 +525,7 @@
       "Azione"
     ],
     "valutazione": 9.0,
-    "trailer": "https://www.youtube.com/embed/2sGxUkubKjg",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Metal Gear Solid",
@@ -589,9 +539,7 @@
       "Avventura"
     ],
     "valutazione": 10,
-    "trailer": "https://www.youtube.com/embed/z7fhvnjo-Hs",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Metal Gear Solid 2: Sons of Liberty",
@@ -603,9 +551,7 @@
       "Azione"
     ],
     "valutazione": 9.2,
-    "trailer": "https://www.youtube.com/embed/OBXpTMGyYXg",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Metal Gear Solid 3: Snake Eater",
@@ -617,9 +563,7 @@
       "Azione"
     ],
     "valutazione": 9.3,
-    "trailer": "https://www.youtube.com/embed/cGJ-vqsG4Js",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Nier Replicant ver.1.22474487139...",
@@ -632,9 +576,7 @@
       "Avventura"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/sPcf4pfTqfY",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Prince of Persia: The Lost Crown",
@@ -648,9 +590,7 @@
       "Metroidvania"
     ],
     "valutazione": 8.6,
-    "trailer": "https://www.youtube.com/embed/MmX7a_e65uU",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Rayman Legends",
@@ -664,9 +604,7 @@
       "Cooperativo"
     ],
     "valutazione": 9.3,
-    "trailer": "https://www.youtube.com/embed/yMIKs1PKrEM",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Resident Evil",
@@ -680,9 +618,7 @@
       "Survival"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/j_6Tr67e0Bo",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Resident Evil 0",
@@ -696,9 +632,7 @@
       "Survival"
     ],
     "valutazione": 8.6,
-    "trailer": "https://www.youtube.com/embed/QbjC_WZy_jo",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Resident Evil 2 Remake",
@@ -711,9 +645,7 @@
       "Avventura"
     ],
     "valutazione": 9,
-    "trailer": "https://www.youtube.com/embed/u3wS-Q2KBpk&t=124s",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Resident Evil 3 Remake",
@@ -727,9 +659,7 @@
       "Survival"
     ],
     "valutazione": 8,
-    "trailer": "https://www.youtube.com/embed/xNjGFUaorYc",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Resident Evil 4 Remake",
@@ -743,9 +673,7 @@
       "Survival"
     ],
     "valutazione": 9.2,
-    "trailer": "https://www.youtube.com/embed/Id2EaldBaWw",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Resident Evil Revelations",
@@ -759,9 +687,7 @@
       "Survival"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/Zn-dhvYybYg",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Resident Evil: Revelations 2",
@@ -775,9 +701,7 @@
       "Avventura"
     ],
     "valutazione": 8.2,
-    "trailer": "https://www.youtube.com/embed/AwcU7E1TprM",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Rise of the Tomb Raider",
@@ -790,9 +714,7 @@
       "Avventura"
     ],
     "valutazione": 8.8,
-    "trailer": "https://www.youtube.com/embed/1_FIyNcQSgA",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Scarlet Nexus",
@@ -804,9 +726,7 @@
       "Azione"
     ],
     "valutazione": 8,
-    "trailer": "https://www.youtube.com/embed/k1kI09X8L9Y",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Sekiro: Shadows Die Twice",
@@ -820,9 +740,7 @@
       "Stealth"
     ],
     "valutazione": 9.4,
-    "trailer": "https://www.youtube.com/embed/rXMX4YJ7Lks",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Shadow of the Tomb Raider",
@@ -836,9 +754,7 @@
       "Platform"
     ],
     "valutazione": 8.9,
-    "trailer": "https://www.youtube.com/embed/D1kTu2hacaI",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "South Park: Il Bastone della Verità",
@@ -850,9 +766,7 @@
       "Avventura"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/Y0Ufja-ljUc",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Tomb Raider",
@@ -865,9 +779,7 @@
       "Avventura"
     ],
     "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/zF9m91y8Na0",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Uncharted 2: Among Thieves",
@@ -881,9 +793,7 @@
       "Platform"
     ],
     "valutazione": 9.6,
-    "trailer": "https://www.youtube.com/embed/tlkkceDkT88",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Uncharted 3: Drake's Deception",
@@ -897,9 +807,7 @@
       "Platform"
     ],
     "valutazione": 9.4,
-    "trailer": "https://www.youtube.com/embed/zN3rj6YemkI",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Uncharted 4: A Thief's End",
@@ -913,9 +821,7 @@
       "Platform"
     ],
     "valutazione": 9.7,
-    "trailer": "https://www.youtube.com/embed/hh5HV4iic1Y&t=5s",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Uncharted: Drake's Fortune",
@@ -929,9 +835,7 @@
       "Platform"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/H9c5ehcfvqI",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Undertale",
@@ -943,9 +847,7 @@
       "Avventura"
     ],
     "valutazione": 9.6,
-    "trailer": "https://www.youtube.com/embed/SqjY_-beWi0",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Until Dawn",
@@ -958,9 +860,7 @@
       "Avventura"
     ],
     "valutazione": 8.3,
-    "trailer": "https://www.youtube.com/embed/3NcF7EOnjow",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Watch Dogs",
@@ -973,9 +873,7 @@
       "Avventura"
     ],
     "valutazione": 8,
-    "trailer": "https://www.youtube.com/embed/DqoQG_XYF-8",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "The Witcher 3: Wild Hunt",
@@ -987,9 +885,7 @@
       "Azione"
     ],
     "valutazione": 9.5,
-    "trailer": "https://www.youtube.com/embed/XHrskkHf958",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   },
   {
     "titolo": "Wolfenstein: The New Order",
@@ -1002,8 +898,6 @@
       "Azione"
     ],
     "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/dwjKMjIE1rs",
-    "tipo": "videogioco",
-    "citazione": ""
+    "tipo": "videogioco"
   }
 ]

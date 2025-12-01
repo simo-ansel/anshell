@@ -10,9 +10,7 @@
       "Romantico"
     ],
     "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/-5M4lbEpn6c",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Belladonna of Sadness",
@@ -25,9 +23,7 @@
       "Storico"
     ],
     "valutazione": 8,
-    "trailer": "https://www.youtube.com/embed/c9LUA3NgQN0",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Blue Period",
@@ -39,9 +35,7 @@
       "Drammatico"
     ],
     "valutazione": 7.8,
-    "trailer": "https://www.youtube.com/embed/q0ypHogc6wg",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Il Castello Errante di Howl",
@@ -55,9 +49,7 @@
       "Romantico"
     ],
     "valutazione": 8.2,
-    "trailer": "https://www.youtube.com/embed/iwROgK94zcM",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Cowboy Bebop",
@@ -71,9 +63,7 @@
       "Crime"
     ],
     "valutazione": 8.9,
-    "trailer": "https://www.youtube.com/embed/EL-D9LrFJd4",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Cyberpunk: Edgerunners",
@@ -87,9 +77,7 @@
       "Drammatico"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/OifiVCnFKzM",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Death Parade",
@@ -102,9 +90,7 @@
       "Fantascienza"
     ],
     "valutazione": 8.3,
-    "trailer": "https://www.youtube.com/embed/Ca5Tf5BDSYI",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Demon Slayer",
@@ -118,9 +104,7 @@
       "Avventura"
     ],
     "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/YkJvHe3KK2c",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Devilman Crybaby",
@@ -134,9 +118,7 @@
       "Drammatico"
     ],
     "valutazione": 8.3,
-    "trailer": "https://www.youtube.com/embed/SM5mnH7JrJE",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "The End of Evangelion",
@@ -149,9 +131,7 @@
       "Fantascienza"
     ],
     "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/Y9cXQfLdGfQ",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Frieren - Oltre la fine del viaggio",
@@ -165,9 +145,7 @@
       "Drammatico"
     ],
     "valutazione": 8.9,
-    "trailer": " https://www.youtube.com/embed/QoGM9hCxr4k",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Full Metal Alchemist: Brotherhood",
@@ -181,9 +159,7 @@
       "Fantasy"
     ],
     "valutazione": 9.2,
-    "trailer": "https://www.youtube.com/embed/elyXcwunIYA",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Ghost in the Shell",
@@ -196,9 +172,7 @@
       "Azione"
     ],
     "valutazione": 8.3,
-    "trailer": "https://www.youtube.com/embed/oP2Pt6m3yKU",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Great Teacher Onizuka",
@@ -211,9 +185,7 @@
       "Drammatico"
     ],
     "valutazione": 8.9,
-    "trailer": "https://www.youtube.com/embed/2JGl6UzfPkE",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Heavenly Delusion",
@@ -227,9 +199,21 @@
       "Mistero"
     ],
     "valutazione": 8.1,
-    "trailer": "https://www.youtube.com/embed/GuAcdIqcanA",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
+  },
+  {
+    "titolo": "Highschool of the Dead",
+    "immagine": "images/highschool_of_the_dead.jpg",
+    "data": "2010",
+    "trama": "Highschool of the Dead segue un gruppo di studenti che tenta di sopravvivere allo scoppio di un'apocalisse zombie. Tra azione, dramma e tensione, il gruppo deve trovare rifugio e lottare per la sopravvivenza.",
+    "autore": "Daisuke Satō / Shōji Satō",
+    "genere": [
+      "Azione",
+      "Horror",
+      "Soprannaturale"
+    ],
+    "valutazione": 7.1,
+    "tipo": "anime"
   },
   {
     "titolo": "Junji Ito Maniac: Japanese Tales of the Macabre",
@@ -241,9 +225,7 @@
       "Horror"
     ],
     "valutazione": 7.3,
-    "trailer": "https://www.youtube.com/embed/0N2Nn-42oGQ",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Kakegurui",
@@ -255,9 +237,7 @@
       "Drammatico"
     ],
     "valutazione": 8.2,
-    "trailer": "https://www.youtube.com/embed/7hBoJDcBt28",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Kiki Consegne a Domicilio",
@@ -270,9 +250,7 @@
       "Avventura"
     ],
     "valutazione": 8,
-    "trailer": "https://www.youtube.com/embed/4bG17OYs-GA",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Lupin III - Bye Bye Liberty: Scoppia la crisi!",
@@ -286,9 +264,7 @@
       "Commedia"
     ],
     "valutazione": 6.7,
-    "trailer": "https://www.youtube.com/embed/tQ44bDsKpFw",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Made in Abyss",
@@ -302,9 +278,7 @@
       "Drammatico"
     ],
     "valutazione": 8.7,
-    "trailer": "https://www.youtube.com/embed/e91G8m9uM_0",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Mob Psycho 100",
@@ -317,9 +291,7 @@
       "Commedia"
     ],
     "valutazione": 8.6,
-    "trailer": "https://www.youtube.com/embed/Bw-5Lka7gPE",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Mononoke the Movie: Phantom in the Rain",
@@ -329,9 +301,7 @@
     "autore": "Kenji Nakamura",
     "genere": [],
     "valutazione": 8,
-    "trailer": "https://www.youtube.com/embed/VAUz4AV3PGo",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Neon Genesis Evangelion",
@@ -343,9 +313,7 @@
       "Azione"
     ],
     "valutazione": 8.8,
-    "trailer": "https://www.youtube.com/embed/fShlVhCfHig",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Pluto",
@@ -359,9 +327,7 @@
       "Fantascienza"
     ],
     "valutazione": 8.5,
-    "trailer": "https://www.youtube.com/embed/-o8T4c3oQ9s",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Pom Poko",
@@ -375,9 +341,7 @@
       "Commedia"
     ],
     "valutazione": 7.4,
-    "trailer": "https://www.youtube.com/embed/_7cowIHjCD4",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Porco Rosso",
@@ -391,9 +355,7 @@
       "Storico"
     ],
     "valutazione": 7.7,
-    "trailer": "https://www.youtube.com/embed/awEC-aLDzjs",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "La Principessa Mononoke",
@@ -407,9 +369,7 @@
       "Drammatico"
     ],
     "valutazione": 8.4,
-    "trailer": "https://www.youtube.com/embed/4OiMOHRDs14",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "I Racconti di Terramare",
@@ -423,9 +383,7 @@
       "Drammatico"
     ],
     "valutazione": 7,
-    "trailer": "https://www.youtube.com/embed/8hxYx3Jq3kI",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Redline",
@@ -439,9 +397,7 @@
       "Sportivo"
     ],
     "valutazione": 7.5,
-    "trailer": "https://www.youtube.com/embed/sonTXTZqE-Q",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Serial Experiments Lain",
@@ -453,9 +409,7 @@
       "Mistero"
     ],
     "valutazione": 8.1,
-    "trailer": "https://www.youtube.com/embed/5PXiXtEuYis",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Si sente il mare",
@@ -468,9 +422,7 @@
       "Drammatico"
     ],
     "valutazione": 7.4,
-    "trailer": "https://www.youtube.com/embed/tfkHiHjrqa8",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "SPY×FAMILY",
@@ -483,9 +435,7 @@
       "Azione"
     ],
     "valutazione": 8.6,
-    "trailer": "https://www.youtube.com/embed/U_rWZK_8vUY",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Sword Art Online",
@@ -499,9 +449,7 @@
       "Avventura"
     ],
     "valutazione": 7.8,
-    "trailer": "https://www.youtube.com/embed/1oOBjyOKu2o",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Trigun",
@@ -514,9 +462,7 @@
       "Fantascienza"
     ],
     "valutazione": 8.4,
-    "trailer": "https://www.youtube.com/embed/4OxFSy8G5wk",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   },
   {
     "titolo": "Yu-Gi-Oh!",
@@ -529,8 +475,6 @@
       "Avventura"
     ],
     "valutazione": 7.9,
-    "trailer": "https://www.youtube.com/embed/WHUcHw7j2Mc",
-    "tipo": "anime",
-    "citazione": ""
+    "tipo": "anime"
   }
 ]
