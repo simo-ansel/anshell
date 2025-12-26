@@ -13,6 +13,20 @@
     "tipo": "manga"
   },
   {
+    "titolo": "Bibliomania",
+    "immagine": "images/bibliomania.jpg",
+    "data": "2018",
+    "trama": "In un mondo in cui le persone sono disposte a sacrificare tutto pur di possedere libri, Alice, una giovane collezionista, vive isolata circondata da testi rari. La sua ossessione per la conoscenza la porterà a una riflessione estrema sul valore dei libri, della memoria e della vita stessa.",
+    "autore": "Orval",
+    "genere": [
+      "Drammatico",
+      "Psicologico",
+      "Seinen"
+    ],
+    "valutazione": 7.6,
+    "tipo": "manga"
+  },
+  {
     "titolo": "Dai Dark",
     "immagine": "images/dai_dark.jpg",
     "data": "2021",
@@ -65,6 +79,19 @@
     ],
     "valutazione": 8.3,
     "tipo": "manga"
+  },
+  {
+  "titolo": "Jaco the Galactic Patrolman",
+  "immagine": "images/jaco_galactic_patrolman.jpg",
+  "data": "2013",
+  "trama": "Jaco è un agente della Pattuglia Galattica inviato sulla Terra per prevenire una minaccia che potrebbe distruggere il pianeta. Convinto di essere un eroe infallibile, si scontra con la vita terrestre e con i propri limiti, in una storia che funge da prequel agli eventi di Dragon Ball Z.",
+  "autore": "Akira Toriyama",
+  "genere": [
+    "Commedia",
+    "Fantascienza"
+  ],
+  "valutazione": 7.5,
+  "tipo": "manga"
   },
   {
     "titolo": "Mela Meccanica",

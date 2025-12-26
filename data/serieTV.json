@@ -272,6 +272,20 @@
     "tipo": "serieTV"
   },
   {
+  "titolo": "Freud",
+  "immagine": "images/freud.jpg",
+  "data": "2020",
+  "trama": "Serie thriller ambientata nella Vienna di fine Ottocento che reinterpreta in chiave oscura e investigativa la figura di Sigmund Freud. Il giovane medico collabora con una medium e un ispettore di polizia per risolvere casi legati a omicidi, sette e fenomeni apparentemente soprannaturali, intrecciando psicoanalisi, mistero e politica.",
+  "autore": "Marvin Kren",
+  "genere": [
+    "Thriller",
+    "Drammatico",
+    "Crime"
+  ],
+  "valutazione": 6.5,
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "Game of Thrones",
     "immagine": "images/game_of_thrones.jpg",
     "data": "2011 - 2019",
@@ -337,7 +351,7 @@
   },
   {
     "titolo": "Jentry Chau contro il regno dei demoni",
-    "immagine": "images/jentry_chau.jpg",
+    "immagine": "images/jentry_chau_vs_underworld.jpg",
     "data": "2023",
     "trama": "Jentry Chau è una teenager che scopre di essere nel mirino di un potente demone. Aiutata da un mentore spirituale poco convenzionale, affronta creature sovrannaturali e imparara a gestire nuovi poteri.",
     "autore": "Echo Wu",

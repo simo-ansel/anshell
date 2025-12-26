@@ -259,6 +259,20 @@
     "tipo": "videogioco"
   },
   {
+  "titolo": "Doom 64",
+  "immagine": "images/doom_64.jpg",
+  "data": "1997",
+  "trama": "Capitolo autonomo della serie Doom, ambientato dopo gli eventi di Doom II. Il marine torna su Marte per eliminare definitivamente le forze demoniache, affrontando livelli più cupi e labirintici con un’atmosfera horror accentuata rispetto ai predecessori.",
+  "autore": "Midway Games / id Software",
+  "genere": [
+    "FPS",
+    "Azione",
+    "Horror"
+  ],
+  "valutazione": 8.0,
+  "tipo": "videogioco"
+  },
+  {
     "titolo": "Elden Ring",
     "immagine": "images/eldenring.jpg",
     "data": "2022",

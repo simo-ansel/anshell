@@ -121,6 +121,20 @@
     "tipo": "anime"
   },
   {
+  "titolo": "Dragon Ball GT",
+  "immagine": "images/dragonball_gt.jpg",
+  "data": "1996 - 1997",
+  "trama": "Ambientata dopo la sconfitta di Majin Bu, la serie segue Goku, trasformato nuovamente in bambino a causa di un desiderio espresso con le Sfere del Drago dalle stelle nere. Insieme a Pan e Trunks, intraprende un viaggio nello spazio per recuperarle e salvare la Terra, affrontando nuove minacce come Baby, Super C-17 e gli Shenron oscuri.",
+  "autore": "Akira Toriyama",
+  "genere": [
+    "Azione",
+    "Avventura",
+    "Fantasy"
+  ],
+  "valutazione": 6.8,
+  "tipo": "anime"
+  },
+  {
     "titolo": "The End of Evangelion",
     "immagine": "images/the_end_of_evangelion.jpg",
     "data": "1997",
@@ -265,6 +279,20 @@
     ],
     "valutazione": 6.7,
     "tipo": "anime"
+  },
+  {
+  "titolo": "Lupin III - Tutti i tesori del mondo",
+  "immagine": "images/lupin_tutti_i_tesori_del_mondo.jpg",
+  "data": "1978",
+  "trama": "Arsenio Lupin III e la sua banda sono coinvolti in una caccia a un leggendario tesoro nascosto nel regno di Cagliostro. Tra inseguimenti, colpi di scena e romanticismo, il film unisce avventura e umorismo con uno stile visivo elegante e senza tempo.",
+  "autore": "Hayao Miyazaki",
+  "genere": [
+    "Avventura",
+    "Azione",
+    "Animazione"
+  ],
+  "valutazione": 8.4,
+  "tipo": "anime"
   },
   {
     "titolo": "Made in Abyss",
