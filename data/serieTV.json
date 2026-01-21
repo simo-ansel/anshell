@@ -532,6 +532,20 @@
     "tipo": "serieTV"
   },
   {
+    "titolo": "Solar Opposites",
+    "immagine": "images/solar_opposites.jpg",
+    "data": "2020 - in corso",
+    "trama": "Quattro alieni fuggono dal loro pianeta distrutto e finiscono per vivere sulla Terra, che giudicano in modo opposto: Korvo e Yumyulack la odiano, mentre Terry e Jesse la adorano. La serie alterna satira fantascientifica e critica sociale con una sottotrama oscura ambientata in un muro miniaturizzato.",
+    "autore": "Justin Roiland, Mike McMahan",
+    "genere": [
+      "Animazione",
+      "Commedia",
+      "Fantascienza"
+    ],
+    "valutazione": 8.0,
+    "tipo": "serie"
+  },
+  {
     "titolo": "Superstore",
     "immagine": "images/superstore.jpg",
     "data": "2015-2021",

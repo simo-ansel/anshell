@@ -411,6 +411,20 @@
     "tipo": "videogioco"
   },
   {
+    "titolo": "Hogwarts Legacy",
+    "immagine": "images/hogwarts_legacy.jpg",
+    "data": "2023",
+    "trama": "Ambientato nell'universo di Harry Potter nel XIX secolo, il gioco segue uno studente di Hogwarts dotato di una rara connessione con un'antica magia. Il giocatore esplora il mondo magico, frequenta le lezioni e prende decisioni che influenzano il destino del mondo wizarding.",
+    "autore": "Avalanche Software",
+    "genere": [
+      "GDR",
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.8,
+    "tipo": "videogioco"
+  },
+  {
     "titolo": "Horizon Zero Dawn",
     "immagine": "images/horizonzerodawn.jpg",
     "data": "2017",

@@ -27,6 +27,20 @@
     "tipo": "manga"
   },
   {
+    "titolo": "Claymore",
+    "immagine": "images/claymore.jpg",
+    "data": "2001 - 2014",
+    "trama": "In un mondo medievale infestato da demoni mutaforma chiamati Yoma, le Claymore sono guerriere mezze umane e mezze Yoma che combattono queste creature. Clare, una delle Claymore più deboli, intraprende un viaggio segnato da vendetta, identità e perdita dell'umanità.",
+    "autore": "Norihiro Yagi",
+    "genere": [
+      "Dark Fantasy",
+      "Azione",
+      "Drammatico"
+    ],
+    "valutazione": 8.5,
+    "tipo": "manga"
+  },
+  {
     "titolo": "Dai Dark",
     "immagine": "images/dai_dark.jpg",
     "data": "2021",
