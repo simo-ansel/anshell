@@ -546,6 +546,20 @@
     "tipo": "serie"
   },
   {
+  "titolo": "Space Force",
+  "immagine": "images/spaceforce.jpg",
+  "data": "2020 - 2022",
+  "trama": "La serie segue il generale Mark Naird, incaricato di guidare la neonata Forza Spaziale degli Stati Uniti. Tra missioni improbabili, problemi politici e un team eccentrico, la serie esplora in chiave satirica il mondo militare e burocratico con toni comici e assurdi.",
+  "autore": "Greg Daniels, Steve Carell",
+  "genere": [
+    "Commedia",
+    "Satira",
+    "Sci-fi"
+  ],
+  "valutazione": 6.7,
+  "tipo": "serieTV"
+  },
+  {
     "titolo": "Superstore",
     "immagine": "images/superstore.jpg",
     "data": "2015-2021",

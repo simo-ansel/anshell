@@ -732,6 +732,34 @@
     "tipo": "videogioco"
   },
   {
+  "titolo": "Resident Evil 7: Biohazard",
+  "immagine": "images/resident_evil_biohazard.jpg",
+  "data": "2017",
+  "trama": "Il gioco segue Ethan Winters mentre cerca la moglie scomparsa in una piantagione abbandonata in Louisiana. Qui si imbatte nella famiglia Baker, vittime di un’infezione biologica che li ha resi violenti e quasi immortali. Il titolo segna un ritorno alle origini horror della serie, con una prospettiva in prima persona e forte enfasi su tensione e sopravvivenza.",
+  "autore": "Capcom",
+  "genere": [
+    "Horror",
+    "Survival Horror",
+    "Azione"
+  ],
+  "valutazione": 9.0,
+  "tipo": "videogioco"
+  },
+  {
+  "titolo": "Resident Evil Village",
+  "immagine": "images/resident_evil_village.jpg",
+  "data": "2021",
+  "trama": "Il gioco segue Ethan Winters mentre si reca in un villaggio isolato in Europa orientale alla ricerca della figlia rapita. Lì affronta creature mostruose, culti oscuri e i quattro lord del villaggio sotto il controllo della misteriosa Madre Miranda, in un survival horror che mescola esplorazione, combattimento e puzzle.",
+  "autore": "Capcom",
+  "genere": [
+    "Horror",
+    "Survival Horror",
+    "Azione"
+  ],
+  "valutazione": 8.8,
+  "tipo": "videogioco"
+  },
+  {
     "titolo": "Rise of the Tomb Raider",
     "immagine": "images/riseofthetombraider.jpg",
     "data": "2015",
