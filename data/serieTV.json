@@ -1,0 +1,818 @@
+[
+  {
+    "titolo": "The 100",
+    "immagine": "images/the_100.jpg",
+    "trama": "Dopo una catastrofe nucleare che ha devastato la Terra, i discendenti degli ultimi sopravvissuti vivono su una stazione spaziale. Quando le risorse cominciano a scarseggiare, 100 giovani criminali vengono inviati sulla Terra per determinare se il pianeta è di nuovo abitabile.",
+    "autore": "Jason Rothenberg",
+    "genere": [
+      "Dramma",
+      "Fantascienza",
+      "Azione"
+    ],
+    "valutazione": 7.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Archer",
+    "immagine": "images/archer.jpg",
+    "trama": "Archer è una serie animata che segue le disavventure di un gruppo di spie di una agenzia di intelligence, l'International Secret Intelligence Service (ISIS).",
+    "autore": "Adam Reed",
+    "genere": [
+      "Commedia",
+      "Azione"
+    ],
+    "valutazione": 8.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2009,
+      "fine": 2023
+    }
+  },
+  {
+    "titolo": "Arrested Development",
+    "immagine": "images/arrested_development.jpg",
+    "trama": "Dopo l'arresto del padre, Michael Bluth cerca di tenere insieme la sua disfunzionale famiglia mentre gestisce l'azienda di famiglia. Tuttavia, l'egoismo e l'immaturità dei suoi parenti rendono ogni tentativo quasi impossibile.",
+    "autore": "Mitchell Hurwitz",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 8.7,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2003,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Atypical",
+    "immagine": "images/atypical.jpg",
+    "trama": "Sam, un ragazzo nello spettro autistico, cerca indipendenza e amore mentre affronta i problemi adolescenziali e familiari.",
+    "autore": "Robia Rashid",
+    "genere": [
+      "Dramma",
+      "Commedia"
+    ],
+    "valutazione": 8.2,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2017
+    }
+  },
+  {
+    "titolo": "Black Mirror",
+    "immagine": "images/black_mirror.jpg",
+    "trama": "Ogni episodio di questa serie antologica esplora le oscure e inquietanti conseguenze della tecnologia moderna sulla società, con storie che riflettono sulle paure, i desideri e i pericoli legati all'evoluzione digitale e ai progressi tecnologici.",
+    "autore": "Charlie Brooker",
+    "genere": [
+      "Fantascienza",
+      "Thriller"
+    ],
+    "valutazione": 8.8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2011,
+      "fine": null
+    }
+  },
+  {
+    "titolo": "BoJack Horseman",
+    "immagine": "images/bojack_horseman.jpg",
+    "trama": "BoJack Horseman, un cavallo antropomorfo ex star di una sitcom degli anni '90, cerca di affrontare la sua vita da adulto in un mondo satirico e spesso tragico.",
+    "autore": "Raphael Bob-Waksberg",
+    "genere": [
+      "Dramma",
+      "Commedia"
+    ],
+    "valutazione": 8.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Breaking Bad",
+    "immagine": "images/breaking_bad.jpg",
+    "trama": "Walter White, un insegnante di chimica che scopre di avere un cancro terminale, decide di entrare nel mondo della produzione di metanfetamine per garantire il futuro economico della sua famiglia, intraprendendo una discesa nella criminalità e nella violenza.",
+    "autore": "Vince Gilligan",
+    "genere": [
+      "Dramma",
+      "Thriller"
+    ],
+    "valutazione": 9.5,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2008,
+      "fine": 2013
+    }
+  },
+  {
+    "titolo": "Brooklyn Nine-Nine",
+    "immagine": "images/brooklyn_nine_nine.jpg",
+    "trama": "Le avventure del detective Jake Peralta e del suo team di polizia nella 99ª stazione di Brooklyn, che affrontano casi polizieschi con un mix di umorismo, ingegno e situazioni comiche.",
+    "autore": "Michael Schur, Dan Goor",
+    "genere": [
+      "Commedia",
+      "Crime"
+    ],
+    "valutazione": 8.4,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2013,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "Come vendere droga online (in fretta)",
+    "immagine": "images/come_vendere_droga_online.jpg",
+    "trama": "Uno studente nerd lancia per caso un sito di vendita di ecstasy nel dark web per riconquistare la sua ex, diventando uno dei maggiori spacciatori d’Europa.",
+    "autore": "Philipp Käßbohrer, Matthias Murmann",
+    "genere": [
+      "Dramma",
+      "Commedia"
+    ],
+    "valutazione": 7.9,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2019,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "The Cuphead Show",
+    "immagine": "images/the_cuphead_show.jpg",
+    "trama": "Cuphead e Mugman, due fratelli avventurosi, si trovano coinvolti in una serie di situazioni pericolose e bizzarre dopo aver perso una scommessa con il diavolo. Per salvare le loro anime, devono affrontare una serie di pericolosi avversari e raccogliere le loro anime.",
+    "autore": "Dave Wasson",
+    "genere": [
+      "Avventura",
+      "Commedia",
+      "Azione"
+    ],
+    "valutazione": 7.7,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2022,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "Dahmer - Mostro: La storia di Jeffrey Dahmer",
+    "immagine": "images/dahmer.jpg",
+    "trama": "La serie racconta la storia di Jeffrey Dahmer, uno dei più noti serial killer americani, esplorando i suoi crimini, il suo passato e l'impatto devastante sulle vittime e le loro famiglie.",
+    "autore": "Ryan Murphy, Ian Brennan",
+    "genere": [
+      "Dramma"
+    ],
+    "valutazione": 8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2022,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "The Decameron",
+    "immagine": "images/the_decameron.jpg",
+    "trama": "Ambientata nell'Italia del XIV secolo durante la peste nera, un gruppo di nobili si rifugia in una villa fuori Firenze per sfuggire alla morte e alla decadenza sociale. La serie rilegge in chiave satirica e moderna il classico di Boccaccio, esplorando i piaceri, le contraddizioni e le ipocrisie dell'élite medievale.",
+    "autore": "Kathleen Jordan",
+    "genere": [
+      "Storico",
+      "Dramma"
+    ],
+    "valutazione": 6.8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2024,
+      "fine": 2024
+    }
+  },
+  {
+    "titolo": "Dept. Q – Sezione casi irrisolti",
+    "immagine": "images/dept_q.jpg",
+    "trama": "Dopo un’aggressione che ha ucciso un collega e lasciato un altro paralizzato, il detective Carl Morck viene relegato in un ufficio nei sotterranei della polizia di Edimburgo: il Dipartimento Q, dedicato ai casi irrisolti. Insieme a un gruppo di outsider, riapre indagini apparentemente dimenticate, svelando misteri e colpe sepolte.",
+    "autore": "Scott Frank, Chandni Lakhani",
+    "genere": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "valutazione": 8.8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2025,
+      "fine": 2025
+    }
+  },
+  {
+    "titolo": "Detective Monk",
+    "immagine": "images/detective_monk.jpg",
+    "trama": "Adrian Monk è un brillante detective privato affetto da gravi disturbi ossessivo-compulsivi. Dopo la tragica morte di sua moglie, cerca di risolvere casi intricati mentre affronta le sue paure e nevrosi.",
+    "autore": "Andy Breckman",
+    "genere": [
+      "Commedia",
+      "Crime"
+    ],
+    "valutazione": 8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2002,
+      "fine": 2009
+    }
+  },
+  {
+    "titolo": "Dexter",
+    "immagine": "images/dexter.jpg",
+    "trama": "Dexter Morgan è un esperto analista forense che lavora per la polizia di Miami. Tuttavia, di notte è un serial killer che uccide altri criminali che sono riusciti a sfuggire alla giustizia.",
+    "autore": "James Manos Jr.",
+    "genere": [
+      "Dramma",
+      "Thriller"
+    ],
+    "valutazione": 8.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2006,
+      "fine": 2013
+    }
+  },
+  {
+    "titolo": "Dirk Gently’s Holistic Detective Agency",
+    "immagine": "images/dirk_gently.jpg",
+    "trama": "Basata sui romanzi di Douglas Adams, la serie segue il detective olistico Dirk Gently e il riluttante assistente Todd Brotzman mentre investigano casi bizzarri in cui tutto è connesso in modi imprevedibili.",
+    "autore": "Max Landis",
+    "genere": [
+      "Commedia",
+      "Fantascienza",
+      "Mistero"
+    ],
+    "valutazione": 8.2,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2016,
+      "fine": 2017
+    }
+  },
+  {
+    "titolo": "Disincanto",
+    "immagine": "images/disincanto.jpg",
+    "trama": "Disincanto segue le avventure di Bean, una principessa giovane e disincantata che vive nel regno medievale di Dreamland.",
+    "autore": "Matt Groening",
+    "genere": [
+      "Commedia",
+      "Avventura"
+    ],
+    "valutazione": 7.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2018,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "Disjointed",
+    "immagine": "images/disjointed.jpg",
+    "trama": "Ruth, un’attivista per la legalizzazione della cannabis, realizza finalmente il suo sogno aprendo un dispensario a Los Angeles, gestito con l’aiuto del figlio e di un gruppo di collaboratori eccentrici.",
+    "autore": "David Javerbaum, Chuck Lorre",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 6.7,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2018
+    }
+  },
+  {
+    "titolo": "Dr. House - Medical Division",
+    "immagine": "images/dr_house.jpg",
+    "trama": "Il dottor Gregory House è un brillante ma anticonvenzionale medico diagnostico, noto per il suo atteggiamento cinico e l'uso frequente di metodi poco ortodossi. Insieme al suo team, affronta casi medici complessi e misteriosi, spesso mettendo in discussione l'etica e i limiti della medicina.",
+    "autore": "David Shore",
+    "genere": [
+      "Dramma",
+      "Mistero"
+    ],
+    "valutazione": 8.7,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2004,
+      "fine": 2012
+    }
+  },
+  {
+    "titolo": "The End of the F***ing World",
+    "immagine": "images/the_end_of_the_fucking_world.jpg",
+    "trama": "James, un ragazzo che si crede uno psicopatico, e Alyssa, una ribelle impulsiva, fuggono insieme in un road trip assurdo e oscuro.",
+    "autore": "Jonathan Entwistle, Charlie Covell",
+    "genere": [
+      "Dramma"
+    ],
+    "valutazione": 8.0,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2017
+    }
+  },
+  {
+    "titolo": "F is for Family",
+    "immagine": "images/f_is_for_family.jpg",
+    "trama": "Ambientata negli anni '70, la serie segue le vicende della famiglia Murphy. Frank, il padre, lotta con il lavoro e il carattere esplosivo, mentre sua moglie e i loro tre figli affrontano le difficoltà della vita familiare.",
+    "autore": "Bill Burr, Michael Price",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "The Freak Brothers",
+    "immagine": "images/the_freak_brothers.jpg",
+    "trama": "Tre hippie consumatori di cannabis si risvegliano dopo decenni in una società completamente cambiata. Tra situazioni assurde e satira sociale, cercano di adattarsi al mondo moderno.",
+    "autore": "Gilbert Shelton",
+    "genere": [
+      "Commedia",
+      "Animazione"
+    ],
+    "valutazione": 6.8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2021,
+      "fine": null
+    }
+  },
+  {
+    "titolo": "Freud",
+    "immagine": "images/freud.jpg",
+    "trama": "Serie thriller ambientata nella Vienna di fine Ottocento che reinterpreta in chiave oscura e investigativa la figura di Sigmund Freud. Il giovane medico collabora con una medium e un ispettore di polizia per risolvere casi legati a omicidi, sette e fenomeni apparentemente soprannaturali, intrecciando psicoanalisi, mistero e politica.",
+    "autore": "Marvin Kren",
+    "genere": [
+      "Thriller",
+      "Dramma",
+      "Crime"
+    ],
+    "valutazione": 6.5,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Game of Thrones",
+    "immagine": "images/game_of_thrones.jpg",
+    "trama": "In un mondo fantasy medievale, diverse famiglie nobili si contendono il Trono di Spade per governare i Sette Regni. Intrighi politici, alleanze e tradimenti segnano le vicende, mentre una minaccia misteriosa proveniente dal Nord minaccia l'intero continente.",
+    "autore": "David Benioff, D.B. Weiss",
+    "genere": [
+      "Dramma",
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2011,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "The Good Doctor",
+    "immagine": "images/the_good_doctor.jpg",
+    "trama": "Shaun Murphy, un giovane chirurgo con autismo e sindrome di Savant, si trasferisce in un ospedale prestigioso. Nonostante la sua straordinaria capacità medica, affronta difficoltà nel relazionarsi con i colleghi, ma le sue abilità brillano nelle situazioni più critiche.",
+    "autore": "David Shore",
+    "genere": [
+      "Dramma"
+    ],
+    "valutazione": 8.1,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2017,
+      "fine": null
+    }
+  },
+  {
+    "titolo": "Guillermo del Toro's Cabinet of Curiosities",
+    "immagine": "images/cabinet_of_curiosities.jpg",
+    "trama": "Una collezione antologica di otto racconti horror curati da Guillermo del Toro, ciascuno diretto da un regista diverso e con uno stile unico.",
+    "autore": "Guillermo del Toro",
+    "genere": [
+      "Horror"
+    ],
+    "valutazione": 7.1,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2022,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "How I Met Your Mother",
+    "immagine": "images/how_i_met_your_mother.jpg",
+    "trama": "Ted Mosby racconta la storia di come ha incontrato la madre dei suoi figli, facendo rivivere le sue avventure e i momenti significativi con i suoi amici Marshall, Lily, Barney e Robin.",
+    "autore": "Carter Bays, Craig Thomas",
+    "genere": [
+      "Commedia",
+      "Romantico",
+      "Dramma"
+    ],
+    "valutazione": 8.3,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2005,
+      "fine": 2014
+    }
+  },
+  {
+    "titolo": "iZombie",
+    "immagine": "images/izombie.jpg",
+    "trama": "Liv Moore, una giovane medico, diventa zombie dopo una festa, ma decide di usare le sue nuove abilità per aiutare la polizia. Mangia il cervello delle vittime e, attraverso visioni, risolve i crimini, mantenendo la sua umanità in un mondo che la considera un mostro.",
+    "autore": "Rob Thomas",
+    "genere": [
+      "Dramma",
+      "Commedia"
+    ],
+    "valutazione": 7.9,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Jentry Chau contro il regno dei demoni",
+    "immagine": "images/jentry_chau_vs_underworld.jpg",
+    "trama": "Jentry Chau è una teenager che scopre di essere nel mirino di un potente demone. Aiutata da un mentore spirituale poco convenzionale, affronta creature sovrannaturali e imparara a gestire nuovi poteri.",
+    "autore": "Echo Wu",
+    "genere": [
+      "Azione",
+      "Commedia",
+      "Soprannaturale"
+    ],
+    "valutazione": 7.5,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2023,
+      "fine": 2023
+    }
+  },
+  {
+    "titolo": "Long Story Short",
+    "immagine": "images/long_story_short.jpg",
+    "trama": "Una saga animata che segue la famiglia Schwooper attraverso diverse epoche — dagli anni ’50 ai giorni nostri — attraverso salti temporali che esplorano traumi personali, umorismo e legami familiari.",
+    "autore": "Raphael Bob-Waksberg",
+    "genere": [
+      "Commedia",
+      "Dramma"
+    ],
+    "valutazione": 8.7,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2025,
+      "fine": 2025
+    }
+  },
+  {
+    "titolo": "Lost",
+    "immagine": "images/lost.jpg",
+    "trama": "Dopo un disastro aereo, i sopravvissuti si ritrovano su un'isola deserta, dove devono affrontare misteri, pericoli e rivelazioni sulle loro vite passate.",
+    "autore": "J.J. Abrams, Damon Lindelof, Jeffrey Lieber",
+    "genere": [
+      "Dramma",
+      "Mistero",
+      "Avventura"
+    ],
+    "valutazione": 8.3,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2004,
+      "fine": 2010
+    }
+  },
+  {
+    "titolo": "The Midnight Gospel",
+    "immagine": "images/the_midnight_gospel.jpg",
+    "trama": "Clancy, un giovane uomo che vive in un universo multidimensionale, esplora mondi alternativi usando un dispositivo per viaggiare tra le dimensioni. Ogni episodio esplora argomenti filosofici, spirituali e esistenziali attraverso conversazioni surreali e visivamente sorprendenti.",
+    "autore": "Pendleton Ward, Duncan Trussell",
+    "genere": [
+      "Commedia",
+      "Fantascienza"
+    ],
+    "valutazione": 8.2,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Mr. Robot",
+    "immagine": "images/mr_robot.jpg",
+    "trama": "Un giovane programmatore, Elliot Alderson, lavora come ingegnere della sicurezza informatica di giorno e come hacker vigilante di notte. La sua vita cambia quando un enigmatico anarchico, conosciuto come Mr. Robot, lo recluta per distruggere una potente corporazione globale.",
+    "autore": "Sam Esmail",
+    "genere": [
+      "Dramma",
+      "Thriller"
+    ],
+    "valutazione": 8.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Non ho mai...",
+    "immagine": "images/non_ho_mai.jpg",
+    "trama": "Devi, un'adolescente indiana-americana, cerca di affrontare il liceo, l’amore e il lutto per la morte del padre, con l’ironia e il caos della vita quotidiana.",
+    "autore": "Mindy Kaling, Lang Fisher",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 7.9,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "The Office (USA)",
+    "immagine": "images/the_office_usa.jpg",
+    "trama": "The Office segue le vicende quotidiane degli impiegati di Dunder Mifflin, una compagnia di forniture per ufficio, e in particolare le disavventure di Michael Scott, il loro capo incapace di gestire il suo ruolo senza creare imbarazzo.",
+    "autore": "Greg Daniels",
+    "genere": [
+      "Commedia",
+      "Dramma"
+    ],
+    "valutazione": 8.9,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2005,
+      "fine": 2013
+    }
+  },
+  {
+    "titolo": "Orange is the New Black",
+    "immagine": "images/orange_is_the_new_black.jpg",
+    "trama": "La serie segue la storia di Piper Chapman, una donna condannata a scontare quindici mesi in un carcere femminile federale per un crimine commesso dieci anni prima. All’interno del penitenziario, Piper entra in contatto con donne di ogni estrazione sociale, scoprendo dinamiche complesse fatte di amicizie, conflitti e sopravvivenza quotidiana.",
+    "autore": "Jenji Kohan",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 9.0,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2013,
+      "fine": 2013
+    }
+  },
+  {
+    "titolo": "Psych",
+    "immagine": "images/psych.jpg",
+    "trama": "Shawn Spencer, un uomo con un'abilità straordinaria nel notare dettagli, finge di essere un medium e apre un'agenzia investigativa insieme al suo migliore amico, Gus.",
+    "autore": "Steve Franks",
+    "genere": [
+      "Commedia",
+      "Crime"
+    ],
+    "valutazione": 8.4,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2006,
+      "fine": 2014
+    }
+  },
+  {
+    "titolo": "La Regina degli Scacchi",
+    "immagine": "images/la_regina_degli_scacchi.jpg",
+    "trama": "Beth Harmon, un'orfana con un talento straordinario per gli scacchi, combatte con le sue dipendenze e i suoi demoni interiori mentre lotta per diventare la campionessa mondiale di scacchi, sfidando pregiudizi e difficoltà lungo il cammino.",
+    "autore": "Scott Frank",
+    "genere": [
+      "Dramma"
+    ],
+    "valutazione": 8.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Rick and Morty",
+    "immagine": "images/rick_and_morty.jpg",
+    "trama": "Le avventure di Rick Sanchez, uno scienziato geniale ma alcolizzato, e di suo nipote Morty, un ragazzo insicuro. Insieme viaggiano attraverso universi alternativi e affrontano situazioni surreali e pericolose.",
+    "autore": "Dan Harmon, Justin Roiland",
+    "genere": [
+      "Commedia",
+      "Fantascienza"
+    ],
+    "valutazione": 9.1,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2013,
+      "fine": null
+    }
+  },
+  {
+    "titolo": "The Rookie",
+    "immagine": "images/the_rookie.jpg",
+    "trama": "John Nolan, un uomo di 45 anni che, dopo un evento che gli cambia la vita, decide di realizzare il suo sogno: diventare un agente di polizia a Los Angeles.",
+    "autore": "Alexi Hawley",
+    "genere": [
+      "Dramma",
+      "Crime"
+    ],
+    "valutazione": 8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2018,
+      "fine": null
+    }
+  },
+  {
+    "titolo": "Scott Pilgrim - La serie",
+    "immagine": "images/scott_pilgrim.jpg",
+    "trama": "Scott Pilgrim, un musicista squattrinato di Toronto, si innamora della misteriosa Ramona Flowers, ma per conquistarla deve affrontare i suoi sette malvagi ex in battaglie surreali ispirate ai videogiochi.",
+    "autore": "Bryan Lee O'Malley, BenDavid Grabinski",
+    "genere": [
+      "Azione",
+      "Commedia",
+      "Romantico"
+    ],
+    "valutazione": 8.2,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2023,
+      "fine": 2023
+    }
+  },
+  {
+    "titolo": "Scrubs",
+    "immagine": "images/scrubs.jpg",
+    "trama": "Scrubs racconta la vita quotidiana di un gruppo di medici e infermieri, seguendo le esperienze e i dilemmi di John 'J.D.' Dorian e dei suoi amici in un ospedale.",
+    "autore": "Bill Lawrence",
+    "genere": [
+      "Commedia",
+      "Dramma"
+    ],
+    "valutazione": 8.3,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2001,
+      "fine": 2010
+    }
+  },
+  {
+    "titolo": "Solar Opposites",
+    "immagine": "images/solar_opposites.jpg",
+    "trama": "Quattro alieni fuggono dal loro pianeta distrutto e finiscono per vivere sulla Terra, che giudicano in modo opposto: Korvo e Yumyulack la odiano, mentre Terry e Jesse la adorano. La serie alterna satira fantascientifica e critica sociale con una sottotrama oscura ambientata in un muro miniaturizzato.",
+    "autore": "Justin Roiland, Mike McMahan",
+    "genere": [
+      "Commedia",
+      "Fantascienza"
+    ],
+    "valutazione": 8.0,
+    "tipo": "serie",
+    "periodo": {
+      "inizio": 2020,
+      "fine": null
+    }
+  },
+  {
+    "titolo": "South Park",
+    "immagine": "images/south_park.jpg",
+    "trama": "Le assurde avventure di quattro bambini nella cittadina di South Park diventano il pretesto per una satira irriverente su politica, società, religione e cultura pop.",
+    "autore": "Trey Parker e Matt Stone",
+    "genere": [
+      "Animazione",
+      "Commedia",
+      "Satira"
+    ],
+    "valutazione": 8.7,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 1997,
+      "fine": null
+    }
+  },
+  {
+    "titolo": "Space Force",
+    "immagine": "images/spaceforce.jpg",
+    "trama": "La serie segue il generale Mark Naird, incaricato di guidare la neonata Forza Spaziale degli Stati Uniti. Tra missioni improbabili, problemi politici e un team eccentrico, la serie esplora in chiave satirica il mondo militare e burocratico con toni comici e assurdi.",
+    "autore": "Greg Daniels, Steve Carell",
+    "genere": [
+      "Commedia",
+      "Satira"
+    ],
+    "valutazione": 6.7,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "Superstore",
+    "immagine": "images/superstore.jpg",
+    "trama": "Una commedia ambientata nel megastore Cloud 9, dove un gruppo di dipendenti affronta ogni giorno situazioni assurde, clienti bizzarri e le sfide della vita lavorativa con ironia e spirito di squadra.",
+    "autore": "Justin Spitzer",
+    "genere": [
+      "Commedia"
+    ],
+    "valutazione": 7.8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "Una Serie di Sfortunati Eventi",
+    "immagine": "images/una_serie_di_sfortunati_eventi.jpg",
+    "trama": "I tre orfani Baudelaire, Violet, Klaus e Sunny, si trovano a dover affrontare una serie di sfortunati eventi dopo la morte dei loro genitori. Cercando di svelare il mistero dietro la loro morte, si trovano a fronteggiare il malvagio Conte Olaf, che cerca in ogni modo di impadronirsi della loro eredità.",
+    "autore": "Mark Hudis, Barry Sonnenfeld",
+    "genere": [
+      "Dramma",
+      "Mistero"
+    ],
+    "valutazione": 7.8,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Tuca & Bertie",
+    "immagine": "images/tuca_bertie.jpg",
+    "trama": "Due amiche trentenni, un tucano spensierato e un'uccellina ansiosa, affrontano insieme la vita in una città surreale piena di umorismo, ansie quotidiane e assurdità.",
+    "autore": "Lisa Hanawalt",
+    "genere": [
+      "Commedia",
+      "Dramma"
+    ],
+    "valutazione": 7.4,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2019,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "The Watcher",
+    "immagine": "images/the_watcher.jpg",
+    "trama": "Una famiglia si trasferisce nella casa dei sogni, ma inizia a ricevere lettere inquietanti da un misterioso osservatore.",
+    "autore": "Ryan Murphy, Ian Brennan",
+    "genere": [
+      "Thriller",
+      "Mistero"
+    ],
+    "valutazione": 6.5,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2022,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "Weeds",
+    "immagine": "images/weeds.jpg",
+    "trama": "Dopo la morte improvvisa del marito, Nancy Botwin, una madre di periferia apparentemente normale, inizia a spacciare marijuana per mantenere la famiglia, entrando sempre più in profondità in un mondo criminale imprevedibile.",
+    "autore": "Jenji Kohan",
+    "genere": [
+      "Commedia",
+      "Dramma",
+      "Crime"
+    ],
+    "valutazione": 7.9,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2005,
+      "fine": 2012
+    }
+  },
+  {
+    "titolo": "Workin' Moms",
+    "immagine": "images/workin_moms.jpg",
+    "trama": "Un gruppo di madri moderne cerca di conciliare la maternità con la carriera, le relazioni e la propria identità in una società che non rende facile essere tutto insieme.",
+    "autore": "Catherine Reitman",
+    "genere": [
+      "Commedia",
+      "Dramma"
+    ],
+    "valutazione": 7.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2023
+    }
+  }
+]

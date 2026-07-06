@@ -1,0 +1,184 @@
+[
+  {
+    "titolo": "25-ji no Ghost Writer",
+    "immagine": "images/25_ji_no_ghost_writer.jpg",
+    "periodo": {
+      "inizio": 2019,
+      "fine": 2020
+    },
+    "trama": "Tsugumi Higurashi è un giovane scrittore quindicenne afflitto da un profondo blocco creativo. Tornato nella sua vecchia casa di famiglia, entra in contatto con il fantasma della sua defunta governante, una presenza silenziosa e ambigua che sembra guidarlo nella riscoperta della scrittura e del proprio mondo interiore.",
+    "autore": "Akari Kajimoto",
+    "genere": [
+      "Commedia",
+      "Romantico"
+    ],
+    "valutazione": 8.0,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Bibliomania",
+    "immagine": "images/bibliomania.jpg",
+    "periodo": {
+      "inizio": 2018,
+      "fine": 2018
+    },
+    "trama": "In una società ossessionata dal possesso dei libri, Alice vive isolata in una dimora colma di testi rari, disposta a sacrificare ogni legame umano pur di preservare la conoscenza. La sua devozione assoluta ai libri la conduce progressivamente a perdere il confine tra memoria, identità e vita stessa.",
+    "autore": "Orval",
+    "genere": [
+      "Dramma",
+      "Psicologico",
+      "Seinen"
+    ],
+    "valutazione": 7.6,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Claymore",
+    "immagine": "images/claymore.jpg",
+    "periodo": {
+      "inizio": 2001,
+      "fine": 2014
+    },
+    "trama": "In un mondo medievale infestato dagli Yoma, demoni mutaforma che si nutrono di esseri umani, l’umanità si affida alle Claymore: guerriere ibride, metà umane e metà Yoma. Clare, una delle più deboli tra loro, intraprende un viaggio segnato dalla vendetta e dal conflitto costante tra umanità e mostruosità.",
+    "autore": "Norihiro Yagi",
+    "genere": [
+      "Dark Fantasy",
+      "Azione",
+      "Dramma"
+    ],
+    "valutazione": 8.5,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Dai Dark",
+    "immagine": "images/dai_dark.jpg",
+    "periodo": {
+      "inizio": 2021,
+      "fine": null
+    },
+    "trama": "Zaha Sanko è un giovane il cui scheletro possiede un potere misterioso capace di esaudire desideri. Per questo motivo viene braccato da cacciatori spaziali e creature folli, in un universo caotico dove violenza, umorismo nero e tecnologia convivono senza alcuna morale.",
+    "autore": "Q Hayashida",
+    "genere": [
+      "Fantascienza",
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.3,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Devilman",
+    "immagine": "images/devilman.jpg",
+    "periodo": {
+      "inizio": 1972,
+      "fine": 1972
+    },
+    "trama": "Akira Fudo si fonde con il potente demone Amon per combattere una razza di entità ancestrali intenzionate a reclamare la Terra. Pur mantenendo un cuore umano, la sua nuova natura lo costringe a confrontarsi con la brutalità dell’umanità e con l’inevitabilità della distruzione.",
+    "autore": "Go Nagai",
+    "genere": [
+      "Horror",
+      "Azione",
+      "Fantascienza"
+    ],
+    "valutazione": 9.5,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Dragon Ball",
+    "immagine": "images/dragonball.jpg",
+    "periodo": {
+      "inizio": 1984,
+      "fine": 1995
+    },
+    "trama": "Goku è un guerriero Saiyan cresciuto sulla Terra, dotato di una forza straordinaria e di un’inestinguibile voglia di migliorarsi. Nel corso della sua vita affronta combattenti sempre più potenti, protegge il pianeta da minacce cosmiche e scopre le proprie origini aliene.",
+    "autore": "Akira Toriyama",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Seinen"
+    ],
+    "valutazione": 9.2,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Homunculus",
+    "immagine": "images/homunculus.jpg",
+    "periodo": {
+      "inizio": 2003,
+      "fine": 2003
+    },
+    "trama": "Susumu Nakoshi, un uomo ai margini della società, si sottopone a un’operazione di trepanazione che altera la sua percezione della realtà. Attraverso questa nuova visione è in grado di osservare le deformazioni psicologiche delle persone, manifestazioni fisiche dei loro traumi interiori.",
+    "autore": "Hideo Yamamoto",
+    "genere": [
+      "Horror",
+      "Psicologico"
+    ],
+    "valutazione": 8.3,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Jaco the Galactic Patrolman",
+    "immagine": "images/jaco_galactic_patrolman.jpg",
+    "periodo": {
+      "inizio": 2013,
+      "fine": 2013
+    },
+    "trama": "Jaco è un ufficiale della Pattuglia Galattica inviato sulla Terra per prevenire una catastrofe planetaria. Convinto della propria superiorità, si scontra con la quotidianità terrestre e con i propri limiti, vivendo una missione che anticipa eventi cruciali legati alla storia dei Saiyan.",
+    "autore": "Akira Toriyama",
+    "genere": [
+      "Commedia",
+      "Fantascienza"
+    ],
+    "valutazione": 7.5,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Mela Meccanica",
+    "immagine": "images/mela_meccanica.jpg",
+    "periodo": {
+      "inizio": 1970,
+      "fine": 1970
+    },
+    "trama": "In una realtà dominata dal progresso tecnologico incontrollato, una serie di racconti esplora le conseguenze morali e psicologiche dell’innovazione, mettendo in discussione il rapporto tra umanità, scienza e autodistruzione.",
+    "autore": "Osamu Tezuka",
+    "genere": [
+      "Fantascienza",
+      "Dramma"
+    ],
+    "valutazione": 8.1,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "One Piece",
+    "immagine": "images/one_piece.jpg",
+    "periodo": {
+      "inizio": 1997,
+      "fine": null
+    },
+    "trama": "Monkey D. Luffy è un pirata determinato a diventare il Re dei Pirati, guidato da un’idea assoluta di libertà. In un mondo dominato da governi corrotti e mari pericolosi, affronta avversari sempre più potenti insieme alla sua ciurma.",
+    "autore": "Eiichiro Oda",
+    "genere": [
+      "Avventura",
+      "Azione",
+      "Fantasy"
+    ],
+    "valutazione": 9.8,
+    "tipo": "manga"
+  },
+  {
+    "titolo": "Rent-a-Girlfriend",
+    "immagine": "images/rent_a_girlfriend.jpg",
+    "periodo": {
+      "inizio": 2017,
+      "fine": null
+    },
+    "trama": "Kazuya Kinoshita, incapace di superare una delusione sentimentale, ricorre a un servizio di fidanzate a noleggio. Da una relazione fittizia nasce una rete di menzogne, equivoci e legami emotivi sempre più complessi.",
+    "autore": "Rei Tōma",
+    "genere": [
+      "Romantico",
+      "Commedia"
+    ],
+    "valutazione": 7.6,
+    "tipo": "manga"
+  }
+]

@@ -1,0 +1,1278 @@
+[
+  {
+    "titolo": "Armored Core",
+    "immagine": "images/armored_core.jpg",
+    "trama": "Armored Core è un videogioco d'azione in cui il giocatore pilota un mecha personalizzabile, completando missioni per varie corporazioni in un mondo post-apocalittico dominato dalla tecnologia.",
+    "autore": "FromSoftware",
+    "genere": [
+      "Azione",
+      "TPS",
+      "Mecha"
+    ],
+    "valutazione": 7.7,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1997,
+      "fine": 1997
+    }
+  },
+  {
+    "titolo": "Battlefield V",
+    "immagine": "images/battlefield_v.jpg",
+    "trama": "Battlefield V porta i giocatori nel cuore della Seconda Guerra Mondiale con una serie di campagne ispirate a eventi storici meno conosciuti.",
+    "autore": "DICE",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 8.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2018,
+      "fine": 2018
+    }
+  },
+  {
+    "titolo": "The Binding of Isaac",
+    "immagine": "images/the_binding_of_isaac.jpg",
+    "trama": "Isaac, un bambino che cerca di fuggire dalla madre fanatica religiosa intenzionata a sacrificarlo, si rifugia in un oscuro labirinto sotto la sua casa.",
+    "autore": "Edmund McMillen",
+    "genere": [
+      "Roguelike",
+      "Azione"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2011,
+      "fine": 2011
+    }
+  },
+  {
+    "titolo": "Bloodborne",
+    "immagine": "images/bloodborne.jpg",
+    "trama": "Un cacciatore si risveglia nella città di Yharnam, un luogo oscuro e maledetto dove una strana epidemia trasforma le persone in bestie mostruose. Durante la sua caccia, il protagonista scopre segreti inquietanti su un antico culto e le sue connessioni con entità cosmiche e divine.",
+    "autore": "FromSoftware",
+    "genere": [
+      "Azione",
+      "Horror"
+    ],
+    "valutazione": 9.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2015
+    }
+  },
+  {
+    "titolo": "Call of Duty 4: Modern Warfare",
+    "immagine": "images/cod4_mw.jpg",
+    "trama": "Un'unità delle forze speciali viene coinvolta in un conflitto globale per fermare un'organizzazione terroristica che minaccia la sicurezza mondiale. La storia segue operazioni in Medio Oriente e Russia, mostrando il realismo crudo della guerra moderna.",
+    "autore": "Infinity Ward",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 9.4,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2007,
+      "fine": 2007
+    }
+  },
+  {
+    "titolo": "Code Vein",
+    "immagine": "images/codevein.jpg",
+    "trama": "In un mondo post-apocalittico, il protagonista, un Revenant privo di memoria, si unisce a un gruppo di sopravvissuti per combattere contro mostri corrotti e scoprire il mistero del parassita che ha trasformato l'umanità in creature assetate di sangue.",
+    "autore": "Bandai Namco Studios",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 7.8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2019,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Crash Bandicoot 4: It's About Time",
+    "immagine": "images/crashbandicoot4.jpg",
+    "trama": "Crash e Coco intraprendono un'avventura attraverso il multiverso per fermare i malvagi Dr. Cortex e N. Tropy, che minacciano di conquistare tutte le realtà.",
+    "autore": "Toys for Bob",
+    "genere": [
+      "Platform",
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Crash Bandicoot N. Sane Trilogy",
+    "immagine": "images/crash_bandicoot_n_sane_trilogy.jpg",
+    "trama": "Remake dei primi tre capitoli della serie Crash Bandicoot. Crash affronta il malvagio Dr. Neo Cortex attraversando decine di livelli ricchi di ostacoli, nemici e piattaforme per salvare le isole e sventare i suoi piani.",
+    "autore": "Vicarious Visions",
+    "genere": [
+      "Platform",
+      "Avventura"
+    ],
+    "valutazione": 8.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2017
+    }
+  },
+  {
+    "titolo": "Crash Bash",
+    "immagine": "images/crash_bash.jpg",
+    "trama": "I personaggi dell'universo di Crash Bandicoot si sfidano in una serie di minigiochi competitivi in un'avventura frenetica.",
+    "autore": "Eurocom",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 7,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2000,
+      "fine": 2000
+    }
+  },
+  {
+    "titolo": "Crash Team Racing",
+    "immagine": "images/crash_team_racing.jpg",
+    "trama": "Crash Bandicoot e i suoi amici (e nemici) si uniscono per affrontare la minaccia di Nitros Oxide, un extraterrestre intenzionato a conquistare il pianeta. Partecipano a emozionanti gare di kart, dove abilità e strategie sono fondamentali per sconfiggere l'avversario e salvare la Terra.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Corse",
+      "Azione"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1999,
+      "fine": 1999
+    }
+  },
+  {
+    "titolo": "Cult of the Lamb",
+    "immagine": "images/cult_of_the_lamb.jpg",
+    "trama": "Un giovane agnello viene salvato da una morte certa da una misteriosa entità. Grazie a questo potere, l'agnello fonda un culto devoto alla forza oscura che lo ha reso il suo nuovo strumento.",
+    "autore": "Massive Monster",
+    "genere": [
+      "Azione",
+      "Roguelike",
+      "Gestionale"
+    ],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2022,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "Cuphead",
+    "immagine": "images/cuphead.jpg",
+    "trama": "Cuphead e Mugman, due fratelli e avventurieri, si ritrovano a dover affrontare una serie di combattimenti contro potenti e stravaganti boss dopo aver fatto un pericoloso patto con il Diavolo. La loro missione è quella di raccogliere le anime di coloro che hanno truffato il Diavolo stesso.",
+    "autore": "Studio MDHR",
+    "genere": [
+      "Platform"
+    ],
+    "valutazione": 9.2,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2017
+    }
+  },
+  {
+    "titolo": "Dark Souls",
+    "immagine": "images/darksouls.jpg",
+    "trama": "Nel regno di Lordran, un eroe segnato dalla maledizione della non-morte, intraprende un viaggio solitario per fermare l'incessante ciclo di fuoco e oscurità.",
+    "autore": "FromSoftware",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2011,
+      "fine": 2011
+    }
+  },
+  {
+    "titolo": "Dark Souls II: Scholar of the First Sin",
+    "immagine": "images/darksouls2scholar.jpg",
+    "trama": "Un avventuriero senza nome si addentra nel regno in rovina di Drangleic, alla ricerca di risposte sulla maledizione degli Undead e per scoprire il destino che lo lega al trono e al futuro dell'umanità.",
+    "autore": "FromSoftware",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 8.7,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2015
+    }
+  },
+  {
+    "titolo": "Dark Souls III",
+    "immagine": "images/darksouls3.jpg",
+    "trama": "Il fuoco che sostiene il mondo sta svanendo, e un non morto scelto, l'Unkidled, confrontandosi con antichi signori, determinerà il futuro del regno di Lothric e la fine o la continuazione del ciclo eterno.",
+    "autore": "FromSoftware",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 9.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2016,
+      "fine": 2016
+    }
+  },
+  {
+    "titolo": "Death Stranding",
+    "immagine": "images/deathstranding.jpg",
+    "trama": "Sam Porter Bridges, un corriere solitario in un'America devastata da eventi catastrofici, intraprende un viaggio attraverso terre desolate per ristabilire le connessioni tra gli ultimi insediamenti umani.",
+    "autore": "Kojima Productions",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2019,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Detroit: Become Human",
+    "immagine": "images/detroit_become_human.jpg",
+    "trama": "In un futuro prossimo, la Detroit di domani è una città dominata dagli androidi. Si esplorano le storie di tre protagonisti: Kara, una serva fuggitiva che cerca libertà; Connor, un androide investigatore programmato per fermare i devianti; e Markus, un leader che lotta per la causa degli androidi.",
+    "autore": "Quantic Dream",
+    "genere": [
+      "Avventura"
+    ],
+    "valutazione": 8.8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2018,
+      "fine": 2018
+    }
+  },
+  {
+    "titolo": "Dino Crisis",
+    "immagine": "images/dino_crisis.jpg",
+    "trama": "Un team delle forze speciali viene inviato su un'isola remota per investigare su un progetto scientifico segreto. Tuttavia, si trovano intrappolati in una struttura infestata da dinosauri riportati in vita, dove dovranno sopravvivere e scoprire la verità dietro l'incidente.",
+    "autore": "Shinji Mikami",
+    "genere": [
+      "Horror",
+      "Survival",
+      "Azione"
+    ],
+    "valutazione": 8.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1999,
+      "fine": 1999
+    }
+  },
+  {
+    "titolo": "Disco Elysium",
+    "immagine": "images/discoelysium.jpg",
+    "trama": "Un detective alcolizzato e senza memoria indaga su un omicidio in una città in rovina, affrontando i suoi demoni interiori e scelte morali che determineranno il futuro di una città al collasso.",
+    "autore": "ZA/UM",
+    "genere": [
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2019,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Doom",
+    "immagine": "images/doom.jpg",
+    "trama": "Un marine spaziale senza nome si ritrova da solo su Marte a combattere contro orde di demoni scatenati da un esperimento militare fallito. Armato solo di coraggio e armi potenti, dovrà affrontare l’inferno stesso per sopravvivere.",
+    "autore": "id Software",
+    "genere": [
+      "Azione",
+      "Horror"
+    ],
+    "valutazione": 9.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1993,
+      "fine": 1993
+    }
+  },
+  {
+    "titolo": "Doom II",
+    "immagine": "images/doom2.jpg",
+    "trama": "Il marine spaziale torna per affrontare un'invasione di demoni su Marte e sulla Terra. Con armi potenti e un gameplay frenetico, dovrai sopravvivere a ondate di mostri infernali e chiudere il portale tra i mondi.",
+    "autore": "id Software",
+    "genere": [
+      "Azione",
+      "Horror"
+    ],
+    "valutazione": 9.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1994,
+      "fine": 1994
+    }
+  },
+  {
+    "titolo": "Doom 3",
+    "immagine": "images/doom_3.jpg",
+    "trama": "Su una base di ricerca su Marte viene aperto un portale verso l'Inferno. Un marine dovrà affrontare orde di demoni per fermare l'invasione e salvare l'umanità.",
+    "autore": "id Software",
+    "genere": [
+      "FPS",
+      "Horror",
+      "Fantascienza"
+    ],
+    "valutazione": 8.2,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2004,
+      "fine": 2004
+    }
+  },
+  {
+    "titolo": "Doom 64",
+    "immagine": "images/doom_64.jpg",
+    "trama": "Capitolo autonomo della serie Doom, ambientato dopo gli eventi di Doom II. Il marine torna su Marte per eliminare definitivamente le forze demoniache, affrontando livelli più cupi e labirintici con un’atmosfera horror accentuata rispetto ai predecessori.",
+    "autore": "Midway Games / id Software",
+    "genere": [
+      "FPS",
+      "Azione",
+      "Horror"
+    ],
+    "valutazione": 8.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1997,
+      "fine": 1997
+    }
+  },
+  {
+    "titolo": "Elden Ring",
+    "immagine": "images/eldenring.jpg",
+    "trama": "Un esiliato, il Tarnished, viaggia nell'Interregno per recuperare i frammenti dell'Anello Ancestrale così da diventare il nuovo Lord Ancestrale e porre fine al dominio corrotto dei semidei, in passato guidati dalla Regina Marika.",
+    "autore": "FromSoftware",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 9.7,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2022,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "Fallout 4",
+    "immagine": "images/fallout4.jpg",
+    "trama": "Anno 2287: nel mondo devastato da una guerra nucleare accaduta 210 anni prima, un sopravvissuto ibernato nel Vault 111 esplora una Boston distrutta alla ricerca del figlio rapito.",
+    "autore": "Bethesda Game Studios",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2015
+    }
+  },
+  {
+    "titolo": "Fallout 76",
+    "immagine": "images/fallout_76.jpg",
+    "trama": "Il protagonista, dopo 25 anni, esce dal Vault 76 in una Virginia devastata dalla guerra nucleare. Si ritrova ad affrontare minacce mutanti, creature pericolose e altre fazioni in cerca di risorse e potere.",
+    "autore": "Bethesda Game Studios",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 6.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2018,
+      "fine": 2018
+    }
+  },
+  {
+    "titolo": "Far Cry 3",
+    "immagine": "images/farcry3.jpg",
+    "trama": "Un giovane turista si ritrova prigioniero su un'isola tropicale infestata da pirati e mercenari. Con la sua sanità mentale messa a dura prova, il protagonista deve affrontare il folle e carismatico Vaas, il leader dei pirati.",
+    "autore": "Ubisoft",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2012,
+      "fine": 2012
+    }
+  },
+  {
+    "titolo": "Far Cry 4",
+    "immagine": "images/farcry_4.jpg",
+    "trama": "Ajay Ghale torna nella sua terra natale, Kyrat, e si ritrova coinvolto in una guerra civile contro il dittatore Pagan Min in un vasto mondo aperto ricco di azione.",
+    "autore": "Ubisoft Montreal",
+    "genere": [
+      "Azione",
+      "Open World"
+    ],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2014
+    }
+  },
+  {
+    "titolo": "Fear & Hunger",
+    "immagine": "images/fear_and_hunger.jpg",
+    "trama": "In un mondo oscuro e corrotto, un gruppo di persone si ritrova intrappolato in una prigione sotterranea dove le loro vite sono minacciate da entità oscure e terribili.",
+    "autore": "Mihailo 'Mihailo' Dimić",
+    "genere": [],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Final Fantasy I Pixel Remaster",
+    "immagine": "images/final_fantasy_1_pixel_remaster.jpg",
+    "trama": "Quattro Guerrieri della Luce intraprendono un viaggio per salvare il mondo ripristinando l'equilibrio dei cristalli elementali, in una versione rimasterizzata del classico RPG.",
+    "autore": "Square Enix",
+    "genere": [
+      "RPG"
+    ],
+    "valutazione": 8.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2021,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "Final Fantasy II Pixel Remaster",
+    "immagine": "images/final_fantasy_2_pixel_remaster.jpg",
+    "trama": "Un gruppo di ribelli combatte contro un impero tirannico in una storia più drammatica e incentrata sui personaggi, con un sistema di crescita basato sull'uso delle abilità.",
+    "autore": "Square Enix",
+    "genere": [
+      "RPG"
+    ],
+    "valutazione": 7.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2021,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "Ghost of Tsushima",
+    "immagine": "images/ghostoftsushima.jpg",
+    "trama": "Jin Sakai, un samurai di Tsushima, combatte contro l'invasione mongola, mentre si trova a dover scegliere tra la lealtà al bushido e la necessità di adottare metodi più spietati per salvare la sua terra e il suo popolo.",
+    "autore": "Sucker Punch Productions",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "God of War",
+    "immagine": "images/godofwar2018.jpg",
+    "trama": "Kratos e suo figlio Atreus intraprendono un viaggio per diffondere le ceneri della madre di Atreus sulla cima della montagna più alta dei nove regni.",
+    "autore": "Santa Monica Studio",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2018,
+      "fine": 2018
+    }
+  },
+  {
+    "titolo": "God of War III",
+    "immagine": "images/godofwar3.jpg",
+    "trama": "Kratos, ormai consumato dal suo desiderio di vendetta, intraprende un'epica missione finale per distruggere gli dei dell'Olimpo e porre fine al suo tormento interiore.",
+    "autore": "Santa Monica Studio",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2010,
+      "fine": 2010
+    }
+  },
+  {
+    "titolo": "God of War: Ragnarok",
+    "immagine": "images/godofwarragnarok.jpg",
+    "trama": "Kratos e suo figlio Atreus affrontano le conseguenze del Fimbulwinter, cercando risposte sulla profezia del Ragnarök.",
+    "autore": "Santa Monica Studio",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2022,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "Grand Theft Auto V",
+    "immagine": "images/gta5.jpg",
+    "trama": "In una città fittizia ispirata a Los Angeles, tre criminali (Michael, Franklin e Trevor) si trovano coinvolti in una serie di missioni ad alto rischio, tra crimine organizzato, inganni e tradimenti.",
+    "autore": "Rockstar North",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9.4,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2013,
+      "fine": 2013
+    }
+  },
+  {
+    "titolo": "High on Life",
+    "immagine": "images/high_on_life.jpg",
+    "trama": "High on Life è uno sparatutto in prima persona dal tono comico, in cui un adolescente deve affrontare un cartello alieno che vuole drogarsi con gli esseri umani. Armato di pistole parlanti, il protagonista esplora pianeti strani e surreali.",
+    "autore": "Squanch Games / Justin Roiland",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 8.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2022,
+      "fine": 2022
+    }
+  },
+  {
+    "titolo": "Hogwarts Legacy",
+    "immagine": "images/hogwarts_legacy.jpg",
+    "trama": "Ambientato nell'universo di Harry Potter nel XIX secolo, il gioco segue uno studente di Hogwarts dotato di una rara connessione con un'antica magia. Il giocatore esplora il mondo magico, frequenta le lezioni e prende decisioni che influenzano il destino del mondo wizarding.",
+    "autore": "Avalanche Software",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2023,
+      "fine": 2023
+    }
+  },
+  {
+    "titolo": "Horizon Zero Dawn",
+    "immagine": "images/horizonzerodawn.jpg",
+    "trama": "Aloy, una giovane cacciatrice esiliata, esplora un mondo post-apocalittico dove gigantesche creature meccaniche dominano la terra.",
+    "autore": "Guerrilla Games",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2017
+    }
+  },
+  {
+    "titolo": "Inscryption",
+    "immagine": "images/inscryption.jpg",
+    "trama": " il giocatore si ritrova intrappolato in una capanna isolata, costretto a partecipare a un gioco di carte mortale orchestrato da un enigmatico gamemaster. Mentre la partita procede, emergono segreti oscuri che svelano una trama più profonda e inquietante.",
+    "autore": "Daniel Mullins Games",
+    "genere": [
+      "Roguelike",
+      "Puzzle",
+      "Horror"
+    ],
+    "valutazione": 8.9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2021,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "The Last of Us",
+    "immagine": "images/the_last_of_us.jpg",
+    "trama": "In un mondo devastato da un'infezione fungina che ha trasformato gran parte della popolazione in creature aggressive, Joel, un uomo segnato dal dolore, deve scortare Ellie, una ragazza che potrebbe essere la chiave per la sopravvivenza dell'umanità.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 10.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2013,
+      "fine": 2013
+    }
+  },
+  {
+    "titolo": "The Last of Us Part II",
+    "immagine": "images/the_last_of_us_2.jpg",
+    "trama": "Ambientato cinque anni dopo gli eventi del primo capitolo, The Last of Us Part II segue Ellie nella sua missione di vendetta e sopravvivenza in un mondo post-apocalittico devastato da una pandemia fungina che trasforma gli esseri umani in creature ostili.",
+    "autore": "Neil Druckmann",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Left 4 Dead 2",
+    "immagine": "images/left_4_dead_2.jpg",
+    "trama": "Quattro sopravvissuti devono farsi strada attraverso orde di zombie in un'America post-apocalittica, collaborando per sopravvivere a ondate di infetti e boss mutanti.",
+    "autore": "Valve",
+    "genere": [
+      "Horror"
+    ],
+    "valutazione": 9.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2009,
+      "fine": 2009
+    }
+  },
+  {
+    "titolo": "The Legend of Zelda: The Minish Cap",
+    "immagine": "images/minishcap.jpg",
+    "trama": "Link scopre un misterioso cappello parlante che lo collega al popolo Minish, una razza minuscola. Per salvare Hyrule dalla maledizione di Vaati, affronta dungeon, risolve enigmi e usa la sua capacità di rimpicciolirsi per esplorare un mondo nascosto.",
+    "autore": "Nintendo",
+    "genere": [
+      "Avventura",
+      "Puzzle"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2004,
+      "fine": 2004
+    }
+  },
+  {
+    "titolo": "LEGO Batman 3: Gotham e Oltre",
+    "immagine": "images/lego_batman_3_gotham_e_oltre.jpg",
+    "trama": "Batman e gli eroi dell'universo DC uniscono le forze per impedire a Brainiac di distruggere la Terra, affrontando una divertente avventura ricca di humor e collezionabili.",
+    "autore": "Traveller's Tales",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Platform"
+    ],
+    "valutazione": 7.8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2014
+    }
+  },
+  {
+    "titolo": "Lies of P",
+    "immagine": "images/lies_of_p.jpg",
+    "trama": "In un oscuro mondo ispirato alla fiaba di Pinocchio, un burattino di nome P dovrà imparare a mentire per sopravvivere in una città che cede sotto il peso delle sue malefatte.",
+    "autore": "Neowiz Games",
+    "genere": [
+      "Soulslike",
+      "Avventura"
+    ],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2023,
+      "fine": 2023
+    }
+  },
+  {
+    "titolo": "Lords of the Fallen",
+    "immagine": "images/lordsofthefallen.jpg",
+    "trama": "Harkyn, un ex condannato intraprende un viaggio per trovare Antanas, un guerriero leggendario che un tempo sconfisse i Rhogar, demoni che minacciano di distruggere il mondo umano.",
+    "autore": "Deck13 Interactive, CI Games",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 7.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2014
+    }
+  },
+  {
+    "titolo": "Metal Gear",
+    "immagine": "images/metal_gear.jpg",
+    "trama": "Solid Snake, un soldato d'élite della FOXHOUND, viene inviato nella fortezza di Outer Heaven per fermare il progetto Metal Gear, una potente arma nucleare.",
+    "autore": "Konami",
+    "genere": [
+      "Stealth",
+      "Azione"
+    ],
+    "valutazione": 8.7,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1987,
+      "fine": 1987
+    }
+  },
+  {
+    "titolo": "Metal Gear 2: Solid Snake",
+    "immagine": "images/metal_gear_2.jpg",
+    "trama": "Solid Snake viene richiamato in azione per infiltrarsi a Zanzibar Land e fermare una nuova minaccia legata al progetto Metal Gear.",
+    "autore": "Konami",
+    "genere": [
+      "Stealth",
+      "Azione"
+    ],
+    "valutazione": 9.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1990,
+      "fine": 1990
+    }
+  },
+  {
+    "titolo": "Metal Gear Solid",
+    "immagine": "images/metal_gear_solid.jpg",
+    "trama": "Un ex soldato, Solid Snake, viene inviato in una base segreta in Alaska per fermare una crisi nucleare causata da un gruppo di terroristi che hanno preso il controllo di un'arma di distruzione di massa, Metal Gear.",
+    "autore": "Konami",
+    "genere": [
+      "Azione",
+      "Stealth",
+      "Avventura"
+    ],
+    "valutazione": 10,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1998,
+      "fine": 1998
+    }
+  },
+  {
+    "titolo": "Metal Gear Solid 2: Sons of Liberty",
+    "immagine": "images/metal_gear_solid_2.jpg",
+    "trama": "Solid Snake e Raiden affrontano una nuova minaccia legata alle armi nucleari e alla manipolazione delle informazioni globali in un intrigo politico che mette in discussione la realtà e la libertà dell’individuo.",
+    "autore": "Hideo Kojima",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 9.2,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2001,
+      "fine": 2001
+    }
+  },
+  {
+    "titolo": "Metal Gear Solid 3: Snake Eater",
+    "immagine": "images/metal_gear_solid_3.jpg",
+    "trama": "Ambientato durante la Guerra Fredda, il leggendario soldato Naked Snake deve infiltrarsi nella giungla sovietica per sventare una minaccia nucleare, affrontando il suo mentore e i fantasmi del passato.",
+    "autore": "Hideo Kojima",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 9.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2004,
+      "fine": 2004
+    }
+  },
+  {
+    "titolo": "Nier Replicant ver.1.22474487139...",
+    "immagine": "images/nier_replicant.jpg",
+    "trama": "Il protagonista, un giovane ragazzo, cerca di salvare sua sorella Yonah, affetta da una misteriosa malattia chiamata Black Scrawl.",
+    "autore": "Square Enix",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2021,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "Prince of Persia: The Lost Crown",
+    "immagine": "images/prince_of_persia_lost_crown.jpg",
+    "trama": "Sargon, un giovane guerriero membro del clan degli Immortali, viaggia fino al maledetto Monte Qaf per salvare il principe Ghassan rapito. Lungo il cammino affronta creature mitologiche e scopre poteri magici legati al tempo.",
+    "autore": "Ubisoft Montpellier",
+    "genere": [
+      "Azione",
+      "Platform",
+      "Metroidvania"
+    ],
+    "valutazione": 8.6,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2024,
+      "fine": 2024
+    }
+  },
+  {
+    "titolo": "Rayman Legends",
+    "immagine": "images/rayman_legends.jpg",
+    "trama": "Rayman, Globox e i Teensies si ritrovano in un'avventura attraverso mondi straordinari, colorati e pieni di magia. La missione? Salvare delle creature intrappolate e ristabilire l'armonia nel loro universo.",
+    "autore": "Ubisoft Montpellier",
+    "genere": [
+      "Platform",
+      "Avventura"
+    ],
+    "valutazione": 9.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2013,
+      "fine": 2013
+    }
+  },
+  {
+    "titolo": "Resident Evil",
+    "immagine": "images/resident_evil.jpg",
+    "trama": "Chris Redfield e Jill Valentine, agenti delle S.T.A.R.S., si trovano intrappolati in una villa infestata da terribili creature mutate, durante un'indagine su misteriose sparizioni nella città di Raccoon City.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Horror",
+      "Survival"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 1996,
+      "fine": 1996
+    }
+  },
+  {
+    "titolo": "Resident Evil 0",
+    "immagine": "images/resident_evil_0.jpg",
+    "trama": "Rebecca Chambers, membro della S.T.A.R.S., e Billy Coen, un ex soldato condannato, indagano su strani eventi legati al coinvolgimento della Umbrella Corporation nella creazione del virus-T e nelle sue mortali esperimentazioni.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Horror",
+      "Survival"
+    ],
+    "valutazione": 8.6,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2002,
+      "fine": 2002
+    }
+  },
+  {
+    "titolo": "Resident Evil 2 Remake",
+    "immagine": "images/resident_evil_2_remake.jpg",
+    "trama": "Leon S. Kennedy, un giovane agente della polizia di Raccoon City, e Claire Redfield, alla ricerca del fratello scomparso Chris, devono affrontare un'epidemia di zombie che ha decimato la città.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2019,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Resident Evil 3 Remake",
+    "immagine": "images/resident_evil_3_remake.jpg",
+    "trama": "Jill Valentine, un'ex agente della S.T.A.R.S., cerca di fuggire da Raccoon City mentre un'arma biologica chiamata Nemesis la insegue implacabilmente. Nel frattempo, la città cade nel caos a causa del virus T sviluppato dalla Umbrella Corporation.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Horror",
+      "Survival"
+    ],
+    "valutazione": 8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2020,
+      "fine": 2020
+    }
+  },
+  {
+    "titolo": "Resident Evil 4 Remake",
+    "immagine": "images/resident_evil_4_remake.jpg",
+    "trama": "Leon S. Kennedy viene inviato in un remoto villaggio della Spagna per salvare la figlia del presidente, Ashley Graham, ma si ritrova a combattere contro una setta e un'infezione biologica che trasforma gli abitanti in mostri letali.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Horror",
+      "Survival"
+    ],
+    "valutazione": 9.2,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2023,
+      "fine": 2023
+    }
+  },
+  {
+    "titolo": "Resident Evil Code: Veronica X",
+    "immagine": "images/resident_evil_code_veronica.jpg",
+    "trama": "Claire Redfield viene catturata dalla Umbrella Corporation e rinchiusa su un'isola infestata da creature mutanti. Nel tentativo di ritrovare suo fratello Chris, dovrà affrontare nuovi orrori e svelare oscuri segreti.",
+    "autore": "Capcom",
+    "genere": [
+      "Survival Horror",
+      "Azione"
+    ],
+    "valutazione": 8.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2000,
+      "fine": 2000
+    }
+  },
+  {
+    "titolo": "Resident Evil Revelations",
+    "immagine": "images/resident_evil_revelations.jpg",
+    "trama": "Jill Valentine e Parker Luciani indagano sulla scomparsa di Chris Redfield, ritrovandosi su una nave infestata da mostri creati da un'arma biologica, mentre scoprono una cospirazione che coinvolge il bioterrorismo globale.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Horror",
+      "Survival"
+    ],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2012,
+      "fine": 2012
+    }
+  },
+  {
+    "titolo": "Resident Evil: Revelations 2",
+    "immagine": "images/resident_evil_revelations_2.jpg",
+    "trama": "Il gioco segue due linee narrative parallele: Claire Redfield e Moira Burton, rapite e intrappolate su un'isola misteriosa, cercano di sopravvivere affrontando orrori biotecnologici; mentre Barry Burton parte alla ricerca della figlia Moira, accompagnato da Natalia, una bambina dotata di misteriosi poteri.",
+    "autore": "Capcom",
+    "genere": [
+      "Azione",
+      "Survival Horror",
+      "Avventura"
+    ],
+    "valutazione": 8.2,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2015
+    }
+  },
+  {
+    "titolo": "Resident Evil 7: Biohazard",
+    "immagine": "images/resident_evil_biohazard.jpg",
+    "trama": "Il gioco segue Ethan Winters mentre cerca la moglie scomparsa in una piantagione abbandonata in Louisiana. Qui si imbatte nella famiglia Baker, vittime di un’infezione biologica che li ha resi violenti e quasi immortali. Il titolo segna un ritorno alle origini horror della serie, con una prospettiva in prima persona e forte enfasi su tensione e sopravvivenza.",
+    "autore": "Capcom",
+    "genere": [
+      "Horror",
+      "Survival Horror",
+      "Azione"
+    ],
+    "valutazione": 9.0,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2017,
+      "fine": 2017
+    }
+  },
+  {
+    "titolo": "Resident Evil Village",
+    "immagine": "images/resident_evil_village.jpg",
+    "trama": "Il gioco segue Ethan Winters mentre si reca in un villaggio isolato in Europa orientale alla ricerca della figlia rapita. Lì affronta creature mostruose, culti oscuri e i quattro lord del villaggio sotto il controllo della misteriosa Madre Miranda, in un survival horror che mescola esplorazione, combattimento e puzzle.",
+    "autore": "Capcom",
+    "genere": [
+      "Horror",
+      "Survival Horror",
+      "Azione"
+    ],
+    "valutazione": 8.8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2021,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "Rise of the Tomb Raider",
+    "immagine": "images/riseofthetombraider.jpg",
+    "trama": "Lara Croft cerca di svelare il mistero della Fonte della Vita, un antico segreto che si dice possa concedere l'immortalità. Durante il suo viaggio, Lara affronta la temibile organizzazione della Trinità, che è anch'essa alla ricerca di questo potere.",
+    "autore": "Crystal Dynamics",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2015
+    }
+  },
+  {
+    "titolo": "Scarlet Nexus",
+    "immagine": "images/scarletnexus.jpg",
+    "trama": "In un futuro in cui l'umanità è minacciata da mutanti noti come Estranei, Yuito e Kasane, membri dell'OSF, combattono per proteggere la città e scoprono oscuri segreti sul loro mondo e sul proprio passato.",
+    "autore": "Bandai Namco Studios",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2021,
+      "fine": 2021
+    }
+  },
+  {
+    "titolo": "Sekiro: Shadows Die Twice",
+    "immagine": "images/sekiro.jpg",
+    "trama": "In un Giappone feudale oscuro e fantastico, un guerriero shinobi conosciuto come Lupo intraprende una missione per salvare il suo giovane signore, affrontando nemici letali e scoprendo verità sul proprio destino e immortalità.",
+    "autore": "FromSoftware",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Stealth"
+    ],
+    "valutazione": 9.4,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2019,
+      "fine": 2019
+    }
+  },
+  {
+    "titolo": "Shadow of the Tomb Raider",
+    "immagine": "images/shadow_of_the_tomb_raider.jpg",
+    "trama": "Lara Croft affronta un'apocalisse Maya scatenata da un antico manufatto, esplorando giungle pericolose e città perdute mentre lotta contro la Trinità per fermare la fine del mondo.",
+    "autore": "Square Enix",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Platform"
+    ],
+    "valutazione": 8.9,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2018,
+      "fine": 2018
+    }
+  },
+  {
+    "titolo": "South Park: Il Bastone della Verità",
+    "immagine": "images/southparkbastonedellaverita.jpg",
+    "trama": "I bambini di South Park si immergono in un gioco di ruolo epico per conquistare il Bastone della Verità, affrontando avventure assurde, alieni e forze oscure, mentre un nuovo arrivato scopre il suo ruolo nel caos.",
+    "autore": "Obsidian Entertainment",
+    "genere": [
+      "Avventura"
+    ],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2014
+    }
+  },
+  {
+    "titolo": "Tomb Raider",
+    "immagine": "images/tombraiderdefinitiveedition.jpg",
+    "trama": "Lara Croft, una giovane archeologa, si ritrova naufraga su un'isola remota nel Triangolo del Drago. Per sopravvivere e trovare un modo per fuggire, Lara deve affrontare pericoli estremi e scoprire i misteri oscuri dell'isola, tra cui un culto millenario.",
+    "autore": "Crystal Dynamics",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8.7,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2014
+    }
+  },
+  {
+    "titolo": "Uncharted 2: Among Thieves",
+    "immagine": "images/uncharted2.jpg",
+    "trama": "Nathan Drake cerca l'antico artefatto della pietra Cintamani in Tibet. Durante la sua ricerca cerca di svelare il mistero di un'antica civiltà e di fermare un mercenario assetato di potere.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Platform"
+    ],
+    "valutazione": 9.6,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2009,
+      "fine": 2009
+    }
+  },
+  {
+    "titolo": "Uncharted 3: Drake's Deception",
+    "immagine": "images/uncharted3.jpg",
+    "trama": "Nathan Drake intraprende una pericolosa ricerca per scoprire la leggendaria città perduta di Ubar, la Antlantide delle sabbie, affrontando una misteriosa organizzazione segreta guidata da Katherine Marlowe.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Platform"
+    ],
+    "valutazione": 9.4,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2011,
+      "fine": 2011
+    }
+  },
+  {
+    "titolo": "Uncharted 4: A Thief's End",
+    "immagine": "images/uncharted4.jpg",
+    "trama": "Nathan Drake, tornato alla vita tranquilla, deve affrontare il suo passato quando suo fratello Sam riappare, coinvolgendolo in una nuova ricerca per il leggendario tesoro di Henry Avery, un pirata del XVII secolo.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Platform"
+    ],
+    "valutazione": 9.7,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2016,
+      "fine": 2016
+    }
+  },
+  {
+    "titolo": "Uncharted: Drake's Fortune",
+    "immagine": "images/uncharted1.jpg",
+    "trama": "Nathan Drake, un cacciatore di tesori, segue la traccia di una leggendaria reliquia chiamata El Dorado. Durante la sua avventura, affronta pericoli e lotte contro mercenari, cercando di scoprire il mistero dietro l'oro perduto.",
+    "autore": "Naughty Dog",
+    "genere": [
+      "Azione",
+      "Avventura",
+      "Platform"
+    ],
+    "valutazione": 8.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2007,
+      "fine": 2007
+    }
+  },
+  {
+    "titolo": "Undertale",
+    "immagine": "images/undertale.jpg",
+    "trama": "Un bambino umano cade in un mondo sotterraneo popolato da mostri. Durante il suo viaggio per tornare a casa, il protagonista si trova di fronte a una scelta: combattere i mostri per proseguire o trovare un altro modo per risolvere i conflitti senza violenza.",
+    "autore": "Toby Fox",
+    "genere": [
+      "Avventura"
+    ],
+    "valutazione": 9.6,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2015
+    }
+  },
+  {
+    "titolo": "Until Dawn",
+    "immagine": "images/untildawn.jpg",
+    "trama": "Un gruppo di amici si riunisce per un weekend su una montagna isolata, ma presto scoprono che una presenza oscura li perseguita.",
+    "autore": "Supermassive Games",
+    "genere": [
+      "Horror",
+      "Avventura"
+    ],
+    "valutazione": 8.3,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2015
+    }
+  },
+  {
+    "titolo": "Watch Dogs",
+    "immagine": "images/watch_dogs.jpg",
+    "trama": "Aiden Pearce, un hacker esperto, cerca vendetta dopo che un attacco informatico ha messo in pericolo la vita della sua famiglia.",
+    "autore": "Ubisoft",
+    "genere": [
+      "Azione",
+      "Avventura"
+    ],
+    "valutazione": 8,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2014
+    }
+  },
+  {
+    "titolo": "The Witcher 3: Wild Hunt",
+    "immagine": "images/the_witcher_3.jpg",
+    "trama": "Geralt di Rivia intraprende un viaggio per trovare Ciri, la sua giovane protetta, braccata dalla pericolosa Caccia Selvaggia. Attraversa un vasto mondo in guerra, affronta creature terrificanti e prende decisioni che influenzano il destino di molti.",
+    "autore": "CD Projekt Red",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 9.5,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2015,
+      "fine": 2015
+    }
+  },
+  {
+    "titolo": "Wolfenstein: The New Order",
+    "immagine": "images/wolfensteintheneworder.jpg",
+    "trama": "In un mondo alternativo dove la Germania nazista ha vinto la Seconda Guerra Mondiale, BJ Blazkowicz, un soldato della resistenza, lotta per fermare il dominio del Terzo Reich. ",
+    "autore": "MachineGames",
+    "genere": [
+      "Azione"
+    ],
+    "valutazione": 8.7,
+    "tipo": "videogioco",
+    "periodo": {
+      "inizio": 2014,
+      "fine": 2014
+    }
+  }
+]
