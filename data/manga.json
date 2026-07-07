@@ -9,8 +9,9 @@
     "trama": "Tsugumi Higurashi è un giovane scrittore quindicenne afflitto da un profondo blocco creativo. Tornato nella sua vecchia casa di famiglia, entra in contatto con il fantasma della sua defunta governante, una presenza silenziosa e ambigua che sembra guidarlo nella riscoperta della scrittura e del proprio mondo interiore.",
     "autore": "Akari Kajimoto",
     "genere": [
-      "Commedia",
-      "Romantico"
+      "Comedy",
+      "Romance",
+      "Supernatural"
     ],
     "valutazione": 8.0,
     "tipo": "manga"
@@ -25,9 +26,9 @@
     "trama": "In una società ossessionata dal possesso dei libri, Alice vive isolata in una dimora colma di testi rari, disposta a sacrificare ogni legame umano pur di preservare la conoscenza. La sua devozione assoluta ai libri la conduce progressivamente a perdere il confine tra memoria, identità e vita stessa.",
     "autore": "Orval",
     "genere": [
-      "Dramma",
-      "Psicologico",
-      "Seinen"
+      "Psychological",
+      "Horror",
+      "Dark Fantasy"
     ],
     "valutazione": 7.6,
     "tipo": "manga"
@@ -43,8 +44,8 @@
     "autore": "Norihiro Yagi",
     "genere": [
       "Dark Fantasy",
-      "Azione",
-      "Dramma"
+      "Action",
+      "Drama"
     ],
     "valutazione": 8.5,
     "tipo": "manga"
@@ -59,9 +60,9 @@
     "trama": "Zaha Sanko è un giovane il cui scheletro possiede un potere misterioso capace di esaudire desideri. Per questo motivo viene braccato da cacciatori spaziali e creature folli, in un universo caotico dove violenza, umorismo nero e tecnologia convivono senza alcuna morale.",
     "autore": "Q Hayashida",
     "genere": [
-      "Fantascienza",
-      "Azione",
-      "Avventura"
+      "Science Fiction",
+      "Action",
+      "Adventure"
     ],
     "valutazione": 8.3,
     "tipo": "manga"
@@ -77,8 +78,8 @@
     "autore": "Go Nagai",
     "genere": [
       "Horror",
-      "Azione",
-      "Fantascienza"
+      "Action",
+      "Supernatural"
     ],
     "valutazione": 9.5,
     "tipo": "manga"
@@ -93,9 +94,9 @@
     "trama": "Goku è un guerriero Saiyan cresciuto sulla Terra, dotato di una forza straordinaria e di un’inestinguibile voglia di migliorarsi. Nel corso della sua vita affronta combattenti sempre più potenti, protegge il pianeta da minacce cosmiche e scopre le proprie origini aliene.",
     "autore": "Akira Toriyama",
     "genere": [
-      "Azione",
-      "Avventura",
-      "Seinen"
+      "Action",
+      "Adventure",
+      "Comedy"
     ],
     "valutazione": 9.2,
     "tipo": "manga"
@@ -111,7 +112,8 @@
     "autore": "Hideo Yamamoto",
     "genere": [
       "Horror",
-      "Psicologico"
+      "Psychological",
+      "Mystery"
     ],
     "valutazione": 8.3,
     "tipo": "manga"
@@ -126,8 +128,9 @@
     "trama": "Jaco è un ufficiale della Pattuglia Galattica inviato sulla Terra per prevenire una catastrofe planetaria. Convinto della propria superiorità, si scontra con la quotidianità terrestre e con i propri limiti, vivendo una missione che anticipa eventi cruciali legati alla storia dei Saiyan.",
     "autore": "Akira Toriyama",
     "genere": [
-      "Commedia",
-      "Fantascienza"
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
     ],
     "valutazione": 7.5,
     "tipo": "manga"
@@ -142,8 +145,9 @@
     "trama": "In una realtà dominata dal progresso tecnologico incontrollato, una serie di racconti esplora le conseguenze morali e psicologiche dell’innovazione, mettendo in discussione il rapporto tra umanità, scienza e autodistruzione.",
     "autore": "Osamu Tezuka",
     "genere": [
-      "Fantascienza",
-      "Dramma"
+      "Science Fiction",
+      "Drama",
+      "Psychological"
     ],
     "valutazione": 8.1,
     "tipo": "manga"
@@ -158,8 +162,8 @@
     "trama": "Monkey D. Luffy è un pirata determinato a diventare il Re dei Pirati, guidato da un’idea assoluta di libertà. In un mondo dominato da governi corrotti e mari pericolosi, affronta avversari sempre più potenti insieme alla sua ciurma.",
     "autore": "Eiichiro Oda",
     "genere": [
-      "Avventura",
-      "Azione",
+      "Adventure",
+      "Action",
       "Fantasy"
     ],
     "valutazione": 9.8,
@@ -175,8 +179,9 @@
     "trama": "Kazuya Kinoshita, incapace di superare una delusione sentimentale, ricorre a un servizio di fidanzate a noleggio. Da una relazione fittizia nasce una rete di menzogne, equivoci e legami emotivi sempre più complessi.",
     "autore": "Rei Tōma",
     "genere": [
-      "Romantico",
-      "Commedia"
+      "Romance",
+      "Comedy",
+      "Slice of Life"
     ],
     "valutazione": 7.6,
     "tipo": "manga"

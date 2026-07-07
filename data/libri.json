@@ -4,7 +4,11 @@
     "immagine": "images/1984.jpg",
     "trama": "In un futuro totalitario, Winston Smith vive sotto la costante sorveglianza del Partito e del Grande Fratello. Disilluso dal regime, tenta di ribellarsi, ma si ritrova intrappolato in un sistema che manipola la realtà e soffoca ogni libertà.",
     "autore": "George Orwell",
-    "genere": [],
+    "genere": [
+      "Dystopian",
+      "Political",
+      "Science Fiction"
+    ],
     "valutazione": 9.5,
     "tipo": "libro",
     "periodo": {
@@ -17,7 +21,11 @@
     "immagine": "images/come_trattare_gli_altri_e_farseli_amici.jpg",
     "trama": "Il libro, attraverso esempi pratici, offre principi per migliorare le relazioni interpersonali, insegnando come guadagnare amicizie, influenzare positivamente gli altri e gestire conflitti con empatia e comprensione.",
     "autore": "Dale Carnegie",
-    "genere": [],
+    "genere": [
+      "Self-Help",
+      "Psychological",
+      "Non-Fiction"
+    ],
     "valutazione": 9,
     "tipo": "libro",
     "periodo": {
@@ -30,7 +38,11 @@
     "immagine": "images/cosi_parlo_zarathustra.jpg",
     "trama": "Zarathustra, un eremita che ha vissuto isolato per anni, scende dalla montagna per condividere con l'umanità le sue scoperte. Incontra vari personaggi, tra cui seguaci e scettici, mentre cerca di insegnare l'idea dell'Übermensch, sfidando le convenzioni morali e l'idea di Dio.",
     "autore": "Friedrich Nietzsche",
-    "genere": [],
+    "genere": [
+      "Philosophical",
+      "Poetry",
+      "Non-Fiction"
+    ],
     "valutazione": 8.7,
     "tipo": "libro",
     "periodo": {
@@ -44,7 +56,9 @@
     "trama": "Guy Montag, un pompiere in una società dove i libri sono vietati e bruciati. Dopo un incontro con una giovane ragazza, inizia a mettere in discussione il suo ruolo e il sistema oppressivo che lo circonda.",
     "autore": "Ray Bradbury",
     "genere": [
-      "Fantascienza"
+      "Dystopian",
+      "Science Fiction",
+      "Political"
     ],
     "valutazione": 9.1,
     "tipo": "libro",
@@ -58,7 +72,11 @@
     "immagine": "images/i_fiori_del_male.jpg",
     "trama": "Il giovane Baudelaire, turbato dalla società borghese, esplora i temi della bellezza, del peccato e della sofferenza attraverso i versi delle sue poesie.",
     "autore": "Charles Baudelaire",
-    "genere": [],
+    "genere": [
+      "Poetry",
+      "Philosophical",
+      "Tragedy"
+    ],
     "valutazione": 8.7,
     "tipo": "libro",
     "periodo": {
@@ -72,7 +90,9 @@
     "trama": "Arthur Dent, un terrestre che scopre che la Terra sta per essere distrutta per fare spazio a una superstrada galattica, viene salvato dal suo amico Ford Prefect, un alieno. Insieme, si imbarcano in un viaggio intergalattico pieno di strani incontri.",
     "autore": "Douglas Adams",
     "genere": [
-      "Fantascienza"
+      "Science Fiction",
+      "Comedy",
+      "Adventure"
     ],
     "valutazione": 9.3,
     "tipo": "libro",
@@ -86,7 +106,11 @@
     "immagine": "images/l_arte_di_essere_felici.jpg",
     "trama": "Schopenhauer esplora la natura della felicità e i modi per raggiungerla, focalizzandosi sulle difficoltà umane e sulla sofferenza inevitabile della vita.",
     "autore": "Arthur Schopenhauer",
-    "genere": [],
+    "genere": [
+      "Philosophical",
+      "Self-Help",
+      "Non-Fiction"
+    ],
     "valutazione": 8.8,
     "tipo": "libro",
     "periodo": {
@@ -99,7 +123,11 @@
     "immagine": "images/l_interpretazione_dei_sogni.jpg",
     "trama": "Freud esplora come i sogni siano espressioni di desideri inconsci repressi. Attraverso l'analisi dei sogni di pazienti e di esempi tratti dalla vita quotidiana, sviluppa la teoria che i sogni siano un mezzo per il subconscio di comunicare i conflitti interiori.",
     "autore": "Sigmund Freud",
-    "genere": [],
+    "genere": [
+      "Non-Fiction",
+      "Psychological",
+      "Philosophical"
+    ],
     "valutazione": 9.2,
     "tipo": "libro",
     "periodo": {
@@ -112,7 +140,11 @@
     "immagine": "images/l_uomo_piu_ricco_di_babilonia.jpg",
     "trama": "Un giovane babilonese, in cerca di successo finanziario, apprende le leggi della ricchezza attraverso saggi consigli di esperti e esperienze pratiche.",
     "autore": "George S. Clason",
-    "genere": [],
+    "genere": [
+      "Self-Help",
+      "Historical",
+      "Non-Fiction"
+    ],
     "valutazione": 8.5,
     "tipo": "libro",
     "periodo": {
@@ -126,7 +158,9 @@
     "trama": "L'imperatore Adriano, ormai anziano, riflette sulla propria vita e sul suo governo, attraversando le esperienze più significative, tra amore, politica e filosofia.",
     "autore": "Marguerite Yourcenar",
     "genere": [
-      "Storico"
+      "Historical",
+      "Biographical",
+      "Drama"
     ],
     "valutazione": 9.4,
     "tipo": "libro",
@@ -140,7 +174,11 @@
     "immagine": "images/siddhartha.jpg",
     "trama": "Siddhartha, un giovane Brahmino, lascia la sua casa per cercare un senso più profondo della vita, esplorando il lusso, il piacere e l'ascetismo. Alla fine, attraverso l'esperienza e il contatto con la natura, trova la pace interiore e una comprensione del mondo.",
     "autore": "Hermann Hesse",
-    "genere": [],
+    "genere": [
+      "Philosophical",
+      "Drama",
+      "Historical"
+    ],
     "valutazione": 8.8,
     "tipo": "libro",
     "periodo": {
@@ -153,7 +191,11 @@
     "immagine": "images/verita_menzogna.jpg",
     "trama": "In questa raccolta di articoli, George Orwell esplora le contraddizioni dei sistemi politici e la manipolazione della realtà attraverso la propaganda.",
     "autore": "George Orwell",
-    "genere": [],
+    "genere": [
+      "Political",
+      "Philosophical",
+      "Non-Fiction"
+    ],
     "valutazione": 8.7,
     "tipo": "libro",
     "periodo": {
@@ -167,7 +209,9 @@
     "trama": "L'antologia si apre con una cornice di 7 racconti principali. Geralt di Rivia, cacciatore di mostri, dopo essere stato ferito in uno scontro, si riposa nel Tempio di Melitele. Durante la sua convalescenza ricorda alcuni episodi recenti, ognuno dei quali forma una storia a sé stante.",
     "autore": "Andrzej Sapkowski",
     "genere": [
-      "Fantasy"
+      "Fantasy",
+      "Adventure",
+      "Dark Fantasy"
     ],
     "valutazione": 9.2,
     "tipo": "libro",
@@ -183,7 +227,8 @@
     "autore": "Andrzej Sapkowski",
     "genere": [
       "Fantasy",
-      "Dramma"
+      "Adventure",
+      "Drama"
     ],
     "valutazione": 9.4,
     "tipo": "libro",

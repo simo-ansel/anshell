@@ -5,9 +5,9 @@
     "trama": "Dopo una catastrofe nucleare che ha devastato la Terra, i discendenti degli ultimi sopravvissuti vivono su una stazione spaziale. Quando le risorse cominciano a scarseggiare, 100 giovani criminali vengono inviati sulla Terra per determinare se il pianeta è di nuovo abitabile.",
     "autore": "Jason Rothenberg",
     "genere": [
-      "Dramma",
-      "Fantascienza",
-      "Azione"
+      "Drama",
+      "Science Fiction",
+      "Post-Apocalyptic"
     ],
     "valutazione": 7.6,
     "tipo": "serieTV",
@@ -22,8 +22,9 @@
     "trama": "Archer è una serie animata che segue le disavventure di un gruppo di spie di una agenzia di intelligence, l'International Secret Intelligence Service (ISIS).",
     "autore": "Adam Reed",
     "genere": [
-      "Commedia",
-      "Azione"
+      "Comedy",
+      "Action",
+      "Spy"
     ],
     "valutazione": 8.6,
     "tipo": "serieTV",
@@ -38,7 +39,9 @@
     "trama": "Dopo l'arresto del padre, Michael Bluth cerca di tenere insieme la sua disfunzionale famiglia mentre gestisce l'azienda di famiglia. Tuttavia, l'egoismo e l'immaturità dei suoi parenti rendono ogni tentativo quasi impossibile.",
     "autore": "Mitchell Hurwitz",
     "genere": [
-      "Commedia"
+      "Comedy",
+      "Satire",
+      "Slice of Life"
     ],
     "valutazione": 8.7,
     "tipo": "serieTV",
@@ -53,8 +56,9 @@
     "trama": "Sam, un ragazzo nello spettro autistico, cerca indipendenza e amore mentre affronta i problemi adolescenziali e familiari.",
     "autore": "Robia Rashid",
     "genere": [
-      "Dramma",
-      "Commedia"
+      "Drama",
+      "Comedy",
+      "Slice of Life"
     ],
     "valutazione": 8.2,
     "tipo": "serieTV",
@@ -69,8 +73,9 @@
     "trama": "Ogni episodio di questa serie antologica esplora le oscure e inquietanti conseguenze della tecnologia moderna sulla società, con storie che riflettono sulle paure, i desideri e i pericoli legati all'evoluzione digitale e ai progressi tecnologici.",
     "autore": "Charlie Brooker",
     "genere": [
-      "Fantascienza",
-      "Thriller"
+      "Science Fiction",
+      "Thriller",
+      "Dystopian"
     ],
     "valutazione": 8.8,
     "tipo": "serieTV",
@@ -85,8 +90,9 @@
     "trama": "BoJack Horseman, un cavallo antropomorfo ex star di una sitcom degli anni '90, cerca di affrontare la sua vita da adulto in un mondo satirico e spesso tragico.",
     "autore": "Raphael Bob-Waksberg",
     "genere": [
-      "Dramma",
-      "Commedia"
+      "Drama",
+      "Comedy",
+      "Psychological"
     ],
     "valutazione": 8.6,
     "tipo": "serieTV",
@@ -101,8 +107,9 @@
     "trama": "Walter White, un insegnante di chimica che scopre di avere un cancro terminale, decide di entrare nel mondo della produzione di metanfetamine per garantire il futuro economico della sua famiglia, intraprendendo una discesa nella criminalità e nella violenza.",
     "autore": "Vince Gilligan",
     "genere": [
-      "Dramma",
-      "Thriller"
+      "Drama",
+      "Thriller",
+      "Crime"
     ],
     "valutazione": 9.5,
     "tipo": "serieTV",
@@ -117,8 +124,9 @@
     "trama": "Le avventure del detective Jake Peralta e del suo team di polizia nella 99ª stazione di Brooklyn, che affrontano casi polizieschi con un mix di umorismo, ingegno e situazioni comiche.",
     "autore": "Michael Schur, Dan Goor",
     "genere": [
-      "Commedia",
-      "Crime"
+      "Comedy",
+      "Crime",
+      "Slice of Life"
     ],
     "valutazione": 8.4,
     "tipo": "serieTV",
@@ -133,8 +141,9 @@
     "trama": "Uno studente nerd lancia per caso un sito di vendita di ecstasy nel dark web per riconquistare la sua ex, diventando uno dei maggiori spacciatori d’Europa.",
     "autore": "Philipp Käßbohrer, Matthias Murmann",
     "genere": [
-      "Dramma",
-      "Commedia"
+      "Drama",
+      "Comedy",
+      "Crime"
     ],
     "valutazione": 7.9,
     "tipo": "serieTV",
@@ -149,9 +158,9 @@
     "trama": "Cuphead e Mugman, due fratelli avventurosi, si trovano coinvolti in una serie di situazioni pericolose e bizzarre dopo aver perso una scommessa con il diavolo. Per salvare le loro anime, devono affrontare una serie di pericolosi avversari e raccogliere le loro anime.",
     "autore": "Dave Wasson",
     "genere": [
-      "Avventura",
-      "Commedia",
-      "Azione"
+      "Adventure",
+      "Comedy",
+      "Action"
     ],
     "valutazione": 7.7,
     "tipo": "serieTV",
@@ -166,7 +175,9 @@
     "trama": "La serie racconta la storia di Jeffrey Dahmer, uno dei più noti serial killer americani, esplorando i suoi crimini, il suo passato e l'impatto devastante sulle vittime e le loro famiglie.",
     "autore": "Ryan Murphy, Ian Brennan",
     "genere": [
-      "Dramma"
+      "Drama",
+      "Crime",
+      "Biographical"
     ],
     "valutazione": 8,
     "tipo": "serieTV",
@@ -181,8 +192,9 @@
     "trama": "Ambientata nell'Italia del XIV secolo durante la peste nera, un gruppo di nobili si rifugia in una villa fuori Firenze per sfuggire alla morte e alla decadenza sociale. La serie rilegge in chiave satirica e moderna il classico di Boccaccio, esplorando i piaceri, le contraddizioni e le ipocrisie dell'élite medievale.",
     "autore": "Kathleen Jordan",
     "genere": [
-      "Storico",
-      "Dramma"
+      "Historical",
+      "Drama",
+      "Comedy"
     ],
     "valutazione": 6.8,
     "tipo": "serieTV",
@@ -198,8 +210,8 @@
     "autore": "Scott Frank, Chandni Lakhani",
     "genere": [
       "Crime",
-      "Dramma",
-      "Mistero"
+      "Drama",
+      "Mystery"
     ],
     "valutazione": 8.8,
     "tipo": "serieTV",
@@ -214,8 +226,9 @@
     "trama": "Adrian Monk è un brillante detective privato affetto da gravi disturbi ossessivo-compulsivi. Dopo la tragica morte di sua moglie, cerca di risolvere casi intricati mentre affronta le sue paure e nevrosi.",
     "autore": "Andy Breckman",
     "genere": [
-      "Commedia",
-      "Crime"
+      "Comedy",
+      "Crime",
+      "Mystery"
     ],
     "valutazione": 8,
     "tipo": "serieTV",
@@ -230,8 +243,9 @@
     "trama": "Dexter Morgan è un esperto analista forense che lavora per la polizia di Miami. Tuttavia, di notte è un serial killer che uccide altri criminali che sono riusciti a sfuggire alla giustizia.",
     "autore": "James Manos Jr.",
     "genere": [
-      "Dramma",
-      "Thriller"
+      "Drama",
+      "Thriller",
+      "Crime"
     ],
     "valutazione": 8.6,
     "tipo": "serieTV",
@@ -246,9 +260,9 @@
     "trama": "Basata sui romanzi di Douglas Adams, la serie segue il detective olistico Dirk Gently e il riluttante assistente Todd Brotzman mentre investigano casi bizzarri in cui tutto è connesso in modi imprevedibili.",
     "autore": "Max Landis",
     "genere": [
-      "Commedia",
-      "Fantascienza",
-      "Mistero"
+      "Comedy",
+      "Science Fiction",
+      "Mystery"
     ],
     "valutazione": 8.2,
     "tipo": "serieTV",
@@ -263,8 +277,9 @@
     "trama": "Disincanto segue le avventure di Bean, una principessa giovane e disincantata che vive nel regno medievale di Dreamland.",
     "autore": "Matt Groening",
     "genere": [
-      "Commedia",
-      "Avventura"
+      "Comedy",
+      "Adventure",
+      "Fantasy"
     ],
     "valutazione": 7.6,
     "tipo": "serieTV",
@@ -279,7 +294,9 @@
     "trama": "Ruth, un’attivista per la legalizzazione della cannabis, realizza finalmente il suo sogno aprendo un dispensario a Los Angeles, gestito con l’aiuto del figlio e di un gruppo di collaboratori eccentrici.",
     "autore": "David Javerbaum, Chuck Lorre",
     "genere": [
-      "Commedia"
+      "Comedy",
+      "Slice of Life",
+      "Satire"
     ],
     "valutazione": 6.7,
     "tipo": "serieTV",
@@ -294,8 +311,9 @@
     "trama": "Il dottor Gregory House è un brillante ma anticonvenzionale medico diagnostico, noto per il suo atteggiamento cinico e l'uso frequente di metodi poco ortodossi. Insieme al suo team, affronta casi medici complessi e misteriosi, spesso mettendo in discussione l'etica e i limiti della medicina.",
     "autore": "David Shore",
     "genere": [
-      "Dramma",
-      "Mistero"
+      "Drama",
+      "Mystery",
+      "Medical"
     ],
     "valutazione": 8.7,
     "tipo": "serieTV",
@@ -310,7 +328,9 @@
     "trama": "James, un ragazzo che si crede uno psicopatico, e Alyssa, una ribelle impulsiva, fuggono insieme in un road trip assurdo e oscuro.",
     "autore": "Jonathan Entwistle, Charlie Covell",
     "genere": [
-      "Dramma"
+      "Drama",
+      "Comedy",
+      "Crime"
     ],
     "valutazione": 8.0,
     "tipo": "serieTV",
@@ -325,7 +345,9 @@
     "trama": "Ambientata negli anni '70, la serie segue le vicende della famiglia Murphy. Frank, il padre, lotta con il lavoro e il carattere esplosivo, mentre sua moglie e i loro tre figli affrontano le difficoltà della vita familiare.",
     "autore": "Bill Burr, Michael Price",
     "genere": [
-      "Commedia"
+      "Comedy",
+      "Drama",
+      "Slice of Life"
     ],
     "valutazione": 8,
     "tipo": "serieTV",
@@ -340,8 +362,9 @@
     "trama": "Tre hippie consumatori di cannabis si risvegliano dopo decenni in una società completamente cambiata. Tra situazioni assurde e satira sociale, cercano di adattarsi al mondo moderno.",
     "autore": "Gilbert Shelton",
     "genere": [
-      "Commedia",
-      "Animazione"
+      "Comedy",
+      "Animation",
+      "Adventure"
     ],
     "valutazione": 6.8,
     "tipo": "serieTV",
@@ -357,7 +380,7 @@
     "autore": "Marvin Kren",
     "genere": [
       "Thriller",
-      "Dramma",
+      "Drama",
       "Crime"
     ],
     "valutazione": 6.5,
@@ -373,8 +396,9 @@
     "trama": "In un mondo fantasy medievale, diverse famiglie nobili si contendono il Trono di Spade per governare i Sette Regni. Intrighi politici, alleanze e tradimenti segnano le vicende, mentre una minaccia misteriosa proveniente dal Nord minaccia l'intero continente.",
     "autore": "David Benioff, D.B. Weiss",
     "genere": [
-      "Dramma",
-      "Avventura"
+      "Drama",
+      "Fantasy",
+      "Adventure"
     ],
     "valutazione": 9.3,
     "tipo": "serieTV",
@@ -389,7 +413,9 @@
     "trama": "Shaun Murphy, un giovane chirurgo con autismo e sindrome di Savant, si trasferisce in un ospedale prestigioso. Nonostante la sua straordinaria capacità medica, affronta difficoltà nel relazionarsi con i colleghi, ma le sue abilità brillano nelle situazioni più critiche.",
     "autore": "David Shore",
     "genere": [
-      "Dramma"
+      "Drama",
+      "Medical",
+      "Slice of Life"
     ],
     "valutazione": 8.1,
     "tipo": "serieTV",
@@ -404,7 +430,9 @@
     "trama": "Una collezione antologica di otto racconti horror curati da Guillermo del Toro, ciascuno diretto da un regista diverso e con uno stile unico.",
     "autore": "Guillermo del Toro",
     "genere": [
-      "Horror"
+      "Horror",
+      "Mystery",
+      "Supernatural"
     ],
     "valutazione": 7.1,
     "tipo": "serieTV",
@@ -419,9 +447,9 @@
     "trama": "Ted Mosby racconta la storia di come ha incontrato la madre dei suoi figli, facendo rivivere le sue avventure e i momenti significativi con i suoi amici Marshall, Lily, Barney e Robin.",
     "autore": "Carter Bays, Craig Thomas",
     "genere": [
-      "Commedia",
-      "Romantico",
-      "Dramma"
+      "Comedy",
+      "Romance",
+      "Drama"
     ],
     "valutazione": 8.3,
     "tipo": "serieTV",
@@ -436,8 +464,9 @@
     "trama": "Liv Moore, una giovane medico, diventa zombie dopo una festa, ma decide di usare le sue nuove abilità per aiutare la polizia. Mangia il cervello delle vittime e, attraverso visioni, risolve i crimini, mantenendo la sua umanità in un mondo che la considera un mostro.",
     "autore": "Rob Thomas",
     "genere": [
-      "Dramma",
-      "Commedia"
+      "Drama",
+      "Mystery",
+      "Supernatural"
     ],
     "valutazione": 7.9,
     "tipo": "serieTV",
@@ -452,9 +481,9 @@
     "trama": "Jentry Chau è una teenager che scopre di essere nel mirino di un potente demone. Aiutata da un mentore spirituale poco convenzionale, affronta creature sovrannaturali e imparara a gestire nuovi poteri.",
     "autore": "Echo Wu",
     "genere": [
-      "Azione",
-      "Commedia",
-      "Soprannaturale"
+      "Action",
+      "Comedy",
+      "Supernatural"
     ],
     "valutazione": 7.5,
     "tipo": "serieTV",
@@ -469,8 +498,9 @@
     "trama": "Una saga animata che segue la famiglia Schwooper attraverso diverse epoche — dagli anni ’50 ai giorni nostri — attraverso salti temporali che esplorano traumi personali, umorismo e legami familiari.",
     "autore": "Raphael Bob-Waksberg",
     "genere": [
-      "Commedia",
-      "Dramma"
+      "Comedy",
+      "Drama",
+      "Slice of Life"
     ],
     "valutazione": 8.7,
     "tipo": "serieTV",
@@ -485,9 +515,9 @@
     "trama": "Dopo un disastro aereo, i sopravvissuti si ritrovano su un'isola deserta, dove devono affrontare misteri, pericoli e rivelazioni sulle loro vite passate.",
     "autore": "J.J. Abrams, Damon Lindelof, Jeffrey Lieber",
     "genere": [
-      "Dramma",
-      "Mistero",
-      "Avventura"
+      "Drama",
+      "Mystery",
+      "Adventure"
     ],
     "valutazione": 8.3,
     "tipo": "serieTV",
@@ -502,8 +532,9 @@
     "trama": "Clancy, un giovane uomo che vive in un universo multidimensionale, esplora mondi alternativi usando un dispositivo per viaggiare tra le dimensioni. Ogni episodio esplora argomenti filosofici, spirituali e esistenziali attraverso conversazioni surreali e visivamente sorprendenti.",
     "autore": "Pendleton Ward, Duncan Trussell",
     "genere": [
-      "Commedia",
-      "Fantascienza"
+      "Comedy",
+      "Science Fiction",
+      "Philosophical"
     ],
     "valutazione": 8.2,
     "tipo": "serieTV",
@@ -518,8 +549,9 @@
     "trama": "Un giovane programmatore, Elliot Alderson, lavora come ingegnere della sicurezza informatica di giorno e come hacker vigilante di notte. La sua vita cambia quando un enigmatico anarchico, conosciuto come Mr. Robot, lo recluta per distruggere una potente corporazione globale.",
     "autore": "Sam Esmail",
     "genere": [
-      "Dramma",
-      "Thriller"
+      "Drama",
+      "Thriller",
+      "Psychological"
     ],
     "valutazione": 8.6,
     "tipo": "serieTV",
@@ -534,7 +566,9 @@
     "trama": "Devi, un'adolescente indiana-americana, cerca di affrontare il liceo, l’amore e il lutto per la morte del padre, con l’ironia e il caos della vita quotidiana.",
     "autore": "Mindy Kaling, Lang Fisher",
     "genere": [
-      "Commedia"
+      "Comedy",
+      "Drama",
+      "Teen"
     ],
     "valutazione": 7.9,
     "tipo": "serieTV",
@@ -549,8 +583,9 @@
     "trama": "The Office segue le vicende quotidiane degli impiegati di Dunder Mifflin, una compagnia di forniture per ufficio, e in particolare le disavventure di Michael Scott, il loro capo incapace di gestire il suo ruolo senza creare imbarazzo.",
     "autore": "Greg Daniels",
     "genere": [
-      "Commedia",
-      "Dramma"
+      "Comedy",
+      "Drama",
+      "Slice of Life"
     ],
     "valutazione": 8.9,
     "tipo": "serieTV",
@@ -565,7 +600,9 @@
     "trama": "La serie segue la storia di Piper Chapman, una donna condannata a scontare quindici mesi in un carcere femminile federale per un crimine commesso dieci anni prima. All’interno del penitenziario, Piper entra in contatto con donne di ogni estrazione sociale, scoprendo dinamiche complesse fatte di amicizie, conflitti e sopravvivenza quotidiana.",
     "autore": "Jenji Kohan",
     "genere": [
-      "Commedia"
+      "Comedy",
+      "Drama",
+      "Crime"
     ],
     "valutazione": 9.0,
     "tipo": "serieTV",
@@ -575,13 +612,31 @@
     }
   },
   {
+    "titolo": "Parks and Recreation",
+    "immagine": "images/parks_and_recreation.jpg",
+    "trama": "Leslie Knope, un'entusiasta funzionaria del dipartimento dei parchi della città di Pawnee, Indiana, cerca di migliorare la sua comunità affrontando ostacoli burocratici, colleghi eccentrici e situazioni esilaranti, senza mai perdere il suo ottimismo.",
+    "autore": "Greg Daniels e Michael Schur",
+    "genere": [
+      "Comedy",
+      "Sitcom",
+      "Mockumentary"
+    ],
+    "valutazione": 8.6,
+    "tipo": "serieTV",
+    "periodo": {
+      "inizio": 2009,
+      "fine": 2015
+    }
+  },
+  {
     "titolo": "Psych",
     "immagine": "images/psych.jpg",
     "trama": "Shawn Spencer, un uomo con un'abilità straordinaria nel notare dettagli, finge di essere un medium e apre un'agenzia investigativa insieme al suo migliore amico, Gus.",
     "autore": "Steve Franks",
     "genere": [
-      "Commedia",
-      "Crime"
+      "Comedy",
+      "Crime",
+      "Mystery"
     ],
     "valutazione": 8.4,
     "tipo": "serieTV",
@@ -596,7 +651,9 @@
     "trama": "Beth Harmon, un'orfana con un talento straordinario per gli scacchi, combatte con le sue dipendenze e i suoi demoni interiori mentre lotta per diventare la campionessa mondiale di scacchi, sfidando pregiudizi e difficoltà lungo il cammino.",
     "autore": "Scott Frank",
     "genere": [
-      "Dramma"
+      "Drama",
+      "Historical",
+      "Psychological"
     ],
     "valutazione": 8.6,
     "tipo": "serieTV",
@@ -611,8 +668,9 @@
     "trama": "Le avventure di Rick Sanchez, uno scienziato geniale ma alcolizzato, e di suo nipote Morty, un ragazzo insicuro. Insieme viaggiano attraverso universi alternativi e affrontano situazioni surreali e pericolose.",
     "autore": "Dan Harmon, Justin Roiland",
     "genere": [
-      "Commedia",
-      "Fantascienza"
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
     ],
     "valutazione": 9.1,
     "tipo": "serieTV",
@@ -627,8 +685,9 @@
     "trama": "John Nolan, un uomo di 45 anni che, dopo un evento che gli cambia la vita, decide di realizzare il suo sogno: diventare un agente di polizia a Los Angeles.",
     "autore": "Alexi Hawley",
     "genere": [
-      "Dramma",
-      "Crime"
+      "Drama",
+      "Crime",
+      "Action"
     ],
     "valutazione": 8,
     "tipo": "serieTV",
@@ -643,9 +702,9 @@
     "trama": "Scott Pilgrim, un musicista squattrinato di Toronto, si innamora della misteriosa Ramona Flowers, ma per conquistarla deve affrontare i suoi sette malvagi ex in battaglie surreali ispirate ai videogiochi.",
     "autore": "Bryan Lee O'Malley, BenDavid Grabinski",
     "genere": [
-      "Azione",
-      "Commedia",
-      "Romantico"
+      "Action",
+      "Comedy",
+      "Romance"
     ],
     "valutazione": 8.2,
     "tipo": "serieTV",
@@ -660,8 +719,9 @@
     "trama": "Scrubs racconta la vita quotidiana di un gruppo di medici e infermieri, seguendo le esperienze e i dilemmi di John 'J.D.' Dorian e dei suoi amici in un ospedale.",
     "autore": "Bill Lawrence",
     "genere": [
-      "Commedia",
-      "Dramma"
+      "Comedy",
+      "Drama",
+      "Medical"
     ],
     "valutazione": 8.3,
     "tipo": "serieTV",
@@ -676,8 +736,9 @@
     "trama": "Quattro alieni fuggono dal loro pianeta distrutto e finiscono per vivere sulla Terra, che giudicano in modo opposto: Korvo e Yumyulack la odiano, mentre Terry e Jesse la adorano. La serie alterna satira fantascientifica e critica sociale con una sottotrama oscura ambientata in un muro miniaturizzato.",
     "autore": "Justin Roiland, Mike McMahan",
     "genere": [
-      "Commedia",
-      "Fantascienza"
+      "Comedy",
+      "Science Fiction",
+      "Adventure"
     ],
     "valutazione": 8.0,
     "tipo": "serie",
@@ -692,9 +753,9 @@
     "trama": "Le assurde avventure di quattro bambini nella cittadina di South Park diventano il pretesto per una satira irriverente su politica, società, religione e cultura pop.",
     "autore": "Trey Parker e Matt Stone",
     "genere": [
-      "Animazione",
-      "Commedia",
-      "Satira"
+      "Comedy",
+      "Satire",
+      "Animation"
     ],
     "valutazione": 8.7,
     "tipo": "serieTV",
@@ -709,8 +770,9 @@
     "trama": "La serie segue il generale Mark Naird, incaricato di guidare la neonata Forza Spaziale degli Stati Uniti. Tra missioni improbabili, problemi politici e un team eccentrico, la serie esplora in chiave satirica il mondo militare e burocratico con toni comici e assurdi.",
     "autore": "Greg Daniels, Steve Carell",
     "genere": [
-      "Commedia",
-      "Satira"
+      "Comedy",
+      "Satire",
+      "Drama"
     ],
     "valutazione": 6.7,
     "tipo": "serieTV",
@@ -725,7 +787,9 @@
     "trama": "Una commedia ambientata nel megastore Cloud 9, dove un gruppo di dipendenti affronta ogni giorno situazioni assurde, clienti bizzarri e le sfide della vita lavorativa con ironia e spirito di squadra.",
     "autore": "Justin Spitzer",
     "genere": [
-      "Commedia"
+      "Comedy",
+      "Slice of Life",
+      "Romance"
     ],
     "valutazione": 7.8,
     "tipo": "serieTV",
@@ -740,8 +804,9 @@
     "trama": "I tre orfani Baudelaire, Violet, Klaus e Sunny, si trovano a dover affrontare una serie di sfortunati eventi dopo la morte dei loro genitori. Cercando di svelare il mistero dietro la loro morte, si trovano a fronteggiare il malvagio Conte Olaf, che cerca in ogni modo di impadronirsi della loro eredità.",
     "autore": "Mark Hudis, Barry Sonnenfeld",
     "genere": [
-      "Dramma",
-      "Mistero"
+      "Drama",
+      "Mystery",
+      "Dark Fantasy"
     ],
     "valutazione": 7.8,
     "tipo": "serieTV",
@@ -756,8 +821,9 @@
     "trama": "Due amiche trentenni, un tucano spensierato e un'uccellina ansiosa, affrontano insieme la vita in una città surreale piena di umorismo, ansie quotidiane e assurdità.",
     "autore": "Lisa Hanawalt",
     "genere": [
-      "Commedia",
-      "Dramma"
+      "Comedy",
+      "Drama",
+      "Slice of Life"
     ],
     "valutazione": 7.4,
     "tipo": "serieTV",
@@ -773,7 +839,8 @@
     "autore": "Ryan Murphy, Ian Brennan",
     "genere": [
       "Thriller",
-      "Mistero"
+      "Mystery",
+      "Drama"
     ],
     "valutazione": 6.5,
     "tipo": "serieTV",
@@ -788,8 +855,8 @@
     "trama": "Dopo la morte improvvisa del marito, Nancy Botwin, una madre di periferia apparentemente normale, inizia a spacciare marijuana per mantenere la famiglia, entrando sempre più in profondità in un mondo criminale imprevedibile.",
     "autore": "Jenji Kohan",
     "genere": [
-      "Commedia",
-      "Dramma",
+      "Comedy",
+      "Drama",
       "Crime"
     ],
     "valutazione": 7.9,
@@ -805,8 +872,9 @@
     "trama": "Un gruppo di madri moderne cerca di conciliare la maternità con la carriera, le relazioni e la propria identità in una società che non rende facile essere tutto insieme.",
     "autore": "Catherine Reitman",
     "genere": [
-      "Commedia",
-      "Dramma"
+      "Comedy",
+      "Drama",
+      "Slice of Life"
     ],
     "valutazione": 7.6,
     "tipo": "serieTV",

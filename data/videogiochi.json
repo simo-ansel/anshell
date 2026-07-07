@@ -5,7 +5,7 @@
     "trama": "Armored Core è un videogioco d'azione in cui il giocatore pilota un mecha personalizzabile, completando missioni per varie corporazioni in un mondo post-apocalittico dominato dalla tecnologia.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione",
+      "Action",
       "TPS",
       "Mecha"
     ],
@@ -22,7 +22,9 @@
     "trama": "Battlefield V porta i giocatori nel cuore della Seconda Guerra Mondiale con una serie di campagne ispirate a eventi storici meno conosciuti.",
     "autore": "DICE",
     "genere": [
-      "Azione"
+      "Action",
+      "FPS",
+      "Military"
     ],
     "valutazione": 8.3,
     "tipo": "videogioco",
@@ -38,7 +40,8 @@
     "autore": "Edmund McMillen",
     "genere": [
       "Roguelike",
-      "Azione"
+      "Action",
+      "Horror"
     ],
     "valutazione": 9,
     "tipo": "videogioco",
@@ -53,8 +56,9 @@
     "trama": "Un cacciatore si risveglia nella città di Yharnam, un luogo oscuro e maledetto dove una strana epidemia trasforma le persone in bestie mostruose. Durante la sua caccia, il protagonista scopre segreti inquietanti su un antico culto e le sue connessioni con entità cosmiche e divine.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione",
-      "Horror"
+      "Action",
+      "Horror",
+      "Soulslike"
     ],
     "valutazione": 9.5,
     "tipo": "videogioco",
@@ -69,7 +73,9 @@
     "trama": "Un'unità delle forze speciali viene coinvolta in un conflitto globale per fermare un'organizzazione terroristica che minaccia la sicurezza mondiale. La storia segue operazioni in Medio Oriente e Russia, mostrando il realismo crudo della guerra moderna.",
     "autore": "Infinity Ward",
     "genere": [
-      "Azione"
+      "Action",
+      "FPS",
+      "Military"
     ],
     "valutazione": 9.4,
     "tipo": "videogioco",
@@ -84,7 +90,9 @@
     "trama": "In un mondo post-apocalittico, il protagonista, un Revenant privo di memoria, si unisce a un gruppo di sopravvissuti per combattere contro mostri corrotti e scoprire il mistero del parassita che ha trasformato l'umanità in creature assetate di sangue.",
     "autore": "Bandai Namco Studios",
     "genere": [
-      "Azione"
+      "Action",
+      "Soulslike",
+      "RPG"
     ],
     "valutazione": 7.8,
     "tipo": "videogioco",
@@ -99,9 +107,9 @@
     "trama": "Crash e Coco intraprendono un'avventura attraverso il multiverso per fermare i malvagi Dr. Cortex e N. Tropy, che minacciano di conquistare tutte le realtà.",
     "autore": "Toys for Bob",
     "genere": [
-      "Platform",
-      "Azione",
-      "Avventura"
+      "Platformer",
+      "Action",
+      "Adventure"
     ],
     "valutazione": 8.9,
     "tipo": "videogioco",
@@ -116,8 +124,9 @@
     "trama": "Remake dei primi tre capitoli della serie Crash Bandicoot. Crash affronta il malvagio Dr. Neo Cortex attraversando decine di livelli ricchi di ostacoli, nemici e piattaforme per salvare le isole e sventare i suoi piani.",
     "autore": "Vicarious Visions",
     "genere": [
-      "Platform",
-      "Avventura"
+      "Platformer",
+      "Adventure",
+      "Action"
     ],
     "valutazione": 8.0,
     "tipo": "videogioco",
@@ -132,7 +141,9 @@
     "trama": "I personaggi dell'universo di Crash Bandicoot si sfidano in una serie di minigiochi competitivi in un'avventura frenetica.",
     "autore": "Eurocom",
     "genere": [
-      "Azione"
+      "Action",
+      "Racing",
+      "Platformer"
     ],
     "valutazione": 7,
     "tipo": "videogioco",
@@ -147,8 +158,9 @@
     "trama": "Crash Bandicoot e i suoi amici (e nemici) si uniscono per affrontare la minaccia di Nitros Oxide, un extraterrestre intenzionato a conquistare il pianeta. Partecipano a emozionanti gare di kart, dove abilità e strategie sono fondamentali per sconfiggere l'avversario e salvare la Terra.",
     "autore": "Naughty Dog",
     "genere": [
-      "Corse",
-      "Azione"
+      "Racing",
+      "Action",
+      "Platformer"
     ],
     "valutazione": 9,
     "tipo": "videogioco",
@@ -163,9 +175,9 @@
     "trama": "Un giovane agnello viene salvato da una morte certa da una misteriosa entità. Grazie a questo potere, l'agnello fonda un culto devoto alla forza oscura che lo ha reso il suo nuovo strumento.",
     "autore": "Massive Monster",
     "genere": [
-      "Azione",
+      "Action",
       "Roguelike",
-      "Gestionale"
+      "Management"
     ],
     "valutazione": 8.5,
     "tipo": "videogioco",
@@ -180,7 +192,9 @@
     "trama": "Cuphead e Mugman, due fratelli e avventurieri, si ritrovano a dover affrontare una serie di combattimenti contro potenti e stravaganti boss dopo aver fatto un pericoloso patto con il Diavolo. La loro missione è quella di raccogliere le anime di coloro che hanno truffato il Diavolo stesso.",
     "autore": "Studio MDHR",
     "genere": [
-      "Platform"
+      "Platformer",
+      "Action",
+      "Comedy"
     ],
     "valutazione": 9.2,
     "tipo": "videogioco",
@@ -195,7 +209,9 @@
     "trama": "Nel regno di Lordran, un eroe segnato dalla maledizione della non-morte, intraprende un viaggio solitario per fermare l'incessante ciclo di fuoco e oscurità.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione"
+      "Action",
+      "RPG",
+      "Soulslike"
     ],
     "valutazione": 9,
     "tipo": "videogioco",
@@ -210,7 +226,9 @@
     "trama": "Un avventuriero senza nome si addentra nel regno in rovina di Drangleic, alla ricerca di risposte sulla maledizione degli Undead e per scoprire il destino che lo lega al trono e al futuro dell'umanità.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione"
+      "Action",
+      "RPG",
+      "Soulslike"
     ],
     "valutazione": 8.7,
     "tipo": "videogioco",
@@ -225,7 +243,9 @@
     "trama": "Il fuoco che sostiene il mondo sta svanendo, e un non morto scelto, l'Unkidled, confrontandosi con antichi signori, determinerà il futuro del regno di Lothric e la fine o la continuazione del ciclo eterno.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione"
+      "Action",
+      "RPG",
+      "Soulslike"
     ],
     "valutazione": 9.5,
     "tipo": "videogioco",
@@ -240,8 +260,9 @@
     "trama": "Sam Porter Bridges, un corriere solitario in un'America devastata da eventi catastrofici, intraprende un viaggio attraverso terre desolate per ristabilire le connessioni tra gli ultimi insediamenti umani.",
     "autore": "Kojima Productions",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "valutazione": 8.8,
     "tipo": "videogioco",
@@ -256,7 +277,9 @@
     "trama": "In un futuro prossimo, la Detroit di domani è una città dominata dagli androidi. Si esplorano le storie di tre protagonisti: Kara, una serva fuggitiva che cerca libertà; Connor, un androide investigatore programmato per fermare i devianti; e Markus, un leader che lotta per la causa degli androidi.",
     "autore": "Quantic Dream",
     "genere": [
-      "Avventura"
+      "Adventure",
+      "Drama",
+      "Science Fiction"
     ],
     "valutazione": 8.8,
     "tipo": "videogioco",
@@ -273,7 +296,7 @@
     "genere": [
       "Horror",
       "Survival",
-      "Azione"
+      "Action"
     ],
     "valutazione": 8.0,
     "tipo": "videogioco",
@@ -288,7 +311,9 @@
     "trama": "Un detective alcolizzato e senza memoria indaga su un omicidio in una città in rovina, affrontando i suoi demoni interiori e scelte morali che determineranno il futuro di una città al collasso.",
     "autore": "ZA/UM",
     "genere": [
-      "Avventura"
+      "Adventure",
+      "RPG",
+      "Mystery"
     ],
     "valutazione": 9.3,
     "tipo": "videogioco",
@@ -303,7 +328,8 @@
     "trama": "Un marine spaziale senza nome si ritrova da solo su Marte a combattere contro orde di demoni scatenati da un esperimento militare fallito. Armato solo di coraggio e armi potenti, dovrà affrontare l’inferno stesso per sopravvivere.",
     "autore": "id Software",
     "genere": [
-      "Azione",
+      "Action",
+      "FPS",
       "Horror"
     ],
     "valutazione": 9.3,
@@ -319,7 +345,8 @@
     "trama": "Il marine spaziale torna per affrontare un'invasione di demoni su Marte e sulla Terra. Con armi potenti e un gameplay frenetico, dovrai sopravvivere a ondate di mostri infernali e chiudere il portale tra i mondi.",
     "autore": "id Software",
     "genere": [
-      "Azione",
+      "Action",
+      "FPS",
       "Horror"
     ],
     "valutazione": 9.0,
@@ -337,7 +364,7 @@
     "genere": [
       "FPS",
       "Horror",
-      "Fantascienza"
+      "Science Fiction"
     ],
     "valutazione": 8.2,
     "tipo": "videogioco",
@@ -353,7 +380,7 @@
     "autore": "Midway Games / id Software",
     "genere": [
       "FPS",
-      "Azione",
+      "Action",
       "Horror"
     ],
     "valutazione": 8.0,
@@ -369,7 +396,9 @@
     "trama": "Un esiliato, il Tarnished, viaggia nell'Interregno per recuperare i frammenti dell'Anello Ancestrale così da diventare il nuovo Lord Ancestrale e porre fine al dominio corrotto dei semidei, in passato guidati dalla Regina Marika.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione"
+      "Action",
+      "RPG",
+      "Soulslike"
     ],
     "valutazione": 9.7,
     "tipo": "videogioco",
@@ -384,7 +413,9 @@
     "trama": "Anno 2287: nel mondo devastato da una guerra nucleare accaduta 210 anni prima, un sopravvissuto ibernato nel Vault 111 esplora una Boston distrutta alla ricerca del figlio rapito.",
     "autore": "Bethesda Game Studios",
     "genere": [
-      "Azione"
+      "Action",
+      "RPG",
+      "Post-Apocalyptic"
     ],
     "valutazione": 8.5,
     "tipo": "videogioco",
@@ -399,7 +430,9 @@
     "trama": "Il protagonista, dopo 25 anni, esce dal Vault 76 in una Virginia devastata dalla guerra nucleare. Si ritrova ad affrontare minacce mutanti, creature pericolose e altre fazioni in cerca di risorse e potere.",
     "autore": "Bethesda Game Studios",
     "genere": [
-      "Azione"
+      "Action",
+      "RPG",
+      "Post-Apocalyptic"
     ],
     "valutazione": 6.5,
     "tipo": "videogioco",
@@ -414,8 +447,9 @@
     "trama": "Un giovane turista si ritrova prigioniero su un'isola tropicale infestata da pirati e mercenari. Con la sua sanità mentale messa a dura prova, il protagonista deve affrontare il folle e carismatico Vaas, il leader dei pirati.",
     "autore": "Ubisoft",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "valutazione": 9,
     "tipo": "videogioco",
@@ -430,8 +464,9 @@
     "trama": "Ajay Ghale torna nella sua terra natale, Kyrat, e si ritrova coinvolto in una guerra civile contro il dittatore Pagan Min in un vasto mondo aperto ricco di azione.",
     "autore": "Ubisoft Montreal",
     "genere": [
-      "Azione",
-      "Open World"
+      "Action",
+      "Open World",
+      "Adventure"
     ],
     "valutazione": 8.5,
     "tipo": "videogioco",
@@ -445,7 +480,11 @@
     "immagine": "images/fear_and_hunger.jpg",
     "trama": "In un mondo oscuro e corrotto, un gruppo di persone si ritrova intrappolato in una prigione sotterranea dove le loro vite sono minacciate da entità oscure e terribili.",
     "autore": "Mihailo 'Mihailo' Dimić",
-    "genere": [],
+    "genere": [
+      "Horror",
+      "RPG",
+      "Survival"
+    ],
     "valutazione": 8.5,
     "tipo": "videogioco",
     "periodo": {
@@ -459,7 +498,9 @@
     "trama": "Quattro Guerrieri della Luce intraprendono un viaggio per salvare il mondo ripristinando l'equilibrio dei cristalli elementali, in una versione rimasterizzata del classico RPG.",
     "autore": "Square Enix",
     "genere": [
-      "RPG"
+      "RPG",
+      "Fantasy",
+      "Adventure"
     ],
     "valutazione": 8.0,
     "tipo": "videogioco",
@@ -474,7 +515,9 @@
     "trama": "Un gruppo di ribelli combatte contro un impero tirannico in una storia più drammatica e incentrata sui personaggi, con un sistema di crescita basato sull'uso delle abilità.",
     "autore": "Square Enix",
     "genere": [
-      "RPG"
+      "RPG",
+      "Fantasy",
+      "Adventure"
     ],
     "valutazione": 7.5,
     "tipo": "videogioco",
@@ -489,8 +532,9 @@
     "trama": "Jin Sakai, un samurai di Tsushima, combatte contro l'invasione mongola, mentre si trova a dover scegliere tra la lealtà al bushido e la necessità di adottare metodi più spietati per salvare la sua terra e il suo popolo.",
     "autore": "Sucker Punch Productions",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Historical"
     ],
     "valutazione": 9,
     "tipo": "videogioco",
@@ -505,8 +549,9 @@
     "trama": "Kratos e suo figlio Atreus intraprendono un viaggio per diffondere le ceneri della madre di Atreus sulla cima della montagna più alta dei nove regni.",
     "autore": "Santa Monica Studio",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Fantasy"
     ],
     "valutazione": 9.3,
     "tipo": "videogioco",
@@ -521,8 +566,9 @@
     "trama": "Kratos, ormai consumato dal suo desiderio di vendetta, intraprende un'epica missione finale per distruggere gli dei dell'Olimpo e porre fine al suo tormento interiore.",
     "autore": "Santa Monica Studio",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Fantasy"
     ],
     "valutazione": 9.3,
     "tipo": "videogioco",
@@ -537,8 +583,9 @@
     "trama": "Kratos e suo figlio Atreus affrontano le conseguenze del Fimbulwinter, cercando risposte sulla profezia del Ragnarök.",
     "autore": "Santa Monica Studio",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Fantasy"
     ],
     "valutazione": 9.5,
     "tipo": "videogioco",
@@ -553,8 +600,9 @@
     "trama": "In una città fittizia ispirata a Los Angeles, tre criminali (Michael, Franklin e Trevor) si trovano coinvolti in una serie di missioni ad alto rischio, tra crimine organizzato, inganni e tradimenti.",
     "autore": "Rockstar North",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "valutazione": 9.4,
     "tipo": "videogioco",
@@ -569,7 +617,9 @@
     "trama": "High on Life è uno sparatutto in prima persona dal tono comico, in cui un adolescente deve affrontare un cartello alieno che vuole drogarsi con gli esseri umani. Armato di pistole parlanti, il protagonista esplora pianeti strani e surreali.",
     "autore": "Squanch Games / Justin Roiland",
     "genere": [
-      "Azione"
+      "FPS",
+      "Action",
+      "Comedy"
     ],
     "valutazione": 8.0,
     "tipo": "videogioco",
@@ -584,8 +634,9 @@
     "trama": "Ambientato nell'universo di Harry Potter nel XIX secolo, il gioco segue uno studente di Hogwarts dotato di una rara connessione con un'antica magia. Il giocatore esplora il mondo magico, frequenta le lezioni e prende decisioni che influenzano il destino del mondo wizarding.",
     "autore": "Avalanche Software",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "RPG",
+      "Fantasy"
     ],
     "valutazione": 8.8,
     "tipo": "videogioco",
@@ -600,8 +651,9 @@
     "trama": "Aloy, una giovane cacciatrice esiliata, esplora un mondo post-apocalittico dove gigantesche creature meccaniche dominano la terra.",
     "autore": "Guerrilla Games",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "valutazione": 9,
     "tipo": "videogioco",
@@ -633,8 +685,9 @@
     "trama": "In un mondo devastato da un'infezione fungina che ha trasformato gran parte della popolazione in creature aggressive, Joel, un uomo segnato dal dolore, deve scortare Ellie, una ragazza che potrebbe essere la chiave per la sopravvivenza dell'umanità.",
     "autore": "Naughty Dog",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Post-Apocalyptic"
     ],
     "valutazione": 10.0,
     "tipo": "videogioco",
@@ -649,8 +702,9 @@
     "trama": "Ambientato cinque anni dopo gli eventi del primo capitolo, The Last of Us Part II segue Ellie nella sua missione di vendetta e sopravvivenza in un mondo post-apocalittico devastato da una pandemia fungina che trasforma gli esseri umani in creature ostili.",
     "autore": "Neil Druckmann",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Post-Apocalyptic"
     ],
     "valutazione": 9.3,
     "tipo": "videogioco",
@@ -665,7 +719,9 @@
     "trama": "Quattro sopravvissuti devono farsi strada attraverso orde di zombie in un'America post-apocalittica, collaborando per sopravvivere a ondate di infetti e boss mutanti.",
     "autore": "Valve",
     "genere": [
-      "Horror"
+      "Horror",
+      "FPS",
+      "Survival"
     ],
     "valutazione": 9.0,
     "tipo": "videogioco",
@@ -680,8 +736,9 @@
     "trama": "Link scopre un misterioso cappello parlante che lo collega al popolo Minish, una razza minuscola. Per salvare Hyrule dalla maledizione di Vaati, affronta dungeon, risolve enigmi e usa la sua capacità di rimpicciolirsi per esplorare un mondo nascosto.",
     "autore": "Nintendo",
     "genere": [
-      "Avventura",
-      "Puzzle"
+      "Adventure",
+      "Puzzle",
+      "Action"
     ],
     "valutazione": 9,
     "tipo": "videogioco",
@@ -696,9 +753,9 @@
     "trama": "Batman e gli eroi dell'universo DC uniscono le forze per impedire a Brainiac di distruggere la Terra, affrontando una divertente avventura ricca di humor e collezionabili.",
     "autore": "Traveller's Tales",
     "genere": [
-      "Azione",
-      "Avventura",
-      "Platform"
+      "Action",
+      "Platformer",
+      "Superhero"
     ],
     "valutazione": 7.8,
     "tipo": "videogioco",
@@ -714,7 +771,8 @@
     "autore": "Neowiz Games",
     "genere": [
       "Soulslike",
-      "Avventura"
+      "Adventure",
+      "Action"
     ],
     "valutazione": 8.5,
     "tipo": "videogioco",
@@ -729,7 +787,9 @@
     "trama": "Harkyn, un ex condannato intraprende un viaggio per trovare Antanas, un guerriero leggendario che un tempo sconfisse i Rhogar, demoni che minacciano di distruggere il mondo umano.",
     "autore": "Deck13 Interactive, CI Games",
     "genere": [
-      "Azione"
+      "Action",
+      "Soulslike",
+      "RPG"
     ],
     "valutazione": 7.5,
     "tipo": "videogioco",
@@ -745,7 +805,8 @@
     "autore": "Konami",
     "genere": [
       "Stealth",
-      "Azione"
+      "Action",
+      "Military"
     ],
     "valutazione": 8.7,
     "tipo": "videogioco",
@@ -761,7 +822,8 @@
     "autore": "Konami",
     "genere": [
       "Stealth",
-      "Azione"
+      "Action",
+      "Military"
     ],
     "valutazione": 9.0,
     "tipo": "videogioco",
@@ -776,9 +838,9 @@
     "trama": "Un ex soldato, Solid Snake, viene inviato in una base segreta in Alaska per fermare una crisi nucleare causata da un gruppo di terroristi che hanno preso il controllo di un'arma di distruzione di massa, Metal Gear.",
     "autore": "Konami",
     "genere": [
-      "Azione",
+      "Action",
       "Stealth",
-      "Avventura"
+      "Military"
     ],
     "valutazione": 10,
     "tipo": "videogioco",
@@ -793,7 +855,9 @@
     "trama": "Solid Snake e Raiden affrontano una nuova minaccia legata alle armi nucleari e alla manipolazione delle informazioni globali in un intrigo politico che mette in discussione la realtà e la libertà dell’individuo.",
     "autore": "Hideo Kojima",
     "genere": [
-      "Azione"
+      "Action",
+      "Stealth",
+      "Military"
     ],
     "valutazione": 9.2,
     "tipo": "videogioco",
@@ -808,7 +872,9 @@
     "trama": "Ambientato durante la Guerra Fredda, il leggendario soldato Naked Snake deve infiltrarsi nella giungla sovietica per sventare una minaccia nucleare, affrontando il suo mentore e i fantasmi del passato.",
     "autore": "Hideo Kojima",
     "genere": [
-      "Azione"
+      "Action",
+      "Stealth",
+      "Military"
     ],
     "valutazione": 9.3,
     "tipo": "videogioco",
@@ -823,8 +889,9 @@
     "trama": "Il protagonista, un giovane ragazzo, cerca di salvare sua sorella Yonah, affetta da una misteriosa malattia chiamata Black Scrawl.",
     "autore": "Square Enix",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "RPG",
+      "Science Fiction"
     ],
     "valutazione": 8.5,
     "tipo": "videogioco",
@@ -839,8 +906,8 @@
     "trama": "Sargon, un giovane guerriero membro del clan degli Immortali, viaggia fino al maledetto Monte Qaf per salvare il principe Ghassan rapito. Lungo il cammino affronta creature mitologiche e scopre poteri magici legati al tempo.",
     "autore": "Ubisoft Montpellier",
     "genere": [
-      "Azione",
-      "Platform",
+      "Action",
+      "Platformer",
       "Metroidvania"
     ],
     "valutazione": 8.6,
@@ -856,8 +923,9 @@
     "trama": "Rayman, Globox e i Teensies si ritrovano in un'avventura attraverso mondi straordinari, colorati e pieni di magia. La missione? Salvare delle creature intrappolate e ristabilire l'armonia nel loro universo.",
     "autore": "Ubisoft Montpellier",
     "genere": [
-      "Platform",
-      "Avventura"
+      "Platformer",
+      "Adventure",
+      "Puzzle"
     ],
     "valutazione": 9.3,
     "tipo": "videogioco",
@@ -872,7 +940,7 @@
     "trama": "Chris Redfield e Jill Valentine, agenti delle S.T.A.R.S., si trovano intrappolati in una villa infestata da terribili creature mutate, durante un'indagine su misteriose sparizioni nella città di Raccoon City.",
     "autore": "Capcom",
     "genere": [
-      "Azione",
+      "Action",
       "Horror",
       "Survival"
     ],
@@ -889,7 +957,7 @@
     "trama": "Rebecca Chambers, membro della S.T.A.R.S., e Billy Coen, un ex soldato condannato, indagano su strani eventi legati al coinvolgimento della Umbrella Corporation nella creazione del virus-T e nelle sue mortali esperimentazioni.",
     "autore": "Capcom",
     "genere": [
-      "Azione",
+      "Action",
       "Horror",
       "Survival"
     ],
@@ -906,8 +974,9 @@
     "trama": "Leon S. Kennedy, un giovane agente della polizia di Raccoon City, e Claire Redfield, alla ricerca del fratello scomparso Chris, devono affrontare un'epidemia di zombie che ha decimato la città.",
     "autore": "Capcom",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Horror",
+      "Survival"
     ],
     "valutazione": 9,
     "tipo": "videogioco",
@@ -922,7 +991,7 @@
     "trama": "Jill Valentine, un'ex agente della S.T.A.R.S., cerca di fuggire da Raccoon City mentre un'arma biologica chiamata Nemesis la insegue implacabilmente. Nel frattempo, la città cade nel caos a causa del virus T sviluppato dalla Umbrella Corporation.",
     "autore": "Capcom",
     "genere": [
-      "Azione",
+      "Action",
       "Horror",
       "Survival"
     ],
@@ -939,7 +1008,7 @@
     "trama": "Leon S. Kennedy viene inviato in un remoto villaggio della Spagna per salvare la figlia del presidente, Ashley Graham, ma si ritrova a combattere contro una setta e un'infezione biologica che trasforma gli abitanti in mostri letali.",
     "autore": "Capcom",
     "genere": [
-      "Azione",
+      "Action",
       "Horror",
       "Survival"
     ],
@@ -957,7 +1026,8 @@
     "autore": "Capcom",
     "genere": [
       "Survival Horror",
-      "Azione"
+      "Action",
+      "Adventure"
     ],
     "valutazione": 8.3,
     "tipo": "videogioco",
@@ -972,7 +1042,7 @@
     "trama": "Jill Valentine e Parker Luciani indagano sulla scomparsa di Chris Redfield, ritrovandosi su una nave infestata da mostri creati da un'arma biologica, mentre scoprono una cospirazione che coinvolge il bioterrorismo globale.",
     "autore": "Capcom",
     "genere": [
-      "Azione",
+      "Action",
       "Horror",
       "Survival"
     ],
@@ -989,9 +1059,9 @@
     "trama": "Il gioco segue due linee narrative parallele: Claire Redfield e Moira Burton, rapite e intrappolate su un'isola misteriosa, cercano di sopravvivere affrontando orrori biotecnologici; mentre Barry Burton parte alla ricerca della figlia Moira, accompagnato da Natalia, una bambina dotata di misteriosi poteri.",
     "autore": "Capcom",
     "genere": [
-      "Azione",
+      "Action",
       "Survival Horror",
-      "Avventura"
+      "Adventure"
     ],
     "valutazione": 8.2,
     "tipo": "videogioco",
@@ -1008,7 +1078,7 @@
     "genere": [
       "Horror",
       "Survival Horror",
-      "Azione"
+      "Action"
     ],
     "valutazione": 9.0,
     "tipo": "videogioco",
@@ -1025,7 +1095,7 @@
     "genere": [
       "Horror",
       "Survival Horror",
-      "Azione"
+      "Action"
     ],
     "valutazione": 8.8,
     "tipo": "videogioco",
@@ -1040,8 +1110,9 @@
     "trama": "Lara Croft cerca di svelare il mistero della Fonte della Vita, un antico segreto che si dice possa concedere l'immortalità. Durante il suo viaggio, Lara affronta la temibile organizzazione della Trinità, che è anch'essa alla ricerca di questo potere.",
     "autore": "Crystal Dynamics",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Platformer"
     ],
     "valutazione": 8.8,
     "tipo": "videogioco",
@@ -1056,7 +1127,9 @@
     "trama": "In un futuro in cui l'umanità è minacciata da mutanti noti come Estranei, Yuito e Kasane, membri dell'OSF, combattono per proteggere la città e scoprono oscuri segreti sul loro mondo e sul proprio passato.",
     "autore": "Bandai Namco Studios",
     "genere": [
-      "Azione"
+      "Action",
+      "RPG",
+      "Science Fiction"
     ],
     "valutazione": 8,
     "tipo": "videogioco",
@@ -1071,8 +1144,8 @@
     "trama": "In un Giappone feudale oscuro e fantastico, un guerriero shinobi conosciuto come Lupo intraprende una missione per salvare il suo giovane signore, affrontando nemici letali e scoprendo verità sul proprio destino e immortalità.",
     "autore": "FromSoftware",
     "genere": [
-      "Azione",
-      "Avventura",
+      "Action",
+      "Soulslike",
       "Stealth"
     ],
     "valutazione": 9.4,
@@ -1088,9 +1161,9 @@
     "trama": "Lara Croft affronta un'apocalisse Maya scatenata da un antico manufatto, esplorando giungle pericolose e città perdute mentre lotta contro la Trinità per fermare la fine del mondo.",
     "autore": "Square Enix",
     "genere": [
-      "Azione",
-      "Avventura",
-      "Platform"
+      "Action",
+      "Adventure",
+      "Platformer"
     ],
     "valutazione": 8.9,
     "tipo": "videogioco",
@@ -1105,7 +1178,9 @@
     "trama": "I bambini di South Park si immergono in un gioco di ruolo epico per conquistare il Bastone della Verità, affrontando avventure assurde, alieni e forze oscure, mentre un nuovo arrivato scopre il suo ruolo nel caos.",
     "autore": "Obsidian Entertainment",
     "genere": [
-      "Avventura"
+      "Adventure",
+      "RPG",
+      "Comedy"
     ],
     "valutazione": 8.5,
     "tipo": "videogioco",
@@ -1120,8 +1195,9 @@
     "trama": "Lara Croft, una giovane archeologa, si ritrova naufraga su un'isola remota nel Triangolo del Drago. Per sopravvivere e trovare un modo per fuggire, Lara deve affrontare pericoli estremi e scoprire i misteri oscuri dell'isola, tra cui un culto millenario.",
     "autore": "Crystal Dynamics",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Platformer"
     ],
     "valutazione": 8.7,
     "tipo": "videogioco",
@@ -1136,9 +1212,9 @@
     "trama": "Nathan Drake cerca l'antico artefatto della pietra Cintamani in Tibet. Durante la sua ricerca cerca di svelare il mistero di un'antica civiltà e di fermare un mercenario assetato di potere.",
     "autore": "Naughty Dog",
     "genere": [
-      "Azione",
-      "Avventura",
-      "Platform"
+      "Action",
+      "Adventure",
+      "Platformer"
     ],
     "valutazione": 9.6,
     "tipo": "videogioco",
@@ -1153,9 +1229,9 @@
     "trama": "Nathan Drake intraprende una pericolosa ricerca per scoprire la leggendaria città perduta di Ubar, la Antlantide delle sabbie, affrontando una misteriosa organizzazione segreta guidata da Katherine Marlowe.",
     "autore": "Naughty Dog",
     "genere": [
-      "Azione",
-      "Avventura",
-      "Platform"
+      "Action",
+      "Adventure",
+      "Platformer"
     ],
     "valutazione": 9.4,
     "tipo": "videogioco",
@@ -1170,9 +1246,9 @@
     "trama": "Nathan Drake, tornato alla vita tranquilla, deve affrontare il suo passato quando suo fratello Sam riappare, coinvolgendolo in una nuova ricerca per il leggendario tesoro di Henry Avery, un pirata del XVII secolo.",
     "autore": "Naughty Dog",
     "genere": [
-      "Azione",
-      "Avventura",
-      "Platform"
+      "Action",
+      "Adventure",
+      "Platformer"
     ],
     "valutazione": 9.7,
     "tipo": "videogioco",
@@ -1187,9 +1263,9 @@
     "trama": "Nathan Drake, un cacciatore di tesori, segue la traccia di una leggendaria reliquia chiamata El Dorado. Durante la sua avventura, affronta pericoli e lotte contro mercenari, cercando di scoprire il mistero dietro l'oro perduto.",
     "autore": "Naughty Dog",
     "genere": [
-      "Azione",
-      "Avventura",
-      "Platform"
+      "Action",
+      "Adventure",
+      "Platformer"
     ],
     "valutazione": 8.5,
     "tipo": "videogioco",
@@ -1204,7 +1280,9 @@
     "trama": "Un bambino umano cade in un mondo sotterraneo popolato da mostri. Durante il suo viaggio per tornare a casa, il protagonista si trova di fronte a una scelta: combattere i mostri per proseguire o trovare un altro modo per risolvere i conflitti senza violenza.",
     "autore": "Toby Fox",
     "genere": [
-      "Avventura"
+      "Adventure",
+      "RPG",
+      "Puzzle"
     ],
     "valutazione": 9.6,
     "tipo": "videogioco",
@@ -1220,7 +1298,8 @@
     "autore": "Supermassive Games",
     "genere": [
       "Horror",
-      "Avventura"
+      "Adventure",
+      "Survival Horror"
     ],
     "valutazione": 8.3,
     "tipo": "videogioco",
@@ -1235,8 +1314,9 @@
     "trama": "Aiden Pearce, un hacker esperto, cerca vendetta dopo che un attacco informatico ha messo in pericolo la vita della sua famiglia.",
     "autore": "Ubisoft",
     "genere": [
-      "Azione",
-      "Avventura"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "valutazione": 8,
     "tipo": "videogioco",
@@ -1251,7 +1331,9 @@
     "trama": "Geralt di Rivia intraprende un viaggio per trovare Ciri, la sua giovane protetta, braccata dalla pericolosa Caccia Selvaggia. Attraversa un vasto mondo in guerra, affronta creature terrificanti e prende decisioni che influenzano il destino di molti.",
     "autore": "CD Projekt Red",
     "genere": [
-      "Azione"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "valutazione": 9.5,
     "tipo": "videogioco",
@@ -1266,7 +1348,9 @@
     "trama": "In un mondo alternativo dove la Germania nazista ha vinto la Seconda Guerra Mondiale, BJ Blazkowicz, un soldato della resistenza, lotta per fermare il dominio del Terzo Reich. ",
     "autore": "MachineGames",
     "genere": [
-      "Azione"
+      "Action",
+      "FPS",
+      "Military"
     ],
     "valutazione": 8.7,
     "tipo": "videogioco",
